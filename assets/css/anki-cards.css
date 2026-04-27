@@ -1,0 +1,479 @@
+/* ============================================================
+   ANKI CARD STYLES — Japanese Reference
+   All custom classes from the Anki deck CSS
+   Night mode is mapped to MkDocs [data-md-color-scheme="slate"]
+   ============================================================ */
+
+/* ── Core wrap ── */
+.sb-wrap {
+  font-size: 19px;
+  line-height: 1.65;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.sb-wrap h1 {
+  font-size: 1.2em;
+  text-align: center;
+  padding: 12px 0;
+  margin: 0 0 8px;
+  letter-spacing: .02em;
+}
+
+.sb-wrap h2 {
+  font-size: 1.08em;
+  padding: 6px 12px;
+  margin: 24px 0 12px;
+  border-radius: 4px;
+  letter-spacing: .03em;
+  border: 1px solid currentColor;
+  text-align: center;
+}
+
+.sb-wrap h4 {
+  font-size: 0.95em;
+  padding: 4px 10px;
+  margin: 16px 0 8px;
+  border-radius: 4px;
+  letter-spacing: .03em;
+  border: 1px solid currentColor;
+  text-align: center;
+}
+
+.sb-wrap hr {
+  border: none;
+  border-top: 1px solid currentColor;
+  opacity: .3;
+  margin: 20px 0;
+}
+
+.sb-wrap .t {
+  font-size: 1.05em;
+  display: block;
+  margin: 14px 0 0px;
+}
+
+.sb-wrap ul {
+  margin: 4px 0 0px;
+  padding-left: 15px;
+  list-style: none;
+}
+
+.sb-wrap li {
+  margin-bottom: 1px;
+  list-style: none;
+}
+
+.sb-wrap p {
+  margin-bottom: 1px;
+}
+
+.sb-wrap ul ul {
+  margin: 2px 0 4px;
+  padding-left: 25px;
+}
+
+.sb-wrap ul ul ul {
+  padding-left: 25px;
+}
+
+.sb-wrap .m {
+  margin: 10px 0;
+}
+
+.sb-wrap .m + .meta-info {
+  margin-top: -15px;
+}
+
+.sb-wrap .ind {
+  margin: 1px 0 0px 20px;
+}
+
+.sb-wrap b,
+.sb-wrap strong {
+  font-weight: 750;
+}
+
+/* ── Meta info ── */
+.meta-info {
+  font-size: 0.78em;
+  color: #993C99;
+  display: block;
+}
+
+/* ── Notes ── */
+.note-main {
+  color: #111A5C;
+  margin-top: 2px;
+}
+
+.note-sub {
+  font-size: 0.9em;
+  color: #555555;
+  margin-top: 2px;
+}
+
+.note-callout {
+  font-size: 0.84em;
+  font-style: italic;
+  color: #E67E22;
+  display: block;
+  margin-top: 8px;
+  margin-left: 20px;
+  padding-left: 15px;
+  border-left: 3px solid #E67E22;
+  background-color: rgba(237, 140, 55, 0.03);
+}
+
+/* ── Section headers ── */
+.section-header {
+  font-size: 1.4em;
+  font-weight: 700;
+  font-variant: small-caps;
+  padding: 6px 12px;
+  margin: 15px 0;
+  text-align: center;
+  border: 2px solid #ff7e75;
+  border-radius: 6px;
+  color: #ff7e75;
+  background-color: rgba(255, 126, 117, 0.08) !important;
+}
+
+.section-divider {
+  font-size: 1.50em;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  color: #000000;
+  border: 10px solid #000000;
+  background-color: rgba(255, 31, 222, 0.8);
+  padding: 8px 12px;
+  margin: 15px 0;
+  text-align: center;
+  border-radius: 6px;
+}
+
+/* ── Labels ── */
+.grammar-label {
+  font-size: 0.82em;
+  color: #888;
+  font-weight: 400;
+  margin-left: 4px;
+}
+
+.tone-label {
+  display: inline-block;
+  font-size: 0.68em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: #B8860B;
+  border: 1px solid rgba(184, 134, 11, 0.55);
+  border-radius: 4px;
+  padding: 1px 5px;
+  margin-left: 6px;
+  vertical-align: middle;
+  background-color: rgba(184, 134, 11, 0.08);
+}
+
+.anchor-label {
+  display: inline-block;
+  font-size: 0.68em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #00A9FF;
+  border: 1px solid #00A9FF;
+  border-radius: 4px;
+  padding: 1px 5px;
+  margin-right: 6px;
+  vertical-align: middle;
+  background-color: rgba(0, 169, 255, 0.08);
+}
+
+/* ── Alt version header ── */
+.alt-vers-header {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  font-size: 1.5em;
+  font-weight: 600;
+  font-variant: small-caps;
+  padding: 3px 3px;
+  margin: 2px 0;
+  text-align: center;
+  border: 2px solid #FFD900;
+  border-radius: 6px;
+  color: #050505;
+  background-color: rgba(255, 214, 0);
+}
+
+/* ── Claude header ── */
+.claude-header {
+  font-size: 1.05em;
+  font-weight: 600;
+  font-variant: small-caps;
+  padding: 3px 3px;
+  margin: 2px 0;
+  text-align: center;
+  border: 2px solid #F29602;
+  border-radius: 6px;
+  color: #F29602;
+  background-color: rgba(242, 150, 2, 0.08) !important;
+  background-image: none !important;
+  box-shadow: none;
+}
+
+/* ── Text span styles ── */
+.red {
+  font-weight: 550;
+  color: #FC685B;
+  font-size: 1.07em;
+  background-color: rgba(252, 104, 91, 0.05);
+  border-bottom: 2px solid rgb(252, 104, 91, 0.15);
+  border-top: 2px solid rgb(252, 104, 91, 0.15);
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+.gold {
+  font-weight: 550;
+  color: #FFD700;
+  font-size: 1.07em;
+  background-color: rgba(255, 215, 0, 0.05);
+  border-bottom: 2px solid rgb(255, 215, 0, 0.15);
+  border-top: 2px solid rgb(255, 215, 0, 0.15);
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+.blue {
+  font-weight: 550;
+  color: #B8D1FF;
+  font-size: 1.07em;
+  border-bottom: 2px solid rgb(184, 209, 255, 0.15);
+  border-top: 2px solid rgb(184, 209, 255, 0.15);
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+.pink {
+  font-weight: 600;
+  color: #AD24A0;
+  font-size: 1.09em;
+  border-bottom: 2px solid rgb(173, 36, 160, 0.1);
+  background-color: rgba(173, 36, 160, 0.02);
+  padding: 2px 4px;
+  border-radius: 2px;
+}
+
+.small-text {
+  color: #706A4D;
+  font-size: 0.72em;
+}
+
+/* ── Natural Upgrade ── */
+.sb-wrap .upgrade-status {
+  font-size: 0.8em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 6px 0 2px 20px;
+  color: #000000;
+  background-color: #FFD900;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+.sb-wrap .upgrade-jp {
+  font-family: "Hiragino Sans", sans-serif;
+  font-size: 1.02em;
+  font-weight: 550;
+  margin: 4px 0 2px 20px;
+  color: #212121;
+}
+
+.sb-wrap .upgrade-jp.old {
+  color: #212121;
+  text-decoration: line-through;
+  font-size: 0.92em;
+}
+
+.sb-wrap .upgrade-why {
+  font-size: 0.9em;
+  color: #212121;
+  margin: 4px 0 2px 20px;
+  line-height: 1.55;
+}
+
+/* ── Semantic label colors ── */
+.label {
+  color: #3ECB06;
+  font-weight: 700;
+}
+
+.chain-term {
+  color: #2E7DAF;
+  font-weight: 600;
+}
+
+.sb-wrap b,
+.sb-wrap strong {
+  color: #C0624A;
+  font-weight: 700;
+}
+
+.jb {
+  font-weight: 700;
+  color: #C0624A;
+}
+
+.nat-eng {
+  font-weight: 700;
+  color: #2E7DAF;
+}
+
+.shift-label {
+  font-weight: 700;
+  color: #7B5EA7;
+}
+
+/* ── Grammar Stacking ── */
+.sb-wrap .chain-title {
+  font-weight: 700;
+  font-size: 1.03em;
+  color: #2a6496;
+  margin: 16px 0 4px 0;
+}
+
+.sb-wrap .chain-title:first-of-type {
+  margin-top: 8px;
+}
+
+.sb-wrap .chain-layer {
+  margin: 2px 0 2px 20px;
+  font-size: 0.95em;
+  line-height: 1.6;
+}
+
+.sb-wrap .chain-layer .tag {
+  color: #F20A65;
+  font-size: 0.95em;
+}
+
+.sb-wrap .chain-layer .note {
+  color: #1A1A1A;
+  font-size: 0.88em;
+}
+
+.sb-wrap .chain-pin {
+  font-size: 0.95em;
+  margin: 3px 0 3px 28px;
+  color: #D19200;
+  font-weight: 600;
+  background-color: #FAFAFA;
+  padding: 2px 6px;
+  border-radius: 3px;
+}
+
+.sb-wrap .assembly-label {
+  font-weight: 700;
+  font-size: 0.82em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #D91309;
+  margin: 16px 0 2px 0;
+}
+
+.sb-wrap .assembly-line {
+  font-size: 0.93em;
+  margin: 2px 0 2px 20px;
+  line-height: 1.55;
+}
+
+/* ── Notes / Supplemental sections ── */
+.notes-section ul,
+.supplemental-section ul {
+  margin: 4px 0 8px;
+  padding-left: 20px;
+}
+
+.notes-section ul ul,
+.supplemental-section ul ul {
+  margin: 2px 0 4px;
+  padding-left: 25px;
+}
+
+.notes-section ul ul ul,
+.supplemental-section ul ul ul {
+  padding-left: 25px;
+}
+
+.notes-section li,
+.supplemental-section li {
+  margin-bottom: 3px;
+}
+
+.notes-label,
+.supplemental-label {
+  display: block;
+  border: 3px solid rgba(255, 87, 82, 0.16);
+  border-radius: 4px;
+  background-color: rgba(255, 87, 82, 0.06) !important;
+  padding: 8px 13px;
+  font-size: 1.14em;
+  font-variant: small-caps;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  color: #ff5752;
+  margin-bottom: 6px;
+  text-align: left;
+}
+
+/* ── Ruby ── */
+ruby rt {
+  color: #eb5e00;
+  font-size: 0.62em;
+  line-height: 0.75;
+  transform: translateY(1.5px);
+  font-weight: 350;
+  font-family: "Klee", "Hiragino Sans", sans-serif;
+  letter-spacing: 0.02em;
+}
+
+/* ============================================================
+   DARK MODE — mapped to MkDocs slate scheme
+   ============================================================ */
+
+[data-md-color-scheme="slate"] .sb-wrap h2 { color: #D4FFEC; }
+[data-md-color-scheme="slate"] .sb-wrap h4 { color: #D4FFEC; }
+[data-md-color-scheme="slate"] .meta-info { color: #FF8AE8; }
+[data-md-color-scheme="slate"] .note-main { color: #FFFFFF; }
+[data-md-color-scheme="slate"] .note-sub { color: #D1CBCB; }
+[data-md-color-scheme="slate"] .note-callout { color: #FF8C00; border-left: 3px solid #F39C12; background-color: rgba(243, 156, 18, 0.03); }
+[data-md-color-scheme="slate"] .section-divider { color: #2E1428; }
+[data-md-color-scheme="slate"] .grammar-label { color: #b5b2a3; }
+[data-md-color-scheme="slate"] .tone-label { color: #FFD166; border-color: rgba(255, 209, 102, 0.65); background-color: rgba(255, 209, 102, 0.08); }
+[data-md-color-scheme="slate"] .anchor-label { color: #B0FFF1; border-color: #B0FFF1; background-color: rgba(176, 255, 241, 0.08); }
+[data-md-color-scheme="slate"] .alt-vers-header { border: 2px solid #FFE870; background-color: rgba(255, 242, 18) !important; color: #050505; }
+[data-md-color-scheme="slate"] .claude-header { border-left-color: #FFAF2E; background-color: rgba(255, 175, 46, 0.08) !important; color: #FFAF2E; }
+[data-md-color-scheme="slate"] .pink { color: #FFADF7; border-bottom: 2px solid rgb(255, 173, 247, 0.1); background-color: rgba(255, 173, 247, 0.02); }
+[data-md-color-scheme="slate"] .small-text { color: #CCC69F; }
+[data-md-color-scheme="slate"] .sb-wrap .upgrade-status { color: #FFDE00; background-color: transparent; }
+[data-md-color-scheme="slate"] .sb-wrap .upgrade-jp { color: #CFCDC0; background-color: transparent; }
+[data-md-color-scheme="slate"] .sb-wrap .upgrade-jp.old { color: #CFCDC0; background-color: transparent; }
+[data-md-color-scheme="slate"] .sb-wrap .upgrade-why { color: #CFCDC0; background-color: transparent; }
+[data-md-color-scheme="slate"] .label { color: #8BFF82; }
+[data-md-color-scheme="slate"] .chain-term { color: #FFE32E; }
+[data-md-color-scheme="slate"] .sb-wrap b,
+[data-md-color-scheme="slate"] .sb-wrap strong { color: #E08787; }
+[data-md-color-scheme="slate"] .jb { color: #EAC4F2; }
+[data-md-color-scheme="slate"] .nat-eng { color: #7EC8E3; }
+[data-md-color-scheme="slate"] .shift-label { color: #C4A8E8; }
+[data-md-color-scheme="slate"] .sb-wrap .chain-title { color: #FFF18A; }
+[data-md-color-scheme="slate"] .sb-wrap .chain-layer .tag { color: #F086BB; }
+[data-md-color-scheme="slate"] .sb-wrap .chain-layer .note { color: #CFCDC0; }
+[data-md-color-scheme="slate"] .sb-wrap .chain-pin { color: #FFD700; background-color: transparent; }
+[data-md-color-scheme="slate"] .sb-wrap .assembly-label { color: #F54D22; }
+[data-md-color-scheme="slate"] .notes-section { color: #CFCDC0; }
+[data-md-color-scheme="slate"] .supplemental-section { color: #CFCDC0; }
