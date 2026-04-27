@@ -54,12 +54,6 @@ plugins:
       lang:
         - en
         - ja
-  - ruby:
-      global_enable: true
-      outer_begin: '{'
-      outer_end: '}'
-      inter_begin: '('
-      inter_end: ')'
   - tags
 
 markdown_extensions:
