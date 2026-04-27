@@ -1,0 +1,101 @@
+site_name: 日本語 Reference
+site_description: Personal Japanese language reference — Tokyo casual, N3 level
+site_author: Tim
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: ja
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+  features:
+    - navigation.tabs           # Top-level tabs (Grammar / Patterns / Dialogues)
+    - navigation.tabs.sticky    # Tabs stay visible when scrolling
+    - navigation.sections       # Collapsible sidebar sections
+    - navigation.expand         # Auto-expand active section
+    - navigation.top            # Back-to-top button
+    - navigation.indexes        # Section index pages
+    - search.highlight          # Highlight search terms on page
+    - search.suggest            # Search autocomplete
+    - search.share              # Shareable search links
+    - content.tooltips          # Hover tooltips
+    - toc.follow                # TOC highlights as you scroll
+
+extra_css:
+  - assets/css/anki-cards.css
+  - assets/css/custom.css
+
+extra_javascript:
+  - assets/js/custom.js
+
+plugins:
+  - search:
+      lang:
+        - en
+        - ja
+  - tags
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      title: On this page
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - Home: index.md
+  - Grammar:
+    - grammar/index.md
+    - Te-form: grammar/te-form.md
+    - Tense & Aspect: grammar/tense-aspect.md
+    - Conditionals: grammar/conditionals.md
+    - Frustrated Expectations: grammar/noni-expectation.md
+  - Patterns:
+    - patterns/index.md
+    - Softeners & Hedges: patterns/softeners.md
+    - Seeking Connection: patterns/seeking-connection.md
+    - Emotional Register: patterns/emotional-register.md
+  - Dialogues:
+    - dialogues/index.md
+    - Sample Dialogue: dialogues/sample-dialogue.md
+
+extra:
+  tags:
+    N3: n3
+    Casual: casual
+    Polite: polite
+    Romantic: romantic
+    Pragmatics: pragmatics

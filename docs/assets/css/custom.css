@@ -1,0 +1,149 @@
+/* ============================================================
+   CUSTOM THEME OVERRIDES
+   Japanese Reference — MkDocs Material
+   ============================================================ */
+
+/* ── Custom accent colors ── */
+:root {
+  --md-primary-fg-color: #2E7DAF;
+  --md-primary-fg-color--light: #5BA3CC;
+  --md-primary-fg-color--dark: #1A5A80;
+  --md-accent-fg-color: #F29602;
+}
+
+/* ── Japanese font stack ── */
+body,
+.md-content {
+  font-family: "Inter", "Hiragino Sans", "Noto Sans JP", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* ── Ensure Japanese text renders well ── */
+:lang(ja),
+.japanese,
+ruby {
+  font-family: "Hiragino Sans", "Noto Sans JP", "Yu Gothic", sans-serif;
+}
+
+/* ── Card container spacing on the page ── */
+.md-content .sb-wrap {
+  margin: 24px 0;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 8px;
+  padding: 20px 24px;
+}
+
+[data-md-color-scheme="slate"] .md-content .sb-wrap {
+  border-color: rgba(255, 255, 255, 0.08);
+}
+
+/* ── Tag chips in card index pages ── */
+.card-tag {
+  display: inline-block;
+  font-size: 0.72em;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 2px 8px;
+  border-radius: 12px;
+  margin: 2px 3px;
+  background-color: rgba(46, 125, 175, 0.12);
+  color: #2E7DAF;
+  border: 1px solid rgba(46, 125, 175, 0.3);
+}
+
+[data-md-color-scheme="slate"] .card-tag {
+  background-color: rgba(255, 227, 46, 0.1);
+  color: #FFE32E;
+  border-color: rgba(255, 227, 46, 0.3);
+}
+
+/* ── Index page card grid ── */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+  margin: 24px 0;
+}
+
+.card-grid-item {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 16px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.card-grid-item:hover {
+  border-color: #2E7DAF;
+  box-shadow: 0 2px 8px rgba(46, 125, 175, 0.15);
+}
+
+[data-md-color-scheme="slate"] .card-grid-item {
+  border-color: rgba(255, 255, 255, 0.1);
+}
+
+[data-md-color-scheme="slate"] .card-grid-item:hover {
+  border-color: #FFE32E;
+  box-shadow: 0 2px 8px rgba(255, 227, 46, 0.15);
+}
+
+.card-grid-item h3 {
+  margin: 0 0 8px;
+  font-size: 1.1em;
+}
+
+.card-grid-item p {
+  font-size: 0.88em;
+  color: #555;
+  margin: 0;
+}
+
+[data-md-color-scheme="slate"] .card-grid-item p {
+  color: #aaa;
+}
+
+/* ── Admonition for learner tips ── */
+.md-typeset .admonition.tip {
+  border-left-color: #F29602;
+}
+
+.md-typeset .admonition.tip > .admonition-title {
+  background-color: rgba(242, 150, 2, 0.1);
+}
+
+.md-typeset .admonition.tip > .admonition-title::before {
+  background-color: #F29602;
+}
+
+/* ── Search result Japanese text ── */
+.md-search-result__article {
+  font-family: "Inter", "Hiragino Sans", sans-serif;
+}
+
+/* ── Navigation sidebar tweaks ── */
+.md-nav__title {
+  font-variant: small-caps;
+  letter-spacing: 0.04em;
+}
+
+/* ── Back to top button ── */
+.md-top {
+  background-color: #F29602;
+}
+
+/* ── Print styles ── */
+@media print {
+  .sb-wrap {
+    border: 1px solid #ccc;
+    page-break-inside: avoid;
+    margin: 12px 0;
+  }
+
+  .md-header,
+  .md-sidebar,
+  .md-footer {
+    display: none;
+  }
+
+  ruby rt {
+    color: #eb5e00;
+  }
+}

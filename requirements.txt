@@ -1,0 +1,13 @@
+# Japanese Reference — MkDocs dependencies
+# Pinned to MkDocs 1.x + Material for MkDocs 9.x
+#
+# IMPORTANT: Material for MkDocs 9.7.5+ explicitly limits MkDocs to <2.0
+# to protect against the MkDocs 2.0 breaking changes (Feb 2026).
+# Do NOT run `pip install --upgrade` without checking release notes first.
+#
+# To install: pip install -r requirements.txt
+# To serve locally: mkdocs serve
+# To build: mkdocs build
+
+mkdocs>=1.5,<2.0
+mkdocs-material>=9.7.5,<10.0
