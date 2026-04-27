@@ -1,311 +1,239 @@
 ---
-title: なって (internal quotation)
+title: なーって (Internal Quotation)
 tags:
   - N3
   - Casual
   - なって
 ---
 
-# To package your own feeling or wish as a soft internal quotation 
-
-
+# なーって — Internal Quotation
+## Packaging Your Own Feeling or Wish as a Soft Inner Voice — N3 Grammar
 
 ---
 
+## 1. Overview & Nuance
 
-<meta charset="UTF-8">
-<style>
-ruby rt{color:#eb5e00;font-size:0.62em;line-height:0.75;font-weight:350;font-family:"Klee","Hiragino Sans",sans-serif;letter-spacing:0.02em;}
-table{border-collapse:collapse;width:100%;margin:8px 0;font-size:0.9em;}
-th{background-color:rgba(46,125,175,0.12);color:#2E7DAF;font-weight:700;padding:6px 10px;border:1px solid rgba(46,125,175,0.25);text-align:left;}
-td{padding:5px 10px;border:1px solid rgba(0,0,0,0.1);vertical-align:top;}
-tr:nth-child(even) td{background-color:rgba(0,0,0,0.02);}
-</style>
+**なーって** (and its shorter variant **なって**) is a casual spoken structure used to package your own feelings, wishes, or desires as a *soft internal quotation* — rather than stating them directly, you let the listener hear your inner voice at a comfortable, low-pressure distance.
 
+The core sentence for this guide:
 
-<div class="sb-wrap">
+> <ruby>今<rt>こん</rt></ruby><ruby>週末<rt>しゅうまつ</rt></ruby>、トモエのところに、<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>けたら、<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってるんだけど。
+> *"I've kind of been hoping I could go hang out at Tomoe's place this weekend, if that works out."*
 
-  <div class="claude-header">Claude Sonnet 4.6 · 2026·04·26</div>
+The speaker doesn't say "I want to go." They say "I've been inwardly going, 'that would be so nice…'" — a meaningfully different social move.
 
-  <h1>
-    <span class="chain-term">なーって</span> —
-    <ruby>今<rt>こん</rt></ruby><ruby>週末<rt>しゅうまつ</rt></ruby>、トモエのところに、<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>けたら、<ruby>嬉<rt>うれ</rt></ruby>しいなーって、<ruby>思<rt>おも</rt></ruby>ってるんだけど。
-  </h1>
+!!! abstract "Core Rule"
+    Use **なーって** to package your own feeling or wish as a soft internal quotation. You're not announcing it directly — you're letting the listener hear your inner voice at a safe, low-pressure distance.
 
-  <hr>
+### How it differs from related structures
 
-  <h2>【JLPT Level】</h2>
-  <ul>
-    <li>
-      <div class="upgrade-status">Level: Mid N3</div>
-      <p class="ind">This sentence's usage: extended usage — <span class="jb">なーって</span> appears here stacked inside a full conditonal + progressive reporting frame (<span class="jb">～たら・～って・～てるんだけど</span>), which pushes it toward the upper range of core N3.</p>
-    </li>
-    <li>
-      <span class="label">Level Progression:</span>
-      <p class="ind">
-        <b>N4 Foundational</b> — <span class="jb">って</span> as a plain casual quotation marker after plain-form predicates, reporting what someone said or thought.<br>
-        Example: <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>来<rt>こ</rt></ruby>ないって<ruby>言<rt>い</rt></ruby>ってた。— "She said she's not coming."<br><br>
-        <b>N3 Core</b> — <span class="jb">なって</span> / <span class="jb">なーって</span> as an internal thought-quotation: speaker softly packages their own feelings or wishes as an inward utterance rather than a direct statement.<br>
-        Example: <ruby>会<rt>あ</rt></ruby>いたいなって<ruby>思<rt>おも</rt></ruby>った。— "I found myself thinking I wanted to see you."<br><br>
-        <b>N3 Extended</b> — <span class="jb">なーって思ってるんだけど</span>: the full hedged stack where the wish is both ongoing (<span class="jb">思ってる</span>) and softened toward the listener with <span class="jb">んだけど</span>, functioning as an indirect soft proposal.<br>
-        Example: <ruby>今<rt>こん</rt></ruby><ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってるんだけど。— "I've been kind of hoping we could hang out this weekend, if that works."<br><br>
-        <b>N2 Awareness</b> — <span class="jb">～ものだと思っていた</span> / <span class="jb">～かと思っていた</span>: more formal or literary internal-thought framing with a retrospective nuance, less conversational.<br>
-        Example: うまくいくものだと<ruby>思<rt>おも</rt></ruby>っていた。— "I had been thinking it would work out."
-      </p>
-    </li>
-  </ul>
+| Form | Core Function | Direction |
+|---|---|---|
+| たい | States a desire directly as a fact | Speaker → listener (direct) |
+| と思う | States a view or opinion | Speaker → listener (assertive) |
+| **なーって思う** | Reports a wish as an inner voice | Speaker's inner world → shared gently |
+| かなって思う | Reports genuine uncertainty / wondering | Speaker's inner world → open-ended |
 
-  <hr>
+A simple way to think about it: **たい** is "I want to go." **なーって思ってる** is "I've been sitting here quietly thinking it'd be so nice if I could go." The desire is identical — the social packaging is entirely different.
 
-  <h2>【Core Rule】</h2>
-  <span class="note-callout">Core Rule: Use <span class="jb">なーって</span> (or <span class="jb">なって</span>) to package your own feeling or wish as a soft internal quotation — you're not announcing it directly, you're letting the listener hear your inner voice at a safe, low-pressure distance.</span>
+!!! note "Why this matters in Japanese communication"
+    Japanese casual speech — especially between close friends and partners — strongly favors framing desires as inner-voice reports rather than direct requests. なーって思ってるんだけど signals *"I'm sharing this with you, not putting it on you."* The listener can respond, affirm, or suggest an alternative without awkwardness. This indirect softness is not hesitation — it is skilled social calibration.
 
-  <hr>
+---
 
-  <h2>【Grammar Analysis】</h2>
-  <ul>
-    <li>
-      <span class="label">A. Function in Context</span>
-      <p class="ind">• <span class="jb">なーって</span> wraps the feeling <span class="jb">嬉しい</span> as a private inner utterance. The speaker doesn't say "I want to go" — they say "I've been inwardly going 'that would be nice…'"</p>
-      <p class="ind">• The elongated <span class="jb">なー</span> adds a soft, wistful, slightly wishful color — warmer and more vulnerable than plain <span class="jb">なって</span>.</p>
-      <p class="ind">• Combined with <span class="jb">思ってるんだけど</span>, the whole sentence becomes a layered indirect proposal: the speaker floats a wish rather than making a direct request, leaving the listener space to respond or deflect.</p>
-      <p class="ind">• Without <span class="jb">なーって</span>: <span class="jb">嬉しい</span> alone would be a blunt present-tense emotion statement. <span class="jb">行けたら嬉しい</span> is grammatically fine but comparatively direct and less intimate — it states a condition, not a feeling being shared.</p>
-      <p class="ind">• The full sentence has three hedging layers stacked deliberately: <span class="jb">行けたら</span> (conditional softener) + <span class="jb">嬉しいなーって</span> (inner-voice framing) + <span class="jb">思ってるんだけど</span> (ongoing + expectation of response). This is sophisticated, natural casual intimacy — not evasiveness.</p>
-    </li>
-    <li>
-      <span class="label">B. Construction Rules</span>
-      <table>
-        <thead>
-          <tr><th>Word Type</th><th>Base Form</th><th>Attached Pattern</th><th>Structural Note</th></tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>Verb (plain non-past)</td>
-            <td><ruby>行<rt>い</rt></ruby>く</td>
-            <td><ruby>行<rt>い</rt></ruby>くなーって</td>
-            <td>Direct attachment; <span class="jb">な</span> follows plain form naturally</td>
-          </tr>
-          <tr>
-            <td>Verb (plain past)</td>
-            <td><ruby>行<rt>い</rt></ruby>けた</td>
-            <td><ruby>行<rt>い</rt></ruby>けたなーって</td>
-            <td>Past conditional base; very common with potential past forms</td>
-          </tr>
-          <tr>
-            <td>Verb (masu-form)</td>
-            <td>—</td>
-            <td>—</td>
-            <td><span class="tag">⟦Not used⟧</span> — <span class="jb">なーって</span> attaches to plain forms only; masu-form is incompatible</td>
-          </tr>
-          <tr>
-            <td>Verb: する / くる (irregular)</td>
-            <td>する／くる</td>
-            <td>するなーって／くるなーって</td>
-            <td>Direct attachment to plain dictionary form</td>
-          </tr>
-          <tr>
-            <td>Verb: ない-form (negative)</td>
-            <td><ruby>行<rt>い</rt></ruby>かない</td>
-            <td><ruby>行<rt>い</rt></ruby>かないなーって</td>
-            <td>Attach directly after ない; expresses a resigned or reluctant inner feeling</td>
-          </tr>
-          <tr>
-            <td>i-Adjective</td>
-            <td><ruby>嬉<rt>うれ</rt></ruby>しい</td>
-            <td><ruby>嬉<rt>うれ</rt></ruby>しいなーって</td>
-            <td>Direct attachment; <span class="jb">い</span> retained — this is the exact form in the input sentence</td>
-          </tr>
-          <tr>
-            <td>i-Adjective: ない-form</td>
-            <td><ruby>嬉<rt>うれ</rt></ruby>しくない</td>
-            <td><ruby>嬉<rt>うれ</rt></ruby>しくないなーって</td>
-            <td>Attach directly after くない</td>
-          </tr>
-          <tr>
-            <td>na-Adjective</td>
-            <td><ruby>好<rt>す</rt></ruby>きだ</td>
-            <td><ruby>好<rt>す</rt></ruby>きだなーって / <ruby>好<rt>す</rt></ruby>きだなって</td>
-            <td><span class="tag">⟦だ retained in casual speech⟧</span> — unlike some patterns, だ is not dropped here</td>
-          </tr>
-          <tr>
-            <td>Noun</td>
-            <td><ruby>夢<rt>ゆめ</rt></ruby>だ</td>
-            <td><ruby>夢<rt>ゆめ</rt></ruby>だなーって</td>
-            <td><span class="tag">⟦だ required before なーって⟧</span></td>
-          </tr>
-        </tbody>
-      </table>
-    </li>
-  </ul>
+## 2. Formation Rules
 
-  <hr>
+### 2a. What なーって is built from
 
-  <h2>【Nuance Comparison】</h2>
-  <ul>
-    <li>
-      <table>
-        <thead>
-          <tr><th>Grammar Point</th><th>Core Meaning</th><th>Emotional / Pragmatic Nuance</th><th>Trigger Context</th><th>JLPT</th></tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td><span class="jb">なーって（思う）</span></td>
-            <td>Inner soft wish / feeling reported as internal quote</td>
-            <td>Wistful, warm, low-pressure; speaker shares inner voice without imposing</td>
-            <td>Floating a wish, hope, or vague desire to a close listener</td>
-            <td>N3</td>
-          </tr>
-          <tr>
-            <td><span class="jb">なって（思う）</span></td>
-            <td>Same structure, shorter vowel</td>
-            <td>Slightly more neutral / less wistful than なー; otherwise identical mechanism</td>
-            <td>Same as above; なー vs な is mainly emotional coloring, not grammar</td>
-            <td>N3</td>
-          </tr>
-          <tr>
-            <td><span class="jb">と思う</span></td>
-            <td>Speaker thinks / believes X</td>
-            <td>More direct and assertive; speaker is presenting a view, not softening it</td>
-            <td>Stating an opinion, assessment, or prediction</td>
-            <td>N4</td>
-          </tr>
-          <tr>
-            <td><span class="jb">と思ってる</span></td>
-            <td>Speaker is currently thinking / has been thinking X</td>
-            <td>Ongoing, present-state thinking; more direct than なって; less inner-voice feel</td>
-            <td>Sharing a current view, plan, or position — less hedged than なーって</td>
-            <td>N4</td>
-          </tr>
-          <tr>
-            <td><span class="jb">かなって（思う）</span></td>
-            <td>Wondering / self-questioning inner thought</td>
-            <td>More uncertain and wondering than なーって; speaker isn't sure themselves</td>
-            <td>Open-ended wondering; used when speaker is genuinely unsure, not just softening</td>
-            <td>N3</td>
-          </tr>
-          <tr>
-            <td><span class="jb">～ものだと思っていた</span> <span class="tag">⟦N2 — awareness only⟧</span></td>
-            <td>Had been thinking X was the natural/expected state</td>
-            <td>Retrospective; often carries a sense of assumption that turned out wrong</td>
-            <td>Reflecting on a past belief, often with mild surprise at how it unfolded</td>
-            <td>N2</td>
-          </tr>
-        </tbody>
-      </table>
-      <p class="ind">Key distinction: <span class="jb">なーって</span> and <span class="jb">かなって</span> are the closest pair — both are inner-voice quotations — but <span class="jb">なーって</span> expresses a soft wish or feeling the speaker already has, while <span class="jb">かなって</span> expresses genuine wondering or uncertainty. If the speaker already knows they want to go, <span class="jb">行けたら嬉しいなーって</span> is right. If they're genuinely unsure whether they want to, <span class="jb">行けたらいいかなって</span> fits better.</p>
-    </li>
-  </ul>
+なーって is a two-part structure:
 
-  <hr>
+1. **な** — a sentence-final particle expressing a soft personal feeling, wish, or emotional color (distinct from the prohibitive な)
+2. **って** — the casual quotation marker, equivalent to と in quotation structures
 
-  <h2>【Don't Confuse With】</h2>
-  <ul>
-    <li>
-      <span class="chain-term">って（quotation without な）</span><br>
-      <span class="meta-info">Why learners mix these up: both use って and both quote inner speech — learners drop the な thinking it's optional filler.<br></span>
-      <span class="note-main">• Distinguishing rule: <span class="jb">な</span> before <span class="jb">って</span> is not a filler — it's what makes the quoted content feel like an emotional utterance rather than a neutral thought; removing it shifts the register and emotional texture entirely.</span><br>
-      <span class="note-sub">• With <span class="jb">な</span>: <ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってる。— "I've been feeling like it'd be so nice if I could go." (soft, inner-voice, wistful)</span><br>
-      <span class="note-sub">• Without <span class="jb">な</span>: <ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいって<ruby>思<rt>おも</rt></ruby>ってる。— "I think it'd make me happy if I could go." (more neutral, analytical, matter-of-fact)</span><br>
-    </li>
-    <li>
-      <span class="chain-term">〜たい（direct desire form）</span><br>
-      <span class="meta-info">Why learners mix these up: both express wanting something — learners reach for たい as the default "I want to" form and don't realize なーって offers a softer, more socially calibrated alternative.<br></span>
-      <span class="note-main">• Distinguishing rule: <span class="jb">たい</span> directly states the speaker's desire as a fact; <span class="jb">なーって思ってる</span> frames that desire as an inward feeling being shared, which is less imposing and more intimate in casual conversation.</span><br>
-      <span class="note-sub">• Direct: <ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>きたい。— "I want to go hang out." (states desire plainly — fine but slightly blunt between close friends)</span><br>
-      <span class="note-sub">• Soft inner-voice: <ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってる。— "I've been hoping it'd work out to come hang out." (shares the same wish at a lower social pressure, invites rather than requests)</span><br>
-      <span class="note-callout">This distinction is one of the core social mechanics of casual Japanese: speakers often avoid stating desires with たい directly and instead package them inside inner-voice frames like なーって思ってる. The desire is exactly the same — the difference is in how much social space you give the other person. Direct たい can feel like it puts mild pressure on the listener; なーって思ってるんだけど leaves the door open for them to respond naturally without feeling obligated.</span>
-    </li>
-  </ul>
+Together they mean: *"[inner feeling/wish]…" — is what I've been thinking/feeling.*
 
-  <hr>
+The elongated **なー** (vs. plain **な**) is not decorative. It signals a held, slightly longing emotional state — warmer and more wistful. Shortening it to **なって** makes the same sentence slightly more matter-of-fact. Native speakers adjust this micro-signal unconsciously.
 
-  <h2>【Formality &amp; Variations】</h2>
-  <ul>
-    <li>
-      <span class="label">Casual</span> <span class="tag">⟦タメ口⟧</span><br>
-      <ruby>今<rt>こん</rt></ruby><ruby>週末<rt>しゅうまつ</rt></ruby>、トモエんちに<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってるんだけど。<br>
-      <span class="nat-eng">Natural English:</span> "I've kind of been hoping I could head over to Tomoe's place this weekend, if that works out."<br>
-      <p class="ind"><span class="shift-label">Shift:</span> Same emotional register as the input. <span class="jb">のところに</span> → <span class="jb">んちに</span> is a natural casual contraction (Tomoe's place). Core structure and warmth unchanged.</p>
-    </li>
-    <li>
-      <span class="label">Basic Polite</span> <span class="tag">⟦丁寧語⟧</span><br>
-      <ruby>今<rt>こん</rt></ruby><ruby>週末<rt>しゅうまつ</rt></ruby>、トモエさんのところに<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなって<ruby>思<rt>おも</rt></ruby>っているんですが。<br>
-      <span class="nat-eng">Natural English:</span> "I've been thinking it would be really nice if I could go visit Tomoe this weekend."<br>
-      <p class="ind"><span class="shift-label">Shift:</span> <span class="jb">なー</span> shortened to <span class="jb">な</span> (elongation is casual-only); <span class="jb">思ってるんだけど</span> → <span class="jb">思っているんですが</span>. The soft indirect-proposal function is fully preserved — <span class="jb">ですが</span> mirrors <span class="jb">だけど</span> as a polite open-ended hanger. </p>
-    </li>
-    <li>
-      <span class="label">Formal Synonym</span> <span class="tag">⟦N2 — awareness only⟧</span><br>
-      <ruby>今<rt>こん</rt></ruby><ruby>週末<rt>しゅうまつ</rt></ruby>、トモエさんのところに<ruby>伺<rt>うかが</rt></ruby>えればと<ruby>思<rt>おも</rt></ruby>っているのですが。<br>
-      <span class="nat-eng">Natural English:</span> "I was thinking that, if possible, I might stop by Tomoe's place this weekend."<br>
-      <span class="note-sub">• Shares: the conditional soft-wish framing and the open-ended <span class="jb">のですが</span> hanger that invites response. / Adds or changes: <span class="jb">伺える</span> is humble keigo (敬語) for visiting someone — raises the social register significantly; <span class="jb">ければと思っている</span> is a formal hedging pattern that replaces the inner-voice quotation entirely. No longer feels like shared inner speech — feels like a considered proposal.</span><br>
-    </li>
-  </ul>
+### 2b. Attachment rules by word type
 
-  <hr>
+| Word Type | Base Form | + なーって | Note |
+|---|---|---|---|
+| Verb — plain non-past | <ruby>行<rt>い</rt></ruby>く | <ruby>行<rt>い</rt></ruby>くなーって | Direct attachment to plain form |
+| Verb — plain past / potential past | <ruby>行<rt>い</rt></ruby>けた | <ruby>行<rt>い</rt></ruby>けたなーって | Very common with potential past forms |
+| Verb — masu-form | — | ❌ Not used | なーって attaches to plain forms only |
+| Verb — ない-form | <ruby>行<rt>い</rt></ruby>かない | <ruby>行<rt>い</rt></ruby>かないなーって | Expresses resigned or reluctant inner feeling |
+| Verb — する／くる | する／くる | するなーって／くるなーって | Direct attachment to dictionary form |
+| i-Adjective | <ruby>嬉<rt>うれ</rt></ruby>しい | <ruby>嬉<rt>うれ</rt></ruby>しいなーって | い retained — the exact form in the target sentence |
+| i-Adjective — ない-form | <ruby>嬉<rt>うれ</rt></ruby>しくない | <ruby>嬉<rt>うれ</rt></ruby>しくないなーって | Attach directly after くない |
+| na-Adjective | <ruby>好<rt>す</rt></ruby>きだ | <ruby>好<rt>す</rt></ruby>きだなーって | だ is retained — unlike some patterns, it is not dropped here |
+| Noun | <ruby>夢<rt>ゆめ</rt></ruby>だ | <ruby>夢<rt>ゆめ</rt></ruby>だなーって | だ required before なーって |
 
-  <h2>【Additional Notes】</h2>
-  <ul>
-    <li>
-      <span class="label">⚠️ Common Learner Mistakes</span>
-      <p class="ind"><b>Mistake 1:</b> Attaching <span class="jb">なーって</span> directly to a masu-form verb, treating it like a sentence-ender that works with any form.</p>
-      <p class="ind">Wrong: <ruby>行<rt>い</rt></ruby>きますなーって<ruby>思<rt>おも</rt></ruby>ってる。</p>
-      <p class="ind">Correct: <ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってる。 — <span class="jb">なーって</span> always follows plain forms, never masu-forms.</p>
-      <p class="ind"><b>Mistake 2:</b> Treating <span class="jb">なーって</span> alone as a complete sentence-final expression without <span class="jb">思う</span> — this leaves the utterance grammatically hanging in many contexts.</p>
-      <p class="ind">Awkward alone: <ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって。(fine if trailing off intentionally, but ambiguous in writing)</p>
-      <p class="ind">Natural: <ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってる。 — Adding <span class="jb">思ってる</span> grounds the inner quotation and makes the full meaning clear.</p>
-    </li>
-    <li>
-      <span class="label">💡 Hidden Points</span>
-      <p class="ind">• The elongation <span class="jb">なー</span> vs. plain <span class="jb">な</span> is not decorative — <span class="jb">なー</span> signals a held, slightly longing emotional state. Shortening it to <span class="jb">なって</span> makes the same sentence more matter-of-fact and less wistful. This is a register micro-signal that native speakers adjust unconsciously.</p>
-      <p class="ind">• <span class="jb">思ってるんだけど</span> at the end is doing heavy pragmatic work: <span class="jb">ている</span> = ongoing state (not a one-time thought), <span class="jb">ん</span> = soft explanatory framing, <span class="jb">だけど</span> = open hanger inviting a response. Together they turn a private wish into a gentle social bid — the speaker is not just reporting; they're opening a door.</p>
-      <p class="ind">• This pattern (<span class="jb">〜なーって思ってるんだけど</span>) is one of the most common ways Japanese adults in casual settings make indirect proposals or invitations. Learning it as a complete pragmatic package is more useful than analyzing it piece by piece.</p>
-      <p class="ind">• <span class="jb">〜のところに</span> in the input sentence marks Tomoe's location as a destination (Tomoe's place / Tomoe's space). The more casual contraction is <span class="jb">〜んちに</span>. Both are natural; the choice reflects the speaker's current register dial.</p>
-    </li>
-    <li>
-      <span class="label">ℹ️ Cultural / Linguistic Context</span>
-      <p class="ind">• Japanese casual communication — especially between close friends and partners — strongly favors framing desires as inner-voice reports rather than direct requests. Saying <span class="jb">行きたい</span> is not rude, but <span class="jb">行けたら嬉しいなーって思ってるんだけど</span> is socially warmer because it signals: "I'm sharing this with you, not putting it on you." The listener can respond, affirm, or suggest an alternative without awkwardness. This indirect softness is not weakness or hesitation — it is skilled social calibration.</p>
-    </li>
-  </ul>
+!!! warning "The masu-form trap"
+    なーって only attaches to plain forms. A very common learner error is treating it like a sentence-ender that works with any conjugation.
 
-  <hr>
+    ❌ <ruby>行<rt>い</rt></ruby>きますなーって<ruby>思<rt>おも</rt></ruby>ってる。<br>
+    ✅ <ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってる。
 
-  <h2>【Examples】</h2>
-  <ul>
-    <li>
-      <ruby>最近<rt>さいきん</rt></ruby>、もっと<ruby>運動<rt>うんどう</rt></ruby>しなきゃなーって<ruby>思<rt>おも</rt></ruby>ってる。<br>
-      <span class="nat-eng">Natural English:</span> "Lately I've been feeling like I really need to work out more."<br>
-      <span class="note-sub">Literal: "Lately, more exercise must-do, huh… I've been thinking."</span><br>
-      <span class="note-sub">Context: Speaking to a friend casually — self-reflection shared as inner voice, not a complaint or announcement.</span><br>
-    </li>
-    <hr>
-    <li>
-      そろそろ<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>したいなーって<ruby>思<rt>おも</rt></ruby>ってたんだよね。<br>
-      <span class="nat-eng">Natural English:</span> "I'd been thinking it might be time to move soon, you know."<br>
-      <span class="note-sub">Literal: "About time / soon, (I) want to move, huh… I had been thinking, you know."</span><br>
-      <span class="note-sub">Context: Sharing a long-held private thought with a close friend — the <span class="jb">んだよね</span> ending invites shared acknowledgment.</span><br>
-    </li>
-    <hr>
-    <li>
-      ハルも<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>来<rt>こ</rt></ruby>れたら<ruby>楽<rt>たの</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってたんだけど、どう？<br>
-      <span class="nat-eng">Natural English:</span> "I was kind of hoping you could come too — what do you think?"<br>
-      <span class="note-sub">Literal: "If Haru also could-come-together, fun, huh… I had been thinking, but — how (about it)?"</span><br>
-      <span class="note-sub">Context: Soft invitation from one friend to another — <span class="jb">どう？</span> at the end makes the implicit invitation explicit without pressure.</span><br>
-    </li>
-    <hr>
-    <li>
-      もうちょっとだけ<ruby>話<rt>はな</rt></ruby>せたら<ruby>良<rt>よ</rt></ruby>かったなーって。<br>
-      <span class="nat-eng">Natural English:</span> "I kind of wish we could've talked a little longer."<br>
-      <span class="note-sub">Literal: "Just a little more / if (we) had been able to talk, it would've been good, huh…"</span><br>
-      <span class="note-sub">Context: Said after parting — trailing <span class="jb">なーって</span> without <span class="jb">思う</span> is natural here because the wistfulness speaks for itself; the ellipsis is part of the emotional effect.</span><br>
-    </li>
-    <hr>
-    <li>
-      <ruby>転職<rt>てんしょく</rt></ruby>しようかなーって<ruby>思<rt>おも</rt></ruby>ってて、<ruby>今<rt>いま</rt></ruby>いろいろ<ruby>調<rt>しら</rt></ruby>べてるところ。<br>
-      <span class="nat-eng">Natural English:</span> "I've been kind of thinking about changing jobs, so I'm looking into things right now."<br>
-      <span class="note-sub">Literal: "Changing jobs, I wonder / should-I, huh… I've been thinking, and right now I'm in the middle of looking into various things."</span><br>
-      <span class="note-sub">Context: Sharing a tentative life decision with a close friend — <span class="jb">しようかなーって</span> signals the idea is still forming, not decided; invites the friend into the thinking process.</span><br>
-    </li>
-  </ul>
+---
 
-</div>
+## 3. The Three Hedging Layers
 
+The target sentence is more sophisticated than it first appears. It stacks three hedging mechanisms deliberately:
+
+| Layer | Element | Function |
+|---|---|---|
+| ① | <ruby>行<rt>い</rt></ruby>けたら | Conditional softener — "if it works out" |
+| ② | <ruby>嬉<rt>うれ</rt></ruby>しいなーって | Inner-voice framing — packages the wish as a private feeling |
+| ③ | <ruby>思<rt>おも</rt></ruby>ってるんだけど | Ongoing (ている) + explanatory (ん) + open hanger (だけど) — invites a response |
+
+Together these turn a private wish into a gentle social bid. The speaker is not just reporting an inner state — they are opening a door. This is sophisticated, natural casual intimacy, not evasiveness.
+
+!!! tip "Learn this as a complete pragmatic package"
+    **〜なーって思ってるんだけど** is one of the most common ways Japanese adults make indirect proposals or invitations in casual speech. Learning it as a fixed social chunk is more useful than analyzing it piece by piece every time.
+
+---
+
+## 4. Progressive Usage Ladder
+
+### Level 1 — Simple Inner Feeling
+
+!!! example "Example 1 · Self-reflection"
+    <ruby>最近<rt>さいきん</rt></ruby>、もっと<ruby>運動<rt>うんどう</rt></ruby>しなきゃなーって<ruby>思<rt>おも</rt></ruby>ってる。<br>
+    *"Lately I've been feeling like I really need to work out more."*<br>
+    <small>Self-reflection shared as inner voice — not a complaint or announcement to the listener.</small>
+
+!!! example "Example 2 · Wistful trailing off (なーって without 思う)"
+    もうちょっとだけ<ruby>話<rt>はな</rt></ruby>せたら<ruby>良<rt>よ</rt></ruby>かったなーって。<br>
+    *"I kind of wish we could've talked a little longer."*<br>
+    <small>Said after parting. Trailing なーって without 思う is natural when the wistfulness speaks for itself — the unfinished sentence is part of the emotional effect.</small>
+
+---
+
+### Level 2 — Sharing a Private Thought
+
+!!! example "Example 3 · Long-held thought surfacing"
+    そろそろ<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>したいなーって<ruby>思<rt>おも</rt></ruby>ってたんだよね。<br>
+    *"I'd been thinking it might be time to move soon, you know."*<br>
+    <small>The んだよね ending invites shared acknowledgment — the speaker is drawing the listener into the thought, not just reporting it.</small>
+
+!!! example "Example 4 · Tentative life decision"
+    <ruby>転職<rt>てんしょく</rt></ruby>しようかなーって<ruby>思<rt>おも</rt></ruby>ってて、<ruby>今<rt>いま</rt></ruby>いろいろ<ruby>調<rt>しら</rt></ruby>べてるところ。<br>
+    *"I've been kind of thinking about changing jobs, so I'm looking into things right now."*<br>
+    <small>しようかなーって signals the idea is still forming — invites the friend into the thinking process rather than announcing a conclusion.</small>
+
+---
+
+### Level 3 — Indirect Proposal / Soft Invitation (the target sentence)
+
+!!! example "Example 5 · Soft invitation with どう？"
+    ハルも<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>来<rt>こ</rt></ruby>れたら<ruby>楽<rt>たの</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってたんだけど、どう？<br>
+    *"I was kind of hoping you could come too — what do you think?"*<br>
+    <small>どう？ at the end makes the implicit invitation explicit without pressure. Classic soft-proposal structure.</small>
+
+!!! example "Example 6 · The target sentence"
+    <ruby>今<rt>こん</rt></ruby><ruby>週末<rt>しゅうまつ</rt></ruby>、トモエのところに<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってるんだけど。<br>
+    *"I've kind of been hoping I could go hang out at Tomoe's place this weekend, if that works out."*<br>
+    <small>All three hedging layers active. The speaker floats a wish, frames it as inner speech, and hangs the sentence open for the listener to respond naturally.</small>
+
+---
+
+## 5. Nuance Comparison — なーって vs. Similar Structures
+
+| Grammar Point | Core Meaning | Emotional Nuance | Best Used When | JLPT |
+|---|---|---|---|---|
+| **なーって（思う）** | Inner soft wish reported as internal quote | Wistful, warm, low-pressure | Floating a wish or hope to a close listener | N3 |
+| **なって（思う）** | Same structure, shorter vowel | Slightly more neutral / less wistful | Same as above; な vs なー is emotional coloring only | N3 |
+| **かなって（思う）** | Genuine wondering / self-questioning | More uncertain; speaker isn't sure themselves | Open-ended wondering — not just softening a known wish | N3 |
+| **と思う** | Speaker thinks / believes X | Direct and assertive; presenting a view | Stating an opinion, assessment, or prediction | N4 |
+| **と思ってる** | Speaker is currently / ongoing thinking X | More direct than なって; less inner-voice feel | Sharing a current view or plan — less hedged | N4 |
+| **〜ものだと思っていた** | Had been thinking X was the expected state | Retrospective; assumption that turned out wrong | Reflecting on a past belief with mild surprise | N2 |
+
+---
+
+## 6. The Mistake Monitor
+
+!!! warning "Pitfall 1 — Dropping な and treating って as equivalent"
+    Learners often drop な thinking it's optional filler. It is not — な is what transforms the content from a neutral thought into an emotional inner utterance.
+
+    - **With な:** <ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってる。→ "I've been feeling like it'd be so nice if I could go." (soft, wistful, inner-voice)
+    - **Without な:** <ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいって<ruby>思<rt>おも</rt></ruby>ってる。→ "I think it'd make me happy if I could go." (neutral, analytical, matter-of-fact)
+
+!!! warning "Pitfall 2 — Defaulting to たい when なーって is more appropriate"
+    たい directly states a desire as a fact. In casual intimate speech, this can feel slightly blunt where なーって would be warmer and more natural.
+
+    ❌ (slightly blunt) <ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>きたい。→ "I want to go hang out."<br>
+    ✅ (soft, social) <ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってる。→ "I've been hoping it'd work out to go hang out."
+
+    The desire is identical. The difference is how much social space you give the other person.
+
+!!! warning "Pitfall 3 — Using なーって alone without 思う in writing"
+    Trailing なーって without 思う works naturally in spoken Japanese when intonation carries the unfinished feeling. In writing, it can read as ambiguous or incomplete.
+
+    Ambiguous in writing: <ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって。<br>
+    Clear: <ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってる。
+
+!!! tip "なーって vs. かなって — the closest pair"
+    Both are inner-voice quotations, but they answer different questions.
+
+    - **なーって:** The speaker already knows what they feel and is sharing it softly. → <ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって ("It'd be so nice if I could go…")
+    - **かなって:** The speaker is genuinely wondering and hasn't settled on a feeling yet. → <ruby>行<rt>い</rt></ruby>けたらいいかなって ("I wonder if it'd be good if I could go…")
+
+    If the speaker wants to go, use なーって. If they're not sure whether they want to, use かなって.
+
+---
+
+## 7. Formality Ladder
+
+| Register | Japanese | Natural English | What Changed |
+|---|---|---|---|
+| **Casual** ⟦タメ口⟧ | <ruby>今<rt>こん</rt></ruby><ruby>週末<rt>しゅうまつ</rt></ruby>、トモエんちに<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってるんだけど。 | "I've kind of been hoping I could head over to Tomoe's place this weekend." | のところに → んちに (natural casual contraction). Core warmth unchanged. |
+| **Basic Polite** ⟦丁寧語⟧ | <ruby>今<rt>こん</rt></ruby><ruby>週末<rt>しゅうまつ</rt></ruby>、トモエさんのところに<ruby>遊<rt>あそ</rt></ruby>びに<ruby>行<rt>い</rt></ruby>けたら<ruby>嬉<rt>うれ</rt></ruby>しいなって<ruby>思<rt>おも</rt></ruby>っているんですが。 | "I've been thinking it would be really nice if I could go visit Tomoe this weekend." | なー → な (elongation is casual-only); <ruby>思<rt>おも</rt></ruby>ってるんだけど → <ruby>思<rt>おも</rt></ruby>っているんですが. Soft indirect-proposal function fully preserved — ですが mirrors だけど as a polite open-ended hanger. |
+| **Formal** ⟦N2 awareness⟧ | <ruby>今<rt>こん</rt></ruby><ruby>週末<rt>しゅうまつ</rt></ruby>、トモエさんのところに<ruby>伺<rt>うかが</rt></ruby>えればと<ruby>思<rt>おも</rt></ruby>っているのですが。 | "I was thinking that, if possible, I might stop by Tomoe's place this weekend." | <ruby>伺<rt>うかが</rt></ruby>える is humble keigo for visiting — raises register significantly. 〜ければと<ruby>思<rt>おも</rt></ruby>っている replaces the inner-voice quotation entirely. No longer feels like shared inner speech — feels like a considered proposal. |
+
+---
+
+## 8. Practice Drill
+
+1. **Translate to Japanese using なーって思ってる:** "I've been thinking it'd be nice if we could meet up soon." (casual, to a close friend)
+2. **Convert from direct to inner-voice:** 「<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>みたい。」→ Reframe using なーって思ってる to make it softer and less direct.
+3. **Translate:** "I've kind of been wondering if I should quit." (Use しようかなーって to capture genuine uncertainty)
+4. **Spot and fix the error:** <ruby>早<rt>はや</rt></ruby>く<ruby>会<rt>あ</rt></ruby>いたいですなーって<ruby>思<rt>おも</rt></ruby>ってる。
+5. **Choose the right form:** Your friend asks if you want to come to a party. You're not sure you want to go, but you're considering it. Do you use なーって or かなって? Write a natural response.
+
+---
+
+## 9. Answer Key
+
+??? success "Click to reveal answers"
+
+    **Question 1**<br>
+    そろそろ<ruby>会<rt>あ</rt></ruby>えたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってる。<br>
+    Conditional <ruby>会<rt>あ</rt></ruby>えたら (potential past) + <ruby>嬉<rt>うれ</rt></ruby>しいなーって + <ruby>思<rt>おも</rt></ruby>ってる. そろそろ ("soon / about time") sets the soft time frame naturally.
+
+    ---
+
+    **Question 2**<br>
+    ❌ (direct) <ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>みたい。<br>
+    ✅ (inner-voice) <ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>めたら<ruby>嬉<rt>うれ</rt></ruby>しいなーって<ruby>思<rt>おも</rt></ruby>ってる。<br>
+    The desire is identical. The inner-voice framing gives the listener more social space — less "I'm asking you for something," more "I'm sharing a feeling with you."
+
+    ---
+
+    **Question 3**<br>
+    やめようかなーって<ruby>思<rt>おも</rt></ruby>ってる。<br>
+    Use **かなって** here, not なーって — the speaker is genuinely uncertain (wondering whether to quit), not softening a known wish. しようかなーって is the key form: the か signals the open wondering.
+
+    ---
+
+    **Question 4**<br>
+    ❌ <ruby>早<rt>はや</rt></ruby>く<ruby>会<rt>あ</rt></ruby>いたいですなーって<ruby>思<rt>おも</rt></ruby>ってる。<br>
+    ✅ <ruby>早<rt>はや</rt></ruby>く<ruby>会<rt>あ</rt></ruby>いたいなーって<ruby>思<rt>おも</rt></ruby>ってる。<br>
+    Error: なーって attaches to plain forms only. です is a polite copula — it is incompatible with this structure. Drop です entirely; たい is already a plain-form adjective that attaches directly.
+
+    ---
+
+    **Question 5**<br>
+    Use **かなって** — you are genuinely unsure, so the wondering form is correct.<br>
+    <ruby>行<rt>い</rt></ruby>けたらいいかなって<ruby>思<rt>おも</rt></ruby>ってるんだけど、まだわからない。<br>
+    *"I've been kind of wondering if it'd be good if I could go — I'm still not sure."*<br>
+    If you already knew you wanted to go and were just softening the way you said it, なーって would be the right choice instead.
