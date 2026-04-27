@@ -10,8 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.x'
+          node-version: '24'
       - run: pip install mkdocs-material
       - run: mkdocs gh-deploy --force
+        env:
+          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
