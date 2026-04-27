@@ -54,6 +54,12 @@ plugins:
       lang:
         - en
         - ja
+  - ruby:
+      global_enable: true
+      outer_begin: '{'
+      outer_end: '}'
+      inter_begin: '('
+      inter_end: ')'
   - tags
 
 markdown_extensions:
@@ -63,6 +69,9 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+
   - toc:
       permalink: true
       title: On this page
@@ -83,6 +92,10 @@ nav:
     - Tense & Aspect: grammar/tense-aspect.md
     - Conditionals: grammar/conditionals.md
     - Frustrated Expectations: grammar/noni-expectation.md
+    - Internal Quotation: grammar/natte-internalquote.md
+    - Reassurance of Sufficient Ongoing Action: grammar/te-ikebaiikara.md
+    - Extra Modest Expressions: grammar/modest-expressions.md
+    - Embedded Questions: grammar/questions-in-sentences.md
   - Patterns:
     - patterns/index.md
     - Softeners & Hedges: patterns/softeners.md

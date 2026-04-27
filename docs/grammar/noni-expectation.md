@@ -6,7 +6,7 @@ tags:
   - のに
 ---
 
-# Frustrate Expectations
+# Frustrated Expectations
 
 
 

@@ -5,11 +5,34 @@ hide:
   - toc
 ---
 
-# 日本語 Reference
+# <ruby>日<rt>に</rt>本<rt>ほん</rt>語<rt>ご</rt></ruby> Reference
 
 **Personal Japanese reference — Tokyo casual, N3 level**
 
-Use the tabs above to browse by section, or press `S` to search.
+This is a searchable, navigable companion to the Anki deck. Cards are organized by grammar point, pragmatic pattern, and dialogue type. Use the tabs above to browse, or use **Search** (press `S` or `/`) to find anything instantly — including Japanese text.
+
+---
+
+<div class="card-grid">
+
+  <div class="card-grid-item">
+    <h3><a href="grammar/">Grammar</a></h3>
+
+  </div>
+
+  <div class="card-grid-item">
+    <h3><a href="patterns/">Patterns</a></h3>
+
+  </div>
+
+  <div class="card-grid-item">
+    <h3><a href="dialogues/">Dialogues</a></h3>
+
+  </div>
+
+</div>
+
+---
 
 ## How to use this reference
 
