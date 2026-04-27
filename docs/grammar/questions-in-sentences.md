@@ -6,11 +6,11 @@ tags:
 ---
 
 # Questions within Sentences
-## Embedded Questions with 〜か & 〜かどうか
+## Embedded Questions with 〜か &amp; 〜かどうか
 
 ---
 
-## 1. Overview & Nuance
+## 1. Overview &amp; Nuance
 
 An **embedded question** is a question tucked inside a larger sentence, functioning as a noun phrase — the *subject* or *object* of the main verb. In English, we do this with words like "whether" or "if":
 
@@ -21,15 +21,15 @@ An **embedded question** is a question tucked inside a larger sentence, function
 Japanese handles this with two closely related patterns:
 
 !!! abstract "Pattern A — Wh-Question Embedded"
-    `[Plain-form clause containing {何(なに)}/{誰(だれ)}/どこ/いつ/etc.]` + **か** + `[main verb]`
+    Plain-form clause containing <ruby>何<rt>なに</rt></ruby>/<ruby>誰<rt>だれ</rt></ruby>/どこ/いつ/etc. + **か** + main verb
 
 !!! abstract "Pattern B — Yes/No Question Embedded"
-    `[Plain-form clause]` + **かどうか** + `[main verb]`
+    Plain-form clause + **かどうか** + main verb
 
 The difference is exactly the same as in English: **〜か** embeds *wh*-questions (what / who / where / when / why / how), while **〜かどうか** embeds *yes/no* questions (whether or not).
 
 !!! note "Why this pattern is worth mastering"
-    Embedded questions are one of the most common structures in natural Japanese — you will hear them constantly in sentences like「どこに{行(い)}くか{決(き)}めた?」("Did you decide where to go?") or「{彼(かれ)}が{来(く)}るかどうか{分(わ)}からない。」("I don't know whether he's coming.") Mastering them unlocks a big chunk of natural conversation.
+    Embedded questions are one of the most common structures in natural Japanese — you will hear them constantly in sentences like「どこに<ruby>行<rt>い</rt></ruby>くか<ruby>決<rt>き</rt></ruby>めた?」("Did you decide where to go?") or「<ruby>彼<rt>かれ</rt></ruby>が<ruby>来<rt>く</rt></ruby>るかどうか<ruby>分<rt>わ</rt></ruby>からない。」("I don't know whether he's coming.") Mastering them unlocks a big chunk of natural conversation.
 
 ---
 
@@ -41,65 +41,65 @@ The clause *inside* the embedded question must use **plain form**, not polite fo
 
 | Part of Speech | Form Inside Embedded Q | Example |
 |---|---|---|
-| Verbs | Plain form (dictionary / plain past / plain negative) | {行(い)}く、{行(い)}った、{行(い)}かない |
-| い-adjectives | Plain form (unchanged) | {高(たか)}い、{高(たか)}かった、{高(たか)}くない |
-| な-adjectives | **Drop `だ`** before か / かどうか | {元気(げんき)} (not {元気(げんき)}だ) |
-| Nouns | **Drop `だ`** before か / かどうか | {学生(がくせい)} (not {学生(がくせい)}だ) |
+| Verbs | Plain form (dictionary / plain past / plain negative) | <ruby>行<rt>い</rt></ruby>く、<ruby>行<rt>い</rt></ruby>った、<ruby>行<rt>い</rt></ruby>かない |
+| い-adjectives | Plain form (unchanged) | <ruby>高<rt>たか</rt></ruby>い、<ruby>高<rt>たか</rt></ruby>かった、<ruby>高<rt>たか</rt></ruby>くない |
+| な-adjectives | **Drop だ** before か / かどうか | <ruby>元気<rt>げんき</rt></ruby> (not <ruby>元気<rt>げんき</rt></ruby>だ) |
+| Nouns | **Drop だ** before か / かどうか | <ruby>学生<rt>がくせい</rt></ruby> (not <ruby>学生<rt>がくせい</rt></ruby>だ) |
 
 !!! warning "The 'dropping だ' rule"
-    This is the single most common grammatical trip-up in this pattern. When a na-adjective or noun comes before `か` or `かどうか`, you *drop* the `だ`:
+    This is the single most common grammatical trip-up in this pattern. When a na-adjective or noun comes before か or かどうか, you *drop* the だ:
 
-    ✅ {彼(かれ)}が**{学生(がくせい)}か**どうか{知(し)}りません。  
-    ❌ {彼(かれ)}が**{学生(がくせい)}だか**どうか{知(し)}りません。
+    ✅ <ruby>彼<rt>かれ</rt></ruby>が**<ruby>学生<rt>がくせい</rt></ruby>か**どうか<ruby>知<rt>し</rt></ruby>りません。<br>
+    ❌ <ruby>彼<rt>かれ</rt></ruby>が**<ruby>学生<rt>がくせい</rt></ruby>だか**どうか<ruby>知<rt>し</rt></ruby>りません。
 
-    However, for *past tense* or *negative*, the copula conjugation stays:  
-    **{学生(がくせい)}だったかどうか** / **{学生(がくせい)}じゃないかどうか** are both correct.
+    However, for *past tense* or *negative*, the copula conjugation stays:
+    **<ruby>学生<rt>がくせい</rt></ruby>だったかどうか** / **<ruby>学生<rt>がくせい</rt></ruby>じゃないかどうか** are both correct.
 
 ---
 
 ### 2b. Pattern A — 〜か (Embedded Wh-Questions)
 
-Use `〜か` when the embedded question contains a question word: {何(なに)}、{誰(だれ)}、どこ、いつ、どう、どうして、どの、どれ、いくら、いくつ, etc.
+Use 〜か when the embedded question contains a question word: <ruby>何<rt>なに</rt></ruby>、<ruby>誰<rt>だれ</rt></ruby>、どこ、いつ、どう、どうして、どの、どれ、いくら、いくつ, etc.
 
 | Original Question | Embedded Version |
 |---|---|
-| {何(なに)}を{食(た)}べますか。 | {何(なに)}を{食(た)}べる**か**{決(き)}めましょう。 |
-| どこに{住(す)}んでいますか。 | どこに{住(す)}んでいる**か**{教(おし)}えてください。 |
-| {誰(だれ)}が{来(き)}ましたか。 | {誰(だれ)}が{来(き)}た**か**{分(わ)}かりません。 |
-| いつ{始(はじ)}まりますか。 | いつ{始(はじ)}まる**か**{聞(き)}きましょう。 |
+| <ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べますか。 | <ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる**か**<ruby>決<rt>き</rt></ruby>めましょう。 |
+| どこに<ruby>住<rt>す</rt></ruby>んでいますか。 | どこに<ruby>住<rt>す</rt></ruby>んでいる**か**<ruby>教<rt>おし</rt></ruby>えてください。 |
+| <ruby>誰<rt>だれ</rt></ruby>が<ruby>来<rt>き</rt></ruby>ましたか。 | <ruby>誰<rt>だれ</rt></ruby>が<ruby>来<rt>き</rt></ruby>た**か**<ruby>分<rt>わ</rt></ruby>かりません。 |
+| いつ<ruby>始<rt>はじ</rt></ruby>まりますか。 | いつ<ruby>始<rt>はじ</rt></ruby>まる**か**<ruby>聞<rt>き</rt></ruby>きましょう。 |
 
 ---
 
 ### 2c. Pattern B — 〜かどうか (Embedded Yes/No Questions)
 
-Use `〜かどうか` when the embedded question is a yes/no question — one with no question word. The `どうか` part literally means "or how (i.e., or not)," so `かどうか` = "whether or not."
+Use 〜かどうか when the embedded question is a yes/no question — one with no question word. The どうか part literally means "or how (i.e., or not)," so かどうか = "whether or not."
 
 | Original Question | Embedded Version |
 |---|---|
-| {彼(かれ)}は{来(き)}ますか。 | {彼(かれ)}が{来(く)}る**かどうか**{分(わ)}かりません。 |
-| この{店(みせ)}は{開(あ)}いていますか。 | この{店(みせ)}が{開(あ)}いている**かどうか**{確(たし)}かめます。 |
-| これで{正(ただ)}しいですか。 | これで{正(ただ)}しい**かどうか**{教(おし)}えてください。 |
-| {彼(かれ)}は{元気(げんき)}ですか。 | {彼(かれ)}が{元気(げんき)}**かどうか**わかりません。 |
+| <ruby>彼<rt>かれ</rt></ruby>は<ruby>来<rt>き</rt></ruby>ますか。 | <ruby>彼<rt>かれ</rt></ruby>が<ruby>来<rt>く</rt></ruby>る**かどうか**<ruby>分<rt>わ</rt></ruby>かりません。 |
+| この<ruby>店<rt>みせ</rt></ruby>は<ruby>開<rt>あ</rt></ruby>いていますか。 | この<ruby>店<rt>みせ</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いている**かどうか**<ruby>確<rt>たし</rt></ruby>かめます。 |
+| これで<ruby>正<rt>ただ</rt></ruby>しいですか。 | これで<ruby>正<rt>ただ</rt></ruby>しい**かどうか**<ruby>教<rt>おし</rt></ruby>えてください。 |
+| <ruby>彼<rt>かれ</rt></ruby>は<ruby>元気<rt>げんき</rt></ruby>ですか。 | <ruby>彼<rt>かれ</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>**かどうか**わかりません。 |
 
 !!! tip "The particle shift: は → が"
-    Notice that `は` often becomes `が` when a question gets embedded. This is because the embedded clause is no longer the "topic" of the whole sentence — it's a subordinate clause, and subordinate clauses strongly prefer `が` for marking their subjects. Not a strict rule, but a strong tendency to internalize.
+    Notice that は often becomes が when a question gets embedded. This is because the embedded clause is no longer the "topic" of the whole sentence — it's a subordinate clause, and subordinate clauses strongly prefer が for marking their subjects. Not a strict rule, but a strong tendency to internalize.
 
 ---
 
 ### 2d. Main-Verb Pairings
 
-Embedded questions don't float in space — they're always the object (or subject) of some main verb. These are the verbs you'll see 90% of the time:
+Embedded questions are always the object or subject of some main verb. These are the verbs you'll see 90% of the time:
 
 | Main Verb | Meaning | Use Case |
 |---|---|---|
-| {分(わ)}かる / {知(し)}る | to understand / know | Expressing (lack of) knowledge |
-| {決(き)}める | to decide | Making a decision about something open |
-| {聞(き)}く | to ask / hear | Inquiring or being told |
-| {教(おし)}える | to tell / teach | Requesting information |
-| {考(かんが)}える | to think / consider | Deliberating |
-| {覚(おぼ)}えている / {忘(わす)}れる | to remember / forget | Memory |
-| {調(しら)}べる / {確(たし)}かめる | to check / verify | Investigation |
-| {心配(しんぱい)}する | to worry | Expressing anxiety about uncertainty |
+| <ruby>分<rt>わ</rt></ruby>かる / <ruby>知<rt>し</rt></ruby>る | to understand / know | Expressing lack of knowledge |
+| <ruby>決<rt>き</rt></ruby>める | to decide | Making a decision about something open |
+| <ruby>聞<rt>き</rt></ruby>く | to ask / hear | Inquiring or being told |
+| <ruby>教<rt>おし</rt></ruby>える | to tell / teach | Requesting information |
+| <ruby>考<rt>かんが</rt></ruby>える | to think / consider | Deliberating |
+| <ruby>覚<rt>おぼ</rt></ruby>えている / <ruby>忘<rt>わす</rt></ruby>れる | to remember / forget | Memory |
+| <ruby>調<rt>しら</rt></ruby>べる / <ruby>確<rt>たし</rt></ruby>かめる | to check / verify | Investigation |
+| <ruby>心配<rt>しんぱい</rt></ruby>する | to worry | Expressing anxiety about uncertainty |
 
 ---
 
@@ -108,66 +108,68 @@ Embedded questions don't float in space — they're always the object (or subjec
 ### Level 1 — Basic Daily Use
 
 !!! example "Example 1 · Making Plans"
-    {週末(しゅうまつ)}、{旅行(りょこう)}に{行(い)}くかどうか{決(き)}めましょう。  
+    <ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くかどうか<ruby>決<rt>き</rt></ruby>めましょう。<br>
     *"Let's decide whether or not we'll go on a trip this weekend."*
 
-    Yes/no question (go or not go), so `かどうか`. The main verb {決(き)}める takes the embedded question as its object.
+    Yes/no question (go or not go), so かどうか. The main verb <ruby>決<rt>き</rt></ruby>める takes the embedded question as its object.
 
 !!! example "Example 2 · Asking for Directions"
-    {駅(えき)}がどこにあるか{教(おし)}えてください。  
+    <ruby>駅<rt>えき</rt></ruby>がどこにあるか<ruby>教<rt>おし</rt></ruby>えてください。<br>
     *"Please tell me where the station is."*
 
-    Wh-question (どこ), so plain `か`. Note `が` marking the subject inside the embedded clause.
+    Wh-question (どこ), so plain か. Note が marking the subject inside the embedded clause.
 
 !!! example "Example 3 · Forgetting Something"
-    {彼(かれ)}の{名前(なまえ)}が{何(なん)}だったか{忘(わす)}れました。  
+    <ruby>彼<rt>かれ</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>が<ruby>何<rt>なん</rt></ruby>だったか<ruby>忘<rt>わす</rt></ruby>れました。<br>
     *"I forgot what his name was."*
 
-    Past tense inside the embedded clause: {何(なん)}だった uses the past form of the copula. The `だ` isn't dropped here because it's `だった` (past), not `だ` (present).
+    Past tense inside the embedded clause: <ruby>何<rt>なん</rt></ruby>だった uses the past form of the copula. The だ isn't dropped here because it's だった (past), not だ (present).
 
 ---
 
 ### Level 2 — Expressing Uncertainty
 
 !!! example "Example 4 · Checking Availability"
-    その{映画(えいが)}がまだ{上映(じょうえい)}しているかどうか{調(しら)}べてみます。  
+    その<ruby>映画<rt>えいが</rt></ruby>がまだ<ruby>上映<rt>じょうえい</rt></ruby>しているかどうか<ruby>調<rt>しら</rt></ruby>べてみます。<br>
     *"I'll check whether that movie is still showing."*
 
 !!! example "Example 5 · Self-Doubt"
-    この{仕事(しごと)}が{自分(じぶん)}に{合(あ)}っているかどうかわかりません。  
+    この<ruby>仕事<rt>しごと</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>っているかどうかわかりません。<br>
     *"I don't know whether this job suits me."*
 
-!!! example "Example 6 · Polite Inquiry (Restaurant)"
-    この{料理(りょうり)}に{肉(にく)}が{入(はい)}っているかどうか{教(おし)}えていただけますか。  
+!!! example "Example 6 · Polite Inquiry"
+    この<ruby>料理<rt>りょうり</rt></ruby>に<ruby>肉<rt>にく</rt></ruby>が<ruby>入<rt>はい</rt></ruby>っているかどうか<ruby>教<rt>おし</rt></ruby>えていただけますか。<br>
     *"Could you tell me whether this dish contains meat?"*
 
 ---
 
-### Level 3 — Business & Formal Usage
+### Level 3 — Business &amp; Formal Usage
 
 !!! example "Example 7 · Business Email"
-    {来週(らいしゅう)}の{会議(かいぎ)}にご{出席(しゅっせき)}いただけるかどうか、お{知(し)}らせください。  
+    <ruby>来週<rt>らいしゅう</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>にご<ruby>出席<rt>しゅっせき</rt></ruby>いただけるかどうか、お<ruby>知<rt>し</rt></ruby>らせください。<br>
     *"Please let us know whether you'll be able to attend next week's meeting."*
 
+    Standard scheduling phrasing for business correspondence.
+
 !!! example "Example 8 · Project Decision"
-    このプロジェクトを{続(つづ)}けるかどうか、{来月(らいげつ)}までに{決定(けってい)}する{必要(ひつよう)}があります。  
+    このプロジェクトを<ruby>続<rt>つづ</rt></ruby>けるかどうか、<ruby>来月<rt>らいげつ</rt></ruby>までに<ruby>決定<rt>けってい</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>があります。<br>
     *"We need to decide by next month whether to continue this project."*
 
 !!! example "Example 9 · Nested Question"
-    なぜ{彼(かれ)}が{辞(や)}めたか{誰(だれ)}も{知(し)}らないようです。  
+    なぜ<ruby>彼<rt>かれ</rt></ruby>が<ruby>辞<rt>や</rt></ruby>めたか<ruby>誰<rt>だれ</rt></ruby>も<ruby>知<rt>し</rt></ruby>らないようです。<br>
     *"It seems no one knows why he quit."*
 
-    The embedded question (なぜ{彼(かれ)}が{辞(や)}めたか) is the object of {知(し)}る, and the whole thing is wrapped in `〜ようです` (it seems).
+    The embedded question (なぜ<ruby>彼<rt>かれ</rt></ruby>が<ruby>辞<rt>や</rt></ruby>めたか) is the object of <ruby>知<rt>し</rt></ruby>る, wrapped in 〜ようです (it seems).
 
 ---
 
 ### Level 4 — Advanced Nuance
 
 !!! example "Example 10 · Hedged Opinion"
-    この{方法(ほうほう)}が{正(ただ)}しいかどうかは{別(べつ)}として、まずやってみましょう。  
+    この<ruby>方法<rt>ほうほう</rt></ruby>が<ruby>正<rt>ただ</rt></ruby>しいかどうかは<ruby>別<rt>べつ</rt></ruby>として、まずやってみましょう。<br>
     *"Setting aside whether this method is correct, let's first give it a try."*
 
-    The fixed phrase `〜かどうかは{別(べつ)}として` ("setting aside whether...") is an elegant way to acknowledge uncertainty while pushing forward.
+    The fixed phrase 〜かどうかは<ruby>別<rt>べつ</rt></ruby>として ("setting aside whether...") is an elegant way to acknowledge uncertainty while pushing forward.
 
 ---
 
@@ -177,65 +179,67 @@ The choice is entirely determined by whether the embedded clause contains a ques
 
 | Does the Embedded Clause Have a Question Word? | Use | English Parallel |
 |---|---|---|
-| ✅ Yes — {何(なに)}、{誰(だれ)}、どこ、いつ、etc. | **〜か** | what / who / where / when / why / how |
+| ✅ Yes — <ruby>何<rt>なに</rt></ruby>、<ruby>誰<rt>だれ</rt></ruby>、どこ、いつ、etc. | **〜か** | what / who / where / when / why / how |
 | ❌ No — just a yes/no question | **〜かどうか** | whether (or not) / if |
 
 ### Side-by-Side Comparison
 
 | Meaning | Japanese | Pattern |
 |---|---|---|
-| "I don't know *where* he went." | {彼(かれ)}がどこに{行(い)}った**か**わかりません。 | 〜か (wh) |
-| "I don't know *whether* he went." | {彼(かれ)}が{行(い)}った**かどうか**わかりません。 | 〜かどうか (y/n) |
-| "Please tell me *when* the meeting starts." | {会議(かいぎ)}がいつ{始(はじ)}まる**か**{教(おし)}えてください。 | 〜か (wh) |
-| "Please tell me *whether* the meeting is starting." | {会議(かいぎ)}が{始(はじ)}まる**かどうか**{教(おし)}えてください。 | 〜かどうか (y/n) |
-| "Let's decide *what* to eat." | {何(なに)}を{食(た)}べる**か**{決(き)}めましょう。 | 〜か (wh) |
-| "Let's decide *whether* to eat dinner out." | {外食(がいしょく)}する**かどうか**{決(き)}めましょう。 | 〜かどうか (y/n) |
+| "I don't know *where* he went." | <ruby>彼<rt>かれ</rt></ruby>がどこに<ruby>行<rt>い</rt></ruby>った**か**わかりません。 | 〜か (wh) |
+| "I don't know *whether* he went." | <ruby>彼<rt>かれ</rt></ruby>が<ruby>行<rt>い</rt></ruby>った**かどうか**わかりません。 | 〜かどうか (y/n) |
+| "Please tell me *when* the meeting starts." | <ruby>会議<rt>かいぎ</rt></ruby>がいつ<ruby>始<rt>はじ</rt></ruby>まる**か**<ruby>教<rt>おし</rt></ruby>えてください。 | 〜か (wh) |
+| "Please tell me *whether* the meeting is starting." | <ruby>会議<rt>かいぎ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まる**かどうか**<ruby>教<rt>おし</rt></ruby>えてください。 | 〜かどうか (y/n) |
+| "Let's decide *what* to eat." | <ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる**か**<ruby>決<rt>き</rt></ruby>めましょう。 | 〜か (wh) |
+| "Let's decide *whether* to eat dinner out." | <ruby>外食<rt>がいしょく</rt></ruby>する**かどうか**<ruby>決<rt>き</rt></ruby>めましょう。 | 〜かどうか (y/n) |
 
 ---
 
 ## 5. The Mistake Monitor
 
 !!! warning "Pitfall 1 — Using Polite Form Inside the Embedded Clause"
-    The clause inside `〜か` or `〜かどうか` *must* be in plain form, even if the main verb is polite.
+    The clause inside 〜か or 〜かどうか *must* be in plain form, even if the main verb is polite.
 
-    ❌ {彼(かれ)}が{来(き)}**ます**かどうかわかりません。  
-    ✅ {彼(かれ)}が{来(く)}**る**かどうかわかりません。
+    ❌ <ruby>彼<rt>かれ</rt></ruby>が<ruby>来<rt>き</rt></ruby>**ます**かどうかわかりません。<br>
+    ✅ <ruby>彼<rt>かれ</rt></ruby>が<ruby>来<rt>く</rt></ruby>**る**かどうかわかりません。
 
-    The politeness level is set by the main verb (わかりません), not by the embedded clause. The embedded clause is subordinate and always uses plain form.
+    The politeness level is set by the main verb (わかりません), not the embedded clause. The embedded clause is subordinate and always uses plain form.
 
-!!! warning "Pitfall 2 — Forgetting to Drop `だ`"
-    With na-adjectives and nouns in *present affirmative*, drop the `だ` before `か` or `かどうか`:
+!!! warning "Pitfall 2 — Forgetting to Drop だ"
+    With na-adjectives and nouns in *present affirmative*, drop the だ before か or かどうか:
 
-    ❌ {彼(かれ)}が{学生(がくせい)}**だか**どうか…  
-    ✅ {彼(かれ)}が{学生(がくせい)}**か**どうか…
+    ❌ <ruby>彼<rt>かれ</rt></ruby>が<ruby>学生<rt>がくせい</rt></ruby>**だか**どうか…<br>
+    ✅ <ruby>彼<rt>かれ</rt></ruby>が<ruby>学生<rt>がくせい</rt></ruby>**か**どうか…
 
-    ❌ その{町(まち)}が{静(しず)}か**だか**どうか…  
-    ✅ その{町(まち)}が{静(しず)}か**か**どうか…
+    ❌ その<ruby>町<rt>まち</rt></ruby>が<ruby>静<rt>しず</rt></ruby>か**だか**どうか…<br>
+    ✅ その<ruby>町<rt>まち</rt></ruby>が<ruby>静<rt>しず</rt></ruby>か**か**どうか…
 
-    This rule applies only to *present affirmative*. Past tense (`だった`) and negative (`じゃない / ではない`) forms keep their shape.
+    This rule applies only to *present affirmative*. Past tense (だった) and negative (じゃない / ではない) forms keep their shape.
 
 !!! warning "Pitfall 3 — Using 〜かどうか with a Question Word"
-    The `どうか` part means "or not" — it's meaningless when there's a question word like "what" or "where" because there's no yes/no choice to negate.
+    The どうか part means "or not" — it's meaningless when there's already a question word like "what" or "where."
 
-    ❌ {何(なに)}を{食(た)}べる**かどうか**{決(き)}めましょう。 ("Let's decide whether to eat what" — nonsensical)  
-    ✅ {何(なに)}を{食(た)}べる**か**{決(き)}めましょう。 ("Let's decide what to eat")
+    ❌ <ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる**かどうか**<ruby>決<rt>き</rt></ruby>めましょう。 (nonsensical — "Let's decide whether to eat what")<br>
+    ✅ <ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べる**か**<ruby>決<rt>き</rt></ruby>めましょう。 ("Let's decide what to eat")
 
-    Mental check: if the English is a wh-question, use `か`. If the English is "whether/if," use `かどうか`.
+    Mental check: wh-question → use か. Whether/if → use かどうか.
 
-!!! tip "Stylistic Tip — Dropping the Final `か` in Casual Speech"
-    In casual speech, the final `か` in an embedded wh-question is sometimes dropped when the main verb is something like {知(し)}っている / {分(わ)}かる:
+!!! tip "Stylistic Tip — Dropping the Final か in Casual Speech"
+    In casual speech, the final か in an embedded wh-question is sometimes dropped with verbs like <ruby>知<rt>し</rt></ruby>っている / <ruby>分<rt>わ</rt></ruby>かる:
 
-    Formal: {彼(かれ)}がどこに{住(す)}んでいる**か**、{知(し)}ってる?  
-    Casual: {彼(かれ)}がどこに{住(す)}んでる、{知(し)}ってる?
+    Formal: <ruby>彼<rt>かれ</rt></ruby>がどこに<ruby>住<rt>す</rt></ruby>んでいる**か**、<ruby>知<rt>し</rt></ruby>ってる?<br>
+    Casual: <ruby>彼<rt>かれ</rt></ruby>がどこに<ruby>住<rt>す</rt></ruby>んでる、<ruby>知<rt>し</rt></ruby>ってる?
 
-    But the `か`-dropped version sounds rough. For N3 study and any formal register, keep the `か`.
+    The か-dropped version sounds rough. For N3 study and any formal register, keep the か.
 
 !!! note "Nuance — 〜かどうか vs. 〜か〜ないか"
-    There's an alternative form that's slightly more explicit: `〜か〜ないか`, which spells out the "or not" explicitly.
+    There's an alternative form that spells out the "or not" explicitly:
 
-    {行(い)}くかどうか{分(わ)}からない ≈ {行(い)}くか{行(い)}かないか{分(わ)}からない — "I don't know whether I'll go or not."
+    <ruby>行<rt>い</rt></ruby>くかどうか<ruby>分<rt>わ</rt></ruby>からない ≈ <ruby>行<rt>い</rt></ruby>くか<ruby>行<rt>い</rt></ruby>かないか<ruby>分<rt>わ</rt></ruby>からない
 
-    The `〜か〜ないか` version is slightly more emphatic about the binary choice. Both are natural; `かどうか` is more common and compact.
+    "I don't know whether I'll go or not."
+
+    The 〜か〜ないか version is slightly more emphatic about the binary choice. Both are natural; かどうか is more common and compact.
 
 ---
 
@@ -243,19 +247,19 @@ The choice is entirely determined by whether the embedded clause contains a ques
 
 | Scenario | N4: Direct Question | N3: Embedded Question | Nuance Difference |
 |---|---|---|---|
-| **Knowing** | {何時(なんじ)}ですか？ "What time is it?" | {何時(なんじ)}**か**{知(し)}っていますか。 "Do you know what time it is?" | Embedded is much softer — better for strangers or superiors. |
-| **Checking** | {雨(あめ)}が{降(ふ)}りますか。 "Will it rain?" | {雨(あめ)}が{降(ふ)}る**かどうか**{確(たし)}かめます。 "I will check if it will rain." | Turns the question into an object of investigation. |
-| **Deciding** | {結婚(けっこん)}しますか？ "Will you marry?" | {結婚(けっこん)}する**か**{考(かんが)}えています。 "I'm thinking about whether to marry." | Allows you to express internal process and deliberation. |
+| **Knowing** | <ruby>何時<rt>なんじ</rt></ruby>ですか？ "What time is it?" | <ruby>何時<rt>なんじ</rt></ruby>**か**<ruby>知<rt>し</rt></ruby>っていますか。 "Do you know what time it is?" | Embedded is much softer — better for strangers or superiors. |
+| **Checking** | <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りますか。 "Will it rain?" | <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る**かどうか**<ruby>確<rt>たし</rt></ruby>かめます。 "I will check if it will rain." | Turns the question into an object of investigation. |
+| **Deciding** | <ruby>結婚<rt>けっこん</rt></ruby>しますか？ "Will you marry?" | <ruby>結婚<rt>けっこん</rt></ruby>する**か**<ruby>考<rt>かんが</rt></ruby>えています。 "I'm thinking about whether to marry." | Allows you to express internal process and deliberation. |
 
 ---
 
 ## 7. Practice Drill
 
-1. **Convert:** 「{会議(かいぎ)}は{何時(なんじ)}に{始(はじ)}まりますか？」→ "Please tell me what time the meeting starts."
-2. **Combine:** この{答(こた)}えは{正(ただ)}しいですか。+ {確(たし)}かめてください。→ One sentence using 〜か or 〜かどうか.
+1. **Convert:** 「<ruby>会議<rt>かいぎ</rt></ruby>は<ruby>何時<rt>なんじ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まりますか？」→ "Please tell me what time the meeting starts."
+2. **Combine:** この<ruby>答<rt>こた</rt></ruby>えは<ruby>正<rt>ただ</rt></ruby>しいですか。+ <ruby>確<rt>たし</rt></ruby>かめてください。→ One sentence using 〜か or 〜かどうか.
 3. **Translate:** "I haven't decided yet whether I'll study abroad next year."
 4. **Translate:** "Do you remember where we put the keys?"
-5. **Spot and fix the error:** {彼(かれ)}が{元気(げんき)}**だか**どうか{心配(しんぱい)}しています。
+5. **Spot and fix the error:** <ruby>彼<rt>かれ</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>**だか**どうか<ruby>心配<rt>しんぱい</rt></ruby>しています。
 
 ---
 
@@ -263,31 +267,31 @@ The choice is entirely determined by whether the embedded clause contains a ques
 
 ??? success "Click to reveal answers"
 
-    **Question 1**  
-    {会議(かいぎ)}が{何時(なんじ)}に{始(はじ)}まる**か**{教(おし)}えてください。  
-    Wh-question ({何時(なんじ)}), so use `〜か`. Note the particle shift from は to が: the embedded clause is subordinate and takes が for its subject. The polite form {始(はじ)}まります becomes plain {始(はじ)}まる.
+    **Question 1**<br>
+    <ruby>会議<rt>かいぎ</rt></ruby>が<ruby>何時<rt>なんじ</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まる**か**<ruby>教<rt>おし</rt></ruby>えてください。<br>
+    Wh-question (<ruby>何時<rt>なんじ</rt></ruby>), so use 〜か. Note the particle shift from は to が: the embedded clause is subordinate and takes が for its subject. The polite form <ruby>始<rt>はじ</rt></ruby>まります becomes plain <ruby>始<rt>はじ</rt></ruby>まる.
 
     ---
 
-    **Question 2**  
-    この{答(こた)}えが{正(ただ)}しい**かどうか**{確(たし)}かめてください。  
-    Yes/no question (is it correct?), so use `〜かどうか`. {正(ただ)}しい is an i-adjective, so it attaches directly with no だ issue.
+    **Question 2**<br>
+    この<ruby>答<rt>こた</rt></ruby>えが<ruby>正<rt>ただ</rt></ruby>しい**かどうか**<ruby>確<rt>たし</rt></ruby>かめてください。<br>
+    Yes/no question (is it correct?), so use 〜かどうか. <ruby>正<rt>ただ</rt></ruby>しい is an i-adjective, so it attaches directly with no だ issue.
 
     ---
 
-    **Question 3**  
-    {来年(らいねん)}{留学(りゅうがく)}する**かどうか**、まだ{決(き)}めていません。  
-    Yes/no question (will study abroad or not), so `〜かどうか`. {決(き)}めていません (have not decided) is the natural form — not {決(き)}めません (won't decide), because the issue is ongoing indecision, not refusal.
+    **Question 3**<br>
+    <ruby>来年<rt>らいねん</rt></ruby><ruby>留学<rt>りゅうがく</rt></ruby>する**かどうか**、まだ<ruby>決<rt>き</rt></ruby>めていません。<br>
+    Yes/no question (will study abroad or not), so 〜かどうか. <ruby>決<rt>き</rt></ruby>めていません (have not decided) is the natural form — not <ruby>決<rt>き</rt></ruby>めません (won't decide), because the issue is ongoing indecision, not refusal.
 
     ---
 
-    **Question 4**  
-    {鍵(かぎ)}をどこに{置(お)}いた**か**{覚(おぼ)}えていますか。  
-    Wh-question (どこ), so `〜か`. Past tense {置(お)}いた preserved inside the embedded clause.
+    **Question 4**<br>
+    <ruby>鍵<rt>かぎ</rt></ruby>をどこに<ruby>置<rt>お</rt></ruby>いた**か**<ruby>覚<rt>おぼ</rt></ruby>えていますか。<br>
+    Wh-question (どこ), so 〜か. Past tense <ruby>置<rt>お</rt></ruby>いた preserved inside the embedded clause.
 
     ---
 
-    **Question 5**  
-    ❌ {彼(かれ)}が{元気(げんき)}**だか**どうか{心配(しんぱい)}しています。  
-    ✅ {彼(かれ)}が{元気(げんき)}**か**どうか{心配(しんぱい)}しています。  
-    {元気(げんき)} is a na-adjective; the だ must be dropped before かどうか in present affirmative form. Compare to past tense: {元気(げんき)}**だった**かどうか is fine because だった is past-tense copula, not present だ.
+    **Question 5**<br>
+    ❌ <ruby>彼<rt>かれ</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>**だか**どうか<ruby>心配<rt>しんぱい</rt></ruby>しています。<br>
+    ✅ <ruby>彼<rt>かれ</rt></ruby>が<ruby>元気<rt>げんき</rt></ruby>**か**どうか<ruby>心配<rt>しんぱい</rt></ruby>しています。<br>
+    <ruby>元気<rt>げんき</rt></ruby> is a na-adjective; the だ must be dropped before かどうか in present affirmative form. Compare to past tense: <ruby>元気<rt>げんき</rt></ruby>**だった**かどうか is fine because だった is past-tense copula, not present だ.
