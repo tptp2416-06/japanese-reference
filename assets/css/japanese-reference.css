@@ -10,6 +10,9 @@
    DESIGN TOKEN LAYER
    All colors defined here. Edit tokens, not individual rules.
    ────────────────────────────────────────────────────────────── */
+   
+   
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;600;700&display=swap');
 
 :root {
   /* Canvas */
@@ -1000,4 +1003,17 @@ ruby rt {
   color: var(--ref-blue);
   text-decoration: underline;
   text-underline-offset: 2px;
+}
+
+/* ──────────────────────────────────────────────────────────────
+   GLOBAL FONT OVERRIDE
+   Counteracts any global Japanese font stack set by anki-cards.css
+   or custom.css
+   ────────────────────────────────────────────────────────────── */
+
+body,
+.md-typeset,
+.md-content,
+.md-content__inner {
+  font-family: "Source Code Pro", "Inter", -apple-system, BlinkMacSystemFont, sans-serif !important;
 }
