@@ -11,8 +11,7 @@
    All colors defined here. Edit tokens, not individual rules.
    ────────────────────────────────────────────────────────────── */
    
-   
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
 
 :root {
   /* Canvas */
@@ -72,11 +71,11 @@
   --ref-tone-bg:         rgba(138, 98, 0, 0.07);
 
   /* Wrap sizing */
-  --ref-wrap-max:        880px;
+  --ref-wrap-max:        960px;   /* was 880px — slightly wider body text */
   --ref-font-base:       17px;
   --ref-line-height:     1.75;
   --ref-font-jp:         "Hiragino Sans", "Noto Sans JP", "Yu Gothic", sans-serif;
-  --ref-font-ui:         "Source Code Pro", "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --ref-font-ui:         "Nunito", "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -220,10 +219,10 @@
 
 
 /* ──────────────────────────────────────────────────────────────
-   CLAUDE HEADER BADGE
+   AI HEADER BADGE
    ────────────────────────────────────────────────────────────── */
 
-.claude-header {
+.aimodel-header {
   font-size: 0.78em;
   font-weight: 600;
   font-variant: small-caps;
@@ -238,11 +237,27 @@
 }
 
 @media (prefers-color-scheme: dark) {
-  .claude-header {
+  .aimodel-header {
     color: #FFAF2E;
     border-color: #FFAF2E;
     background-color: rgba(255, 175, 46, 0.07);
   }
+}
+
+/* ──────────────────────────────────────────────────────────────
+   JAPANESE HEADER BADGE
+   ────────────────────────────────────────────────────────────── */
+
+.jp-heading {
+  font-family: var(--ref-font-jp);
+  font-size: 1.35em;
+  font-weight: 500;
+  line-height: 1.55;
+  color: var(--ref-text-primary);
+  margin: 0 0 16px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid var(--ref-border);
+  letter-spacing: 0.02em;
 }
 
 
@@ -511,6 +526,7 @@ ruby rt {
 .sb-wrap table {
   border-collapse: collapse;
   width: 100%;
+  max-width: none;           /* ← add this line */
   margin: 14px 0 20px;
   font-size: 0.93em;
   line-height: 1.55;
@@ -545,6 +561,7 @@ ruby rt {
   border-bottom: 1px solid var(--ref-border);
   border-right: 1px solid var(--ref-border);
   vertical-align: top;
+  line-height: 2.2;  /* extra room for rt above kanji */
   color: var(--ref-text-secondary);
   background-color: transparent;
 }
@@ -697,60 +714,130 @@ ruby rt {
 }
 
 
+
 /* ──────────────────────────────────────────────────────────────
-   JLPT LEVEL PROGRESSION BLOCK
+   LEVEL TIER — Badge-only progression system
    ────────────────────────────────────────────────────────────── */
 
 .level-tier {
   display: flex;
-  gap: 14px;
-  align-items: flex-start;
-  margin: 10px 0;
-  padding: 10px 14px;
-  border-radius: 5px;
-  background-color: var(--ref-bg-inset);
-  border: 1px solid var(--ref-border);
+  flex-direction: column;
+  gap: 10px;
+  margin: 12px 0;
+  /* remove any background or border that may be inherited from .sb-wrap */
+  background: none;
+  border: none;
+  padding: 0;
 }
 
-.level-tier .tier-badge {
+.level-tier-item {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 12px 16px;
+  border-radius: 6px;
+  background-color: var(--ref-bg-subtle);
+  border: 1px solid var(--ref-border);
+  line-height: 1.65;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.level-tier-item.current {
+  border-color: var(--ref-orange-border);
+  background-color: var(--ref-orange-subtle);
+}
+
+/* ── Tier badges ── */
+.tier-badge {
   flex-shrink: 0;
+  align-self: flex-start;  /* ← keeps badge left-aligned */
   font-size: 0.72em;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.06em;
-  color: var(--ref-badge-text);
-  background-color: var(--ref-badge-bg);
-  padding: 3px 8px;
+  padding: 3px 9px;
   border-radius: 4px;
   white-space: nowrap;
-  margin-top: 2px;
 }
 
-.level-tier .tier-content {
+/* N4 — teal/turquoise */
+.tier-badge.n4 {
+  background-color: rgba(20, 184, 166, 0.15);
+  color: #0d9488;
+  border: 1px solid rgba(20, 184, 166, 0.35);
+}
+
+/* N3 — steel blue */
+.tier-badge.n3 {
+  background-color: rgba(46, 125, 175, 0.15);
+  color: #2E7DAF;
+  border: 1px solid rgba(46, 125, 175, 0.35);
+}
+
+/* N2 — muted purple */
+.tier-badge.n2 {
+  background-color: rgba(107, 70, 168, 0.12);
+  color: #6B46A8;
+  border: 1px solid rgba(107, 70, 168, 0.3);
+}
+
+/* Current grammar point — orange, matches ref-callback */
+.tier-badge.current {
+  background-color: rgba(237, 98, 5, 0.15);
+  color: #ED6205;
+  border: 1px solid rgba(237, 98, 5, 0.4);
+}
+
+/* ── Tier content ── */
+.tier-content {
   flex: 1;
   font-size: 0.93em;
   color: var(--ref-text-secondary);
-  line-height: 1.6;
 }
 
-.level-tier .tier-content .tier-example {
+.tier-content .tier-example {
+  display: block;
   font-family: var(--ref-font-jp);
   font-size: 1.02em;
   color: var(--ref-text-primary);
+  margin-top: 5px;
+}
+
+.tier-content .literal-line {
   display: block;
-  margin-top: 4px;
+  font-size: 0.86em;
+  color: var(--ref-text-faint);
+  font-style: italic;
+  margin-top: 2px;
 }
 
-/* N2 awareness tier — slightly muted */
-.level-tier.awareness {
-  opacity: 0.75;
-  border-style: dashed;
-}
-
-.level-tier.awareness .tier-badge {
-  background-color: var(--ref-bg-inset);
-  color: var(--ref-text-muted);
-  border: 1px solid var(--ref-border-strong);
+/* ── Dark mode ── */
+@media (prefers-color-scheme: dark) {
+  .tier-badge.n4 {
+    background-color: rgba(20, 184, 166, 0.12);
+    color: #2dd4bf;
+    border-color: rgba(45, 212, 191, 0.3);
+  }
+  .tier-badge.n3 {
+    background-color: rgba(126, 200, 227, 0.1);
+    color: #7EC8E3;
+    border-color: rgba(126, 200, 227, 0.3);
+  }
+  .tier-badge.n2 {
+    background-color: rgba(196, 168, 232, 0.1);
+    color: #C4A8E8;
+    border-color: rgba(196, 168, 232, 0.28);
+  }
+  .tier-badge.current {
+    background-color: rgba(255, 140, 66, 0.12);
+    color: #FF8C42;
+    border-color: rgba(255, 140, 66, 0.35);
+  }
+  .level-tier-item.current {
+    border-color: rgba(255, 140, 66, 0.35);
+    background-color: rgba(255, 140, 66, 0.06);
+  }
 }
 
 
@@ -973,6 +1060,111 @@ ruby rt {
   margin-bottom: 8px;
 }
 
+/* ──────────────────────────────────────────────────────────────
+   ADDITIONAL / MISC.
+   Reference, TOC, navigation, misc.
+   ────────────────────────────────────────────────────────────── */
+
+/* Page jump list */
+.ref-toc {
+  font-size: 0.92em;
+  padding: 12px 16px;
+  border: 1px solid var(--ref-border);
+  border-radius: 6px;
+  background-color: var(--ref-bg-subtle);
+  margin: 16px 0 24px;
+}
+
+/* Quick summary box */
+.ref-summary {
+  padding: 14px 18px;
+  border-left: 4px solid var(--ref-blue);
+  background-color: var(--ref-blue-subtle);
+  border-radius: 0 6px 6px 0;
+  margin: 16px 0;
+}
+
+/* Small example label */
+.example-label {
+  font-size: 0.72em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ref-text-faint);
+  display: block;
+  margin-bottom: 4px;
+}
+
+/* Literal / natural translation pair */
+.translation-pair {
+  margin: 10px 0 14px;
+  padding: 10px 14px;
+  border: 1px solid var(--ref-border);
+  border-radius: 6px;
+  background-color: var(--ref-bg-subtle);
+}
+
+/* Variation block */
+.variation-block {
+  margin: 12px 0;
+  padding: 12px 16px;
+  border: 1px solid var(--ref-border);
+  border-radius: 6px;
+  background-color: var(--ref-bg-subtle);
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   REFERENCE CALL BACK
+   Section header and content styled in brand orange (#ED6205)
+   ────────────────────────────────────────────────────────────── */
+
+.ref-callback h4 {
+  font-size: 0.82em;
+  font-weight: 700;
+  font-variant: small-caps;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 5px 14px;
+  margin: 32px 0 14px;
+  border: 1px solid rgba(237, 98, 5, 0.45);
+  border-radius: 5px;
+  color: #ED6205;
+  background-color: rgba(237, 98, 5, 0.06);
+}
+
+.ref-callback p,
+.ref-callback li,
+.ref-callback .note-main,
+.ref-callback .note-sub {
+  color: var(--ref-text-secondary);
+}
+
+.ref-callback .chain-term {
+  color: #ED6205;
+}
+
+.ref-callback .jb {
+  color: #ED6205;
+}
+
+@media (prefers-color-scheme: dark) {
+  .ref-callback h4 {
+    color: #FF8C42;
+    border-color: rgba(255, 140, 66, 0.4);
+    background-color: rgba(255, 140, 66, 0.07);
+  }
+
+  .ref-callback .chain-term {
+    color: #FF8C42;
+  }
+
+  .ref-callback .jb {
+    color: #FF8C42;
+  }
+}
+
 
 /* ──────────────────────────────────────────────────────────────
    MATERIAL THEME CONFLICT RESETS
@@ -1015,5 +1207,5 @@ body,
 .md-typeset,
 .md-content,
 .md-content__inner {
-  font-family: "Source Code Pro", "Inter", -apple-system, BlinkMacSystemFont, sans-serif !important;
+  font-family: "Nunito", "Hiragino Sans", "Noto Sans JP", sans-serif !important;
 }
