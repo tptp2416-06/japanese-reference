@@ -1,0 +1,1003 @@
+/* ============================================================
+   japanese-reference.css
+   MkDocs Material Theme — Japanese Grammar Reference Site
+   Companion to anki-style.css (shared HTML, separate rendering)
+   Light + Dark mode via @media (prefers-color-scheme: dark)
+   ============================================================ */
+
+
+/* ──────────────────────────────────────────────────────────────
+   DESIGN TOKEN LAYER
+   All colors defined here. Edit tokens, not individual rules.
+   ────────────────────────────────────────────────────────────── */
+
+:root {
+  /* Canvas */
+  --ref-bg:              #FFFFFF;
+  --ref-bg-subtle:       #F8F7F4;
+  --ref-bg-inset:        #F2F0EC;
+  --ref-border:          #E0DDD6;
+  --ref-border-strong:   #C8C4BC;
+
+  /* Text */
+  --ref-text-primary:    #1A1A1A;
+  --ref-text-secondary:  #4A4740;
+  --ref-text-muted:      #706A5E;
+  --ref-text-faint:      #9A9488;
+
+  /* Brand / accent — steel blue */
+  --ref-blue:            #2E7DAF;
+  --ref-blue-subtle:     rgba(46, 125, 175, 0.08);
+  --ref-blue-border:     rgba(46, 125, 175, 0.28);
+
+  /* Semantic colors */
+  --ref-green:           #2E9B4E;
+  --ref-green-subtle:    rgba(46, 155, 78, 0.08);
+  --ref-orange:          #C96A12;
+  --ref-orange-subtle:   rgba(201, 106, 18, 0.08);
+  --ref-orange-border:   #E67E22;
+  --ref-purple:          #6B46A8;
+  --ref-purple-subtle:   rgba(107, 70, 168, 0.08);
+  --ref-red:             #C0392B;
+  --ref-red-subtle:      rgba(192, 57, 43, 0.07);
+  --ref-coral:           #C0624A;
+  --ref-gold:            #A07800;
+  --ref-gold-bg:         #FFF8DC;
+  --ref-gold-border:     #D4A017;
+  --ref-pink:            #F20A65;
+
+  /* Furigana */
+  --ref-ruby:            #C96A12;
+
+  /* Tag badge */
+  --ref-tag-text:        #F20A65;
+  --ref-tag-border:      rgba(242, 10, 101, 0.35);
+  --ref-tag-bg:          rgba(242, 10, 101, 0.05);
+
+  /* Upgrade / status badge */
+  --ref-badge-text:      #1A1A1A;
+  --ref-badge-bg:        #FFD900;
+
+  /* Anchor label */
+  --ref-anchor-text:     #0077CC;
+  --ref-anchor-border:   #0077CC;
+  --ref-anchor-bg:       rgba(0, 119, 204, 0.07);
+
+  /* Tone label */
+  --ref-tone-text:       #8A6200;
+  --ref-tone-border:     rgba(138, 98, 0, 0.45);
+  --ref-tone-bg:         rgba(138, 98, 0, 0.07);
+
+  /* Wrap sizing */
+  --ref-wrap-max:        880px;
+  --ref-font-base:       17px;
+  --ref-line-height:     1.75;
+  --ref-font-jp:         "Hiragino Sans", "Noto Sans JP", "Yu Gothic", sans-serif;
+  --ref-font-ui:         "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ref-bg:              #1E1E1E;
+    --ref-bg-subtle:       #252525;
+    --ref-bg-inset:        #2C2C2C;
+    --ref-border:          #3A3A3A;
+    --ref-border-strong:   #505050;
+
+    --ref-text-primary:    #E8E6E0;
+    --ref-text-secondary:  #C8C4BC;
+    --ref-text-muted:      #9A9488;
+    --ref-text-faint:      #6A6460;
+
+    --ref-blue:            #7EC8E3;
+    --ref-blue-subtle:     rgba(126, 200, 227, 0.08);
+    --ref-blue-border:     rgba(126, 200, 227, 0.25);
+
+    --ref-green:           #8BFF82;
+    --ref-green-subtle:    rgba(139, 255, 130, 0.07);
+    --ref-orange:          #FF8C00;
+    --ref-orange-subtle:   rgba(255, 140, 0, 0.08);
+    --ref-orange-border:   #F39C12;
+    --ref-purple:          #C4A8E8;
+    --ref-purple-subtle:   rgba(196, 168, 232, 0.08);
+    --ref-red:             #FF6B6B;
+    --ref-red-subtle:      rgba(255, 107, 107, 0.07);
+    --ref-coral:           #EAC4F2;
+    --ref-gold:            #FFD700;
+    --ref-gold-bg:         rgba(255, 215, 0, 0.07);
+    --ref-gold-border:     rgba(255, 215, 0, 0.35);
+    --ref-pink:            #FF5CAF;
+
+    --ref-ruby:            #FF8C42;
+
+    --ref-tag-text:        #FF5CAF;
+    --ref-tag-border:      rgba(255, 92, 175, 0.35);
+    --ref-tag-bg:          rgba(255, 92, 175, 0.06);
+
+    --ref-badge-text:      #1A1A1A;
+    --ref-badge-bg:        #FFD900;
+
+    --ref-anchor-text:     #B0FFF1;
+    --ref-anchor-border:   #B0FFF1;
+    --ref-anchor-bg:       rgba(176, 255, 241, 0.07);
+
+    --ref-tone-text:       #FFD166;
+    --ref-tone-border:     rgba(255, 209, 102, 0.45);
+    --ref-tone-bg:         rgba(255, 209, 102, 0.07);
+  }
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   WRAPPER — overrides Material's content column inside .sb-wrap
+   ────────────────────────────────────────────────────────────── */
+
+.sb-wrap {
+  font-family: var(--ref-font-ui);
+  font-size: var(--ref-font-base);
+  line-height: var(--ref-line-height);
+  color: var(--ref-text-primary);
+  max-width: var(--ref-wrap-max);
+  margin: 0 auto;
+  padding: 24px 20px 48px;
+}
+
+/* H1 — sentence display at top of card */
+.sb-wrap h1 {
+  font-family: var(--ref-font-jp);
+  font-size: 1.55em;
+  font-weight: 500;
+  line-height: 1.55;
+  text-align: center;
+  padding: 20px 12px 16px;
+  margin: 0 0 8px;
+  letter-spacing: 0.02em;
+  border-bottom: 2px solid var(--ref-border);
+  color: var(--ref-text-primary);
+}
+
+/* H4 — section headers (JLPT Level, Core Rule, Grammar Analysis…) */
+.sb-wrap h4 {
+  font-size: 0.82em;
+  font-weight: 700;
+  font-variant: small-caps;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  text-align: center;
+  padding: 5px 14px;
+  margin: 32px 0 14px;
+  border: 1px solid var(--ref-blue-border);
+  border-radius: 5px;
+  color: var(--ref-blue);
+  background-color: var(--ref-blue-subtle);
+}
+
+/* HR — section dividers */
+.sb-wrap hr {
+  border: none;
+  border-top: 1px solid var(--ref-border);
+  margin: 28px 0;
+  opacity: 0.6;
+}
+
+/* Lists — reset Material overrides */
+.sb-wrap ul {
+  margin: 6px 0 4px;
+  padding-left: 0;
+  list-style: none;
+}
+.sb-wrap ul ul {
+  margin: 3px 0 4px;
+  padding-left: 24px;
+}
+.sb-wrap ul ul ul {
+  padding-left: 24px;
+}
+.sb-wrap li {
+  margin-bottom: 6px;
+  list-style: none;
+}
+.sb-wrap p {
+  margin-bottom: 4px;
+}
+.sb-wrap .m {
+  margin: 12px 0;
+}
+.sb-wrap .ind {
+  margin: 3px 0 3px 22px;
+  color: var(--ref-text-secondary);
+}
+
+/* Bold / strong */
+.sb-wrap b,
+.sb-wrap strong {
+  font-weight: 700;
+  color: var(--ref-coral);
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   CLAUDE HEADER BADGE
+   ────────────────────────────────────────────────────────────── */
+
+.claude-header {
+  font-size: 0.78em;
+  font-weight: 600;
+  font-variant: small-caps;
+  letter-spacing: 0.06em;
+  padding: 4px 10px;
+  margin: 0 0 16px;
+  text-align: center;
+  border: 1.5px solid #F29602;
+  border-radius: 5px;
+  color: #F29602;
+  background-color: rgba(242, 150, 2, 0.06);
+}
+
+@media (prefers-color-scheme: dark) {
+  .claude-header {
+    color: #FFAF2E;
+    border-color: #FFAF2E;
+    background-color: rgba(255, 175, 46, 0.07);
+  }
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   RUBY / FURIGANA
+   Slightly larger than Anki for comfortable reading
+   ────────────────────────────────────────────────────────────── */
+
+ruby rt {
+  color: var(--ref-ruby);
+  font-size: 0.58em;
+  line-height: 1;
+  font-weight: 400;
+  font-family: "Klee One", "Klee", var(--ref-font-jp);
+  letter-spacing: 0.03em;
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   CORE TEXT CLASSES — carried over from Anki, re-tuned for web
+   ────────────────────────────────────────────────────────────── */
+
+/* Secondary / technical info line */
+.meta-info {
+  font-size: 0.79em;
+  color: var(--ref-purple);
+  display: block;
+  margin-top: 2px;
+  line-height: 1.5;
+}
+
+/* Primary meaning / core function */
+.note-main {
+  color: var(--ref-text-primary);
+  display: block;
+  margin-top: 4px;
+  line-height: 1.65;
+}
+
+/* Commentary / supplementary observation */
+.note-sub {
+  font-size: 0.92em;
+  color: var(--ref-text-muted);
+  display: block;
+  margin-top: 3px;
+  line-height: 1.6;
+}
+
+/* High-value callout — learner traps, cultural mechanics */
+.note-callout {
+  font-size: 0.9em;
+  font-style: italic;
+  color: var(--ref-orange);
+  display: block;
+  margin: 12px 0 8px 4px;
+  padding: 10px 14px 10px 16px;
+  border-left: 3px solid var(--ref-orange-border);
+  border-radius: 0 4px 4px 0;
+  background-color: var(--ref-orange-subtle);
+  line-height: 1.65;
+}
+
+/* Lead-in label — Natural English:, The Gap:, Shift:, Q: */
+.label {
+  font-weight: 700;
+  color: var(--ref-green);
+}
+
+/* Natural English label specifically */
+.nat-eng {
+  font-weight: 700;
+  color: var(--ref-blue);
+}
+
+/* Shift / Change / Gains / Loses labels */
+.shift-label {
+  font-weight: 700;
+  color: var(--ref-purple);
+}
+
+/* Japanese inline emphasis within English prose */
+.jb {
+  font-weight: 700;
+  color: var(--ref-coral);
+  font-family: var(--ref-font-jp);
+}
+
+/* Chain term — the form being analyzed, before ➝ */
+.chain-term {
+  font-weight: 600;
+  color: var(--ref-blue);
+  font-family: var(--ref-font-jp);
+}
+
+/* Tag — bracketed grammar/level labels ⟦⟧ */
+.tag {
+  color: var(--ref-tag-text);
+  font-size: 0.88em;
+  font-weight: 500;
+  background-color: var(--ref-tag-bg);
+  border: 1px solid var(--ref-tag-border);
+  border-radius: 3px;
+  padding: 1px 5px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+/* Anchor chunk label */
+.anchor-label {
+  display: inline-block;
+  font-size: 0.68em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ref-anchor-text);
+  border: 1px solid var(--ref-anchor-border);
+  border-radius: 4px;
+  padding: 1px 5px;
+  margin-right: 6px;
+  vertical-align: middle;
+  background-color: var(--ref-anchor-bg);
+}
+
+/* Tone label badge */
+.tone-label {
+  display: inline-block;
+  font-size: 0.72em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--ref-tone-text);
+  border: 1px solid var(--ref-tone-border);
+  border-radius: 4px;
+  padding: 1px 6px;
+  margin-left: 6px;
+  vertical-align: middle;
+  background-color: var(--ref-tone-bg);
+}
+
+/* Grammar label — structural description in chain layers */
+.grammar-label {
+  font-size: 0.84em;
+  color: var(--ref-text-faint);
+  font-weight: 400;
+  margin-left: 4px;
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   STATUS / UPGRADE BADGES
+   ────────────────────────────────────────────────────────────── */
+
+.sb-wrap .upgrade-status {
+  display: inline-block;
+  font-size: 0.76em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ref-badge-text);
+  background-color: var(--ref-badge-bg);
+  padding: 3px 8px;
+  border-radius: 4px;
+  margin: 6px 0 4px 0;
+}
+
+.sb-wrap .upgrade-jp {
+  font-family: var(--ref-font-jp);
+  font-size: 1.05em;
+  font-weight: 500;
+  margin: 6px 0 3px 20px;
+  color: var(--ref-text-primary);
+  line-height: 1.7;
+}
+
+.sb-wrap .upgrade-jp.old {
+  text-decoration: line-through;
+  font-size: 0.95em;
+  color: var(--ref-text-muted);
+}
+
+.sb-wrap .upgrade-why {
+  font-size: 0.92em;
+  color: var(--ref-text-secondary);
+  margin: 4px 0 4px 20px;
+  line-height: 1.6;
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   GRAMMAR STACKING CHAINS
+   ────────────────────────────────────────────────────────────── */
+
+.sb-wrap .chain-title {
+  font-weight: 700;
+  font-size: 1.0em;
+  color: var(--ref-blue);
+  margin: 20px 0 6px 0;
+  padding-bottom: 3px;
+  border-bottom: 1px solid var(--ref-blue-border);
+}
+
+.sb-wrap .chain-title:first-of-type {
+  margin-top: 10px;
+}
+
+.sb-wrap .chain-layer {
+  margin: 4px 0 4px 20px;
+  font-size: 0.95em;
+  line-height: 1.65;
+  color: var(--ref-text-secondary);
+}
+
+.sb-wrap .chain-layer .tag {
+  color: var(--ref-tag-text);
+  font-size: 0.9em;
+}
+
+.sb-wrap .chain-layer .note {
+  font-size: 0.88em;
+  color: var(--ref-text-muted);
+}
+
+/* Chain pin — callout for contractions, casual notes */
+.sb-wrap .chain-pin {
+  display: inline-block;
+  font-size: 0.88em;
+  margin: 6px 0 6px 28px;
+  color: var(--ref-gold);
+  font-weight: 600;
+  background-color: var(--ref-gold-bg);
+  border: 1px solid var(--ref-gold-border);
+  padding: 3px 10px;
+  border-radius: 4px;
+  line-height: 1.5;
+}
+
+@media (prefers-color-scheme: dark) {
+  .sb-wrap .chain-pin {
+    background-color: var(--ref-gold-bg);
+    border-color: var(--ref-gold-border);
+  }
+}
+
+/* Assembly block */
+.sb-wrap .assembly-label {
+  font-weight: 700;
+  font-size: 0.78em;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--ref-red);
+  margin: 20px 0 4px 0;
+}
+
+.sb-wrap .assembly-line {
+  font-size: 0.94em;
+  margin: 3px 0 3px 20px;
+  line-height: 1.6;
+  color: var(--ref-text-secondary);
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   TABLES
+   Material resets aggressively — we re-establish everything here
+   ────────────────────────────────────────────────────────────── */
+
+.sb-wrap table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 14px 0 20px;
+  font-size: 0.93em;
+  line-height: 1.55;
+  border: 1px solid var(--ref-border);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.sb-wrap thead {
+  background-color: var(--ref-blue-subtle);
+}
+
+.sb-wrap th {
+  font-weight: 700;
+  font-size: 0.82em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ref-blue);
+  padding: 9px 14px;
+  border-bottom: 2px solid var(--ref-blue-border);
+  border-right: 1px solid var(--ref-border);
+  text-align: left;
+  background-color: transparent;
+}
+
+.sb-wrap th:last-child {
+  border-right: none;
+}
+
+.sb-wrap td {
+  padding: 8px 14px;
+  border-bottom: 1px solid var(--ref-border);
+  border-right: 1px solid var(--ref-border);
+  vertical-align: top;
+  color: var(--ref-text-secondary);
+  background-color: transparent;
+}
+
+.sb-wrap td:last-child {
+  border-right: none;
+}
+
+.sb-wrap tr:last-child td {
+  border-bottom: none;
+}
+
+.sb-wrap tbody tr:nth-child(even) td {
+  background-color: var(--ref-bg-subtle);
+}
+
+.sb-wrap tbody tr:hover td {
+  background-color: var(--ref-blue-subtle);
+  transition: background-color 0.12s ease;
+}
+
+/* Nuance comparison table — first column (grammar point) emphasis */
+.sb-wrap table td:first-child {
+  font-weight: 600;
+  color: var(--ref-text-primary);
+  font-family: var(--ref-font-jp);
+  white-space: nowrap;
+}
+
+/* Conjugation table — base form column */
+.sb-wrap table.conj-table td:nth-child(2) {
+  font-family: var(--ref-font-jp);
+  font-size: 1.05em;
+  color: var(--ref-blue);
+  font-weight: 500;
+}
+
+/* Conjugation table — attached pattern column */
+.sb-wrap table.conj-table td:nth-child(3) {
+  font-family: var(--ref-font-jp);
+  font-size: 1.05em;
+  color: var(--ref-coral);
+  font-weight: 600;
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   CONJUGATION TABLE (dedicated class)
+   Use <table class="conj-table"> for conjugation grids
+   ────────────────────────────────────────────────────────────── */
+
+.conj-table {
+  font-family: var(--ref-font-jp);
+}
+
+.conj-table thead {
+  background-color: var(--ref-purple-subtle);
+}
+
+.conj-table th {
+  color: var(--ref-purple);
+  border-bottom-color: rgba(107, 70, 168, 0.3);
+}
+
+/* Row type label — word type column */
+.conj-table .row-type {
+  font-family: var(--ref-font-ui);
+  font-size: 0.85em;
+  color: var(--ref-text-muted);
+  font-weight: 500;
+}
+
+/* Structural note column */
+.conj-table .struct-note {
+  font-family: var(--ref-font-ui);
+  font-size: 0.82em;
+  color: var(--ref-text-faint);
+  font-style: italic;
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   QUOTE BLOCKS
+   For Japanese dialogue, example sentences, and spoken excerpts
+   ────────────────────────────────────────────────────────────── */
+
+/* Standard Japanese example block */
+.jp-quote {
+  font-family: var(--ref-font-jp);
+  font-size: 1.08em;
+  font-weight: 400;
+  line-height: 1.85;
+  margin: 12px 0 6px 0;
+  padding: 12px 18px;
+  border-left: 3px solid var(--ref-blue);
+  background-color: var(--ref-blue-subtle);
+  border-radius: 0 5px 5px 0;
+  color: var(--ref-text-primary);
+}
+
+/* Dialogue block — for multi-speaker exchanges */
+.dialogue-block {
+  margin: 14px 0;
+  padding: 14px 18px;
+  background-color: var(--ref-bg-subtle);
+  border: 1px solid var(--ref-border);
+  border-radius: 6px;
+}
+
+.dialogue-block .speaker {
+  font-size: 0.76em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--ref-text-faint);
+  margin-bottom: 2px;
+  display: block;
+}
+
+.dialogue-block .speaker-line {
+  font-family: var(--ref-font-jp);
+  font-size: 1.06em;
+  line-height: 1.8;
+  color: var(--ref-text-primary);
+  margin-bottom: 10px;
+  padding-left: 10px;
+  border-left: 2px solid var(--ref-border-strong);
+}
+
+.dialogue-block .speaker-line:last-child {
+  margin-bottom: 0;
+}
+
+/* Context note below an example */
+.context-note {
+  font-size: 0.83em;
+  color: var(--ref-text-muted);
+  font-style: italic;
+  margin: 4px 0 10px 4px;
+  padding-left: 12px;
+  border-left: 2px solid var(--ref-border);
+}
+
+/* Literal translation line */
+.literal-line {
+  font-size: 0.86em;
+  color: var(--ref-text-faint);
+  margin: 2px 0 6px 4px;
+  font-style: italic;
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   JLPT LEVEL PROGRESSION BLOCK
+   ────────────────────────────────────────────────────────────── */
+
+.level-tier {
+  display: flex;
+  gap: 14px;
+  align-items: flex-start;
+  margin: 10px 0;
+  padding: 10px 14px;
+  border-radius: 5px;
+  background-color: var(--ref-bg-inset);
+  border: 1px solid var(--ref-border);
+}
+
+.level-tier .tier-badge {
+  flex-shrink: 0;
+  font-size: 0.72em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ref-badge-text);
+  background-color: var(--ref-badge-bg);
+  padding: 3px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+  margin-top: 2px;
+}
+
+.level-tier .tier-content {
+  flex: 1;
+  font-size: 0.93em;
+  color: var(--ref-text-secondary);
+  line-height: 1.6;
+}
+
+.level-tier .tier-content .tier-example {
+  font-family: var(--ref-font-jp);
+  font-size: 1.02em;
+  color: var(--ref-text-primary);
+  display: block;
+  margin-top: 4px;
+}
+
+/* N2 awareness tier — slightly muted */
+.level-tier.awareness {
+  opacity: 0.75;
+  border-style: dashed;
+}
+
+.level-tier.awareness .tier-badge {
+  background-color: var(--ref-bg-inset);
+  color: var(--ref-text-muted);
+  border: 1px solid var(--ref-border-strong);
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   FORMALITY REGISTER BLOCKS
+   ────────────────────────────────────────────────────────────── */
+
+.register-block {
+  margin: 12px 0;
+  padding: 12px 16px;
+  border-radius: 5px;
+  border: 1px solid var(--ref-border);
+  background-color: var(--ref-bg-subtle);
+}
+
+.register-block .register-label {
+  font-size: 0.74em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  color: var(--ref-text-faint);
+  margin-bottom: 6px;
+  display: block;
+}
+
+.register-block.casual   { border-left: 3px solid var(--ref-green); }
+.register-block.polite   { border-left: 3px solid var(--ref-blue); }
+.register-block.formal   { border-left: 3px solid var(--ref-purple); }
+.register-block.humble   { border-left: 3px solid var(--ref-gold); }
+.register-block.awareness { border-left: 3px solid var(--ref-border-strong); opacity: 0.78; }
+
+.register-block .register-label.casual  { color: var(--ref-green); }
+.register-block .register-label.polite  { color: var(--ref-blue); }
+.register-block .register-label.formal  { color: var(--ref-purple); }
+.register-block .register-label.humble  { color: var(--ref-gold); }
+
+.register-block .jp-line {
+  font-family: var(--ref-font-jp);
+  font-size: 1.06em;
+  line-height: 1.8;
+  color: var(--ref-text-primary);
+  margin-bottom: 4px;
+}
+
+.register-block .shift-note {
+  font-size: 0.86em;
+  color: var(--ref-text-muted);
+  margin-top: 4px;
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   MINIMAL PAIR BLOCK
+   For Don't Confuse With section
+   ────────────────────────────────────────────────────────────── */
+
+.minimal-pair {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin: 12px 0;
+}
+
+.minimal-pair .pair-item {
+  padding: 10px 14px;
+  border-radius: 5px;
+  border: 1px solid var(--ref-border);
+  background-color: var(--ref-bg-inset);
+}
+
+.minimal-pair .pair-item.correct {
+  border-color: rgba(46, 155, 78, 0.4);
+  background-color: var(--ref-green-subtle);
+}
+
+.minimal-pair .pair-item.contrast {
+  border-color: var(--ref-red-subtle);
+  background-color: var(--ref-red-subtle);
+}
+
+.minimal-pair .pair-label {
+  font-size: 0.72em;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ref-text-faint);
+  margin-bottom: 4px;
+  display: block;
+}
+
+.minimal-pair .pair-jp {
+  font-family: var(--ref-font-jp);
+  font-size: 1.04em;
+  line-height: 1.75;
+  color: var(--ref-text-primary);
+  display: block;
+}
+
+.minimal-pair .pair-en {
+  font-size: 0.86em;
+  color: var(--ref-text-muted);
+  font-style: italic;
+  display: block;
+  margin-top: 3px;
+}
+
+/* Responsive: stack on narrow screens */
+@media (max-width: 600px) {
+  .minimal-pair {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   WARNING / NOTE / INFO ADMONITION BLOCKS
+   Supplements Material's built-in admonitions for inline use
+   ────────────────────────────────────────────────────────────── */
+
+.ref-warning,
+.ref-note,
+.ref-info,
+.ref-tip {
+  display: block;
+  font-size: 0.91em;
+  line-height: 1.65;
+  margin: 14px 0;
+  padding: 11px 16px;
+  border-radius: 5px;
+  border-left: 4px solid;
+}
+
+.ref-warning {
+  border-color: #E74C3C;
+  background-color: rgba(231, 76, 60, 0.06);
+  color: var(--ref-text-secondary);
+}
+
+.ref-note {
+  border-color: var(--ref-orange-border);
+  background-color: var(--ref-orange-subtle);
+  color: var(--ref-text-secondary);
+  font-style: italic;
+}
+
+.ref-info {
+  border-color: var(--ref-blue);
+  background-color: var(--ref-blue-subtle);
+  color: var(--ref-text-secondary);
+}
+
+.ref-tip {
+  border-color: var(--ref-green);
+  background-color: var(--ref-green-subtle);
+  color: var(--ref-text-secondary);
+}
+
+.ref-warning::before { content: "⚠️  "; font-style: normal; }
+.ref-note::before    { content: "💡  "; font-style: normal; }
+.ref-info::before    { content: "ℹ️  "; font-style: normal; }
+.ref-tip::before     { content: "✅  "; font-style: normal; }
+
+
+/* ──────────────────────────────────────────────────────────────
+   INLINE TEXT UTILITIES
+   ────────────────────────────────────────────────────────────── */
+
+.red   { color: #C0392B; font-weight: 600; }
+.gold  { color: var(--ref-gold); font-weight: 600; }
+.blue  { color: var(--ref-blue); font-weight: 600; }
+.pink  { color: var(--ref-pink); font-weight: 600; }
+.small-text { font-size: 0.76em; color: var(--ref-text-muted); }
+
+@media (prefers-color-scheme: dark) {
+  .red  { color: #FF6B6B; }
+  .gold { color: #FFD700; }
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   NOTES / SUPPLEMENTAL SECTIONS
+   ────────────────────────────────────────────────────────────── */
+
+.notes-section,
+.supplemental-section {
+  font-size: 0.95em;
+  color: var(--ref-text-secondary);
+  line-height: 1.7;
+}
+
+.notes-section ul,
+.supplemental-section ul {
+  margin: 6px 0 10px;
+  padding-left: 20px;
+}
+
+.notes-section ul ul,
+.supplemental-section ul ul {
+  margin: 3px 0 6px;
+  padding-left: 24px;
+}
+
+.notes-section li,
+.supplemental-section li {
+  margin-bottom: 5px;
+}
+
+.notes-label,
+.supplemental-label {
+  display: block;
+  font-size: 0.88em;
+  font-variant: small-caps;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  color: #E05550;
+  border: 2px solid rgba(224, 85, 80, 0.2);
+  border-radius: 4px;
+  background-color: rgba(224, 85, 80, 0.05);
+  padding: 7px 12px;
+  margin-bottom: 8px;
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   MATERIAL THEME CONFLICT RESETS
+   Prevent Material from overriding our typography inside .sb-wrap
+   ────────────────────────────────────────────────────────────── */
+
+/* Material sets table styles globally — reset inside our wrap */
+.sb-wrap table:not([class]) th,
+.sb-wrap table:not([class]) td {
+  border: 1px solid var(--ref-border);
+}
+
+/* Material sometimes adds list bullets back via ::before */
+.sb-wrap ul li::before {
+  display: none !important;
+}
+
+/* Material's .md-typeset can override font sizes */
+.md-typeset .sb-wrap {
+  font-size: var(--ref-font-base);
+}
+
+.md-typeset .sb-wrap h1 { font-size: 1.55em; }
+.md-typeset .sb-wrap h4 { font-size: 0.82em; }
+
+/* Prevent Material link styles on Japanese text inside .sb-wrap */
+.sb-wrap a {
+  color: var(--ref-blue);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}

@@ -45,6 +45,7 @@ theme:
 extra_css:
   - assets/css/anki-cards.css
   - assets/css/custom.css
+  - assets/css/japanese-reference.css
 
 extra_javascript:
   - assets/js/custom.js
