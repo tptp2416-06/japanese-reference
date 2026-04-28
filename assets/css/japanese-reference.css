@@ -73,7 +73,7 @@
   --ref-font-base:       17px;
   --ref-line-height:     1.75;
   --ref-font-jp:         "Hiragino Sans", "Noto Sans JP", "Yu Gothic", sans-serif;
-  --ref-font-ui:         "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --ref-font-ui:         "Source Code Pro", "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
