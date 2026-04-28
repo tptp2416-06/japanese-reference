@@ -17,6 +17,7 @@ This is a searchable, navigable companion to the Anki deck. Cards are organized 
 
   <div class="card-grid-item">
     <h3><a href="grammar/">Grammar</a></h3>
+    <p>Te-form, tense & aspect, conditionals, auxiliaries, and conjugation chains.</p>
 
   </div>
 
@@ -27,6 +28,11 @@ This is a searchable, navigable companion to the Anki deck. Cards are organized 
 
   <div class="card-grid-item">
     <h3><a href="dialogues/">Dialogues</a></h3>
+
+  </div>
+
+    <div class="card-grid-item">
+    <h3><a href="tags/">Tags</a></h3>
 
   </div>
 

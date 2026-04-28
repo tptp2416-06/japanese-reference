@@ -26,7 +26,7 @@ theme:
         name: Switch to light mode
 
   font:
-    text: Source Code Pro
+    text: Nunito
     code: JetBrains Mono
 
   features:
@@ -90,6 +90,11 @@ nav:
     - 〜ていけばいい・Reassurance of Sufficient Ongoing Action: grammar/te-ikebaiikara.md
     - Extra Modest Expressions: grammar/modest-expressions.md
     - 〜か・Embedded Questions: grammar/questions-in-sentences.md
+    - ChatGpt Test 1: grammar/chatgpt-test1.md
+    - Claude Test 1: grammar/claude-test1.md
+    - Gemini Test 1: grammar/gemini-test1.md
+    - DeepSeek Test 1: grammar/deepseek-test1.md
+    - Test One: grammar/test1.md
   - Patterns:
     - patterns/index.md
     - Softeners & Hedges: patterns/softeners.md
@@ -97,7 +102,9 @@ nav:
     - Emotional Register: patterns/emotional-register.md
   - Dialogues:
     - dialogues/index.md
+    - dialogues/test.md
     - Sample Dialogue: dialogues/sample-dialogue.md
+  - Tags: tags.md
 
 extra:
   tags:

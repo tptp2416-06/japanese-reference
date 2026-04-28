@@ -3,6 +3,8 @@
    Japanese Reference — MkDocs Material
    ============================================================ */
 
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
 /* ── Custom accent colors ── */
 :root {
   --md-primary-fg-color: #2E7DAF;
@@ -14,13 +16,17 @@
 /* ── Japanese font stack ── */
 body,
 .md-content {
-  font-family: "Source Code Pro", "Hiragino Sans", "Noto Sans JP", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: "Nunito", "Hiragino Sans", "Noto Sans JP", -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 /* ── Ensure Japanese text renders well ── */
-:lang(ja),
 .japanese,
-ruby {
+ruby,
+.jp-quote,
+.dialogue-block .speaker-line,
+.register-block .jp-line,
+.chain-term,
+.jb {
   font-family: "Hiragino Sans", "Noto Sans JP", "Yu Gothic", sans-serif;
 }
 
@@ -146,4 +152,48 @@ ruby {
   ruby rt {
     color: #eb5e00;
   }
+}
+
+body,
+.md-typeset,
+.md-content,
+.md-content__inner {
+  font-family: "Nunito", "Hiragino Sans", "Noto Sans JP", sans-serif !important;
+}
+
+.md-typeset {
+  font-size: 0.85rem;
+  line-height: 1.75;
+  letter-spacing: 0.01em;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: "Nunito", "Hiragino Sans", "Noto Sans JP", sans-serif !important;
+}
+
+:root,
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+  --md-text-font: "Nunito";
+  --md-text-font-family: "Nunito", "Hiragino Sans", "Noto Sans JP", sans-serif;
+}
+
+/* Step 1 — widen the overall Material grid */
+.md-grid {
+  max-width: 1600px;
+}
+
+/* Step 2 — allow the content column to use available space */
+.md-content {
+  max-width: 100%;
+}
+
+.md-content__inner {
+  max-width: 100%;
+  padding: 0 32px;
 }
