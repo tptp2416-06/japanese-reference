@@ -26,7 +26,7 @@ theme:
         name: Switch to light mode
 
   font:
-    text: Inter
+    text: Source Code Pro
     code: JetBrains Mono
 
   features:
@@ -43,7 +43,6 @@ theme:
     - toc.follow                # TOC highlights as you scroll
 
 extra_css:
-  - assets/css/anki-cards.css
   - assets/css/custom.css
   - assets/css/japanese-reference.css
 

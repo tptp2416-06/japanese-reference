@@ -14,7 +14,7 @@
 /* ── Japanese font stack ── */
 body,
 .md-content {
-  font-family: "Inter", "Hiragino Sans", "Noto Sans JP", -apple-system, BlinkMacSystemFont, sans-serif;
+  font-family: "Source Code Pro", "Hiragino Sans", "Noto Sans JP", -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
 /* ── Ensure Japanese text renders well ── */
