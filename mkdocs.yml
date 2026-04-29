@@ -55,6 +55,14 @@ plugins:
         - en
         - ja
   - tags
+  - glightbox
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+  - minify:
+      minify_html: true
+  - awesome-pages
+  - section-index
 
 markdown_extensions:
   - abbr
@@ -65,18 +73,19 @@ markdown_extensions:
   - md_in_html
   - pymdownx.details
   - pymdownx.superfences
-
-  - toc:
-      permalink: true
-      title: On this page
-  - pymdownx.details
-  - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
-  - pymdownx.highlight
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+      title: On this page
 
 nav:
   - Home: index.md
@@ -91,10 +100,11 @@ nav:
     - Extra Modest Expressions: grammar/modest-expressions.md
     - 〜か・Embedded Questions: grammar/questions-in-sentences.md
     - ChatGpt Test 1: grammar/chatgpt-test1.md
-    - Claude Test 1: grammar/claude-test1.md
+    - Claude Test 1 - HTML MD Hybrid: grammar/claude-test1.md
     - Gemini Test 1: grammar/gemini-test1.md
     - DeepSeek Test 1: grammar/deepseek-test1.md
     - Test One: grammar/test1.md
+    - Claude MD Version: grammar/claude-test2-mdversion.md
   - Patterns:
     - patterns/index.md
     - Softeners & Hedges: patterns/softeners.md
