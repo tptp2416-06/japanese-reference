@@ -1209,3 +1209,122 @@ body,
 .md-content__inner {
   font-family: "Nunito", "Hiragino Sans", "Noto Sans JP", sans-serif !important;
 }
+
+/* ──────────────────────────────────────────────────────────────
+   MARKDOWN UTILITY CLASSES
+   Used via attr_list: [text]{.class}
+   ────────────────────────────────────────────────────────────── */
+
+/* Current / You are here — orange */
+.here {
+  color: #ED6205;
+  font-weight: 700;
+  background-color: rgba(237, 98, 5, 0.08);
+  padding: 1px 6px;
+  border-radius: 4px;
+  border: 1px solid rgba(237, 98, 5, 0.3);
+}
+
+@media (prefers-color-scheme: dark) {
+  .here {
+    color: #FF8C42;
+    background-color: rgba(255, 140, 66, 0.12);
+    border-color: rgba(255, 140, 66, 0.35);
+  }
+}
+
+/* Main label — green, matches .label in Anki CSS */
+.mlabel {
+  color: #2E9B4E;
+  font-weight: 700;
+}
+
+@media (prefers-color-scheme: dark) {
+  .mlabel {
+    color: #8BFF82;
+  }
+}
+
+/* Sub-label — muted purple, matches .shift-label in Anki CSS */
+.slabel {
+  color: #7B5EA7;
+  font-weight: 600;
+}
+
+@media (prefers-color-scheme: dark) {
+  .slabel {
+    color: #C4A8E8;
+  }
+}
+
+/* Mistake — red, for incorrect Japanese usage */
+.mistake {
+  color: #C0392B;
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: rgba(192, 57, 43, 0.4);
+  text-decoration-style: wavy;
+  text-underline-offset: 3px;
+}
+
+@media (prefers-color-scheme: dark) {
+  .mistake {
+    color: #FF6B6B;
+    text-decoration-color: rgba(255, 107, 107, 0.45);
+  }
+}
+
+/* Change highlight color globally */
+.md-typeset mark {
+  background-color: rgba(237, 98, 5, 0.15);  /* orange tint */
+  color: inherit;
+}
+
+@media (prefers-color-scheme: dark) {
+  .md-typeset mark {
+    background-color: rgba(255, 140, 66, 0.18);
+  }
+}
+
+.md-typeset strong {
+  color: #C0624A;  /* matches your Anki coral */
+  font-weight: 700;
+}
+
+@media (prefers-color-scheme: dark) {
+  .md-typeset strong {
+    color: #EAC4F2;
+  }
+}
+
+/* ──────────────────────────────────────────────────────────────
+   SUBSCRIPT — repurposed as inline meta / secondary info
+   Larger than standard sub, no baseline shift, muted color
+   ────────────────────────────────────────────────────────────── */
+
+.md-typeset sub {
+  font-size: 0.82em;          /* larger than default sub (0.6–0.7em) */
+  vertical-align: baseline;   /* remove the downward shift */
+  color: var(--ref-purple);   /* matches .meta-info in Anki CSS */
+  font-style: normal;
+  line-height: 1.5;
+}
+
+@media (prefers-color-scheme: dark) {
+  .md-typeset sub {
+    color: #C4A8E8;           /* soft lavender, matches dark mode meta-info */
+  }
+}
+
+/* Hide header row on example tables */
+.example-table thead {
+  display: none;
+}
+
+/* Lighter sub-section divider */
+.md-typeset h3 {
+  border-bottom: 1px solid var(--ref-border);
+  padding-bottom: 6px;
+  margin-top: 28px;
+}
+
