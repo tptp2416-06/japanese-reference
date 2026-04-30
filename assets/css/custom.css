@@ -167,6 +167,7 @@ body,
   letter-spacing: 0.01em;
 }
 
+/* ── Heading styles ── */
 .md-typeset h1,
 .md-typeset h2,
 .md-typeset h3,
@@ -174,6 +175,76 @@ body,
 .md-typeset h5,
 .md-typeset h6 {
   font-family: "Nunito", "Hiragino Sans", "Noto Sans JP", sans-serif !important;
+}
+
+.md-typeset h1 {
+  color: #2E7DAF;
+  font-size: 2em;
+  font-weight: 800;
+  border-bottom: 2px solid #2E7DAF;
+  padding-bottom: 6px;
+}
+
+.md-typeset h2 {
+  color: #2E7DAF;
+  font-size: 1.5em;
+  font-weight: 700;
+  border-bottom: 1px solid rgba(46, 125, 175, 0.35);
+  padding-bottom: 4px;
+}
+
+.md-typeset h3 {
+  color: #F29602;
+  font-size: 1.2em;
+  font-weight: 700;
+  border-bottom: 1px solid rgba(242, 150, 2, 0.35);
+  padding-bottom: 3px;
+}
+
+.md-typeset h4 {
+  color: #7B5EA7;
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.md-typeset h5 {
+  color: #2E9B4E;
+  font-size: 0.9em;
+  font-weight: 600;
+}
+
+.md-typeset h6 {
+  color: #9A9488;
+  font-size: 0.85em;
+  font-weight: 600;
+}
+
+/* Dark mode overrides */
+[data-md-color-scheme="slate"] .md-typeset h1 {
+  color: #7EC8E3;
+  border-bottom-color: #7EC8E3;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h2 {
+  color: #7EC8E3;
+  border-bottom-color: rgba(126, 200, 227, 0.35);
+}
+
+[data-md-color-scheme="slate"] .md-typeset h3 {
+  color: #FFAF2E;
+  border-bottom-color: rgba(255, 175, 46, 0.35);
+}
+
+[data-md-color-scheme="slate"] .md-typeset h4 {
+  color: #C4A8E8;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h5 {
+  color: #8BFF82;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h6 {
+  color: #9A9488;
 }
 
 :root,
