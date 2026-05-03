@@ -14,27 +14,6 @@ tags:
 
 ---
 
-<div class="ref-toc">
-
-**On this page**
-
-- [JLPT Level](#jlpt-level)
-- [Quick Summary](#quick-summary)
-- [Core Meaning](#core-meaning)
-- [How It Works](#how-it-works)
-- [Grammar Analysis](#grammar-analysis)
-- [Japanese Mindset](#japanese-mindset)
-- [Nuance Comparison](#nuance-comparison)
-- [Register and Formality](#register-and-formality)
-- [Pattern Progression](#pattern-progression)
-- [Examples](#examples)
-- [Common Mistakes](#common-mistakes)
-- [Collocation Notes](#collocation-notes)
-- [Hidden Points](#hidden-points)
-- [Learner Stage](#learner-stage)
-- [See Also](#see-also)
-
-</div>
 
 ## JLPT Level {#jlpt-level}
 
@@ -494,14 +473,10 @@ The <span class="jb">～ばいいから</span> pattern frequently pairs with cer
 
 ## Reference Call Back
 
-<div class="ref-callback">
-  <h4 id="reference-call-back">Reference Call Back</h4>
   <p>If you've studied <span class="jb">～から</span> as a reason marker (N5), you learned that it provides an explanation. In <span class="jb">～ばいいから</span>, that logic is still present but has shifted into the pragmatic realm: the <em>reason</em> is no longer a factual cause but the speaker's own caring attention — "I'm saying this for your sake." The same goes for <span class="jb">～ば</span>: the conditional form you learned at N4 ("if A then B") is still structurally intact, but here B is <span class="jb">いい</span> — a judgment of sufficiency rather than a factual consequence. The leap from N4 to N3 here is learning to hear emotional warmth inside logical grammar.</p>
-</div>
+
 
 ## See Also {#see-also}
-
-<div class="sb-wrap">
 
 ### Same Family
 Related patterns within the same grammatical or functional family (conditionals used for advice, suggestion, and reassurance):
@@ -525,5 +500,3 @@ Patterns that build on this one at the next level:
 - ～ばいいのに — "If only…" — Frustrated or regretful のに overlay
 - ～ばよかった — "Should have…" — Counterfactual regret [N2 — awareness only]
 - ～ばそれでいい — "As long as…, that's all that matters" — Self-contained sufficiency [N2 — awareness only]
-
-</div>
