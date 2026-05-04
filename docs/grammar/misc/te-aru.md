@@ -19,17 +19,12 @@ tags:
 !!! abstract "JLPT Level — Upper N4 / Lower N3"
 
     The form 〜てある appears at N4, but the nuance — intentional setup and resulting state — is more N3-level.
-
+    
     | Tier | Pattern | Description | Example |
-
     |------|---------|-------------|---------|
-
     | N4 — Foundation | 〜ている | ongoing / resulting state (neutral) | ドアが<ruby>開<rt>あ</rt></ruby>いている。*"The door is open."* |
-
     | **N4 — Core ← You are here** | **〜てある** | **intentional result state left by someone** | ドアが<ruby>開<rt>あ</rt></ruby>けてある。*"The door has been opened (on purpose)."* |
-
     | N3 — Extended | omission of agent | focus only on result, not who did it | <ruby>資料<rt>しりょう</rt></ruby>は<ruby>用意<rt>ようい</rt></ruby>してあります。 |
-
     | N2 — Awareness | contrast nuance mastery | subtle difference from 〜ている in context | [Coming soon] |
 
 ---
@@ -128,13 +123,9 @@ In the reference sentence, the object of the action is そのこと — but it's
 ## Nuance Comparison {#nuance-comparison}
 
 | Pattern | Meaning | Nuance | Example | JLPT |
-
 |---------|--------|--------|---------|------|
-
 | 〜ている | state / ongoing | neutral | ドアが<ruby>開<rt>あ</rt></ruby>いている | N5 |
-
 | 〜てある | result of intentional action | prepared / done | ドアが<ruby>開<rt>あ</rt></ruby>けてある | N4 |
-
 | 〜ておく | do in advance | preparation action | ドアを<ruby>開<rt>あ</rt></ruby>けておく | N4 |
 
 ---
@@ -142,11 +133,8 @@ In the reference sentence, the object of the action is そのこと — but it's
 ### Micro Contrast
 
 | Sentence | Meaning | Difference |
-
 |----------|--------|------------|
-
 | ドアが<ruby>開<rt>あ</rt></ruby>いている | The door is open | state |
-
 | ドアが<ruby>開<rt>あ</rt></ruby>けてある | The door has been opened (on purpose) | intentional result |
 
 ---
@@ -400,15 +388,10 @@ This is distinct from the English present perfect ("I have spoken"), which repor
 ## Collocation Notes {#collocation-notes}
 
 | Collocation | Meaning |
-
 |-------------|---------|
-
 | <ruby>準備<rt>じゅんび</rt></ruby>してある | prepared |
-
 | <ruby>予約<rt>よやく</rt></ruby>してある | reserved |
-
 | <ruby>説明<rt>せつめい</rt></ruby>してある | explained |
-
 | <ruby>伝<rt>つた</rt></ruby>えてある | informed |
 
 ---
@@ -442,13 +425,9 @@ This is distinct from the English present perfect ("I have spoken"), which repor
 ## Learner Stage {#learner-stage}
 
 | Stage | Description |
-
 |-------|------------|
-
 | N4 | Understand “already done” meaning |
-
 | N3 | Distinguish from 〜ている |
-
 | N2 | Use naturally in nuance contexts |
 
 ---
