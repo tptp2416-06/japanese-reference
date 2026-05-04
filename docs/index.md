@@ -12,6 +12,8 @@ hide:
 This is a searchable, navigable companion to the Anki deck. Cards are organized by grammar point, pragmatic pattern, and dialogue type. Use the tabs above to browse, or use **Search** (press `S` or `/`) to find anything instantly — including Japanese text.
 
 ---
+[Verbs](grammar/verb/index.md)
+
 
 <div class="card-grid">
 

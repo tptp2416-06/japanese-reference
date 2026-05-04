@@ -9,6 +9,9 @@ tags:
 Conjugation chains, auxiliary stacks, and grammatical patterns organized by function.
 
 ---
+[Verbs](verbs/index.md)
+
+
 
 <div class="card-grid">
 
