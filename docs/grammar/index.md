@@ -13,6 +13,9 @@ Conjugation chains, auxiliary stacks, and grammatical patterns organized by func
 
 ---
 [Verbs](verbs/index.md)
+[Misc](misc/index.md)
+[Test](test/index.md)
+
 
 
 

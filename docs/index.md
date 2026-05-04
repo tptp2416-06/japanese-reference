@@ -14,10 +14,10 @@ This is a searchable, navigable companion to the Anki deck. Cards are organized 
 ---
 ## Grammar
 
-### Verbs Test [verbs test] (grammar/verbs/index.md) 
-[Verbs](grammar/verbs/index.md)
-[Misc](grammar/misc/index.md)
-[Test](grammar/test/index.md)
+### [Verbs](grammar/verbs/index.md)
+### [Verbs](grammar/verbs/index.md)
+### [Misc](grammar/misc/index.md)
+### [Test](grammar/test/index.md)
 
 
 
