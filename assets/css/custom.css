@@ -45,7 +45,7 @@ ruby,
 /* ── Tag chips in card index pages ── */
 .card-tag {
   display: inline-block;
-  font-size: 0.72em;
+  font-size: 0.75em;
   font-weight: 600;
   letter-spacing: 0.04em;
   padding: 2px 8px;
@@ -93,11 +93,11 @@ ruby,
 
 .card-grid-item h3 {
   margin: 0 0 8px;
-  font-size: 1.1em;
+  font-size: 1.12em;
 }
 
 .card-grid-item p {
-  font-size: 0.88em;
+  font-size: 0.9em;
   color: #555;
   margin: 0;
 }
@@ -162,7 +162,7 @@ body,
 }
 
 .md-typeset {
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   line-height: 1.75;
   letter-spacing: 0.01em;
 }
@@ -267,4 +267,29 @@ body,
 .md-content__inner {
   max-width: 100%;
   padding: 0 32px;
+}
+
+/* Tables */
+.md-typeset table {
+  font-size: 0.88rem;
+  line-height: 1.65;
+}
+
+/* Table cells */
+.md-typeset table th,
+.md-typeset table td {
+  font-size: 0.88rem;
+}
+
+/* Admonitions */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: 0.88rem;
+  line-height: 1.7;
+}
+
+/* Admonition title */
+.md-typeset .admonition-title,
+.md-typeset summary {
+  font-size: 0.9rem;
 }
