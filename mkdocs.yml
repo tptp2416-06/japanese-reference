@@ -98,7 +98,7 @@ nav:
       - Overview: grammar/misc/index.md
       - Te-form: grammar/misc/te-form.md
       - Casual Topic-Setting / Softening Pivot: grammar/misc/topic-pivot-casual.md
-      - Topic Markers Comparison: grammar/misc/topic-makers-comp.md
+      - Topic Markers Comparison: grammar/misc/topic-markers-comp.md
       - Tense & Aspect: grammar/misc/tense-aspect.md
       - Conditionals: grammar/misc/conditionals.md
       - のに・Frustrated Expectations: grammar/misc/noni-expectation.md
@@ -117,14 +117,16 @@ nav:
       - Perplexity Test 1: grammar/test/perplexity-test1.md
       - Test One: grammar/test/test1.md
       - Claude MD Version: grammar/test/claude-test2-mdversion.md
-
+  - Vocabulary:
+    - Overview: vocabulary/index.md
+    - 甘える - depending on others' kindness: dialogues/omaeru.md
   - Patterns:
-    - patterns/index.md
+    - Overview: patterns/index.md
     - Softeners & Hedges: patterns/softeners.md
     - Seeking Connection: patterns/seeking-connection.md
     - Emotional Register: patterns/emotional-register.md
   - Dialogues:
-    - dialogues/index.md
+    - Overview: dialogues/index.md
     - dialogues/test.md
     - Sample Dialogue: dialogues/sample-dialogue.md
     - Suddenly Started Running: dialogues/suddenrunning.md
