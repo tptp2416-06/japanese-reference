@@ -77,19 +77,19 @@ tags:
 
 The pattern is built from three layers:
 
-1. **てしまう**
-   - completion
-   - “do it fully”
-   - sometimes regret, but not always
+### てしまう
+- completion  
+- “do it fully”  
+- sometimes regret, but not always  
 
-2. **ちゃう**
-   - casual contraction of てしまう
-   - very common in spoken Japanese
+### ちゃう
+- casual contraction of てしまう  
+- very common in spoken Japanese  
 
-3. **ちゃいなよ**
-   - casual encouraging command / suggestion
-   - “go ahead and do it”
-   - often used when the speaker thinks the listener is hesitating unnecessarily
+### ちゃいなよ
+- casual encouraging command / suggestion  
+- “go ahead and do it”  
+- often used when the speaker thinks the listener is hesitating unnecessarily  
 
 | Layer | Form | Function |
 |------|------|----------|
