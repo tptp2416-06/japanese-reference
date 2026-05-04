@@ -91,26 +91,31 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Grammar:
-    - grammar/index.md
+    - Overview: grammar/index.md
     - Verbs:
-      - grammar/verbs/index.md
+      - Overview: grammar/verbs/index.md
       - Causative Form (〜せる / 〜させる) — Make / Let Someone Do Something: grammar/verbs/causative-form.md
-    - Te-form: grammar/te-form.md
-    - Tense & Aspect: grammar/tense-aspect.md
-    - Conditionals: grammar/conditionals.md
-    - のに・Frustrated Expectations: grammar/noni-expectation.md
-    - なって・Internal Quotation: grammar/natte-internalquote.md
-    - 〜ていけばいい・Reassurance of Sufficient Ongoing Action: grammar/te-ikebaiikara.md
-    - あっという間に vs. いつの間にか — Subjective Speed vs. Unnoticed Change・DeepSeek: grammar/speed-vs-change-deepseek.md
-    - Extra Modest Expressions: grammar/modest-expressions.md
-    - 〜か・Embedded Questions: grammar/questions-in-sentences.md
-    - ChatGpt Test 1: grammar/chatgpt-test1.md
-    - Claude Test 1 - HTML MD Hybrid: grammar/claude-test1.md
-    - Gemini Test 1: grammar/gemini-test1.md
-    - DeepSeek Test 1: grammar/deepseek-test1.md
-    - Test One: grammar/test1.md
-    - Claude MD Version: grammar/claude-test2-mdversion.md
-    - ～ちゃいなよ — Casual, Friendly Encouragement: grammar/chai-nayo-deepseek.md
+    - Misc:
+      - Overview: grammar/misc/index.md
+      - Te-form: grammar/misc/te-form.md
+      - Tense & Aspect: grammar/misc/tense-aspect.md
+      - Conditionals: grammar/misc/conditionals.md
+      - のに・Frustrated Expectations: grammar/misc/noni-expectation.md
+      - なって・Internal Quotation: grammar/misc/natte-internalquote.md
+      - 〜ていけばいい・Reassurance of Sufficient Ongoing Action: grammar/misc/te-ikebaiikara.md
+      - あっという間に vs. いつの間にか — Subjective Speed vs. Unnoticed Change・DeepSeek: grammar/misc/speed-vs-change-deepseek.md
+      - Extra Modest Expressions: grammar/misc/modest-expressions.md
+      - 〜か・Embedded Questions: grammar/misc/questions-in-sentences.md
+      - ～ちゃいなよ — Casual, Friendly Encouragement: grammar/misc/chai-nayo-deepseek.md
+    - Test:
+      - Overview: grammar/test/index.md
+      - ChatGpt Test 1: grammar/test/chatgpt-test1.md
+      - Claude Test 1 - HTML MD Hybrid: grammar/test/claude-test1.md
+      - Gemini Test 1: grammar/test/gemini-test1.md
+      - DeepSeek Test 1: grammar/test/deepseek-test1.md
+      - Test One: grammar/test/test1.md
+      - Claude MD Version: grammar/test/claude-test2-mdversion.md
+
   - Patterns:
     - patterns/index.md
     - Softeners & Hedges: patterns/softeners.md

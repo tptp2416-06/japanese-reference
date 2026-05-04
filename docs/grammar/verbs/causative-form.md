@@ -1,5 +1,3 @@
-Model: GPT-5.5 Thinking
-
 ---
 title: "Causative Form (〜せる / 〜させる) — Make / Let Someone Do Something"
 tags:
@@ -8,6 +6,9 @@ tags:
   - grammar-core
   - saseru
 ---
+
+###### Model: GPT-5.5 Thinking
+
 # Causative Form in Japanese
 ## 〜せる / 〜させる — Make / Let Someone Do Something {#causative}
 ---
