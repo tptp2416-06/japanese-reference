@@ -32,7 +32,6 @@ theme:
   features:
     - navigation.tabs           # Top-level tabs (Grammar / Patterns / Dialogues)
     - navigation.tabs.sticky    # Tabs stay visible when scrolling
-    - navigation.sections       # Collapsible sidebar sections
     - navigation.expand         # Auto-expand active section
     - navigation.top            # Back-to-top button
     - navigation.indexes        # Section index pages
@@ -113,6 +112,7 @@ nav:
       - Claude Test 1 - HTML MD Hybrid: grammar/test/claude-test1.md
       - Gemini Test 1: grammar/test/gemini-test1.md
       - DeepSeek Test 1: grammar/test/deepseek-test1.md
+      - Perplexity Test 1: grammar/test/perplexity-test1.md
       - Test One: grammar/test/test1.md
       - Claude MD Version: grammar/test/claude-test2-mdversion.md
 

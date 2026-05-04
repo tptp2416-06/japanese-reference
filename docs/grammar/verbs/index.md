@@ -6,8 +6,7 @@ tags:
 
 # Verbs
 
-## Causative Form
-[Causative Form (〜せる / 〜させる) — Make / Let Someone Do Something] (grammar/verbs/causative-form.md)
+## [Causative Form (〜せる / 〜させる) — Make / Let Someone Do Something](causative-form.md)
 
 ---
 Verb Forms and Conjugation Chains
