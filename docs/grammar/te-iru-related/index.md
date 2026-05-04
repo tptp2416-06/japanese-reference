@@ -10,6 +10,7 @@ tags:
 
 ##### [Overview](index.md)
 ###### [〜ている - Resultative Change](result-change.md)
+###### [なる + ている — The Resultative State of Becoming](naru-te-iru.md)
 
 
 ## N3

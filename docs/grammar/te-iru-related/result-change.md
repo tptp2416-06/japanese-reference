@@ -3,6 +3,7 @@ title: 〜ている - Resultative Change
 tags:
   - N3
   - Te-form
+  - DeepSeek Thinking
 ---
 
 
