@@ -91,6 +91,9 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Grammar:
+    - Verbs:
+      - grammar/verbs/index.md
+      - Causative Form (〜せる / 〜させる) — Make / Let Someone Do Something: grammar/verbs/causative-form.md
     - grammar/index.md
     - Te-form: grammar/te-form.md
     - Tense & Aspect: grammar/tense-aspect.md
