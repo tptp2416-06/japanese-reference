@@ -108,6 +108,9 @@ nav:
       - Extra Modest Expressions: grammar/misc/modest-expressions.md
       - 〜か・Embedded Questions: grammar/misc/questions-in-sentences.md
       - ～ちゃいなよ — Casual, Friendly Encouragement: grammar/misc/chai-nayo-deepseek.md
+    - 〜ている Related Content:
+      - Overview: grammar/te-iru-related/index.md
+      - 〜ている - Resultative Change: grammar/te-iru-related/result-change.md
     - Test:
       - Overview: grammar/test/index.md
       - ChatGpt Test 1: grammar/test/chatgpt-test1.md

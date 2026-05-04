@@ -17,6 +17,7 @@ This is a searchable, navigable companion to the Anki deck. Cards are organized 
 ### [Verbs](grammar/verbs/index.md)
 ### [Grammar](grammar/index.md)
 #### [Misc](grammar/misc/index.md)
+#### [〜ている Related Content](grammar/te-iru-related/index.md)
 #### [Test](grammar/test/index.md)
 ### [Vocabulary](vocabulary/index.md)
 ### [Patterns](patterns/index.md)
