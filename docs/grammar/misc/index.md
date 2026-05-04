@@ -21,4 +21,6 @@ tags:
 
 ## N3
 
+###### [〜てある — Completed Action with Ongoing Intent / Prepared State](te-aru.md)
+
 Verb Forms and Conjugation Chains
