@@ -5,6 +5,7 @@ tags:
   - conjunctions
   - emotional-contrast
   - nanoni
+  - Enter-Model-Used
 ---
 
 # Disappointed Contrast — なのに

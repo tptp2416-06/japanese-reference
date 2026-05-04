@@ -1,457 +1,364 @@
 ---
-title: "～ばいいから — Soft Encouragement: 'All You Need to Do Is...'"
+title: "〜ちゃいなよ — Casual Urging to Just Go Ahead and Do It"
 tags:
-  - N3-Core
-  - conditionals
-  - inner-voice
+  - N3-Lower
   - casual-spoken
-  - ikeba-ii
+  - urging
+  - suggestion
+  - chainaiyo
 ---
 
-# ～ばいいから — Soft Encouragement
+# Casual Urging — 〜ちゃいなよ
 
-## <ruby>行<rt>い</rt></ruby>ければいいから — "If You Can Just Go / It's Okay If You Just..." {#ikeba-ii-kara}
+## 〜ちゃいなよ — Just Go Ahead and [Do It]
 
 ---
-
-<div class="ref-toc">
-
-**On this page**
-
-- [JLPT Level](#jlpt-level)
-- [Quick Summary](#quick-summary)
-- [Core Meaning](#core-meaning)
-- [How It Works](#how-it-works)
-- [Grammar Analysis](#grammar-analysis)
-- [Japanese Mindset](#japanese-mindset)
-- [Nuance Comparison](#nuance-comparison)
-- [Register and Formality](#register-and-formality)
-- [Pattern Progression](#pattern-progression)
-- [Examples](#examples)
-- [Common Mistakes](#common-mistakes)
-- [Collocation Notes](#collocation-notes)
-- [Hidden Points](#hidden-points)
-- [Learner Stage](#learner-stage)
-- [See Also](#see-also)
-
-</div>
 
 ## JLPT Level {#jlpt-level}
 
-<div class="sb-wrap">
-<div class="aimodel-header">DeepSeek · DeepSeek-V3 · 2026-04-28</div>
+!!! abstract "JLPT Level — Lower N3"
+    The grammatical components (てしまう contraction + なさい contraction) are N4, but the combined form as a single casual urging chunk — and the ability to deploy it with natural warmth and timing — sits at lower N3.
 
-<span class="upgrade-status">N3 Core</span>
+    | Tier | Pattern | Description | Example |
+    |------|---------|-------------|---------|
+    | N4 — Foundation | 〜てしまう／〜ちゃう | Regrettable or complete action; things happening on their own or against one's will. | <ruby>食<rt>た</rt></ruby>べちゃった。*"I (accidentally) ate it."* |
+    | N4 — Foundation | 〜なさい | Polite but firm command — parent to child, teacher to student. | <ruby>食<rt>た</rt></ruby>べなさい。*"Eat up."* |
+    | **N3 — Core ← You are here** | **〜ちゃいなよ** | **Merges ちゃう + なさい into a warm, casual urging: "Just go ahead and do it — why hold back?"** | <ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っちゃいなよ。*"Go on ahead and get in."* |
+    | N3 — Extended | 〜ちゃいな | Bare form without よ — slightly more matter-of-fact, less coaxing. | <ruby>早<rt>はや</rt></ruby>く<ruby>食<rt>た</rt></ruby>べちゃいな。*"Just eat already."* |
+    | N2 — Awareness | 〜てしまいなさい | Uncontracted form. Rare in casual speech; sounds formal or written alongside a command. | さっさと<ruby>片付<rt>かたづ</rt></ruby>けてしまいなさい。*"Finish cleaning up at once."* |
 
-The input sentence is a textbook N3-level use of the conditional <span class="jb">～ばいい</span> combined with the sentence-ending particle <span class="jb">から</span>. At this level, learners are expected to move beyond simply identifying the grammar to understanding its pragmatic function as a soft, reassuring suggestion.
-
-<div class="level-tier">
-  <div class="tier-badge">N4 Base</div>
-  <div class="tier-content">
-    <span>Learner can use <span class="jb">～ば</span> for simple conditionals and <span class="jb">～ばいい</span> for asking or stating what one should do.</span>
-    <span class="tier-example"><ruby>何<rt>なに</rt></ruby>を<ruby>食<rt>た</rt></ruby>べればいいですか？</span>
-    <span class="literal-line">"What should I eat?" (Literal: "If I eat what, is good?")</span>
-  </div>
-</div>
-
-<div class="level-tier">
-  <div class="tier-badge">N3 Core</div>
-  <div class="tier-content">
-    <span>Learner recognizes <span class="jb">～ばいいから</span> as a fixed reassurance pattern: the speaker releases the listener from pressure by framing the path forward as simple and sufficient.</span>
-    <span class="tier-example"><ruby>無理<rt>むり</rt></ruby>しなくていいよ。<ruby>自分<rt>じぶん</rt></ruby>のペースでやっていけばいいから。</span>
-    <span class="literal-line">"You don't have to push yourself. As long as you keep going at your own pace, that's all you need."</span>
-  </div>
-</div>
-
-<div class="level-tier">
-  <div class="tier-badge">N3 Upper</div>
-  <div class="tier-content">
-    <span>Learner uses <span class="jb">～ばいい</span> with other final particles (<span class="jb">のに</span>, <span class="jb">じゃない</span>) and adjusts tone by choosing different conditional forms (<span class="jb">～たらいい</span> vs. <span class="jb">～ばいい</span>).</span>
-    <span class="tier-example">もっと<ruby>早<rt>はや</rt></ruby>く<ruby>言<rt>い</rt></ruby>えばいいのに。</span>
-    <span class="literal-line">"If only you had said something sooner." (regret, not reassurance)</span>
-  </div>
-</div>
-
-<div class="level-tier awareness">
-  <div class="tier-badge">N2 Awareness</div>
-  <div class="tier-content">
-    <span>Learner encounters <span class="jb">～ばよかった</span> (counterfactual regret), <span class="jb">～ばそれでよし</span> (self-contained sufficiency), and literary/humble variants in formal writing.</span>
-    <span class="tier-example">そのままにしておけばよかった。</span>
-    <span class="literal-line">"I should have just left it as it was."</span>
-  </div>
-</div>
-
-</div>
+---
 
 ## Quick Summary {#quick-summary}
 
-<div class="sb-wrap">
-<div class="ref-summary">
+!!! tip "At a glance"
+    - 〜ちゃいなよ is a warm, casual urging — it tells someone to **just go ahead and do something they might be hesitating about**, with a tone that is encouraging, not commanding.
+    - It's a contraction of 〜てしまいなさい (or 〜ちゃいなさい) — the urging version of てしまう.
+    - The 〜よ at the end softens it further into a coaxing suggestion among friends, family, or close colleagues.
+    - Common in domestic settings, between partners, close friends, or anyone in a relaxed in-group dynamic.
+    - The core nuance is **removing hesitation**: the speaker sees the listener holding back and nudges them forward.
 
-- <span class="jb">～ばいいから</span> means "as long as you just… / it's okay if you just… / all you need to do is…"
-- It is a <strong>reassurance pattern</strong>: it releases the listener from pressure or overthinking by presenting a single, simple course of action as sufficient.
-- The <span class="jb">から</span> at the end softens the statement further — it adds an implicit "so don't worry" or "so that's all there is to it" and makes the suggestion feel like a gentle nudge rather than a command.
-- At N3, mastering this pattern means the learner can comfort and encourage naturally in casual conversation — not just give factual instructions.
-
-</div>
-</div>
+---
 
 ## Core Meaning {#core-meaning}
 
-<div class="sb-wrap">
+!!! note "Core Rule"
+    Use 〜ちゃいなよ when you want to urge someone to **just go ahead and do something** — typically something they already want to do or should do, but are hesitating over. The tone is warm, casual, and encouraging, not a sharp command.
 
-<span class="note-callout">Mental anchor: <strong>～ばいい = "it's good if you just…"</strong>. The speaker identifies a minimal, achievable action and frames it as the complete solution — no more, no less is needed. Adding <strong>から</strong> wraps this in warmth: "this is why I'm telling you, so relax."</span>
+| <ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っちゃいなよ。 | Go on ahead and get in. |
+|---|---|
+| | *Literal: Ahead enter-and-finish — why don't you?* |
 
-In the input sentence:
+~Context: The input sentence. The bath is ready; one person is urging the other to go ahead without waiting for them. The hesitation being removed is the listener's restraint — they were probably waiting.~
 
-<div class="variation-block">
-  <div class="jp-quote"><ruby>無理<rt>むり</rt></ruby>しなくていいよ。<ruby>自分<rt>じぶん</rt></ruby>のペースでやっていけばいいから。</div>
-  <div class="translation-pair">
-    <span class="nat-eng">Natural English:</span> You don't have to push yourself. Just keep going at your own pace — that's all you need to do.<br>
-    <span class="literal-line">Literal: "Not pushing yourself is fine. If you go doing it at your own pace, it's good — so (don't worry)."</span>
-  </div>
-  <div class="context-note">Context: A friend, colleague, or family member is visibly stressed or overworking. The speaker is offering gentle, low-pressure encouragement.</div>
-</div>
+| いいから<ruby>食<rt>た</rt></ruby>べちゃいなよ。<ruby>冷<rt>さ</rt></ruby>める<ruby>前<rt>まえ</rt></ruby>に。 | Just go ahead and eat, really. Before it gets cold. |
+|---|---|
+| | *Literal: Never-mind, eat-and-finish, you know. Cold-become before.* |
 
-A simpler example:
+~Context: Someone is waiting out of politeness. The speaker releases them from that obligation with warmth.~
 
-<div class="variation-block">
-  <div class="jp-quote"><ruby>疲<rt>つか</rt></ruby>れたなら<ruby>休<rt>やす</rt></ruby>めばいいから。</div>
-  <div class="translation-pair">
-    <span class="nat-eng">Natural English:</span> If you're tired, just rest. That's all you need to do.<br>
-    <span class="literal-line">Literal: "If you're tired, it's good if you rest — so (go ahead)."</span>
-  </div>
-  <div class="context-note">Context: A partner or close friend looks exhausted. The speaker isn't giving permission; they're releasing the listener from obligation.</div>
-</div>
-
-</div>
+---
 
 ## How It Works {#how-it-works}
 
-<div class="sb-wrap">
+This pattern is a triple contraction with a pragmatic overlay — each layer carries a piece of the final meaning.
 
-The pattern works by <strong>lowering the bar</strong>. Instead of listing multiple requirements or setting a high standard, the speaker picks one simple action and says: "If you just do this, that's already good enough."
+**Layer 1 — てしまう → ちゃう:** The auxiliary verb てしまう marks completion or an action running its course — often with a nuance of something happening naturally, unintentionally, or unresisted. Contracted to ちゃう in casual speech. Here, it frames the action not as a formal decision but as something to just *let happen*.
 
-This is fundamentally a <strong>warm, permission-giving move</strong>. In Japanese communication, where explicit praise and direct reassurance can feel overstated, <span class="jb">～ばいいから</span> does the work indirectly: it tells the listener they are already on the right track and don't need to overcomplicate things.
+**Layer 2 — なさい → な:** なさい is a soft imperative — firmer than てください, softer than 命令形. It's the standard parent-to-child or teacher-to-student command form. Contracted to な, it loses some of its parental weight and becomes a casual, in-group urging.
 
-### Why the から Matters
+**Layer 3 — よ:** The sentence-final particle よ adds coaxing warmth. Without it, 〜ちゃいな is a straightforward urging. With it, the speaker is leaning in — "c'mon, just do it, it's fine."
 
-Without <span class="jb">から</span>, <span class="jb">～ばいい</span> can sometimes sound objective or even cool — "you should do X" or "X is the correct course of action." Adding <span class="jb">から</span> at the end injects warmth and connectedness. It implies: <em>"I'm telling you this because I care"</em> or <em>"this is the reason you can relax."</em>
+**Combined:** ちゃう (natural completion) + な (casual command) + よ (coaxing) = "Just go ahead and let it happen — what are you waiting for?"
 
-Compare:
+| <ruby>遠慮<rt>えんりょ</rt></ruby>しないで<ruby>入<rt>はい</rt></ruby>っちゃいなよ。 | Don't hold back — just go on in. |
+|---|---|
+| | *Literal: Restraint don't-do, enter-and-finish-why-don't-you.* |
+| | *The full social move: remove the hesitation word (遠慮), then supply the urging form.* |
 
-<div class="minimal-pair">
-  <div class="pair-item correct">
-    <span class="pair-label">With から (warm, connected)</span>
-    <span class="pair-jp">ゆっくり<ruby>休<rt>やす</rt></ruby>めばいいからね。</span>
-    <span class="pair-en">"Just get some rest, okay? (That's all you need — I'm saying this for you.)"</span>
-  </div>
-  <div class="pair-item contrast">
-    <span class="pair-label">Without から (cool, objective)</span>
-    <span class="pair-jp">ゆっくり<ruby>休<rt>やす</rt></ruby>めばいい。</span>
-    <span class="pair-en">"You should just rest." (Could sound like a dry assessment or advice, depending on tone.)</span>
-  </div>
-</div>
+### Real Speech vs. Textbook Form
 
-### The Communicative Strategy
+This pattern is almost never taught in full form because it lives entirely in casual spoken Japanese. The textbook equivalent 〜てしまいなさい sounds stiff and parental by comparison.
 
-The speaker isn't giving instructions — they are <strong>closing the conversation about what to do</strong>. By saying <span class="jb">～ばいいから</span>, they signal: "This is settled. You don't need to think about it anymore." This is a common Japanese conversational move: providing a clear, simple resolution so the other person can stop worrying.
+| Form | Example | Note |
+|------|---------|------|
+| Natural spoken (urging) | <ruby>入<rt>はい</rt></ruby>っちゃいなよ | What you will hear between family and close friends |
+| Bare spoken (matter-of-fact) | <ruby>入<rt>はい</rt></ruby>っちゃいな | Slightly less coaxing; still casual and warm |
+| Textbook / parental | <ruby>入<rt>はい</rt></ruby>ってしまいなさい | Stiff; sounds like a mother telling a child to get in the bath |
+| Written / formal | <ruby>入<rt>はい</rt></ruby>ってしまってください | Grammatical but pragmatically odd — てしまう is casual; ください is polite. Rarely combined. |
 
-</div>
+---
 
 ## Grammar Analysis {#grammar-analysis}
 
-<div class="sb-wrap">
-
 ### Function in Context
 
-In the input sentence, <span class="jb">やっていけばいいから</span> does several things at once:
+In the input sentence — お風呂準備できてるから、もう先に入っちゃいなよ — the speaker sets up a reason (the bath is ready) and then issues the urging (just go ahead and get in). The から clause provides the permission structure; ちゃいなよ delivers the push.
 
-- <strong>Releases pressure:</strong> The first half of the sentence (<span class="jb">無理しなくていいよ</span>) already gives permission to stop overworking. The second half provides the alternative — but crucially, it doesn't set a new standard or demand productivity. It just says: keep existing, keep moving forward at whatever pace works.
-- <strong>Defines "enough":</strong> The <span class="jb">～ばいい</span> structure defines what counts as sufficient: going at your own pace. Nothing more is required.
-- <strong>Softens the delivery:</strong> The <span class="jb">から</span> turns what could be a statement of fact into a personal, caring gesture. It makes the sentence feel less like a prescription and more like a gift.
-- <strong>Closes the topic gently:</strong> The speaker isn't opening a discussion about mental health strategies. They're drawing a line: this is the answer, no need to dwell on it.
+- **お風呂準備できてるから** establishes that there is no obstacle — the bath is ready. This removes any practical reason to wait.
+- **もう** adds "already / at this point" — reinforcing that the moment for waiting has passed.
+- **先に** explicitly frames the action as going ahead — the listener is being urged to act independently.
+- **入っちゃいなよ** wraps the urging in warmth. The speaker isn't ordering the listener to get in — they're telling them to stop holding back and just do what they probably already want to do.
 
-If you remove <span class="jb">～ばいいから</span> and instead say <span class="jb">自分のペースでやってください</span>, the sentence shifts from a warm release into a straightforward instruction — it loses the emotional core.
+Without ちゃいなよ: 先に入って would be a simple "go in first." The urging and the warmth are missing.
 
 ### Construction {#construction}
 
-<table class="conj-table">
-  <thead>
-    <tr>
-      <th>Word Type</th>
-      <th>Base Form</th>
-      <th>Attached Pattern</th>
-      <th>Structural Note</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="row-type">Verb (plain non-past)</td>
-      <td><ruby>行<rt>い</rt></ruby>く</td>
-      <td><ruby>行<rt>い</rt></ruby>けばいい</td>
-      <td class="struct-note">Godan verb: く → け + ば</td>
-    </tr>
-    <tr>
-      <td class="row-type">Verb (plain past)</td>
-      <td><ruby>行<rt>い</rt></ruby>った</td>
-      <td>[Not used]</td>
-      <td class="struct-note">～ばいい is inherently non-past in orientation; for past counterfactuals, use ～ばよかった</td>
-    </tr>
-    <tr>
-      <td class="row-type">Verb (masu-form)</td>
-      <td><ruby>行<rt>い</rt></ruby>きます</td>
-      <td>[Not used]</td>
-      <td class="struct-note">～ば attaches to the plain conditional stem, not the masu stem</td>
-    </tr>
-    <tr>
-      <td class="row-type">Verb: する</td>
-      <td>する</td>
-      <td>すればいい</td>
-      <td class="struct-note">Irregular: する → すれ + ば</td>
-    </tr>
-    <tr>
-      <td class="row-type">Verb: くる</td>
-      <td>くる</td>
-      <td>くればいい</td>
-      <td class="struct-note">Irregular: くる → くれ + ば</td>
-    </tr>
-    <tr>
-      <td class="row-type">Verb: ない-form (negative)</td>
-      <td><ruby>行<rt>い</rt></ruby>かない</td>
-      <td>[Not used]</td>
-      <td class="struct-note">Negative ～ばいい is theoretically possible (行かなければいい) but usually replaced by ～なくていい for natural prohibition-release</td>
-    </tr>
-    <tr>
-      <td class="row-type">i-Adjective</td>
-      <td><ruby>早<rt>はや</rt></ruby>い</td>
-      <td><ruby>早<rt>はや</rt></ruby>ければいい</td>
-      <td class="struct-note">Remove い, add ければ: "if it's fast, it's good" → "it just needs to be fast"</td>
-    </tr>
-    <tr>
-      <td class="row-type">i-Adjective: ない-form</td>
-      <td><ruby>難<rt>むずか</rt></ruby>しくない</td>
-      <td><ruby>難<rt>むずか</rt></ruby>しくなければいい</td>
-      <td class="struct-note">"If it's not difficult, that's good" → reassurance about ease</td>
-    </tr>
-    <tr>
-      <td class="row-type">na-Adjective</td>
-      <td><ruby>静<rt>しず</rt></ruby>か</td>
-      <td><ruby>静<rt>しず</rt></ruby>かなら（ば）いい</td>
-      <td class="struct-note">なら + optional ば; ならいい is more common in speech, であればいい is formal/written</td>
-    </tr>
-    <tr>
-      <td class="row-type">Noun</td>
-      <td><ruby>天気<rt>てんき</rt></ruby></td>
-      <td><ruby>天気<rt>てんき</rt></ruby>なら（ば）いい</td>
-      <td class="struct-note">Same pattern as na-adjectives: なら + optional ば</td>
-    </tr>
-  </tbody>
-</table>
+| Step | Action | Result |
+|------|--------|--------|
+| 1. Dictionary form | Start with the verb | <ruby>入<rt>はい</rt></ruby>る |
+| 2. Te-form | Convert to te-form | <ruby>入<rt>はい</rt></ruby>って |
+| 3. Add しまう (casual: ちゃう) | Attach completion auxiliary | <ruby>入<rt>はい</rt></ruby>っちゃう |
+| 4. Replace う with いな（さい） | Imperative form of ちゃう | <ruby>入<rt>はい</rt></ruby>っちゃいな |
+| 5. Add よ for warmth | Coaxing sentence-final particle | <ruby>入<rt>はい</rt></ruby>っちゃいなよ |
 
-</div>
+| Verb Type | Dictionary Form | ちゃいなよ Form |
+|-----------|----------------|-----------------|
+| Godan (u) | <ruby>言<rt>い</rt></ruby>う | <ruby>言<rt>い</rt></ruby>っちゃいなよ |
+| Godan (m) | <ruby>飲<rt>の</rt></ruby>む | <ruby>飲<rt>の</rt></ruby>んじゃいなよ |
+| Godan (k) | <ruby>書<rt>か</rt></ruby>く | <ruby>書<rt>か</rt></ruby>いちゃいなよ |
+| Godan (g) | <ruby>急<rt>いそ</rt></ruby>ぐ | <ruby>急<rt>いそ</rt></ruby>いじゃいなよ |
+| Godan (r) | <ruby>やる</ruby> | <ruby>やっちゃいなよ</ruby> |
+| Ichidan | <ruby>食<rt>た</rt></ruby>べる | <ruby>食<rt>た</rt></ruby>べちゃいなよ |
+| Ichidan | <ruby>寝<rt>ね</rt></ruby>る | <ruby>寝<rt>ね</rt></ruby>ちゃいなよ |
+| Irregular: する | する | しちゃいなよ |
+| Irregular: くる | くる | きちゃいなよ |
+
+!!! warning "The な is not the negative な"
+    Learners sometimes confuse this な (contracted なさい, soft imperative) with the negative command な (食べるな = "don't eat!"). 入っちゃいなよ means "go ahead and get in" — it's an urging, not a prohibition. Context and intonation disambiguate: urging な is warm and often followed by よ; prohibition な is sharp and sentence-final.
+
+---
 
 ## Japanese Mindset {#japanese-mindset}
 
-<div class="sb-wrap">
+This pattern is built on a very specific social move: **noticing someone's restraint and releasing them from it.** The speaker observes the listener holding back — out of politeness, hesitation, or self-consciousness — and issues a warm nudge to remove that barrier.
 
-The <span class="jb">～ばいいから</span> pattern reflects a distinctively Japanese communicative instinct: <strong>reassurance through reduction</strong> rather than explicit emotional support.
+In the bath sentence, the listener was almost certainly waiting for the speaker before getting in. The speaker frames the action as *already completable* (てしまう) and the waiting as *unnecessary* (もう先に). The urging isn't about the bath — it's about the social hesitation.
 
-- <strong>Doing by undoing:</strong> The speaker doesn't add encouragement ("you can do it!"). They remove obstacles. By saying "it's good if you just do X," they quietly erase everything else that might be weighing on the listener — all the unspoken expectations, pressures, and "shoulds" dissolve into the single sufficient action.
-- <strong>The vacuum left by から:</strong> A sentence ending with <span class="jb">から</span> trails off grammatically but stays emotionally complete. The unsaid portion — "so don't worry," "so it's okay," "so I'm telling you this" — lives in the shared space between speaker and listener. English speakers might feel a need to spell this out; Japanese trusts the shared context.
-- <strong>Why "just" hides the grammar:</strong> English translations often reach for "just" or "as long as," which captures the pragmatic effect but obscures the internal logic: the speaker literally says "if X, it is good." This is a value judgment being offered as a gift, not an instruction being delivered as a command.
-- <strong>Social vector:</strong> The pattern moves toward the listener, not away. It's <em>sasageru</em> (offering up) language — the speaker puts a simple solution in front of the listener and steps back. This contrasts with more directive patterns in Japanese that push the listener toward action.
+- **Hesitation is recognized before it's addressed.** The speaker doesn't just say "get in the bath." They first establish that everything is ready (お風呂準備できてるから), removing practical objections, and then address the unspoken social hesitation.
+- **Completing, not doing.** てしまう frames the action as something to finish up and be done with — not a heavy task, just a thing to get through. This makes the urging feel lighter.
+- **In-group warmth.** This form is almost never used toward out-group members. Using it signals closeness — the speaker feels comfortable enough to nudge the listener. Using it toward a superior would be presumptuous and rude.
 
-</div>
+---
 
 ## Nuance Comparison {#nuance-comparison}
 
-<div class="sb-wrap">
-
 | Grammar Point | Core Meaning | Emotional / Pragmatic Nuance | Trigger Context | JLPT |
 |---|---|---|---|---|
-| <span class="jb">～ばいい</span> | "It's good if you…" → should / sufficient | Objective suggestion; can sound cool or advisory without <span class="jb">から</span> | Stating the correct or sufficient course of action | N4 |
-| <span class="jb">～ばいいから</span> | Same as above + "so don't worry" | <strong>Warm release from pressure.</strong> The speaker closes the topic with care. | Comforting, reassuring, gently ending a discussion | N3 |
-| <span class="jb">～たらいい</span> | "It's good if you did…" → you should try… | <strong>More concrete and situational.</strong> Often sounds like a practical tip or suggestion for a specific scenario. | Recommending an action in a defined situation | N4 |
-| <span class="jb">～といい</span> | "It would be good if…" → I hope / it would be nice if… | <strong>Expresses hope or wish, often about outcomes outside the listener's direct control.</strong> Less about instruction, more about goodwill. | Wishing someone well, expressing hope about circumstances | N3 |
-| <span class="jb">～ばよかった</span> | "It would have been good if…" → should have… | <strong>Counterfactual regret.</strong> The speaker looks back at a past choice and wishes it had been different. | Expressing regret, self-criticism, or gentle criticism of others | N2 — awareness only |
+| 〜ちゃいなよ | "Just go ahead and do it" | Warm, coaxing urgency — removes hesitation; mildly affectionate | Noticing someone holding back; in-group encouragement | N3 |
+| 〜なさい | "Do it" (firm) | Parental, teacherly — firm but not harsh | Authority figure to subordinate; parent to child | N4 |
+| 〜て／〜で | "Do it" (casual request) | Neutral casual request or instruction | Everyday requests between equals | N5 |
+| 〜たら？ | "Why don't you do it?" | Suggestion, not urging — the listener decides | Offering an option without emotional investment | N4 |
+| 〜ば？ | "How about doing it?" | Even lighter than たら? — hypothetical framing | Suggesting an option neutrally | N4 |
+| 〜ちゃいな | "Just do it" (flat) | Same urging minus the coaxing よ | Slightly more matter-of-fact; still warm | N3 |
+| 〜てしまいなさい | "Finish doing it" | Formal/parental command + completion | Mother to child; stiff in most other contexts | N4–N3 |
 
-The key distinction from the closest lookalike, <span class="jb">～たらいい</span>, is that <span class="jb">～ばいい</span> carries a stronger sense of <strong>general sufficiency</strong> — the condition and the outcome are logically tied: "If this condition is met, that's all that's needed." <span class="jb">～たらいい</span> feels more like a <strong>situational recommendation</strong>: "In that case, you could try doing X." In practice, natural speech blends these, but the <span class="jb">～ば</span> form anchors more firmly in "this is enough" while <span class="jb">～たら</span> leans toward "here's an idea for that moment."
+---
 
-</div>
+## Alternatives {#alternatives}
+
+### 〜たら？（suggestion, not urging）
+
+The neutral alternative. Offers an option with no emotional loading. The listener may or may not take it.
+
+| | |
+|---|---|
+| **Example** | <ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ったら？ |
+| **English** | "Why don't you go in first?" |
+| **Intent** | Neutral suggestion — the speaker is offering an idea, not nudging |
+| **vs. original** | 〜たら maintains the listener's hesitation as valid. ちゃいなよ overrides it warmly. |
+
+!!! tip "When to use this instead"
+    Use 〜たら when you want to float an option without pressure. If someone might genuinely prefer to wait, 〜たら respects that. ちゃいなよ assumes they're holding back unnecessarily.
+
+### 〜ば？（hypothetical suggestion）
+
+Even lighter and less committal than 〜たら. Purely hypothetical — "if you were to do X…"
+
+| | |
+|---|---|
+| **Example** | <ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>れば？ |
+| **English** | "How about going in first?" |
+| **Intent** | Light, hypothetical — no expectation attached |
+| **vs. original** | Much cooler than ちゃいなよ. No warmth, no urgency — just a thought. |
+
+### 〜なさい（parental command）
+
+The source form. Can be warm in the right context (parent to child) but carries authority the speaker may not have or want to claim.
+
+| | |
+|---|---|
+| **Example** | <ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>りなさい。 |
+| **English** | "Go in first." |
+| **Intent** | Instruction with mild authority |
+| **vs. original** | Sounds like a parent instructing a child. Between adults, なさい can sound condescending unless used ironically or affectionately. ちゃいなよ removes the authority and replaces it with warmth. |
+
+!!! warning "Learner trap — なさい to a superior"
+    Using なさい toward a superior is rude. This form assumes the speaker has the right to instruct. ちゃいなよ is equally impossible toward superiors — it assumes in-group closeness. Know your relationship before using either.
+
+---
 
 ## Register and Formality {#register-and-formality}
 
-<div class="sb-wrap">
+This pattern is inherently casual. Politeness markers would contradict the "just go ahead" warmth and create a register clash.
 
-<div class="register-block casual">
-  <span class="register-label casual">Casual</span>
-  <div class="jp-line"><ruby>無理<rt>むり</rt></ruby>しなくていいよ。<ruby>自分<rt>じぶん</rt></ruby>のペースでやっていけばいいから。</div>
-  <span class="nat-eng">Natural English:</span> You don't have to push yourself. Just keep going at your own pace — that's all you need.<br>
-  <div class="shift-note">Shift: The original. <span class="jb">～ばいいから</span> with <span class="jb">よ</span> in the first clause creates a warm, slightly informal tone appropriate for friends, family, or close colleagues.</div>
-</div>
+=== ":material-chat-outline: Casual"
+    <ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っちゃいなよ。
 
-<div class="register-block polite">
-  <span class="register-label polite">Polite</span>
-  <div class="jp-line"><ruby>無理<rt>むり</rt></ruby>しなくていいですよ。<ruby>自分<rt>じぶん</rt></ruby>のペースでやっていけばいいですから。</div>
-  <span class="nat-eng">Natural English:</span> You don't have to push yourself. Just keep going at your own pace — that's all you need to do.<br>
-  <div class="shift-note">Shift: Adding <span class="jb">です</span> to both clauses moves this into polite territory, suitable for a senpai-kōhai relationship or a teacher addressing a student. The warmth remains, but respect markers are in place.</div>
-</div>
+    *"Go on ahead and get in."*
 
-<div class="register-block formal">
-  <span class="register-label formal">Formal</span>
-  <div class="jp-line"><ruby>無理<rt>むり</rt></ruby>をなさらなくてよろしいです。<ruby>自分<rt>じぶん</rt></ruby>のペースで<ruby>進<rt>すす</rt></ruby>んでいかれればよろしいかと<ruby>存<rt>ぞん</rt></ruby>じます。</div>
-  <span class="nat-eng">Natural English:</span> There is no need to overexert yourself. I believe it would be perfectly fine if you were to proceed at your own pace.<br>
-  <div class="shift-note">Shift: This is a genuine formal register, using <span class="jb">なさらない</span> (honorific negative of する), <span class="jb">よろしい</span> (formal いい), and <span class="jb">～かと存じます</span> (humble "I think that…"). Appropriate for written business communication or very formal spoken contexts. N2 — awareness only.</div>
-</div>
+    **Register:** The canonical form. Warm, in-group, coaxing. Exactly right for the bath context between family or close friends.
 
-</div>
+=== ":material-tie: Basic Polite"
+    <ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってしまってください。
 
-## Pattern Progression {#pattern-progression}
+    *"Please go ahead and get in."*
 
-<div class="sb-wrap">
+    **Shift:** ちゃいなよ→てしまってください. Grammatically correct but pragmatically odd — てしまう is casual; ください is polite. The combination is stiff and rarely used. The warmth of the urging is lost.
 
-### What Leads Here
+=== ":material-briefcase-outline: Extra Polite"
+    <ruby>先<rt>さき</rt></ruby>にお<ruby>入<rt>はい</rt></ruby>りください。
 
-- <strong>～ば conditional (N4):</strong> The core conditional form: <span class="jb">雨が降れば、行かない</span> ("If it rains, I won't go"). The learner must be comfortable forming the <span class="jb">～ば</span> stem before <span class="jb">～ばいい</span> becomes accessible. This is just the conditional plus <span class="jb">いい</span> — structurally simple, pragmatically rich.
+    *"Please go in first."*
 
-- <strong>～ばいい for asking what to do (N4):</strong> The question form: <span class="jb">どうすればいい？</span> ("What should I do?") or <span class="jb">何を食べればいい？</span> ("What should I eat?"). The learner first encounters <span class="jb">～ばいい</span> as a way to ask for the correct course of action — this plants the seed for the declarative reassurance use.
+    **Shift:** The urging form is abandoned entirely. A standard polite request replaces it. Appropriate for a hotel staff member speaking to a guest, but the warmth and the "just go ahead" nuance are gone.
 
-- <strong>～から as reason/explanation (N5–N4):</strong> The learner already knows <span class="jb">から</span> as "because." The reassurance use builds on this: "it's good if you just go at your own pace <em>(and that's why I'm telling you this / so you can relax)</em>."
+---
 
-### What This Unlocks
+## Grammar Lineage {#grammar-lineage}
 
-- <strong>～ばいいのに (N3 Upper):</strong> Adding <span class="jb">のに</span> ("even though") flips the warmth into frustration or regret: <span class="jb">早く言えばいいのに。</span> ("If only you had said something sooner.") The speaker is no longer reassuring — they're expressing that something should have happened but didn't.
+| Step | Pattern | What It Adds | Example |
+|------|---------|--------------|---------|
+| N5 — Foundation | Te-form | Core connective form | <ruby>入<rt>はい</rt></ruby>って。*"Enter / go in."* |
+| N4 — Foundation | 〜てしまう／〜ちゃう | Completion; things running their course naturally or regrettably | <ruby>入<rt>はい</rt></ruby>っちゃった。*"I ended up going in."* |
+| N4 — Foundation | 〜なさい | Soft imperative; parental/teacherly command | <ruby>入<rt>はい</rt></ruby>りなさい。*"Get in."* |
+| **N3 — Core ← You are here** | **〜ちゃいなよ** | **Merged casual urging — "just go ahead and do it, what are you waiting for?"** | <ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っちゃいなよ。*"Go on ahead and get in."* |
+| N3 — Extended | 〜ちゃいな | Same urging minus よ — flatter delivery, still warm | <ruby>早<rt>はや</rt></ruby>く<ruby>食<rt>た</rt></ruby>べちゃいな。*"Just eat already."* |
+| N2 — Awareness | 〜てしまいなさい | Uncontracted form — rare in natural speech; stiff/parental | <ruby>片付<rt>かたづ</rt></ruby>けてしまいなさい。*"Finish tidying up."* |
 
-- <strong>～ばよかった (N2 — awareness only):</strong> The past counterfactual: <span class="jb">もっと勉強すればよかった。</span> ("I should have studied more.") This is a direct emotional extension of the <span class="jb">～ばいい</span> logic applied backward in time, but the counterfactual nuance requires N2-level pragmatic control.
-
-- <strong>～ばそれでいい (N2 — awareness only):</strong> A self-contained sufficiency statement: <span class="jb">結果さえ出ればそれでいい。</span> ("As long as we get results, that's all that matters.") This pattern closes off further discussion with a harder edge than the warm <span class="jb">～ばいいから</span>.
-
-</div>
+---
 
 ## Examples {#examples}
 
-<div class="sb-wrap">
+| Japanese | English |
+|----------|---------|
+| <ruby>遠慮<rt>えんりょ</rt></ruby>しないで、<ruby>食<rt>た</rt></ruby>べちゃいなよ。 | Don't hold back — just dig in. |
+| | *Literal: Restraint don't-do, eat-and-finish-why-don't-you.* |
+| | ~Context: Dinner with close friends. One person is hesitating to take food. The host releases them warmly.~ |
+| もう<ruby>遅<rt>おそ</rt></ruby>いし、<ruby>帰<rt>かえ</rt></ruby>っちゃいなよ。<ruby>明日<rt>あした</rt></ruby>も<ruby>早<rt>はや</rt></ruby>いんでしょ？ | It's already late — just head home. You've got an early start tomorrow, right? |
+| | *Literal: Already late, go-home-and-finish-why-don't-you. Tomorrow also early-isn't-it?* |
+| | ~Context: A friend noticing someone is tired but lingering out of politeness. The speaker supplies the reason and the urging together.~ |
+| <ruby>気<rt>き</rt></ruby>になるなら<ruby>聞<rt>き</rt></ruby>いちゃいなよ。<ruby>悩<rt>なや</rt></ruby>んでるよりそのほうが<ruby>早<rt>はや</rt></ruby>いって。 | If it's bothering you, just go ahead and ask. Better than worrying about it — quicker that way. |
+| | *Literal: If-it-bothers-you, ask-and-finish-why-don't-you. Worrying than that-direction faster, I'm-saying.* |
+| | ~Context: A friend hesitating to ask someone a question. The speaker frames asking as something to just get done.~ |
+| <ruby>疲<rt>つか</rt></ruby>れてるんだから、<ruby>寝<rt>ね</rt></ruby>ちゃいなよ。<ruby>私<rt>わたし</rt></ruby>は<ruby>後<rt>あと</rt></ruby>で<ruby>片付<rt>かたづ</rt></ruby>けるから。 | You're exhausted — just go to bed. I'll tidy up afterwards. |
+| | *Literal: Tired you-are, sleep-and-finish-why-don't-you. I later tidy-up, because.* |
+| | ~Context: A partner seeing the other fighting sleep on the sofa. The から clause removes the responsibility that's keeping them awake.~ |
+| いいから<ruby>言<rt>い</rt></ruby>っちゃいなよ。<ruby>私<rt>わたし</rt></ruby>は<ruby>味方<rt>みかた</rt></ruby>だから。 | Just go ahead and say it, really. I'm on your side. |
+| | *Literal: Never-mind, say-and-finish-why-don't-you. I ally am, because.* |
+| | ~Context: Someone is struggling to confess something. The speaker creates safety and urges them forward.~ |
 
-<div class="variation-block">
-  <div class="jp-quote"><ruby>迷<rt>まよ</rt></ruby>ってるなら、<ruby>好<rt>す</rt></ruby>きな<ruby>方<rt>ほう</rt></ruby>を<ruby>選<rt>えら</rt></ruby>べばいいから。</div>
-  <div class="translation-pair">
-    <span class="nat-eng">Natural English:</span> If you're stuck, just pick the one you like. That's all you need to do.<br>
-    <span class="literal-line">Literal: "If you're hesitating, it's good if you choose the one you like — so (don't overthink it)."</span>
-  </div>
-  <div class="context-note">Context: A friend is agonizing between two options on a menu or shopping decision. The speaker gently closes the deliberation.</div>
-</div>
-
-<div class="variation-block">
-  <div class="jp-quote"><ruby>全部<rt>ぜんぶ</rt></ruby><ruby>完璧<rt>かんぺき</rt></ruby>にやろうとしなくていいよ。<ruby>出来<rt>でき</rt></ruby>るところから<ruby>手<rt>て</rt></ruby>をつければいいから。</div>
-  <div class="translation-pair">
-    <span class="nat-eng">Natural English:</span> You don't have to do everything perfectly. Just start with what you can handle — that's enough.<br>
-    <span class="literal-line">Literal: "Not trying to do everything perfectly is fine. If you start from the parts you can do, it's good — so (relax)."</span>
-  </div>
-  <div class="context-note">Context: A colleague is overwhelmed by a large project. The speaker is breaking the task down into manageable pieces and giving permission to start small.</div>
-</div>
-
-<div class="variation-block">
-  <div class="jp-quote"><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>慣<rt>な</rt></ruby>れていけばいいから、<ruby>焦<rt>あせ</rt></ruby>らなくていいよ。</div>
-  <div class="translation-pair">
-    <span class="nat-eng">Natural English:</span> Just get used to it little by little — you don't need to rush.<br>
-    <span class="literal-line">Literal: "If you go getting used to it gradually, it's good — so you don't need to panic."</span>
-  </div>
-  <div class="context-note">Context: A new team member is stressed about learning the ropes. The speaker is normalizing the adjustment period.</div>
-</div>
-
-<div class="variation-block">
-  <div class="jp-quote"><ruby>返事<rt>へんじ</rt></ruby>は<ruby>明日<rt>あした</rt></ruby>でいいよ。<ruby>急<rt>いそ</rt></ruby>がなくていいから、ちゃんと<ruby>考<rt>かんが</rt></ruby>えてから<ruby>返<rt>かえ</rt></ruby>せばいいから。</div>
-  <div class="translation-pair">
-    <span class="nat-eng">Natural English:</span> Tomorrow is fine for a reply. No rush — just respond after you've thought it through properly, that's all you need to do.<br>
-    <span class="literal-line">Literal: "The reply is fine tomorrow. Not needing to rush — so if you respond after thinking properly, it's good — so (relax)."</span>
-  </div>
-  <div class="context-note">Context: Someone has been asked a significant question and feels pressured to answer immediately. The speaker is releasing them from that pressure.</div>
-</div>
-
-</div>
+---
 
 ## Common Mistakes {#common-mistakes}
 
-<div class="sb-wrap">
+### 1. Confusing な with the negative command marker
 
-### Mistake 1: Using ～ばいい without から and sounding cold
+Learners who know 食べるな as "don't eat" may misread 食べちゃいなよ as a prohibition. It's the opposite — it's an urging.
 
-Learners often produce <span class="jb">～ばいい</span> alone when they intend warmth, because textbooks introduce the bare form first. Without <span class="jb">から</span> (or at minimum <span class="jb">ね</span> or <span class="jb">よ</span>), the statement can land as detached or instructional.
+!!! failure "Incorrect reading"
+    <ruby>食<rt>た</rt></ruby>べちゃいなよ = "Don't eat!"
 
-<div class="minimal-pair">
-  <div class="pair-item contrast">
-    <span class="pair-label">Cold / detached</span>
-    <span class="pair-jp">ゆっくり<ruby>休<rt>やす</rt></ruby>めばいい。</span>
-    <span class="pair-en">"You should rest." (Sounds like a clinical recommendation or a brush-off, depending on delivery.)</span>
-  </div>
-  <div class="pair-item correct">
-    <span class="pair-label">Warm / connected</span>
-    <span class="pair-jp">ゆっくり<ruby>休<rt>やす</rt></ruby>めばいいからね。</span>
-    <span class="pair-en">"Just get some rest, okay? That's all you need to do."</span>
-  </div>
-</div>
+    ~Wrong. This is なさい→な (soft imperative), not the prohibition な. The よ makes the urging tone unambiguous.~
 
-### Mistake 2: Confusing ～ばいい with ～たらいい and over-using the latter for general reassurance
+!!! success "Correct reading"
+    <ruby>食<rt>た</rt></ruby>べちゃいなよ = "Just go ahead and eat!"
 
-<span class="jb">～たらいい</span> is more situational and concrete — "here's what you could do in that case." Learners sometimes use it for general reassurance where <span class="jb">～ばいい</span> would be more natural because the <span class="jb">～ば</span> form frames the action as a general, standing truth rather than a case-by-case suggestion.
+    ~The な is from なさい, contracted. The よ adds coaxing warmth. Context between close friends or family.~
 
-<div class="minimal-pair">
-  <div class="pair-item contrast">
-    <span class="pair-label">Overly situational</span>
-    <span class="pair-jp"><ruby>自分<rt>じぶん</rt></ruby>のペースでやっていったらいいよ。</span>
-    <span class="pair-en">"You could try going at your own pace." (Sounds like one option among many, not a reassuring release.)</span>
-  </div>
-  <div class="pair-item correct">
-    <span class="pair-label">General and reassuring</span>
-    <span class="pair-jp"><ruby>自分<rt>じぶん</rt></ruby>のペースでやっていけばいいから。</span>
-    <span class="pair-en">"Just keep going at your own pace — that's all you need." (Frames this as a standing truth, sufficient on its own.)</span>
-  </div>
-</div>
+### 2. Using it toward superiors or out-group members
 
-### When NOT to Use It
+ちゃいなよ is strongly in-group. Used toward a boss, a customer, or someone you're not close with, it sounds presumptuous, overfamiliar, or outright rude.
 
-This pattern is specifically for <strong>releasing pressure or giving permission</strong> — it doesn't work in contexts where the speaker needs to give an actual instruction or when the listener hasn't expressed any worry.
+!!! failure "Socially inappropriate"
+    <ruby>部長<rt>ぶちょう</rt></ruby>、<ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っちゃいなよ。
 
-<div class="ref-warning">
-<strong>Don't use ～ばいいから when giving neutral instructions.</strong> If someone asks "How do I get to the station?" and you answer <span class="jb">まっすぐ行けばいいから</span>, it sounds oddly personal — as if you're reassuring them that the station is easy to find and they shouldn't be anxious. The correct answer is the straightforward <span class="jb">まっすぐ行けば着きます</span> or simply <span class="jb">まっすぐ行ってください</span>. Reserve <span class="jb">～ばいいから</span> for when the listener's emotional state (stress, worry, overthinking) is part of the context.
-</div>
+    ~Using ちゃいなよ toward a department manager is a level violation. The form assumes in-group closeness that doesn't exist.~
 
-### Don't Confuse With
+!!! success "More appropriate"
+    <ruby>部長<rt>ぶちょう</rt></ruby>、<ruby>先<rt>さき</rt></ruby>にお<ruby>入<rt>はい</rt></ruby>りください。
 
-<strong>～ばよかった (counterfactual regret)</strong>
+    ~Standard polite request. Respects the social distance while conveying the same practical message.~
 
-Learners sometimes reach for <span class="jb">～ばいい</span> when they mean to express past regret, producing something like <span class="jb">もっと早く言えばいい</span> when they mean "I should have said something sooner." In present/future contexts, <span class="jb">～ばいい</span> is correct; for past regret, the form must shift to <span class="jb">～ばよかった</span>.
+### 3. When NOT to Use It
 
-<div class="minimal-pair">
-  <div class="pair-item contrast">
-    <span class="pair-label">Wrong for past regret</span>
-    <span class="pair-jp">もっと<ruby>早<rt>はや</rt></ruby>く<ruby>言<rt>い</rt></ruby>えばいい。</span>
-    <span class="pair-en">"You/they should say something sooner." (Present/future advice — not regret about the past.)</span>
-  </div>
-  <div class="pair-item correct">
-    <span class="pair-label">Correct for past regret</span>
-    <span class="pair-jp">もっと<ruby>早<rt>はや</rt></ruby>く<ruby>言<rt>い</rt></ruby>えばよかった。</span>
-    <span class="pair-en">"I should have said something sooner." / "If only I had said something sooner."</span>
-  </div>
-</div>
+!!! warning "Formal settings"
+    This pattern belongs in kitchens, living rooms, and casual izakaya — not in meetings, ceremonies, or formal written communication. There is no formal equivalent that preserves the warmth and urging.
 
-</div>
+!!! warning "When you're not sure about closeness"
+    If you're uncertain whether the relationship permits in-group urging, default to 〜たら or a standard polite request. Overestimating closeness with ちゃいなよ can make people uncomfortable.
+
+---
 
 ## Collocation Notes {#collocation-notes}
 
-<div class="sb-wrap">
+| Collocation | Meaning |
+|-------------|---------|
+| **いいから** + 〜ちゃいなよ | "Never mind all that — just go ahead and [do it]" — dismisses objections before the urging |
+| **遠慮しないで** + 〜ちゃいなよ | "Don't hold back — just [do it]" — removes the hesitation explicitly before nudging |
+| **もう** + 〜ちゃいなよ | "Just [do it] already" — adds a sense of "the waiting has gone on long enough" |
+| **先に** + 〜ちゃいなよ | "Go ahead and [do it] first" — common in domestic contexts with bathing, eating, leaving |
+| **早く** + 〜ちゃいな | "Hurry up and just [do it]" — slightly more impatient; な without よ feels more directive |
 
-The <span class="jb">～ばいいから</span> pattern frequently pairs with certain softening and permission-giving expressions. These combinations are natural enough to learn as chunks.
+| Japanese | English |
+|----------|---------|
+| いいから<ruby>食<rt>た</rt></ruby>べちゃいなよ。<ruby>冷<rt>さ</rt></ruby>めちゃうから。 | Just eat, really. It's gonna get cold. |
+| | *The canonical collocation: dismiss hesitation, supply the urging, add the practical reason.* |
 
-- <strong><span class="jb">無理しなくていい</span> + <span class="jb">～ばいいから</span>:</strong> A very common two-part reassurance structure. The first clause releases the listener from obligation; the second provides the gentle alternative. They work together to say "stop overdoing it — this is enough."
+---
 
-<div class="variation-block">
-  <div class="jp-quote"><ruby>無理<rt>むり</rt></ruby>しなくていいから、とりあえず<ruby>始<rt>はじ</rt></ruby>めてみればいいから。</div>
-  <div class="translation-pair">
-    <span class="nat-eng">Natural English:</span> You don't have to push yourself — just start, for now. That's all you need.<br>
-    <span class="literal-line">Literal: "Not pushing yourself is fine, so if you just try starting for now, it's good — so (relax)."</span>
-  </div>
-</div>
+## Hidden Points {#hidden-points}
 
-- <strong><span class="jb">焦らなくていい</span> + <span class="jb">～ばいいから</span
+- **The てしまう layer is doing real work.** It's not just a filler — it frames the action as *finishing something up naturally*, which makes the urging feel lighter than a direct command. "Just go ahead and get in" feels different from "Get in" — the completion framing reduces the weight of the action.
+- **よ is what makes it coaxing, not ordering.** Without よ, 〜ちゃいな is a straightforward urging. With よ, the speaker is leaning into the listener's world — "I'm telling you this for your own good." The よ signals that the speaker cares about the listener's hesitation and wants to help them past it.
+- **The pattern only works when the listener already wants to do the thing.** You can't use ちゃいなよ to urge someone toward an action they genuinely don't want. It nudges past hesitation; it doesn't overcome resistance.
+- **から is the natural lead-in.** In many natural examples, a から clause establishes the reason or permission first — お風呂準備できてるから, 疲れてるんだから. The structure is: [reason/permission] + [urging]. Jumping straight to the urging without the reason can feel abrupt.
+
+---
+
+## Learner Stage {#learner-stage}
+
+| Stage | What It Looks Like |
+|-------|-------------------|
+| **Now — N3** | Recognize the form in speech and drama; understand that な here is なさい contraction, not prohibition; parse ちゃう + な + よ as a unit; produce it in controlled practice with close friends who understand you're learning |
+| **Developing — N3→N2** | Deploy it naturally in the right domestic moments; feel the warmth difference between ちゃいなよ, たら？, and plain て-form; know when the relationship supports it |
+| **Automatic — N2+** | The form arrives as a single emotional chunk — you don't assemble it from parts; you also know exactly when it would be too warm and default to a cooler form |
+| **Mastery** | You use it not just for urging but for the social move it encodes — noticing hesitation and releasing someone from it, with just the right amount of affectionate push |
+
+---
+
+## See Also {#see-also}
+
+### Same Family
+
+- 〜ちゃう／〜じゃう — casual contraction of てしまう; the completion layer
+- 〜なさい — soft imperative; the source of the な contraction
+- 〜ちゃいな — same urging minus よ; slightly flatter delivery
+
+### Commonly Confused With
+
+- 〜するな（negative command） — "don't do X"; な is a different な entirely
+- 〜て／〜で（casual request） — neutral instruction, no urging warmth
+- 〜たら？（suggestion） — lighter, leaves the decision to the listener
+
+### Builds From
+
+- てしまう／ちゃう (N4) — completion auxiliary; the first layer
+- なさい (N4) — soft command; the second layer
+- Sentence-final よ (N5) — coaxing particle; the warmth layer
+
+### Unlocks Next
+
+- 〜てしまいなさい — uncontracted form; rare in speech but useful to recognise in written or parental contexts
+- Other なさい contractions (e.g., 食べな→食えな in some dialects)
+- Dialogic urging patterns in drama and casual conversation — 〜ば？, 〜たら？, 〜といいよ
