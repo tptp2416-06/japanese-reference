@@ -366,9 +366,7 @@ This is distinct from the English present perfect ("I have spoken"), which repor
 ### Common Builds
 
 - 〜てある → result state  
-
 - 〜ておく → preparation  
-
 - 〜てある + から → justification  
 
 ---
@@ -376,11 +374,8 @@ This is distinct from the English present perfect ("I have spoken"), which repor
 ### Upgrade / Evolution Path
 
 • Can recognize 〜てある as “already done”  
-
 • Still rely on translation  
-
 • Begin distinguishing from 〜ている  
-
 • Eventually feel “intentional result” naturally  
 
 ---
@@ -399,13 +394,9 @@ This is distinct from the English present perfect ("I have spoken"), which repor
 ## Hidden Points {#hidden-points}
 
 - Always implies **intentional action by someone**
-
 - The actor is usually omitted
-
 - Focus is on **state/result**
-
 - Common in workplace and coordination contexts
-
 - Often used to reassure or confirm completion
 
 ---
@@ -413,11 +404,9 @@ This is distinct from the English present perfect ("I have spoken"), which repor
 ## Coming Soon {#coming-soon}
 
 !!! info "〜ておく vs 〜てある"
-
     Difference between preparation vs resulting state.
 
 !!! info "〜ている vs 〜てある"
-
     Deeper comparison of state vs intentional result.
 
 ---
