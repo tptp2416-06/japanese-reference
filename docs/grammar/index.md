@@ -6,6 +6,9 @@ tags:
 
 # Grammar
 
+## Verbs
+
+### Causative Form
 Conjugation chains, auxiliary stacks, and grammatical patterns organized by function.
 
 ---
