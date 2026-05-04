@@ -1,5 +1,5 @@
 ---
-title: Extra Modest Expressions
+title: Extra Modest Expressions (CLAUDE - OPUS 4.7)
 tags:
   - N4-Upper
   - Humble

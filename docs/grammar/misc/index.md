@@ -15,7 +15,8 @@ tags:
 ###### [なって・Internal Quotation](natte-internalquote.md)
 ###### [〜ていけばいい・Reassurance of Sufficient Ongoing Action](te-ikebaiikara.md)
 ###### [あっという間に vs. いつの間にか — Subjective Speed vs. Unnoticed Change・DeepSeek](speed-vs-change-deepseek.md)
-###### [Extra Modest Expressions](modest-expressions.md)
+###### [Extra Modest Expressions - Claude](modest-expressions.md)
+###### [Extra Modest Expressions - DeepSeek](modest-expressions-deepseek.md)
 ###### [〜か・Embedded Questions](questions-in-sentences.md)
 ###### [～ちゃいなよ — Casual, Friendly Encouragement](chai-nayo-deepseek.md)
 

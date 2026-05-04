@@ -14,6 +14,27 @@ tags:
 
 ---
 
+## JLPT Level {#jlpt-level}
+
+!!! abstract "JLPT Level — Upper N4 / Lower N3"
+
+    The form 〜てある appears at N4, but the nuance — intentional setup and resulting state — is more N3-level.
+
+    | Tier | Pattern | Description | Example |
+
+    |------|---------|-------------|---------|
+
+    | N4 — Foundation | 〜ている | ongoing / resulting state (neutral) | ドアが<ruby>開<rt>あ</rt></ruby>いている。*"The door is open."* |
+
+    | **N4 — Core ← You are here** | **〜てある** | **intentional result state left by someone** | ドアが<ruby>開<rt>あ</rt></ruby>けてある。*"The door has been opened (on purpose)."* |
+
+    | N3 — Extended | omission of agent | focus only on result, not who did it | <ruby>資料<rt>しりょう</rt></ruby>は<ruby>用意<rt>ようい</rt></ruby>してあります。 |
+
+    | N2 — Awareness | contrast nuance mastery | subtle difference from 〜ている in context | [Coming soon] |
+
+---
+
+
 ## Quick Summary {#quick-summary}
 
 !!! tip "At a glance"
@@ -103,6 +124,33 @@ In the reference sentence:
 In the reference sentence, the object of the action is そのこと — but it's marked with は (topic) rather than が (subject). The underlying structure is そのことが社長に話してある — "that matter has been spoken to the president about." The は replaces が for topic prominence, but the logic is the same: the matter is in the "deliberately handled" state.
 
 ---
+
+## Nuance Comparison {#nuance-comparison}
+
+| Pattern | Meaning | Nuance | Example | JLPT |
+
+|---------|--------|--------|---------|------|
+
+| 〜ている | state / ongoing | neutral | ドアが<ruby>開<rt>あ</rt></ruby>いている | N5 |
+
+| 〜てある | result of intentional action | prepared / done | ドアが<ruby>開<rt>あ</rt></ruby>けてある | N4 |
+
+| 〜ておく | do in advance | preparation action | ドアを<ruby>開<rt>あ</rt></ruby>けておく | N4 |
+
+---
+
+### Micro Contrast
+
+| Sentence | Meaning | Difference |
+
+|----------|--------|------------|
+
+| ドアが<ruby>開<rt>あ</rt></ruby>いている | The door is open | state |
+
+| ドアが<ruby>開<rt>あ</rt></ruby>けてある | The door has been opened (on purpose) | intentional result |
+
+---
+
 
 ## 〜てある vs. 〜ている — The Critical Contrast {#tearu-vs-teiru}
 
@@ -322,6 +370,86 @@ This is distinct from the English present perfect ("I have spoken"), which repor
 | Humble お／ご〜してある | Speaker humbly did the action; result in place | お<ruby>話<rt>はな</rt></ruby>ししてあります "I have spoken (humbly, and it's handled)" |
 | Passive + てある／られている | Agent unspecified; state arranged by someone | <ruby>準備<rt>じゅんび</rt></ruby>がされている "Preparations have been made" |
 | 〜てあった (past) | State was in place at a past reference time | <ruby>準備<rt>じゅんび</rt></ruby>してあった "It had been prepared (when I checked)" |
+
+---
+
+## Pattern Expansion {#pattern-expansion}
+
+### Common Builds
+
+- 〜てある → result state  
+
+- 〜ておく → preparation  
+
+- 〜てある + から → justification  
+
+---
+
+### Upgrade / Evolution Path
+
+• Can recognize 〜てある as “already done”  
+
+• Still rely on translation  
+
+• Begin distinguishing from 〜ている  
+
+• Eventually feel “intentional result” naturally  
+
+---
+
+## Collocation Notes {#collocation-notes}
+
+| Collocation | Meaning |
+
+|-------------|---------|
+
+| <ruby>準備<rt>じゅんび</rt></ruby>してある | prepared |
+
+| <ruby>予約<rt>よやく</rt></ruby>してある | reserved |
+
+| <ruby>説明<rt>せつめい</rt></ruby>してある | explained |
+
+| <ruby>伝<rt>つた</rt></ruby>えてある | informed |
+
+---
+
+## Hidden Points {#hidden-points}
+
+- Always implies **intentional action by someone**
+
+- The actor is usually omitted
+
+- Focus is on **state/result**
+
+- Common in workplace and coordination contexts
+
+- Often used to reassure or confirm completion
+
+---
+
+## Coming Soon {#coming-soon}
+
+!!! info "〜ておく vs 〜てある"
+
+    Difference between preparation vs resulting state.
+
+!!! info "〜ている vs 〜てある"
+
+    Deeper comparison of state vs intentional result.
+
+---
+
+## Learner Stage {#learner-stage}
+
+| Stage | Description |
+
+|-------|------------|
+
+| N4 | Understand “already done” meaning |
+
+| N3 | Distinguish from 〜ている |
+
+| N2 | Use naturally in nuance contexts |
 
 ---
 
