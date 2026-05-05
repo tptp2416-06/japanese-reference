@@ -20,7 +20,7 @@ tags:
 ###### [Embedded Questions — 〜か & 〜かどうか - Claude](questions-in-sentences.md)
 ###### [Embedded Questions — 〜か & 〜かどうか - DeepSeek](questions-in-sentences-deepseek.md)
 ###### [～ちゃいなよ — Casual, Friendly Encouragement](chai-nayo-deepseek.md)
-
+###### [〜のこと — The Person Themselves / What Concerns X - Kimi](no-koto-kimi.md)
 ## N3
 
 ###### [〜てある — Completed Action with Ongoing Intent / Prepared State](te-aru.md)
