@@ -112,6 +112,8 @@ nav:
       - ～ちゃいなよ — Casual, Friendly Encouragement: grammar/misc/chai-nayo-deepseek.md
       - 〜てある — Completed Action with Ongoing Intent / Prepared State: grammar/misc/te-aru.md
       - 〜のこと — The Person Themselves / What Concerns X - Kimi: grammar/misc/no-koto-kimi.md
+      - 〜んだ — Explanatory / Realization Emphasis - DeepSeek: grammar/misc/n-da-deepseek.md
+      - 〜んだ — Explanatory / Realization Emphasis - Kimi: grammar/misc/n-da-kimi.md
     - 〜ている Related Content:
       - Overview: grammar/te-iru-related/index.md
       - 〜ている - Resultative Change: grammar/te-iru-related/result-change.md
