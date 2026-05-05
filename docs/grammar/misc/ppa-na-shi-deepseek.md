@@ -10,7 +10,7 @@ tags:
 
 # Unattended Continuation — 〜っぱなし
 
-## 〜っぱなし — "Left Doing" / "Left in the State of Doing"
+#### Reference Sentence: 〜っぱなし — "Left Doing" / "Left in the State of Doing"
 
 ---
 
