@@ -28,6 +28,7 @@ tags:
 ###### [〜っぱなし — Leaving Something in an Ongoing State - DeepSeek](ppa-na-shi-deepseek.md)
 ###### [〜っぱなし — Leaving Something in an Ongoing State - Kimi](ppa-na-shi-kimi.md)
 ###### [〜って — Topic Marker / Quotative / Casual Register Workhorse](tte-casual.md)
+###### [〜って — Topic Marker / Quotative / Casual Register Workhorse - ChatGPT](tte-casual-gpt.md)
 
 
 ## N3
