@@ -29,6 +29,8 @@ tags:
 ###### [〜っぱなし — Leaving Something in an Ongoing State - Kimi](ppa-na-shi-kimi.md)
 ###### [〜って — Topic Marker / Quotative / Casual Register Workhorse](tte-casual.md)
 ###### [〜って — Topic Marker / Quotative / Casual Register Workhorse - ChatGPT](tte-casual-gpt.md)
+###### [〜っちゃおっか — Casual Volitional + Completion + Self-Talk Invitation](chau-okka-kimi.md)
+###### [〜なきゃ・ないと・なくては・なければ・ないといけない - Must / Have To](obligation.md)
 
 
 ## N3

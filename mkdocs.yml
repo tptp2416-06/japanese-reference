@@ -120,11 +120,14 @@ nav:
       - 〜っぱなし — Leaving Something in an Ongoing State - Kimi: grammar/misc/ppa-na-shi-kimi.md
       - 〜って — Topic Marker / Quotative / Casual Register Workhorse - Kimi: grammar/misc/tte-casual.md
       - 〜って — Topic Marker / Quotative / Casual Register Workhorse - ChatGPT: grammar/misc/tte-casual-gpt.md
+      - 〜っちゃおっか — Casual Volitional + Completion + Self-Talk Invitation - Kimi: grammar/misc/chau-okka-kimi.md
+      - 〜なきゃ・ないと・なくては・なければ・ないといけない - Must / Have To - Kimi: grammar/misc/obligation.md
 
     - 〜ている Related Content:
       - Overview: grammar/te-iru-related/index.md
       - 〜ている - Resultative Change: grammar/te-iru-related/result-change.md
       - なる + ている — The Resultative State of Becoming: grammar/te-iru-related/naru-te-iru.md
+      - 〜ていてくれる — Sustained Action for My Benefit - Kimi: grammar/te-iru-related/sustained-action-kimi.md
     - Test:
       - Overview: grammar/test/index.md
       - ChatGpt Test 1: grammar/test/chatgpt-test1.md
@@ -138,6 +141,7 @@ nav:
     - Overview: vocabulary/index.md
     - 甘える - depending on others' kindness: vocabulary/amaeru.md
     - 大切 vs. 大事 — important: vocabulary/taisetsu-daiji.md
+    - 遅れる vs. 遅くなる vs. 遅刻する vs. 遅延する — Lateness & Delay - Kimi: vocabulary/lateness-delay.md
   - Patterns:
     - Overview: patterns/index.md
     - Softeners & Hedges: patterns/softeners.md

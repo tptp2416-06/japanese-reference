@@ -11,6 +11,7 @@ tags:
 ##### [Overview](index.md)
 ###### [〜ている - Resultative Change](result-change.md)
 ###### [なる + ている — The Resultative State of Becoming](naru-te-iru.md)
+###### [〜ていてくれる — Sustained Action for My Benefit](sustained-action-kimi.md)
 
 
 ## N3
