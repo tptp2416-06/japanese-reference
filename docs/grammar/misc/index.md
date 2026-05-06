@@ -31,6 +31,8 @@ tags:
 ###### [〜って — Topic Marker / Quotative / Casual Register Workhorse - ChatGPT](tte-casual-gpt.md)
 ###### [〜っちゃおっか — Casual Volitional + Completion + Self-Talk Invitation](chau-okka-kimi.md)
 ###### [〜なきゃ・ないと・なくては・なければ・ないといけない - Must / Have To](obligation-kimi.md)
+###### [〜ように・〜ようになる — Change of State / Becoming Able To](youni-youninaru-kimi.md)
+###### [〜みたい — Seems Like / Looks Like / Apparently](mitai-kimi.md)
 
 
 ## N3
