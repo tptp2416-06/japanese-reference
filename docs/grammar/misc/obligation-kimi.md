@@ -117,9 +117,9 @@ The following table presents the complete obligation spectrum from most casual t
 
 The most contracted form. なければならない collapses to なきゃ through aggressive phonological reduction.
 
-| Full | 予約しなければならない |
-| Casual | 予約しなきゃ |
-| Ultra-casual | 予約しなきゃだ |
+| Full | <ruby>予約<rt>よやく</rt></ruby>しなければならない |
+| Casual | <ruby>予約<rt>よやく</rt></ruby>しなきゃ |
+| Ultra-casual | <ruby>予約<rt>よやく</rt></ruby>しなきゃだ |
 
 !!! note "The だ extension"
     Adding だ (or だよ, だよね) turns the fragment into a complete utterance. なきゃ alone is a fragment; なきゃだ is a statement.
@@ -162,7 +162,7 @@ Slightly less contracted than なきゃ. The と conditional feels more "if-then
 
 | <ruby>早<rt>はや</rt></ruby>く<ruby>行<rt>い</rt></ruby>かないと… | If I don't go soon… [something bad will happen]. |
 |---|---|
-| | *The trailing ellipsis invites the listener to fill in the consequence. This is gentler than 行かないと間に合わない ("If I don't go, I won't make it").* |
+| | *The trailing ellipsis invites the listener to fill in the consequence. This is gentler than <ruby>行<rt>い</rt></ruby>かないと<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わない ("If I don't go, I won't make it").* |
 
 ### Polite Spoken: 〜ないといけませんね
 
@@ -179,7 +179,7 @@ The second input sentence. This form occupies the polite spoken register — app
 
 | <ruby>週末<rt>しゅうまつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くレストラン、そろそろ<ruby>予約<rt>よやく</rt></ruby>しないといけませんね。 | The restaurant we're going to this weekend — we must reserve soon, mustn't we? |
 |---|---|
-| | *Input sentence 2. The に after 週末 makes the temporal framing slightly more explicit than sentence 1. The いけません elevates politeness; the ね maintains warmth. This is how adults remind each other without nagging.* |
+| | *Input sentence 2. The に after <ruby>週末<rt>しゅうまつ</rt></ruby> makes the temporal framing slightly more explicit than sentence 1. The いけません elevates politeness; the ね maintains warmth. This is how adults remind each other without nagging.* |
 
 ### Formal: 〜なければなりません
 
@@ -187,8 +187,8 @@ The standard formal form. Appropriate for official communication, writing, and p
 
 | Context | Example |
 |---------|---------|
-| Workplace email | <ruby>明日<rt>あした</rt></ruby>までに<ruby>報告<rt>ほうこく</rt></ruby>書を<ruby>提出<rt>ていしゅつ</rt></ruby>しなければなりません。 |
-| Public notice | <ruby>入場<rt>にゅうじょう</rt></ruby>時に<ruby>身分証明書<rt>みぶんしょうめいしょ</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>しなければなりません。 |
+| Workplace email | <ruby>明日<rt>あした</rt></ruby>までに<ruby>報告<rt>ほうこく</rt></ruby><ruby>書<rt>しょ</rt></ruby>を<ruby>提出<rt>ていしゅつ</rt></ruby>しなければなりません。 |
+| Public notice | <ruby>入場<rt>にゅうじょう</rt></ruby><ruby>時<rt>とき</rt></ruby>に<ruby>身分証明書<rt>みぶんしょうめいしょ</rt></ruby>を<ruby>提示<rt>ていじ</rt></ruby>しなければなりません。 |
 | Teacher to student | <ruby>宿題<rt>しゅくだい</rt></ruby>は<ruby>必<rt>かなら</rt></ruby>ず<ruby>出<rt>だ</rt></ruby>さなければなりません。 |
 
 !!! warning "Stiffness risk"
@@ -339,17 +339,17 @@ The most formal variant, common in legal, academic, and official written Japanes
 
     *"If you do not have a valid pass, you must pay a separate fare."*
 
-    **Why なければなりません:** Legal clarity, public authority, zero ambiguity. The combination of 尊敬語 (お持ちになる) and 謙譲語/丁寧語 obligation creates full keigo architecture.
+    **Why なければなりません:** Legal clarity, public authority, zero ambiguity. The combination of <ruby>尊敬<rt>そんけい</rt></ruby><ruby>語<rt>ご</rt></ruby> (お<ruby>持<rt>も</rt></ruby>ちになる) and <ruby>謙譲<rt>けんじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>/<ruby>丁寧<rt>ていねい</rt></ruby><ruby>語<rt>ご</rt></ruby> obligation creates full keigo architecture.
 
 ---
 
 ## Hidden Points {#hidden-points}
 
-- **〜なきゃ can be a complete sentence.** In rapid speech, 行かなきゃ stands alone as "I gotta go." The bad outcome is entirely ellipsed. This is not ungrammatical; it's standard casual efficiency.
+- **〜なきゃ can be a complete sentence.** In rapid speech, <ruby>行<rt>い</rt></ruby>かなきゃ stands alone as "I gotta go." The bad outcome is entirely ellipsed. This is not ungrammatical; it's standard casual efficiency.
 - **The だよね〜 extension is emotionally transformative.** なきゃ alone is pressure. なきゃだよね is shared pressure. なきゃだよね〜 is shared pressure so relaxed it's almost musical. The vowel extension turns obligation into bonding.
-- **〜ないと without consequence is softer than with consequence.** 行かないと ("I gotta go, or…") is gentler than 行かないと間に合わない ("If I don't go, I won't make it"). The hanging consequence allows the listener to imagine something worse than reality, or to fill in their own concern.
-- **〜ずにはいられない is the emotional extreme.** Not "must" but "cannot help" — the obligation comes from within, not from social pressure. 泣かずにはいられない ("I can't help crying") is not about rules; it's about emotional compulsion. This is N2 territory but worth recognizing as the far end of the obligation spectrum.
-- **Obligation forms can express gratitude.** 来てくれなきゃ困る ("If you don't come, I'll be in trouble") sounds like obligation but functions as "I need you — please come." The bad outcome (困る) is personal vulnerability, not social rule.
+- **〜ないと without consequence is softer than with consequence.** <ruby>行<rt>い</rt></ruby>かないと ("I gotta go, or…") is gentler than <ruby>行<rt>い</rt></ruby>かないと<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わない ("If I don't go, I won't make it"). The hanging consequence allows the listener to imagine something worse than reality, or to fill in their own concern.
+- **〜ずにはいられない is the emotional extreme.** Not "must" but "cannot help" — the obligation comes from within, not from social pressure. <ruby>泣<rt>な</rt></ruby>かずにはいられない ("I can't help crying") is not about rules; it's about emotional compulsion. This is N2 territory but worth recognizing as the far end of the obligation spectrum.
+- **Obligation forms can express gratitude.** <ruby>来<rt>き</rt></ruby>てくれなきゃ<ruby>困<rt>こま</rt></ruby>る ("If you don't come, I'll be in trouble") sounds like obligation but functions as "I need you — please come." The bad outcome (<ruby>困<rt>こま</rt></ruby>る) is personal vulnerability, not social rule.
 - **The double negative is psychologically interesting.** Japanese obligation is built on "if NOT do, then BAD." This is less direct than English "must" — it approaches necessity through fear of negative outcome rather than assertion of positive duty. This indirectness is characteristically Japanese.
 
 ---
@@ -375,7 +375,7 @@ The most formal variant, common in legal, academic, and official written Japanes
 
     *"I must not enter"* [wrong — this means "I must enter"]
 
-    ~The negative conditional creates positive obligation. Prohibition requires 〜てはいけない: 入ってはいけない ("You must not enter").~
+    ~The negative conditional creates positive obligation. Prohibition requires 〜てはいけない: <ruby>入<rt>はい</rt></ruby>ってはいけない ("You must not enter").~
 
 !!! success "Correct"
     <ruby>入<rt>はい</rt></ruby>らなきゃ。
@@ -411,9 +411,9 @@ The most formal variant, common in legal, academic, and official written Japanes
 | 〜しなくちゃ | "I gotta do it [cute]" — feminine/childish |
 | 〜しなければ | "If I don't do it…" — formal conditional, often hanging |
 | 〜ずにはいられない | "Cannot help doing" — emotional compulsion |
-| 〜しなきゃ困る | "If I don't do it, I'll be in trouble" — personal vulnerability as request |
-| 〜しないと間に合わない | "If not, won't make it" — explicit time pressure |
-| 〜しないと怒られる | "If not, will be scolded" — social consequence fear |
+| 〜しなきゃ<ruby>困<rt>こま</rt></ruby>る | "If I don't do it, I'll be in trouble" — personal vulnerability as request |
+| 〜しないと<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わない | "If not, won't make it" — explicit time pressure |
+| 〜しないと<ruby>怒<rt>おこ</rt></ruby>られる | "If not, will be scolded" — social consequence fear |
 
 ~These collocations are worth learning as complete pragmatic units. The だよね and ね variants especially are social lubricants that transform pressure into bonding.~
 
@@ -451,7 +451,7 @@ The most formal variant, common in legal, academic, and official written Japanes
 - 〜ば conditional (N4) — なければ
 - 〜と conditional (N4) — ないと
 - 〜ては (N4) — なくては
-- 〜くれる / 〜もらう (N4) — Benefactive frame (in 〜てくれないと困る patterns)
+- 〜くれる / 〜もらう (N4) — Benefactive frame (in 〜てくれないと<ruby>困<rt>こま</rt></ruby>る patterns)
 
 ### Unlocks Next
 

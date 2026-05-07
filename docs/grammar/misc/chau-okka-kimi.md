@@ -10,7 +10,7 @@ tags:
 
 # 〜っちゃおっか — "Shall We Just Go Ahead And…?"
 
-## この流れに乗っちゃおっか？
+## この<ruby>流<rt>なが</rt></ruby>れに<ruby>乗<rt>の</rt></ruby>っちゃおっか？
 
 ---
 
@@ -35,7 +35,7 @@ tags:
 !!! tip "At a glance"
     - 〜っちゃおっか is a heavily contracted spoken form: 〜てしまおうか → ちゃおっか. It combines volitional intent ("let's do it"), completion/irreversibility (〜てしまう), and soft questioning (か).
     - The pragmatic meaning is subtle: "The momentum is already here — shall we just yield to it and see what happens?" It frames the action as following an existing flow rather than initiating something new.
-    - In the input sentence, 乗っちゃおっか doesn't ask "Shall we ride this wave?" as a planned decision. It asks "This wave has us — shall we just go with it?" The ちゃ layer adds the sense of "we might as well, it's happening anyway."
+    - In the input sentence, <ruby>乗<rt>の</rt></ruby>っちゃおっか doesn't ask "Shall we ride this wave?" as a planned decision. It asks "This wave has us — shall we just go with it?" The ちゃ layer adds the sense of "we might as well, it's happening anyway."
     - The form is inherently playful, casual, and slightly self-aware. It acknowledges that the action is somewhat impulsive while using that impulsiveness as social bonding.
 
 ---
@@ -67,15 +67,15 @@ tags:
 !!! example "In Real Life"
     **Situation:** ケン, ユウ, and マオ are at a karaoke place. The first round of drinks has arrived, someone has already sung a song, and the energy in the room is shifting from "should we do this?" to "we're doing this." Ken picks up the mic menu, looks at the others, and speaks into the charged air.
 
-    > この流れに乗っちゃおっか？
+    > この<ruby>流<rt>なが</rt></ruby>れに<ruby>乗<rt>の</rt></ruby>っちゃおっか？
 
     *"Shall we just go with this flow?"*
 
-    **Why っちゃおっか fits here:** Ken could have said 歌おうか ("Shall we sing?") — direct, functional. Or カラオケ楽しいね ("Karaoke is fun, huh?") — observational, non-committal. 乗っちゃおっか does something else: it acknowledges that a collective momentum has formed (the 流れ) and proposes surrendering to it. The decision is framed as inevitable, which makes it easier for everyone to say yes.
+    **Why っちゃおっか fits here:** Ken could have said <ruby>歌<rt>うた</rt></ruby>おうか ("Shall we sing?") — direct, functional. Or カラオケ<ruby>楽<rt>たの</rt></ruby>しいね ("Karaoke is fun, huh?") — observational, non-committal. <ruby>乗<rt>の</rt></ruby>っちゃおっか does something else: it acknowledges that a collective momentum has formed (the <ruby>流<rt>なが</rt></ruby>れ) and proposes surrendering to it. The decision is framed as inevitable, which makes it easier for everyone to say yes.
 
     **What makes this natural:** The っちゃ layer implies "we're already partly committed" — drinks poured, songs selected, inhibitions lowered. The おっか makes it a question, but a question that expects agreement because the situation itself is asking. This is exactly how Japanese social momentum works: decisions emerge from situations rather than individuals.
 
-    **What follows:** The others will likely respond with いいね or 乗る乗る or simply reach for the mic. The っちゃおっか has done its social work — it proposed without imposing, invited without demanding.
+    **What follows:** The others will likely respond with いいね or <ruby>乗<rt>の</rt></ruby>る<ruby>乗<rt>の</rt></ruby>る or simply reach for the mic. The っちゃおっか has done its social work — it proposed without imposing, invited without demanding.
 
 ---
 
@@ -83,11 +83,11 @@ tags:
 
 〜っちゃおっか is built from four compressed layers. Understanding the compression is key to recognizing and producing the form.
 
-**Layer 1 — 〜てしまう (completion/regret):** The base grammar of 〜てしまう expresses action done thoroughly, sometimes with regret. 食べてしまう = "eat it all up / go and eat it." This layer adds the sense of crossing a threshold.
+**Layer 1 — 〜てしまう (completion/regret):** The base grammar of 〜てしまう expresses action done thoroughly, sometimes with regret. <ruby>食<rt>た</rt></ruby>べてしまう = "eat it all up / go and eat it." This layer adds the sense of crossing a threshold.
 
-**Layer 2 — 〜ちゃう (casual contraction):** In casual speech, てしまう contracts to ちゃう. 食べてしまう → 食べちゃう. This is standard N4 casual grammar. The contraction removes the formal weight and adds playfulness.
+**Layer 2 — 〜ちゃう (casual contraction):** In casual speech, てしまう contracts to ちゃう. <ruby>食<rt>た</rt></ruby>べてしまう → <ruby>食<rt>た</rt></ruby>べちゃう. This is standard N4 casual grammar. The contraction removes the formal weight and adds playfulness.
 
-**Layer 3 — 〜ちゃおう (volitional):** The volitional form of ちゃう is ちゃおう. 食べちゃおう = "let's go and eat it all." This combines the "completion" sense with "let's do it" intent. The regret layer is transformed into playful abandon.
+**Layer 3 — 〜ちゃおう (volitional):** The volitional form of ちゃう is ちゃおう. <ruby>食<rt>た</rt></ruby>べちゃおう = "let's go and eat it all." This combines the "completion" sense with "let's do it" intent. The regret layer is transformed into playful abandon.
 
 **Layer 4 — 〜ちゃおっか (question contraction):** The volitional おう + か contracts in fast speech to おっか. The う drops, the っ geminates, and the か remains as the soft question marker. This is extremely casual, male-associated but not exclusively, and spoken-only.
 
@@ -121,11 +121,11 @@ Textbooks teach 〜てしまおうか as "let's do it completely." Real speech c
 
 ### Function in Context
 
-- この流れに establishes the "flow" or momentum as a specific, shared situation. The demonstrative この ("this") points to something both speaker and listener can perceive — the social current, the mood, the unfolding event.
-- 乗る (to ride/board) is metaphorical here — "to go along with, to ride the wave of." It's a common collocation with 流れ (flow/current) and 波 (wave).
+- この<ruby>流<rt>なが</rt></ruby>れに establishes the "flow" or momentum as a specific, shared situation. The demonstrative この ("this") points to something both speaker and listener can perceive — the social current, the mood, the unfolding event.
+- <ruby>乗<rt>の</rt></ruby>る (to ride/board) is metaphorical here — "to go along with, to ride the wave of." It's a common collocation with <ruby>流<rt>なが</rt></ruby>れ (flow/current) and <ruby>波<rt>は</rt></ruby> (wave).
 - っちゃおっか compresses てしまおうか. The てしまう layer adds "complete it / go all the way"; the おうか layer adds "shall we?" The compression makes it feel spontaneous rather than planned.
 - The question mark (or rising intonation) is essential — this is a proposal, not a declaration. But it's a proposal that expects agreement because the situation itself supports it.
-- Without ちゃ: 乗ろうか ("Shall we ride?") is a plain volitional proposal — neutral, active, deliberate. With ちゃ: 乗っちゃおっか frames the riding as yielding to existing momentum rather than initiating action. The difference is between "Let's decide to ride" and "The wave has us — shall we stop resisting?"
+- Without ちゃ: <ruby>乗<rt>じょう</rt></ruby>ろうか ("Shall we ride?") is a plain volitional proposal — neutral, active, deliberate. With ちゃ: <ruby>乗<rt>の</rt></ruby>っちゃおっか frames the riding as yielding to existing momentum rather than initiating action. The difference is between "Let's decide to ride" and "The wave has us — shall we stop resisting?"
 
 | <ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けちゃおっか。 | Shall we just open the window [it's getting stuffy, the moment feels right]? |
 |---|---|
@@ -142,16 +142,16 @@ Textbooks teach 〜てしまおうか as "let's do it completely." Real speech c
 | Question + contraction (ちゃおっか) | <ruby>乗<rt>の</rt></ruby>っちゃおっか | おうか → おっか (fast speech) |
 
 !!! warning "The contraction chain"
-    The full chain is: 乗ってしまおうか → 乗っちゃおうか → 乗っちゃおっか. Each step increases casualness. The final form is spoken-only and would look bizarre in writing (except dialogue or text messages).
+    The full chain is: <ruby>乗<rt>の</rt></ruby>ってしまおうか → <ruby>乗<rt>の</rt></ruby>っちゃおうか → <ruby>乗<rt>の</rt></ruby>っちゃおっか. Each step increases casualness. The final form is spoken-only and would look bizarre in writing (except dialogue or text messages).
 
 !!! warning "Not all verbs take this pattern"
     The verb must be transitive or capable of completion. Intransitive states (ある, いる) don't take 〜てしまう naturally, so they don't produce 〜ちゃおっか. The pattern requires an action that can be "completed" or "done thoroughly."
 
 | Compatible | Incompatible | Why |
 |------------|-------------|-----|
-| <ruby>食<rt>た</rt></ruby>べる → 食べちゃおっか | <ruby>分<rt>わ</rt></ruby>かる → 分かっちゃおっか | Understanding isn't a completable action in this sense |
-| <ruby>買<rt>か</rt></ruby>う → 買っちゃおっか | <ruby>好<rt>す</rt></ruby>きだ → 好きじゃおっか | States don't take てしまう |
-| <ruby>言<rt>い</rt></ruby>う → 言っちゃおっか | <ruby>眠<rt>ねむ</rt></ruby>い → 眠くちゃおっか | Adjectives don't fit the pattern |
+| <ruby>食<rt>た</rt></ruby>べる → <ruby>食<rt>た</rt></ruby>べちゃおっか | <ruby>分<rt>わ</rt></ruby>かる → <ruby>分<rt>わ</rt></ruby>かっちゃおっか | Understanding isn't a completable action in this sense |
+| <ruby>買<rt>か</rt></ruby>う → <ruby>買<rt>か</rt></ruby>っちゃおっか | <ruby>好<rt>す</rt></ruby>きだ → <ruby>好<rt>す</rt></ruby>きじゃおっか | States don't take てしまう |
+| <ruby>言<rt>い</rt></ruby>う → <ruby>言<rt>い</rt></ruby>っちゃおっか | <ruby>眠<rt>ねむ</rt></ruby>い → <ruby>眠<rt>ねむ</rt></ruby>くちゃおっか | Adjectives don't fit the pattern |
 
 ---
 
@@ -159,9 +159,9 @@ Textbooks teach 〜てしまおうか as "let's do it completely." Real speech c
 
 Japanese social decision-making often avoids explicit individual agency. Proposals are framed as responses to situations, currents, or group energy rather than as personal initiatives. 〜っちゃおっか is the grammatical embodiment of this: the speaker is not saying "I want to do this" but "The situation invites this — shall we accept?"
 
-This reflects the broader pattern of ** situational causation** over **individual volition**. The 流れ (flow) is doing the work; the speaker is merely proposing to stop resisting it.
+This reflects the broader pattern of ** situational causation** over **individual volition**. The <ruby>流<rt>なが</rt></ruby>れ (flow) is doing the work; the speaker is merely proposing to stop resisting it.
 
-- **Momentum as social lubricant.** By framing the proposal as yielding to 流れ, the speaker removes the pressure of individual decision. If everyone says yes, they all followed the situation. If someone declines, they declined the situation, not the speaker. This protects everyone's face.
+- **Momentum as social lubricant.** By framing the proposal as yielding to <ruby>流<rt>なが</rt></ruby>れ, the speaker removes the pressure of individual decision. If everyone says yes, they all followed the situation. If someone declines, they declined the situation, not the speaker. This protects everyone's face.
 - **Completion as commitment.** The ちゃ layer (てしまう) implies that once started, the action will be thorough. This is reassuring in social contexts — it promises full participation, not half-measures. "Shall we just go all in?" is the subtext.
 - **Self-talk as social invitation.** The おっか form is technically a self-directed question ("Shall I…?") that functions as an invitation to others. This ambiguity is functional — it allows others to join without being explicitly asked.
 
@@ -179,7 +179,7 @@ This reflects the broader pattern of ** situational causation** over **individua
 | 〜ちゃえ | "Just do it!" | Imperative; rough, male, dismissive of hesitation | Commands; peer pressure; "get it over with" | N3 |
 | 〜てしまおう | "Let's do it thoroughly" | Full form; slightly more deliberate than ちゃおっか | Written or careful speech; planning | N4 |
 
-The closest lookalike is 〜おうか. The key difference is the ちゃ layer: 乗ろうか asks "Shall we ride?" as a fresh decision. 乗っちゃおっか asks "Shall we just go with it?" as a response to existing momentum. The first initiates; the second surrenders.
+The closest lookalike is 〜おうか. The key difference is the ちゃ layer: <ruby>乗<rt>じょう</rt></ruby>ろうか asks "Shall we ride?" as a fresh decision. <ruby>乗<rt>の</rt></ruby>っちゃおっか asks "Shall we just go with it?" as a response to existing momentum. The first initiates; the second surrenders.
 
 ---
 
@@ -345,7 +345,7 @@ States and adjectives don't take the てしまう → ちゃう pattern, so they
 !!! failure "Ungrammatical"
     <ruby>好<rt>す</rt></ruby>きちゃおっか
 
-    ~好き is an adjective/noun, not an action. You can't "complete" liking. The pattern requires completable actions.~
+    ~<ruby>好<rt>す</rt></ruby>き is an adjective/noun, not an action. You can't "complete" liking. The pattern requires completable actions.~
 
 !!! success "Appropriate"
     <ruby>好<rt>す</rt></ruby>きになっちゃおっか
@@ -375,10 +375,10 @@ States and adjectives don't take the てしまう → ちゃう pattern, so they
 
 - **〜っちゃおっか is almost always group-directed.** Even when grammatically self-directed ("Shall I…?"), it functions as an invitation to others to join. The "self-talk" form is a social strategy — it allows others to opt in without being explicitly asked.
 - **The っちゃ layer can imply mild transgression.** てしまう often carries "against better judgment" nuance. In ちゃおっか, this becomes playful — the proposal is slightly naughty, slightly irresponsible, and that's the bonding glue. "Let's be mildly bad together."
-- **Intonation determines sincerity vs. irony.** With genuine rising intonation, 乗っちゃおっか is a real proposal. With flat or falling intonation, it can be ironic — "As if we'd go with this flow." Context disambiguates.
+- **Intonation determines sincerity vs. irony.** With genuine rising intonation, <ruby>乗<rt>の</rt></ruby>っちゃおっか is a real proposal. With flat or falling intonation, it can be ironic — "As if we'd go with this flow." Context disambiguates.
 - **Male-associated but not exclusive.** The おっか contraction is stereotypically masculine, but women use it frequently in casual peer contexts. The gender coding is weaker than with ちゃえ (strongly masculine/rough).
 - **The pattern works because it removes agency.** By framing the action as completion (ちゃ) of an already-started process, the speaker avoids responsibility for initiating. This is psychologically and socially easier than saying "Let's do this."
-- **〜ちゃおっか can be used sarcastically.** When someone else is pushing too hard, responding with 乗っちゃおっか？ with flat intonation can mean "I guess we're doing this whether I like it or not." The form's ambiguity is its strength and its risk.
+- **〜ちゃおっか can be used sarcastically.** When someone else is pushing too hard, responding with <ruby>乗<rt>の</rt></ruby>っちゃおっか？ with flat intonation can mean "I guess we're doing this whether I like it or not." The form's ambiguity is its strength and its risk.
 
 ---
 

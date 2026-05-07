@@ -135,10 +135,10 @@ Both expressions reflect a Japanese attentiveness to the speaker's own perceptua
 
 | Expression | Core Meaning | Speaker's Attention During Event | Emotional Color | Typical Verb Types |
 |------------|--------------|----------------------------------|-----------------|-------------------|
-| <ruby>あっという間<rt>ま</rt></ruby>に | "In a startlingly short time" | Present and watching | Surprise, mild loss, wistfulness | Bounded events: 終わる, 過ぎる, 無くなる |
+| <ruby>あっという間<rt>ま</rt></ruby>に | "In a startlingly short time" | Present and watching | Surprise, mild loss, wistfulness | Bounded events: <ruby>終<rt>お</rt></ruby>わる, <ruby>過<rt>す</rt></ruby>ぎる, <ruby>無<rt>な</rt></ruby>くなる |
 | <ruby>何時<rt>いつ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にか | "Without my noticing" | Absent or distracted | Mild disorientation, poignancy | State changes: 〜くなる, 〜ていた, 〜てしまう |
-| <ruby>瞬<rt>またた</rt></ruby>く<ruby>間<rt>ま</rt></ruby>に | "In the time it takes to blink" | Present and watching | Pure speed, more neutral than あっという間に | Same as あっという間に but more formal/written |
-| <ruby>気<rt>き</rt></ruby>がついたら | "When I came to / realized" | Absent, then awareness arrives | Active realization, sometimes alarmed | Same as いつの間にか but with a stronger "wake-up" moment |
+| <ruby>瞬<rt>またた</rt></ruby>く<ruby>間<rt>ま</rt></ruby>に | "In the time it takes to blink" | Present and watching | Pure speed, more neutral than あっという<ruby>間<rt>ま</rt></ruby>に | Same as あっという<ruby>間<rt>ま</rt></ruby>に but more formal/written |
+| <ruby>気<rt>き</rt></ruby>がついたら | "When I came to / realized" | Absent, then awareness arrives | Active realization, sometimes alarmed | Same as いつの<ruby>間<rt>あいだ</rt></ruby>にか but with a stronger "wake-up" moment |
 | いつの<ruby>間<rt>ま</rt></ruby>にか | Same as <ruby>何時<rt>いつ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にか; slightly more casual | Same | Same | Same |
 
 <ruby>瞬<rt>またた</rt></ruby>く<ruby>間<rt>ま</rt></ruby>に is the most frequent source of confusion for learners who encounter it in reading. It belongs to the same family as <ruby>あっという間<rt>ま</rt></ruby>に (the speaker was watching time fly) but is slightly more formal and less emotionally charged — it reports speed without necessarily reporting surprise.
@@ -173,7 +173,7 @@ Both expressions accept です・ます without any structural adjustment. The e
 
 **Written / Formal**
 
-- <ruby>瞬<rt>またた</rt></ruby>く<ruby>間<rt>ま</rt></ruby>に<ruby>時<rt>とき</rt></ruby>が<ruby>過<rt>す</rt></ruby>ぎ去った。
+- <ruby>瞬<rt>またた</rt></ruby>く<ruby>間<rt>ま</rt></ruby>に<ruby>時<rt>とき</rt></ruby>が<ruby>過<rt>す</rt></ruby>ぎ<ruby>去<rt>さ</rt></ruby>った。
 
 *"Time flew past in the blink of an eye."*
 

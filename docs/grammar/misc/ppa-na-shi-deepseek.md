@@ -51,7 +51,7 @@ tags:
 |-----------|------|----------|
 | テレビ | Noun | Television |
 | が | Subject particle | Marks the TV as the thing in the state |
-| <ruby>付<rt>つ</rt></ruby>け | Masu-stem of 付ける (to turn on) | The base to which っぱなし attaches |
+| <ruby>付<rt>つ</rt></ruby>け | Masu-stem of <ruby>付<rt>つ</rt></ruby>ける (to turn on) | The base to which っぱなし attaches |
 | っぱなし | Suffix | "Left in the state of doing" — adds neglect nuance |
 | です | Polite copula | Makes the sentence polite |
 
@@ -71,17 +71,17 @@ tags:
 
 **Verb (masu-stem) + っぱなし**
 
-Remove ます from the polite form to get the stem, then attach っぱなし directly. っぱなし functions as a noun (it can be followed by だ/です). It comes from the verb 放す (はなす, to let go / to release), with the same root as 放し飼い (free-range) — the idea is that the action has been "released" and left to run.
+Remove ます from the polite form to get the stem, then attach っぱなし directly. っぱなし functions as a noun (it can be followed by だ/です). It comes from the verb <ruby>放<rt>はな</rt></ruby>す (はなす, to let go / to release), with the same root as <ruby>放<rt>はな</rt></ruby>し<ruby>飼<rt>が</rt></ruby>い (free-range) — the idea is that the action has been "released" and left to run.
 
 | Verb | Masu-stem | + っぱなし | Meaning |
 |------|-----------|------------|---------|
-| <ruby>付<rt>つ</rt></ruby>ける (to turn on) | 付け | <ruby>付<rt>つ</rt></ruby>けっぱなし | Left on |
-| <ruby>開<rt>あ</rt></ruby>ける (to open) | 開け | <ruby>開<rt>あ</rt></ruby>けっぱなし | Left open |
-| <ruby>出<rt>だ</rt></ruby>す (to take out) | 出し | <ruby>出<rt>だ</rt></ruby>しっぱなし | Left out (not put away) |
-| <ruby>書<rt>か</rt></ruby>く (to write) | 書き | <ruby>書<rt>か</rt></ruby>きっぱなし | Left half-written; left as-is without finishing |
-| <ruby>言<rt>い</rt></ruby>う (to say) | 言い | <ruby>言<rt>い</rt></ruby>いっぱなし | Left as just words; said and then abandoned without follow-up |
-| <ruby>立<rt>た</rt></ruby>つ (to stand) | 立ち | <ruby>立<rt>た</rt></ruby>ちっぱなし | Left standing (without sitting) |
-| <ruby>座<rt>すわ</rt></ruby>る (to sit) | 座り | <ruby>座<rt>すわ</rt></ruby>りっぱなし | Left sitting (without moving) |
+| <ruby>付<rt>つ</rt></ruby>ける (to turn on) | <ruby>付<rt>つ</rt></ruby>け | <ruby>付<rt>つ</rt></ruby>けっぱなし | Left on |
+| <ruby>開<rt>あ</rt></ruby>ける (to open) | <ruby>開<rt>あ</rt></ruby>け | <ruby>開<rt>あ</rt></ruby>けっぱなし | Left open |
+| <ruby>出<rt>だ</rt></ruby>す (to take out) | <ruby>出<rt>だ</rt></ruby>し | <ruby>出<rt>だ</rt></ruby>しっぱなし | Left out (not put away) |
+| <ruby>書<rt>か</rt></ruby>く (to write) | <ruby>書<rt>か</rt></ruby>き | <ruby>書<rt>か</rt></ruby>きっぱなし | Left half-written; left as-is without finishing |
+| <ruby>言<rt>い</rt></ruby>う (to say) | <ruby>言<rt>い</rt></ruby>い | <ruby>言<rt>い</rt></ruby>いっぱなし | Left as just words; said and then abandoned without follow-up |
+| <ruby>立<rt>た</rt></ruby>つ (to stand) | <ruby>立<rt>た</rt></ruby>ち | <ruby>立<rt>た</rt></ruby>ちっぱなし | Left standing (without sitting) |
+| <ruby>座<rt>すわ</rt></ruby>る (to sit) | <ruby>座<rt>すわ</rt></ruby>り | <ruby>座<rt>すわ</rt></ruby>りっぱなし | Left sitting (without moving) |
 
 !!! warning "Only attaches to the masu-stem"
     You cannot attach っぱなし to the dictionary form, te-form, or any other conjugation. Only the masu-stem (the part before ます) is used.
@@ -184,14 +184,14 @@ Both describe a state continuing, but the nuance differs sharply.
     <ruby>付<rt>つ</rt></ruby>けったっぱなし ❌
 
 !!! success "Correct"
-    <ruby>付<rt>つ</rt></ruby>けっぱなし ✅ (masu-stem of 付ける)
+    <ruby>付<rt>つ</rt></ruby>けっぱなし ✅ (masu-stem of <ruby>付<rt>つ</rt></ruby>ける)
 
 ### 3. Confusing っぱなし with 〜たまま for all contexts
 
 Though they overlap, っぱなし adds judgment. Using it when simply describing a persistent state without criticism can make the speaker sound unfairly harsh.
 
 !!! failure "Overly critical"
-    <ruby>彼<rt>かれ</rt></ruby>は<ruby>若<rt>わか</rt></ruby>いままだ。 → 彼は<ruby>若<rt>わか</rt></ruby>いっぱなしだ ❌
+    <ruby>彼<rt>かれ</rt></ruby>は<ruby>若<rt>わか</rt></ruby>いままだ。 → <ruby>彼<rt>かれ</rt></ruby>は<ruby>若<rt>わか</rt></ruby>いっぱなしだ ❌
 
     ~"He remains young." っぱなし with i-adjectives isn't standard; "left young" makes no sense. まま is correct.~
 
@@ -218,7 +218,7 @@ Though they overlap, っぱなし adds judgment. Using it when simply describing
 - **〜たまま** — Persistent state, neutral. "The window is still open (as it was)." No neglect nuance.
 - **〜ている** — Ongoing action or resultant state. "The TV is on." Pure state description.
 - **〜ずにいる** — "To remain without doing." Negative action remaining undone, but without the "left" judgment.
-- **〜放題（ほうだい）** — "All you can / as much as you like." Different nuance — freedom, not neglect. 食べ放題, 言いたい放題.
+- **〜<ruby>放題<rt>ほうだい</rt></ruby>（ほうだい）** — "All you can / as much as you like." Different nuance — freedom, not neglect. <ruby>食<rt>た</rt></ruby>べ<ruby>放題<rt>ほうだい</rt></ruby>, <ruby>言<rt>い</rt></ruby>いたい<ruby>放題<rt>ほうだい</rt></ruby>.
 
 ### Contrast With
 

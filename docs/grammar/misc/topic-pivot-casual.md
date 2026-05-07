@@ -37,7 +37,7 @@ tags:
     - It's built from the て-form of だ (nominal copula) + casual sentence-particle さ.
     - The function is **attention-direction**: it marks the preceding item as the conversation's new focus, while the pause (often an ellipsis or a new clause) lets the listener catch up.
     - Extremely common in casual spoken Japanese between friends, family, and close colleagues. You'll hear it constantly in drama, variety shows, and everyday conversation.
-    - The input sentence — リホのことでさ、ちょっと聞きたいことあるんだけど — is the canonical pattern: [topic + でさ] + [pause] + [what the speaker wants to say about that topic].
+    - The input sentence — リホのことでさ、ちょっと<ruby>聞<rt>き</rt></ruby>きたいことあるんだけど — is the canonical pattern: [topic + でさ] + [pause] + [what the speaker wants to say about that topic].
 
 ---
 
@@ -65,7 +65,7 @@ tags:
 !!! example "In Real Life"
     **Situation:** ハル and ミサキ are coworkers and friends. ハル recently heard something about a mutual colleague, リホ, and wants to check it with ミサキ during lunch. He doesn't want to sound like he's gossiping — just casually raising the topic.
 
-    > あのさ、リホのことでさ、ちょっと聞きたいことあるんだけど…
+    > あのさ、リホのことでさ、ちょっと<ruby>聞<rt>き</rt></ruby>きたいことあるんだけど…
 
     *"Hey, so… about Riho — there's something I wanted to ask you."*
 
@@ -99,7 +99,7 @@ Textbook Japanese teaches 〜について (regarding) and 〜のことですが 
 | Natural spoken | リホのことでさ、ちょっと… | The canonical casual topic-introducer. Warm, human, unrehearsed. |
 | Textbook / formal spoken | リホのことについてですが、… | Grammatically correct but stiff in casual speech. Sounds like a meeting, not a conversation. |
 | Semi-casual connective | リホのことなんだけど、… | Also natural. Swaps でさ for なんだけど — slightly more explanatory than attention-getting. |
-| Overly blunt | リホのこと、聞きたい。 | Dropping the softening entirely — sounds abrupt and demanding. |
+| Overly blunt | リホのこと、<ruby>聞<rt>き</rt></ruby>きたい。 | Dropping the softening entirely — sounds abrupt and demanding. |
 
 ---
 
@@ -107,15 +107,15 @@ Textbook Japanese teaches 〜について (regarding) and 〜のことですが 
 
 ### Function in Context
 
-In the input sentence — リホのことでさ、ちょっと聞きたいことあるんだけど — each piece contributes to a carefully soft approach.
+In the input sentence — リホのことでさ、ちょっと<ruby>聞<rt>き</rt></ruby>きたいことあるんだけど — each piece contributes to a carefully soft approach.
 
 - **リホのこと** is the topic base. のこと wraps the person's name in "matters concerning," which is already more indirect than naming Riho as a direct object.
 - **で** attaches the topic to what follows — it says "this is the topic, and I'm about to say something about it."
 - **さ** reaches toward the listener — "you know? I'm bringing this up." It signals that the speaker considers the topic worth the listener's attention.
 - The pause after でさ lets the listener register the topic before the request arrives.
-- **ちょっと聞きたいことあるんだけど** is the payload, itself softened by ちょっと, the んだけど trailing form, and the overall indirectness.
+- **ちょっと<ruby>聞<rt>き</rt></ruby>きたいことあるんだけど** is the payload, itself softened by ちょっと, the んだけど trailing form, and the overall indirectness.
 
-Without でさ: リホのこと聞きたいことあるんだけど is grammatical but lands more abruptly. The でさ creates the conversational space that turns a demand into a shared observation.
+Without でさ: リホのこと<ruby>聞<rt>き</rt></ruby>きたいことあるんだけど is grammatical but lands more abruptly. The でさ creates the conversational space that turns a demand into a shared observation.
 
 ### Construction {#construction}
 
@@ -206,7 +206,7 @@ The same structure minus the さ particle. Grammatically identical base, but col
 | **vs. original** | Subtle but audible to native speakers. With さ, the speaker is actively pulling the listener in. Without it, the topic is just being stated. |
 
 !!! warning "Learner trap — formal でさ"
-    There is no formal version of でさ, because さ itself is inherently casual. Attempting でさ with です・ます produces a register clash — リホのことでさ、聞きたいことがあります is grammatically possible but pragmatically odd; native speakers would not combine さ with polite forms.
+    There is no formal version of でさ, because さ itself is inherently casual. Attempting でさ with です・ます produces a register clash — リホのことでさ、<ruby>聞<rt>き</rt></ruby>きたいことがあります is grammatically possible but pragmatically odd; native speakers would not combine さ with polite forms.
 
 ---
 
@@ -226,14 +226,14 @@ The same structure minus the さ particle. Grammatically identical base, but col
 
     *"It's about Riho — there's something I'd like to ask you."*
 
-    **Shift:** でさ→なんですが (explanatory + polite); 聞きたい→お聞きしたい (humble); あるんだけど→ありまして (polite te-form, softer close). The warmth of さ is absent, replaced by polite distance. Appropriate for a colleague you're not close with.
+    **Shift:** でさ→なんですが (explanatory + polite); <ruby>聞<rt>き</rt></ruby>きたい→お<ruby>聞<rt>き</rt></ruby>きしたい (humble); あるんだけど→ありまして (polite te-form, softer close). The warmth of さ is absent, replaced by polite distance. Appropriate for a colleague you're not close with.
 
 === ":material-briefcase-outline: Extra Polite"
     <ruby>先日<rt>せんじつ</rt></ruby>のリホの<ruby>件<rt>けん</rt></ruby>につきまして、<ruby>少々<rt>しょうしょう</rt></ruby>お<ruby>伺<rt>うかが</rt></ruby>いしたい<ruby>件<rt>けん</rt></ruby>がございまして。
 
     *"Regarding the matter of Riho from the other day, there is something I would like to inquire about."*
 
-    **Shift:** Complete formal restructure. でさ→につきまして (formal "regarding"); リホのこと→リホの件 (formal "matter"); 聞きたい→お伺いしたい (humble "inquire"); ある→ござる (formal existence). Used for official business contexts. No trace of the casual warmth.
+    **Shift:** Complete formal restructure. でさ→につきまして (formal "regarding"); リホのこと→リホの<ruby>件<rt>けん</rt></ruby> (formal "matter"); <ruby>聞<rt>き</rt></ruby>きたい→お<ruby>伺<rt>うかが</rt></ruby>いしたい (humble "inquire"); ある→ござる (formal existence). Used for official business contexts. No trace of the casual warmth.
 
 ---
 
@@ -263,7 +263,7 @@ The same structure minus the さ particle. Grammatically identical base, but col
 | あのさ、<ruby>昨日<rt>きのう</rt></ruby><ruby>話<rt>はな</rt></ruby>してた<ruby>映画<rt>えいが</rt></ruby>でさ、タイトル<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>だ</rt></ruby>したよ。 | Hey, about that movie we were talking about yesterday — I remembered the title. |
 | | *Literal: Hey, yesterday was-talking-about movie-regarding-you-know, title remembered.* |
 | | ~Context: A follow-up to a previous conversation. あのさ gets attention; でさ hooks the shared topic.~ |
-| <ruby>最近<rt>さいきん</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>でさ、<ruby>何<rt>なに</rt></ruby>か<ruby>変<rt>へん</rt></ruby>だと思わない？ | About how things have been lately — don't you think something's off? |
+| <ruby>最近<rt>さいきん</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>でさ、<ruby>何<rt>なに</rt></ruby>か<ruby>変<rt>へん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>わない？ | About how things have been lately — don't you think something's off? |
 | | *Literal: Recent state-of-things-regarding-you-know, something strange is, don't-you-think?* |
 | | ~Context: Someone broaching a subtle concern about a shared situation. でさ softens the entry into potentially sensitive territory.~ |
 | <ruby>昨日<rt>きのう</rt></ruby><ruby>送<rt>おく</rt></ruby>ったメールのことでさ、<ruby>確認<rt>かくにん</rt></ruby>してくれた？ | About that email I sent yesterday — did you get a chance to check it? |
@@ -281,7 +281,7 @@ The same structure minus the さ particle. Grammatically identical base, but col
 !!! failure "Register clash"
     リホのことでさ、お<ruby>聞<rt>き</rt></ruby>きしたいことがあります。
 
-    ~さ is casual; お聞きしたい and ます are polite. The combination is pragmatically odd — the speaker sounds like they can't decide on the social distance.~
+    ~さ is casual; お<ruby>聞<rt>き</rt></ruby>きしたい and ます are polite. The combination is pragmatically odd — the speaker sounds like they can't decide on the social distance.~
 
 !!! success "More appropriate"
     リホのことなんですが、お<ruby>聞<rt>き</rt></ruby>きしたいことがありまして。
@@ -295,12 +295,12 @@ The same structure minus the さ particle. Grammatically identical base, but col
 !!! failure "Incorrect attachment"
     <ruby>昨日<rt>きのう</rt></ruby><ruby>行<rt>い</rt></ruby>った[でさ]{.mistake}…
 
-    ~でさ follows 行った (verb). The copula で cannot attach directly to a verb.~
+    ~でさ follows <ruby>行<rt>い</rt></ruby>った (verb). The copula で cannot attach directly to a verb.~
 
 !!! success "Correct"
     <ruby>昨日<rt>きのう</rt></ruby><ruby>行<rt>い</rt></ruby>った<ruby>件<rt>けん</rt></ruby>**でさ**…
 
-    ~件 (matter/case) nominalises the verb phrase — 行った件 is a noun phrase, so でさ attaches correctly.~
+    ~<ruby>件<rt>けん</rt></ruby> (matter/case) nominalises the verb phrase — <ruby>行<rt>い</rt></ruby>った<ruby>件<rt>けん</rt></ruby> is a noun phrase, so でさ attaches correctly.~
 
 ### 3. Overusing さ
 
@@ -322,7 +322,7 @@ The same structure minus the さ particle. Grammatically identical base, but col
     でさ signals in-group intimacy. Using it with an acquaintance, a superior, or someone you've just met can feel presumptuous — as if you're treating them as closer than they are.
 
 !!! warning "In writing (except dialogue)"
-    でさ is a spoken discourse marker. In formal writing, use について or に関して. でさ appears in written dialogue (scripts, captions, casual messages) but never in essays, reports, or formal correspondence.
+    でさ is a spoken discourse marker. In formal writing, use について or に<ruby>関<rt>かん</rt></ruby>して. でさ appears in written dialogue (scripts, captions, casual messages) but never in essays, reports, or formal correspondence.
 
 ---
 
@@ -333,7 +333,7 @@ The same structure minus the さ particle. Grammatically identical base, but col
 | **あのさ + 〜でさ** | "Hey, about X…" — double attention-getter; the first さ gets general attention, the second hooks the specific topic |
 | **〜のことでさ** | "About the matter of X…" — the most common base; のこと adds soft indirection |
 | **でさ… あるんだけど** | "About X… there's something I want to say/ask" — canonical topic-introduction + trailing request |
-| **でさ… 思ったんだけど** | "About X… I was just thinking" — softens an opinion by framing it tentatively |
+| **でさ… <ruby>思<rt>おも</rt></ruby>ったんだけど** | "About X… I was just thinking" — softens an opinion by framing it tentatively |
 | **でさあ** (lengthened) | "About X, you know…" — adds thinking time or mild emotional weight; common when the topic is heavy |
 
 | Japanese | English |
@@ -376,7 +376,7 @@ The same structure minus the さ particle. Grammatically identical base, but col
 ### Commonly Confused With
 
 - 〜について — formal "regarding"; no interpersonal warmth
-- 〜に関して（かんして） — formal "concerning"; written and formal speech register
+- 〜に<ruby>関<rt>かん</rt></ruby>して（かんして） — formal "concerning"; written and formal speech register
 - 〜のことなんだけど — explanatory topic introduction; similar function, different pragmatic weight
 
 ### Builds From
@@ -494,8 +494,8 @@ English:
 > “About work, I’m tired because of it.”
 
 Japanese splits:
-- 仕事は (topic)  
-- 仕事で (cause/context)  
+- <ruby>仕事<rt>しごと</rt></ruby>は (topic)  
+- <ruby>仕事<rt>しごと</rt></ruby>で (cause/context)  
 
 Understanding this separation is key to sounding natural.
 

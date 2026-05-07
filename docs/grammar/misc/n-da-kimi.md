@@ -280,7 +280,7 @@ The realization function — processing new information aloud and reacting to it
 |---|---|
 | | *Literal: Alone came [realization], impressive, right?* |
 
-~Context: Parent to child who arrived at an event solo. The んだ marks the moment of noticing; 偉いね is the praise that naturally follows.~
+~Context: Parent to child who arrived at an event solo. The んだ marks the moment of noticing; <ruby>偉<rt>えら</rt></ruby>いね is the praise that naturally follows.~
 
 | <ruby>毎日<rt>まいにち</rt></ruby><ruby>練習<rt>れんしゅう</rt></ruby>してるんだ、<ruby>凄<rt>すご</rt></ruby>いね。 | So you practice every day — that's amazing. |
 |---|---|

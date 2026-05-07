@@ -221,7 +221,7 @@ The same topic — リホのこと (matters concerning Riho) — introduced with
 !!! success "Correct"
     <ruby>山田<rt>やまだ</rt></ruby>さん**って**<ruby>人<rt>ひと</rt></ruby>、<ruby>知<rt>し</rt></ruby>ってる？
 
-    ~Adding 人 makes it "this person called Yamada" — the shared-knowledge frame now works because the topic is "the existence of a person called Yamada," which both parties can acknowledge.~
+    ~Adding <ruby>人<rt>にん</rt></ruby> makes it "this person called Yamada" — the shared-knowledge frame now works because the topic is "the existence of a person called Yamada," which both parties can acknowledge.~
 
 ---
 
@@ -275,4 +275,4 @@ Common opening patterns that combine these markers:
 - って (N3) → quotative and topic-framing particle
 - なら (N3) → conditional-as-topic-marker
 - について (N4) → formal topic marker
-- に関して（にかんして） (N2) → ultra-formal "concerning"; business and academic register
+- に<ruby>関<rt>かん</rt></ruby>して（にかんして） (N2) → ultra-formal "concerning"; business and academic register

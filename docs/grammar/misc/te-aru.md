@@ -35,7 +35,7 @@ tags:
 !!! tip "At a glance"
     - 〜てある describes a **state that exists because someone deliberately did something earlier** — and that action's effect or purpose remains relevant now.
     - It always implies an **agent** — someone intentionally performed the action, and the resulting state is there for a reason.
-    - In the reference sentence — そのことはもう社長にお話ししてあります — the speaker is saying "I have already spoken to the company president about that matter (and the president is now informed — the information is in place, deliberately)."
+    - In the reference sentence — そのことはもう<ruby>社長<rt>しゃちょう</rt></ruby>にお<ruby>話<rt>はな</rt></ruby>ししてあります — the speaker is saying "I have already spoken to the company president about that matter (and the president is now informed — the information is in place, deliberately)."
     - 〜てある uses **transitive verbs** and marks the object with **が** (not を) — the object is the thing that has been acted upon and now sits in its prepared state.
     - This pattern is distinct from 〜ている on change verbs (which describes a state without emphasising intention) and from past tense 〜た (which only says the action happened, with no comment on the resulting state).
 
@@ -60,7 +60,7 @@ The reference sentence uses 〜てある precisely because the speaker wants to 
 
 ### The Sentence
 
-> そのことはもう社長にお話ししてあります。
+> そのことはもう<ruby>社長<rt>しゃちょう</rt></ruby>にお<ruby>話<rt>はな</rt></ruby>ししてあります。
 
 ### Natural Translation
 *"I have already spoken to the company president about that matter."*
@@ -77,7 +77,7 @@ The reference sentence uses 〜てある precisely because the speaker wants to 
 | は | Topic particle | Frames そのこと as the discourse topic |
 | もう | Adverb | "Already" — the action was completed earlier |
 | <ruby>社長<rt>しゃちょう</rt></ruby>に | Noun + に | "To the company president" — the target of the speaking |
-| お<ruby>話<rt>はな</rt></ruby>し | Honorific verb stem | 話す → お話しする (humble form) — the speaker lowers themselves relative to the president |
+| お<ruby>話<rt>はな</rt></ruby>し | Honorific verb stem | <ruby>話<rt>はな</rt></ruby>す → お<ruby>話<rt>はな</rt></ruby>しする (humble form) — the speaker lowers themselves relative to the president |
 | して | Te-form of する | The te-form connects to ある |
 | あります | Polite form of ある | てある in polite register — "exists in the deliberately-done state" |
 
@@ -85,9 +85,9 @@ The reference sentence uses 〜てある precisely because the speaker wants to 
 
 | Form | What It Would Say | Why It's Different |
 |------|-------------------|---------------------|
-| 話した | "I spoke." | Only says the action happened. No comment on whether the information is still in place, whether it was deliberate, or whether it matters now. |
-| 話している | "I am speaking" (progressive) or possibly resultative but odd with 話す | For 話す, 〜ている sounds progressive ("am speaking right now"), not resultative. It doesn't communicate "the speaking is done and the information is in place." |
-| 話してある | "I have spoken (deliberately, and the president now knows)." | **The right choice.** Communicates intentionality, completion, and continuing relevance. |
+| <ruby>話<rt>はな</rt></ruby>した | "I spoke." | Only says the action happened. No comment on whether the information is still in place, whether it was deliberate, or whether it matters now. |
+| <ruby>話<rt>はな</rt></ruby>している | "I am speaking" (progressive) or possibly resultative but odd with <ruby>話<rt>はな</rt></ruby>す | For <ruby>話<rt>はな</rt></ruby>す, 〜ている sounds progressive ("am speaking right now"), not resultative. It doesn't communicate "the speaking is done and the information is in place." |
+| <ruby>話<rt>はな</rt></ruby>してある | "I have spoken (deliberately, and the president now knows)." | **The right choice.** Communicates intentionality, completion, and continuing relevance. |
 
 ---
 
@@ -100,7 +100,7 @@ The reference sentence uses 〜てある precisely because the speaker wants to 
 3.  **The resulting state — the outcome of the action — persists with ongoing relevance.** The state exists *on purpose*, for a reason.
 
 In the reference sentence:
-- **Agent:** The speaker (implied — humble form お話しする marks the speaker as the actor).
+- **Agent:** The speaker (implied — humble form お<ruby>話<rt>はな</rt></ruby>しする marks the speaker as the actor).
 - **Action:** Speaking to the president about the matter.
 - **Resulting state:** The president is now informed. The information is in place. The matter is handled.
 - **Ongoing relevance:** The speaker is telling someone that the matter has been taken care of — no further action is needed, or the groundwork is laid.
@@ -116,7 +116,7 @@ In the reference sentence:
 | <ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>**に**<ruby>本<rt>ほん</rt></ruby>**を**<ruby>置<rt>お</rt></ruby>く | <ruby>机<rt>つくえ</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>**に**<ruby>本<rt>ほん</rt></ruby>**が**<ruby>置<rt>お</rt></ruby>いてある |
 | "I put a book on the desk." (action, を) | "A book has been placed on the desk (and is there)." (state, が) |
 
-In the reference sentence, the object of the action is そのこと — but it's marked with は (topic) rather than が (subject). The underlying structure is そのことが社長に話してある — "that matter has been spoken to the president about." The は replaces が for topic prominence, but the logic is the same: the matter is in the "deliberately handled" state.
+In the reference sentence, the object of the action is そのこと — but it's marked with は (topic) rather than が (subject). The underlying structure is そのことが<ruby>社長<rt>しゃちょう</rt></ruby>に<ruby>話<rt>はな</rt></ruby>してある — "that matter has been spoken to the president about." The は replaces が for topic prominence, but the logic is the same: the matter is in the "deliberately handled" state.
 
 ---
 
@@ -174,10 +174,10 @@ The closest lookalike is the resultative 〜ている on change verbs. Both desc
 |-----------|-------|---------|
 | Plain transitive | Usually the speaker, or someone contextually clear | <ruby>鍵<rt>かぎ</rt></ruby>をかけてある。 "I've locked it." / "Someone has locked it." |
 | Humble (お〜する) | **Always the speaker** | お<ruby>話<rt>はな</rt></ruby>ししてあります。 "I have spoken (humbly)." |
-| Respectful (お／ご〜になる) | Someone the speaker respects | (Rare with 〜てある, but possible: お書きになってある → "the honoured person has written it") |
+| Respectful (お／ご〜になる) | Someone the speaker respects | (Rare with 〜てある, but possible: お<ruby>書<rt>か</rt></ruby>きになってある → "the honoured person has written it") |
 | Passive + てある | Someone else did it; the speaker is reporting the state | <ruby>準備<rt>じゅんび</rt></ruby>がされている。 "Preparations have been made (by someone — I may not know who)." |
 
-In the reference sentence, the humble form お話ししてある explicitly marks the speaker as the agent. There is no ambiguity — the speaker is saying "I did this, I'm responsible, the president now knows."
+In the reference sentence, the humble form お<ruby>話<rt>はな</rt></ruby>ししてある explicitly marks the speaker as the agent. There is no ambiguity — the speaker is saying "I did this, I'm responsible, the president now knows."
 
 ---
 
@@ -201,28 +201,28 @@ In the reference sentence, the humble form お話ししてある explicitly mark
 
 ## Register and Politeness {#register}
 
-The reference sentence uses the humble form お話ししてあります — a combination that carries significant social information.
+The reference sentence uses the humble form お<ruby>話<rt>はな</rt></ruby>ししてあります — a combination that carries significant social information.
 
 === ":material-chat-outline: Casual"
     そのこと、もう<ruby>社長<rt>しゃちょう</rt></ruby>に<ruby>話<rt>はな</rt></ruby>してあるよ。
 
     *"I've already talked to the boss about that."*
 
-    **Register:** Casual. Plain 話してある with よ for warmth. Appropriate when speaking to a peer or close colleague about having handled something.
+    **Register:** Casual. Plain <ruby>話<rt>はな</rt></ruby>してある with よ for warmth. Appropriate when speaking to a peer or close colleague about having handled something.
 
 === ":material-tie: Basic Polite"
     そのことはもう<ruby>社長<rt>しゃちょう</rt></ruby>に<ruby>話<rt>はな</rt></ruby>してあります。
 
     *"I have already spoken to the president about that matter."*
 
-    **Shift:** 話してある → 話してあります (polite). Clean, professional, appropriate for most workplace contexts when speaking to a colleague or superior about work you've done.
+    **Shift:** <ruby>話<rt>はな</rt></ruby>してある → <ruby>話<rt>はな</rt></ruby>してあります (polite). Clean, professional, appropriate for most workplace contexts when speaking to a colleague or superior about work you've done.
 
 === ":material-briefcase-outline: Humble (Input Sentence)"
     そのことはもう<ruby>社長<rt>しゃちょう</rt></ruby>にお<ruby>話<rt>はな</rt></ruby>ししてあります。
 
     *"I have already spoken to the company president about that matter (humbly)."*
 
-    **Shift:** 話して → お話しして (humble お〜する form). The speaker lowers themselves relative to the president while describing their own action. The 〜てある construction remains — the speaker is taking credit for the action (I did it) but framing it humbly (I humbly did it). This combination — humble verb + てある — is common in professional Japanese: you claim responsibility while showing appropriate deference.
+    **Shift:** <ruby>話<rt>はな</rt></ruby>して → お<ruby>話<rt>はな</rt></ruby>しして (humble お〜する form). The speaker lowers themselves relative to the president while describing their own action. The 〜てある construction remains — the speaker is taking credit for the action (I did it) but framing it humbly (I humbly did it). This combination — humble verb + てある — is common in professional Japanese: you claim responsibility while showing appropriate deference.
 
 ---
 
@@ -273,7 +273,7 @@ The reference sentence uses the humble form お話ししてあります — a co
 
 The second sentence implies a reason. The listener can infer it (ventilation) or ask. The first sentence is just a description of state.
 
-In the reference sentence, 話してある implies purpose: the president has been informed *so that the matter is handled*, *so that no further action is needed*, or *so that the groundwork is laid for whatever comes next*. The speaker didn't just speak — they spoke *for a reason*, and the result is in place.
+In the reference sentence, <ruby>話<rt>はな</rt></ruby>してある implies purpose: the president has been informed *so that the matter is handled*, *so that no further action is needed*, or *so that the groundwork is laid for whatever comes next*. The speaker didn't just speak — they spoke *for a reason*, and the result is in place.
 
 ---
 
@@ -308,43 +308,43 @@ When the agent is unknown, unimportant, or deliberately obscured, Japanese often
     ~が marks the window as the thing existing in the deliberately-opened state.~
 
 !!! info "Exception: Topic は"
-    窓**は**開けてある is also correct — は replaces が as the topic marker. The underlying structure is still が, but は overlays it for discourse purposes.
+    <ruby>窓<rt>まど</rt></ruby>**は**<ruby>開<rt>あ</rt></ruby>けてある is also correct — は replaces が as the topic marker. The underlying structure is still が, but は overlays it for discourse purposes.
 
 ### 2. Using intransitive verbs with 〜てある
 
 !!! failure "Incorrect"
     <ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>**いてある**。
 
-    ~開く is intransitive ("to open" on its own). Intransitive verbs pair with 〜ている for resultative states (開いている = "is open"). 〜てある requires a transitive verb — someone has to *do* the opening.~
+    ~<ruby>開<rt>ひら</rt></ruby>く is intransitive ("to open" on its own). Intransitive verbs pair with 〜ている for resultative states (<ruby>開<rt>ひら</rt></ruby>いている = "is open"). 〜てある requires a transitive verb — someone has to *do* the opening.~
 
 !!! success "Correct"
     <ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>**けてある**。
 
-    ~開ける is transitive ("to open something"). 開けてある = "has been opened (by someone, deliberately)."~
+    ~<ruby>開<rt>あ</rt></ruby>ける is transitive ("to open something"). <ruby>開<rt>あ</rt></ruby>けてある = "has been opened (by someone, deliberately)."~
 
 ### 3. Using 〜てある for spontaneous or natural states
 
 !!! failure "Incorrect"
     <ruby>木<rt>き</rt></ruby>が<ruby>倒<rt>たお</rt></ruby>**してある**。
 
-    ~倒す is transitive ("to knock down"). Unless someone deliberately knocked the tree down, this is wrong. Natural occurrences use intransitive + ている.~
+    ~<ruby>倒<rt>たお</rt></ruby>す is transitive ("to knock down"). Unless someone deliberately knocked the tree down, this is wrong. Natural occurrences use intransitive + ている.~
 
 !!! success "Correct"
     <ruby>木<rt>き</rt></ruby>が<ruby>倒<rt>たお</rt></ruby>れ**ている**。
 
-    ~倒れる is intransitive ("to fall over"). 倒れている = "has fallen / is lying fallen." No agent implied.~
+    ~<ruby>倒<rt>たお</rt></ruby>れる is intransitive ("to fall over"). <ruby>倒<rt>たお</rt></ruby>れている = "has fallen / is lying fallen." No agent implied.~
 
 ---
 
 ## Japanese Mindset — Responsibility and Readiness {#japanese-mindset}
 
-〜てある reflects a Japanese cultural emphasis on **responsibility** and **preparedness**. When you say 話してあります, you are not just reporting an action — you are taking responsibility for the resulting state. The president knows because *you* made sure of it. The matter is handled because *you* handled it.
+〜てある reflects a Japanese cultural emphasis on **responsibility** and **preparedness**. When you say <ruby>話<rt>はな</rt></ruby>してあります, you are not just reporting an action — you are taking responsibility for the resulting state. The president knows because *you* made sure of it. The matter is handled because *you* handled it.
 
 This is distinct from the English present perfect ("I have spoken"), which reports the action but doesn't necessarily foreground the prepared state. The Japanese 〜てある says: the state is in place, I am the one who put it there, and it's there for a reason.
 
 - **Accountability is built into the grammar.** Using 〜てある claims the action and its outcome. In professional contexts, this is crucial — you are telling someone that something is taken care of, and you are the one who took care of it.
 - **The が-marked object tells you what's been handled.** The thing marked with が in a 〜てある sentence — the window, the document, the message — is the thing whose state has been deliberately arranged. Framing it as the grammatical subject emphasises its readiness.
-- **〜てある closes a loop.** When you say 話してあります, the implicit message is "this is done; you don't need to worry about it; we can move forward." It's a closure marker as much as a state description.
+- **〜てある closes a loop.** When you say <ruby>話<rt>はな</rt></ruby>してあります, the implicit message is "this is done; you don't need to worry about it; we can move forward." It's a closure marker as much as a state description.
 
 ---
 

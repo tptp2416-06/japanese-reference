@@ -34,7 +34,7 @@ tags:
 !!! tip "At a glance"
     - 〜みたい expresses resemblance and soft conjecture — "seems like," "looks like," "apparently," "kind of like." It is the most casual and interpersonal of the Japanese conjecture markers.
     - Unlike 〜そう (immediate sensory impression) or 〜ようだ (formal reasoned inference), 〜みたい carries a personal, subjective, often hearsay-tinged quality. It says "This is my impression" rather than "This is what the evidence shows."
-    - The form derives from 見たい ("want to see") but has fully grammaticalized into a resemblance marker. The etymological ghost of "wanting to see" still lingers — みたい often introduces something the speaker has just noticed or is tentatively offering for consideration.
+    - The form derives from <ruby>見<rt>み</rt></ruby>たい ("want to see") but has fully grammaticalized into a resemblance marker. The etymological ghost of "wanting to see" still lingers — みたい often introduces something the speaker has just noticed or is tentatively offering for consideration.
     - In hearsay contexts, 〜みたい packages reported information softly — "I heard something like…" — without committing to the source or the truth. This is gossip grammar, gentle correction grammar, and save-face grammar all in one.
 
 ---
@@ -73,9 +73,9 @@ Japanese has three major conjecture markers, and choosing between them is one of
 
 ### The Critical Distinctions
 
-**〜そう** requires direct sensory access. You say 美味しそう while looking at food. You cannot say 明日雨が降りそう based on a weather report — that would require みたい or よう, because you haven't directly sensed tomorrow's rain.
+**〜そう** requires direct sensory access. You say <ruby>美味<rt>おい</rt></ruby>しそう while looking at food. You cannot say <ruby>明日<rt>あす</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りそう based on a weather report — that would require みたい or よう, because you haven't directly sensed tomorrow's rain.
 
-**〜ようだ** is analytical and formal. It says "The evidence points to X." It distances the speaker from the claim, making it objective. 雨が降るようだ is what a meteorologist says — or what you say when you want to sound like one.
+**〜ようだ** is analytical and formal. It says "The evidence points to X." It distances the speaker from the claim, making it objective. <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>るようだ is what a meteorologist says — or what you say when you want to sound like one.
 
 **〜みたい** is personal and soft. It says "I get the impression of X" or "Someone said something like X." It invites agreement without demanding it. It is the grammar of tentative sharing.
 
@@ -102,7 +102,7 @@ The original function: X is like Y. Pure comparison, no conjecture.
 | <ruby>夢<rt>ゆめ</rt></ruby>みたいな<ruby>場所<rt>ばしょ</rt></ruby>。 | A dream-like place. |
 |---|---|
 | | *Literal: Dream seems-like place.* |
-| | *The みたい modifies the noun 場所 through な. Pure resemblance.* |
+| | *The みたい modifies the noun <ruby>場所<rt>ばしょ</rt></ruby> through な. Pure resemblance.* |
 
 | <ruby>彼<rt>かれ</rt></ruby>みたいな<ruby>人<rt>ひと</rt></ruby>になりたい。 | I want to become a person like him. |
 |---|---|
@@ -143,7 +143,7 @@ When relaying information from others, みたい softens the claim and distances
 
     *"Ken seems tired, huh."*
 
-    **Why みたい fits here:** Yui isn't diagnosing Ken — she's offering an impression for shared consideration. 疲れてるそう would require direct sensory evidence she might not have (she's across the room). 疲れてるようだ would sound clinical and certain. みたい is exactly right: soft, personal, inviteable.
+    **Why みたい fits here:** Yui isn't diagnosing Ken — she's offering an impression for shared consideration. <ruby>疲<rt>つか</rt></ruby>れてるそう would require direct sensory evidence she might not have (she's across the room). <ruby>疲<rt>つか</rt></ruby>れてるようだ would sound clinical and certain. みたい is exactly right: soft, personal, inviteable.
 
     **What the だね adds:** The だ grounds the observation; the ね invites Haru's agreement. Together they create a conspiratorial moment of shared noticing.
 
@@ -156,7 +156,7 @@ When relaying information from others, みたい softens the claim and distances
 
     **Why みたい fits here:** Mayu didn't see the transfer order. She heard a rumor. みたい packages the rumor as impression rather than fact, protecting both herself and the listener from misinformation liability. The よ marks it as juicy shareable news.
 
-    **What そうだ would change:** 異動するそうだ would be more formal hearsay — "It is said that…" This sounds like official reporting. みたい sounds like break-room gossip. The choice is social, not factual.
+    **What そうだ would change:** <ruby>異動<rt>いどう</rt></ruby>するそうだ would be more formal hearsay — "It is said that…" This sounds like official reporting. みたい sounds like break-room gossip. The choice is social, not factual.
 
 !!! example "Gentle correction avoidance"
     **Situation:** シュン thinks the meeting is at 3. ミキ thinks it's at 2. Miki doesn't want to contradict directly.
@@ -165,7 +165,7 @@ When relaying information from others, みたい softens the claim and distances
 
     *"I kind of feel like it's 2 o'clock…"*
 
-    **Why みたい fits here:** Miki isn't saying "You're wrong." She's saying "I have an impression of 2 o'clock." The みたい + 気がする double-softens the contradiction. The んだけど trails off, inviting Shun to correct himself without losing face.
+    **Why みたい fits here:** Miki isn't saying "You're wrong." She's saying "I have an impression of 2 o'clock." The みたい + <ruby>気<rt>き</rt></ruby>がする double-softens the contradiction. The んだけど trails off, inviting Shun to correct himself without losing face.
 
 ---
 
@@ -183,7 +183,7 @@ When relaying information from others, みたい softens the claim and distances
 | Negative (plain) | nai + みたい | <ruby>行<rt>い</rt></ruby>かないみたい |
 
 !!! warning "No だ before みたい with nouns/na-adjectives"
-    Unlike 〜ようだ which requires だ (静かだようだ), 〜みたい attaches directly: 静かみたい. Adding だ produces 静かだみたい, which is acceptable in very casual speech but non-standard.
+    Unlike 〜ようだ which requires だ (<ruby>静<rt>しず</rt></ruby>かだようだ), 〜みたい attaches directly: <ruby>静<rt>しず</rt></ruby>かみたい. Adding だ produces <ruby>静<rt>しず</rt></ruby>かだみたい, which is acceptable in very casual speech but non-standard.
 
 | Standard | Very casual (acceptable) |
 |----------|--------------------------|
@@ -199,7 +199,7 @@ When relaying information from others, みたい softens the claim and distances
 | Adverbial | 〜みたいに / 〜みたく | <ruby>彼<rt>かれ</rt></ruby>みたいに<ruby>走<rt>はし</rt></ruby>る。 |
 
 !!! note "The みたく contraction"
-    みたいに sometimes contracts to みたく in casual speech, especially before adjectives: 彼みたく上手くなりたい ("I want to become skilled like him"). This is informal but common.
+    みたいに sometimes contracts to みたく in casual speech, especially before adjectives: <ruby>彼<rt>かれ</rt></ruby>みたく<ruby>上手<rt>うま</rt></ruby>くなりたい ("I want to become skilled like him"). This is informal but common.
 
 ---
 
@@ -211,7 +211,7 @@ The form is deeply **interpersonal**. Unlike 〜ようだ which can be solitary 
 
 - **Impression as social gift.** Offering a みたい observation ("He seems tired") is not just reporting — it's inviting the listener into your perceptual world. The listener can agree, disagree, or add their own impression. The conversation builds from there.
 - **Hearsay as protection.** Packaging information as みたい protects both speaker and source. If the rumor is false, the speaker can retreat to "I only said it seemed that way." This is not dishonesty — it is social grace.
-- **Resemblance as aspiration.** 〜みたいな is the grammar of role models and ideals. 彼みたいになりたい doesn't mean "I want to become him" — it means "I want to become the kind of person he represents." The resemblance is categorical, not literal.
+- **Resemblance as aspiration.** 〜みたいな is the grammar of role models and ideals. <ruby>彼<rt>かれ</rt></ruby>みたいになりたい doesn't mean "I want to become him" — it means "I want to become the kind of person he represents." The resemblance is categorical, not literal.
 
 ---
 
@@ -227,9 +227,9 @@ The form is deeply **interpersonal**. Unlike 〜ようだ which can be solitary 
 | 〜かもしれない | Maybe | Possibility | Neutral | Low (possibility) | N4 |
 
 **The hearsay spectrum:**
-- 〜そうだ (formal hearsay): 転職するそうだ — "It is said that…" [official, distanced]
-- 〜らしい: 転職らしい — "Apparently…" [neutral, external source]
-- 〜みたい: 転職みたい — "Seems like…" [casual, personal, gossipy]
+- 〜そうだ (formal hearsay): <ruby>転職<rt>てんしょく</rt></ruby>するそうだ — "It is said that…" [official, distanced]
+- 〜らしい: <ruby>転職<rt>てんしょく</rt></ruby>らしい — "Apparently…" [neutral, external source]
+- 〜みたい: <ruby>転職<rt>てんしょく</rt></ruby>みたい — "Seems like…" [casual, personal, gossipy]
 
 ---
 
@@ -244,7 +244,7 @@ Direct visual evidence only. More certain but more superficial.
 | **Example** | <ruby>美味<rt>おい</rt></ruby>しそう。 |
 | **English** | "Looks delicious [I can see it]." |
 | **Intent** | Immediate sensory judgment |
-| **vs. みたい** | You must be experiencing the stimulus directly. You cannot say 明日雨が降りそう based on a forecast. |
+| **vs. みたい** | You must be experiencing the stimulus directly. You cannot say <ruby>明日<rt>あす</rt></ruby><ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>りそう based on a forecast. |
 
 ### 〜よう（だ） (formal inference)
 
@@ -369,7 +369,7 @@ Subjective guess, often with rising intonation.
 !!! failure "Evidence mismatch"
     この<ruby>ケーキ<rt>けーき</rt></ruby>、<ruby>美味<rt>おい</rt></ruby>しみたい。
 
-    *"This cake seems delicious [but I haven't tasted or seen it]."* — If you're looking at the cake, 美味しそう is correct. みたい implies impression without direct evidence.
+    *"This cake seems delicious [but I haven't tasted or seen it]."* — If you're looking at the cake, <ruby>美味<rt>おい</rt></ruby>しそう is correct. みたい implies impression without direct evidence.
 
 !!! success "Correct"
     この<ruby>ケーキ<rt>けーき</rt></ruby>、<ruby>美味<rt>おい</rt></ruby>しそう。
@@ -393,7 +393,7 @@ Subjective guess, often with rising intonation.
 !!! failure "Grammatically non-standard"
     <ruby>学生<rt>がくせい</rt></ruby>だみたい。
 
-    *"Seems like a student [with intrusive だ]."* — Acceptable in very casual speech but non-standard. Most contexts prefer 学生みたい.
+    *"Seems like a student [with intrusive だ]."* — Acceptable in very casual speech but non-standard. Most contexts prefer <ruby>学生<rt>がくせい</rt></ruby>みたい.
 
 !!! success "Standard"
     <ruby>学生<rt>がくせい</rt></ruby>みたい。
@@ -416,7 +416,7 @@ Subjective guess, often with rising intonation.
 | <ruby>嘘<rt>うそ</rt></ruby>みたい | "Like a lie / unbelievable" — skeptical resemblance |
 | <ruby>本当<rt>ほんとう</rt></ruby>みたい | "Like it's real / seems real" — authenticity judgment |
 
-~These collocations are worth learning as complete pragmatic units. The みたいな気がする pattern especially is a daily-use softener.~
+~These collocations are worth learning as complete pragmatic units. The みたいな<ruby>気<rt>き</rt></ruby>がする pattern especially is a daily-use softener.~
 
 ---
 
@@ -424,10 +424,10 @@ Subjective guess, often with rising intonation.
 
 - **〜みたい is gender-neutral but intonation-coded.** The same form can sound masculine (flat, dropped) or feminine (rising, extended) depending on delivery. The grammar itself carries no gender, but the prosody does.
 - **The よね combination is socially powerful.** みたいだよね transforms personal impression into collective assumption. It says "We both see this, don't we?" — creating shared reality through soft suggestion.
-- **〜みたい can be used for self-deprecating resemblance.** 私みたいな人 ("a person like me") is often humble or self-critical. The form allows speakers to categorize themselves without claiming identity.
+- **〜みたい can be used for self-deprecating resemblance.** <ruby>私<rt>わたくし</rt></ruby>みたいな<ruby>人<rt>ひと</rt></ruby> ("a person like me") is often humble or self-critical. The form allows speakers to categorize themselves without claiming identity.
 - **Hearsay みたい protects the source.** Unlike 〜そうだ which often implies a specific informant, 〜みたい leaves the information trail muddy. This is useful for gossip, rumors, and sensitive information.
-- **〜みたい can soften corrections to near-invisibility.** 違うみたい ("Seems like that's different") is so soft it barely contradicts. The speaker can retreat completely if challenged — "I only said it seemed that way."
-- **The etymological ghost of 見たい ("want to see") still flickers.** In some contexts, みたい carries a faint sense of "I want to see if…" or "It looks like something I'd want to see." This is not active meaning but residual flavor.
+- **〜みたい can soften corrections to near-invisibility.** <ruby>違<rt>ちが</rt></ruby>うみたい ("Seems like that's different") is so soft it barely contradicts. The speaker can retreat completely if challenged — "I only said it seemed that way."
+- **The etymological ghost of <ruby>見<rt>み</rt></ruby>たい ("want to see") still flickers.** In some contexts, みたい carries a faint sense of "I want to see if…" or "It looks like something I'd want to see." This is not active meaning but residual flavor.
 
 ---
 
@@ -438,7 +438,7 @@ Subjective guess, often with rising intonation.
 | **Now — N4** | Produce 〜みたい correctly with all verb/adjective types; distinguish from 〜そう and 〜ようだ in basic contexts; use for soft observation and resemblance |
 | **Developing — N4→N3** | Deploy みたい naturally in hearsay and gossip; use みたいな for noun modification; recognize when そう or ようだ would be more appropriate; control the だ insertion with nouns |
 | **Automatic — N3→N2** | The form arrives as a single social move — you hear みたい and immediately register "soft impression, possibly hearsay." The choice between みたい and らしい becomes intuitive. |
-| **Mastery** | You control the full conjecture spectrum: そう (sensory), ようだ (analytical), みたい (personal), らしい (reported), だろう (probabilistic). You know when みたい protects face, when it shares gossip, when it creates poetry, and when it avoids confrontation. You also hear the ghost of 見たい in nostalgic or wistful usage. |
+| **Mastery** | You control the full conjecture spectrum: そう (sensory), ようだ (analytical), みたい (personal), らしい (reported), だろう (probabilistic). You know when みたい protects face, when it shares gossip, when it creates poetry, and when it avoids confrontation. You also hear the ghost of <ruby>見<rt>み</rt></ruby>たい in nostalgic or wistful usage. |
 
 ---
 

@@ -9,7 +9,7 @@ tags:
 
 # State Continuation — 〜っぱなし
 
-## テレビが付けっぱなしです。
+## テレビが<ruby>付<rt>つ</rt></ruby>けっぱなしです。
 
 ---
 
@@ -33,7 +33,7 @@ tags:
 !!! tip "At a glance"
     - 〜っぱなし attaches to the stem of a transitive verb to indicate that the resulting state has been left unchanged — typically through negligence, forgetfulness, or deliberate inaction.
     - Unlike 〜たまま (neutral description), 〜っぱなし carries a subtle emotional charge: someone *should have* returned things to normal, and didn't. The state feels suspended, waiting for resolution.
-    - In the input sentence, 付けっぱなし describes a TV left on — not merely "the TV is on" (付いている), but "the TV was turned on and left that way." The implication: someone should have turned it off.
+    - In the input sentence, <ruby>付<rt>つ</rt></ruby>けっぱなし describes a TV left on — not merely "the TV is on" (<ruby>付<rt>つ</rt></ruby>いている), but "the TV was turned on and left that way." The implication: someone should have turned it off.
     - The form is common in household complaints, self-recrimination, and observations of carelessness. It turns a static state into a small narrative of human failing.
 
 ---
@@ -46,7 +46,7 @@ tags:
 | <ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けっぱなしにして<ruby>出<rt>で</rt></ruby>かけた。 | I went out leaving the window open [and shouldn't have]. |
 |---|---|
 | | *Literal: Window open-left-as-is doing went-out.* |
-| | *Context: Self-recrimination or explanation to someone who noticed. The っぱなし marks the negligence; the して出かけた adds the compounding error of leaving.* |
+| | *Context: Self-recrimination or explanation to someone who noticed. The っぱなし marks the negligence; the して<ruby>出<rt>で</rt></ruby>かけた adds the compounding error of leaving.* |
 
 | <ruby>テレビ<rt>てれび</rt></ruby>が<ruby>付<rt>つ</rt></ruby>けっぱなしです。 | The TV has been left on [someone should have turned it off]. |
 |---|---|
@@ -60,15 +60,15 @@ tags:
 !!! example "In Real Life"
     **Situation:** ユキ comes home from work. Her roommate ハル was supposed to be home all day. Yuki enters the living room and finds the TV blaring, the lights on, and no one in the room. She texts Haru later that evening.
 
-    > テレビが付けっぱなしです。
+    > テレビが<ruby>付<rt>つ</rt></ruby>けっぱなしです。
 
     *"The TV's been left on."*
 
-    **Why 〜っぱなし fits here:** Yuki could have said テレビがついています ("The TV is on") — a neutral observation. Or テレビを消さなかったの？ ("Didn't you turn off the TV?") — direct confrontation. 付けっぱなしです strikes a middle path: it reports the state while implying negligence, without accusing directly. The です makes it a polite observation; the っぱなし makes it a gentle reproach.
+    **Why 〜っぱなし fits here:** Yuki could have said テレビがついています ("The TV is on") — a neutral observation. Or テレビを<ruby>消<rt>け</rt></ruby>さなかったの？ ("Didn't you turn off the TV?") — direct confrontation. <ruby>付<rt>つ</rt></ruby>けっぱなしです strikes a middle path: it reports the state while implying negligence, without accusing directly. The です makes it a polite observation; the っぱなし makes it a gentle reproach.
 
     **What makes this natural:** In shared living situations, っぱなし is the grammar of domestic friction — soft enough to avoid open conflict, clear enough to communicate that something is wrong. The implication is always "you (or someone) started this and didn't finish."
 
-    **The unspoken continuation:** A native speaker hearing this immediately supplies the missing action: 消してほしかった ("I wish you'd turned it off"). The っぱなし leaves the resolution hanging, which is precisely its power — it describes an incomplete story.
+    **The unspoken continuation:** A native speaker hearing this immediately supplies the missing action: <ruby>消<rt>け</rt></ruby>してほしかった ("I wish you'd turned it off"). The っぱなし leaves the resolution hanging, which is precisely its power — it describes an incomplete story.
 
 ---
 
@@ -78,7 +78,7 @@ tags:
 
 **Layer 1 — Verb stem:** The suffix attaches to the stem form (ren'yōkei), not the te-form or plain form. This creates a compound word that functions as a noun or adjectival noun.
 
-**Layer 2 — っぱなし (the frozen state):** The etymology is debated, but ぱなし likely derives from 放す (hanasu, "to release, to leave alone"). The sense is "released into a state and abandoned." The initial っ is a phonological glue that connects tightly to the stem.
+**Layer 2 — っぱなし (the frozen state):** The etymology is debated, but ぱなし likely derives from <ruby>放<rt>はな</rt></ruby>す (hanasu, "to release, to leave alone"). The sense is "released into a state and abandoned." The initial っ is a phonological glue that connects tightly to the stem.
 
 **Layer 3 — Implied negligence:** Unlike 〜たまま which simply describes a concurrent state, っぱなし implies a deviation from expected behavior. Something was activated or changed, and the responsible party walked away without restoring the default state.
 
@@ -107,9 +107,9 @@ Textbooks often present 〜っぱなし as "leaving something on/unfinished." In
 
 ### Function in Context
 
-- テレビが marks the TV as the grammatical subject — but semantically, the TV is the *patient*, not the agent. It was acted upon (付ける) and left in that acted-upon state.
-- 付けっぱなし is the compound: stem of 付ける (to turn on) + っぱなし. The verb 付ける is transitive (requires an agent), which is mandatory for っぱなし — intransitive states don't take this suffix.
-- です closes the sentence politely. In a more casual or frustrated context, this might be だよね or even just っぱなし with rising intonation: 付けっぱなし？
+- テレビが marks the TV as the grammatical subject — but semantically, the TV is the *patient*, not the agent. It was acted upon (<ruby>付<rt>つ</rt></ruby>ける) and left in that acted-upon state.
+- <ruby>付<rt>つ</rt></ruby>けっぱなし is the compound: stem of <ruby>付<rt>つ</rt></ruby>ける (to turn on) + っぱなし. The verb <ruby>付<rt>つ</rt></ruby>ける is transitive (requires an agent), which is mandatory for っぱなし — intransitive states don't take this suffix.
+- です closes the sentence politely. In a more casual or frustrated context, this might be だよね or even just っぱなし with rising intonation: <ruby>付<rt>つ</rt></ruby>けっぱなし？
 - The absence of an explicit agent (who left it on) is functional — the speaker avoids direct accusation. In a household context, the responsible party is usually obvious from context, so naming them would be confrontational.
 - Without っぱなし: テレビがついています is a neutral observation. With っぱなし: the TV becomes evidence of someone's incomplete action — a small domestic crime scene.
 
@@ -135,10 +135,10 @@ Textbooks often present 〜っぱなし as "leaving something on/unfinished." In
 | Irregular — くる | くる | き | きっぱなし | "Left as came" — doesn't occur naturally |
 
 !!! warning "Transitivity requirement"
-    〜っぱなし requires a **transitive verb** — one that takes a direct object and changes the state of something. Intransitive verbs (起きる, 死ぬ, 来る, 行く) cannot take っぱなし because there is no agent who "left" the state unresolved. Saying 起きっぱなし is ungrammatical.
+    〜っぱなし requires a **transitive verb** — one that takes a direct object and changes the state of something. Intransitive verbs (<ruby>起<rt>お</rt></ruby>きる, <ruby>死<rt>し</rt></ruby>ぬ, <ruby>来<rt>く</rt></ruby>る, <ruby>行<rt>い</rt></ruby>く) cannot take っぱなし because there is no agent who "left" the state unresolved. Saying <ruby>起<rt>お</rt></ruby>きっぱなし is ungrammatical.
 
 !!! warning "The stem form"
-    Learners sometimes try to attach っぱなし to the te-form or plain form. The correct attachment is the **stem** (ren'yōkei — the form used before ます). 付ける → 付けっぱなし, not 付けてっぱなし or 付くっぱなし.
+    Learners sometimes try to attach っぱなし to the te-form or plain form. The correct attachment is the **stem** (ren'yōkei — the form used before ます). <ruby>付<rt>つ</rt></ruby>ける → <ruby>付<rt>つ</rt></ruby>けっぱなし, not <ruby>付<rt>つ</rt></ruby>けてっぱなし or <ruby>付<rt>つ</rt></ruby>くっぱなし.
 
 ### Noun Modification
 
@@ -159,8 +159,8 @@ Japanese domestic and social harmony depends heavily on **restoring default stat
 〜っぱなし is the grammar of **failed restoration**. It marks a state where the social contract of "leave things as you found them" has been broken. The reproach is rarely explicit because the grammar itself carries the accusation.
 
 - **Default states as social obligation.** In Japanese spatial culture, every object has a proper state. A TV is off when not watched. A door is closed when not passed through. っぱなし describes a state that violates this expectation — and the violation is social, not merely physical.
-- **Indirect reproach as face-saving.** By describing the state (付けっぱなし) rather than accusing the person (あなたが消さなかった), the speaker protects both parties' face. The TV becomes the subject; the human fault is implied but unspoken.
-- **Self-recrimination through objectification.** When used for oneself (開けっぱなしにしちゃった), the speaker treats their own negligence as an observable external fact. This creates emotional distance — the mistake becomes a situation to be fixed rather than a character flaw to be agonized over.
+- **Indirect reproach as face-saving.** By describing the state (<ruby>付<rt>つ</rt></ruby>けっぱなし) rather than accusing the person (あなたが<ruby>消<rt>け</rt></ruby>さなかった), the speaker protects both parties' face. The TV becomes the subject; the human fault is implied but unspoken.
+- **Self-recrimination through objectification.** When used for oneself (<ruby>開<rt>あ</rt></ruby>けっぱなしにしちゃった), the speaker treats their own negligence as an observable external fact. This creates emotional distance — the mistake becomes a situation to be fixed rather than a character flaw to be agonized over.
 
 ---
 
@@ -175,7 +175,7 @@ Japanese domestic and social harmony depends heavily on **restoring default stat
 | 〜ずにいる | Continue not doing something | Deliberate abstention; maintained inaction | Choosing not to act over time | N3 |
 | 〜たきり | Did once and never since | Abandoned habit or one-time action | Something started and then dropped | N2 |
 
-The closest lookalike is 〜たまま. The key difference is agency and reproach: たまま describes a state that happens to persist (窓が開いたまま — the window happened to stay open); っぱなし describes a state that someone caused and failed to resolve (窓を開けっぱなし — someone opened it and left it that way). The difference is the difference between weather and negligence.
+The closest lookalike is 〜たまま. The key difference is agency and reproach: たまま describes a state that happens to persist (<ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>ひら</rt></ruby>いたまま — the window happened to stay open); っぱなし describes a state that someone caused and failed to resolve (<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けっぱなし — someone opened it and left it that way). The difference is the difference between weather and negligence.
 
 ---
 
@@ -253,7 +253,7 @@ The reproach function — noting negligence without direct accusation — should
 
     *"The television remains powered on."*
 
-    **Shift:** 付けっぱなし → 電源が入ったまま (formal periphrasis); です → なっております (humble progressive). The reproach is completely erased — this is now a neutral status report appropriate for hotel staff or service contexts. The っぱなし emotional charge is incompatible with formal register.
+    **Shift:** <ruby>付<rt>つ</rt></ruby>けっぱなし → <ruby>電源<rt>でんげん</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったまま (formal periphrasis); です → なっております (humble progressive). The reproach is completely erased — this is now a neutral status report appropriate for hotel staff or service contexts. The っぱなし emotional charge is incompatible with formal register.
 
 ---
 
@@ -300,7 +300,7 @@ The reproach function — noting negligence without direct accusation — should
 |---|---|
 | | *Literal: Electricity turned-on-left-as-is whole-night.* |
 
-~Context: Discovering the waste in the morning. The っぱなし marks the negligence; the 一晩中 compounds the duration and implied waste.~
+~Context: Discovering the waste in the morning. The っぱなし marks the negligence; the <ruby>一<rt>ひと</rt></ruby><ruby>晩<rt>ばん</rt></ruby><ruby>中<rt>ちゅう</rt></ruby> compounds the duration and implied waste.~
 
 | <ruby>話<rt>はな</rt></ruby>しっぱなしで<ruby>食<rt>た</rt></ruby>べるのを<ruby>忘<rt>わす</rt></ruby>れた。 | I talked and talked and forgot to eat [the food went cold]. |
 |---|---|
@@ -338,7 +338,7 @@ Learners sometimes attach っぱなし to the te-form or dictionary form instead
 !!! success "Correct"
     <ruby>開<rt>あ</rt></ruby>け**っぱなし**
 
-    ~Stem form (ren'yōkei) + っぱなし. 開ける → 開け + っぱなし.~
+    ~Stem form (ren'yōkei) + っぱなし. <ruby>開<rt>あ</rt></ruby>ける → <ruby>開<rt>あ</rt></ruby>け + っぱなし.~
 
 ### 3. Overusing 〜っぱなし for neutral descriptions
 
@@ -347,7 +347,7 @@ In contexts where no negligence is implied, っぱなし sounds judgmental or bi
 !!! failure "Register mismatch"
     <ruby>山<rt>やま</rt></ruby>が<ruby>見<rt>み</rt></ruby>えっぱなしです。
 
-    *"The mountain remains visible."* — 見える is intransitive, and even if it were transitive, there's no negligence in a mountain being visible. Sounds like you're criticizing the mountain for existing.
+    *"The mountain remains visible."* — <ruby>見<rt>み</rt></ruby>える is intransitive, and even if it were transitive, there's no negligence in a mountain being visible. Sounds like you're criticizing the mountain for existing.
 
 !!! success "Appropriate usage"
     <ruby>写真<rt>しゃしん</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げっぱなしです。
@@ -361,26 +361,26 @@ In contexts where no negligence is implied, っぱなし sounds judgmental or bi
 | Collocation | Meaning |
 |-------------|---------|
 | **つけっぱなし** | "Left turned on" — lights, TV, appliances; the canonical household negligence |
-| **開けっぱなし** | "Left open" — windows, doors, refrigerators, books, laptops |
-| **脱ぎっぱなし** | "Left kicked off" — shoes at genkan, clothes on floor |
-| **出しっぱなし** | "Left out" — things not put away, drawers not closed |
-| **話しっぱなし** | "Left talking" — talked incessantly, neglected other duties |
-| **広げっぱなし** | "Left spread open" — books, maps, newspapers; pages damaged |
+| **<ruby>開<rt>あ</rt></ruby>けっぱなし** | "Left open" — windows, doors, refrigerators, books, laptops |
+| **<ruby>脱<rt>ぬ</rt></ruby>ぎっぱなし** | "Left kicked off" — shoes at genkan, clothes on floor |
+| **<ruby>出<rt>だ</rt></ruby>しっぱなし** | "Left out" — things not put away, drawers not closed |
+| **<ruby>話<rt>はな</rt></ruby>しっぱなし** | "Left talking" — talked incessantly, neglected other duties |
+| **<ruby>広<rt>ひろ</rt></ruby>げっぱなし** | "Left spread open" — books, maps, newspapers; pages damaged |
 | **しっぱなし** (from する) | "Left undone / left as is" — general unfinished business |
 | **〜っぱなしにする** | "To leave [something] in an unchanged state" — the deliberate act of neglecting |
 | **〜っぱなしで + verb** | "While leaving [something] as is, [do something else]" — compounding the negligence |
 
-~These collocations are worth learning as complete units. つけっぱなし and 開けっぱなし especially are daily-use household vocabulary.~
+~These collocations are worth learning as complete units. つけっぱなし and <ruby>開<rt>あ</rt></ruby>けっぱなし especially are daily-use household vocabulary.~
 
 ---
 
 ## Hidden Points {#hidden-points}
 
-- **〜っぱなし can describe chronic habits.** いつも靴を脱ぎっぱなし ("always leaving shoes kicked off") uses っぱなし not for a single incident but for a repeated pattern. The suffix stretches from momentary negligence to character trait.
-- **The absence of agent is functional, not accidental.** In テレビが付けっぱなしです, the TV is the subject because naming the human would be confrontational. This grammatical sleight-of-hand is a core Japanese politeness strategy: make the object the subject, hide the human fault in the suffix.
+- **〜っぱなし can describe chronic habits.** いつも<ruby>靴<rt>くつ</rt></ruby>を<ruby>脱<rt>ぬ</rt></ruby>ぎっぱなし ("always leaving shoes kicked off") uses っぱなし not for a single incident but for a repeated pattern. The suffix stretches from momentary negligence to character trait.
+- **The absence of agent is functional, not accidental.** In テレビが<ruby>付<rt>つ</rt></ruby>けっぱなしです, the TV is the subject because naming the human would be confrontational. This grammatical sleight-of-hand is a core Japanese politeness strategy: make the object the subject, hide the human fault in the suffix.
 - **〜っぱなし implies a ghost action.** The turning-off (or closing, or putting-away) that didn't happen haunts the sentence. Native speakers automatically supply this missing action when they hear っぱなし — the sentence is incomplete without this phantom verb.
-- **Self-directed っぱなし is emotional management.** Saying 開けっぱなしにしちゃった ("I left it open, careless me") packages the negligence as an external fact, which reduces self-blame. The grammar becomes a coping mechanism.
-- **〜っぱなし in formal register is nearly impossible.** The emotional charge of negligence is too informal for keigo. Formal Japanese replaces it with neutral periphrasis (電源が入ったまま) or simply avoids describing the state altogether.
+- **Self-directed っぱなし is emotional management.** Saying <ruby>開<rt>あ</rt></ruby>けっぱなしにしちゃった ("I left it open, careless me") packages the negligence as an external fact, which reduces self-blame. The grammar becomes a coping mechanism.
+- **〜っぱなし in formal register is nearly impossible.** The emotional charge of negligence is too informal for keigo. Formal Japanese replaces it with neutral periphrasis (<ruby>電源<rt>でんげん</rt></ruby>が<ruby>入<rt>はい</rt></ruby>ったまま) or simply avoids describing the state altogether.
 
 ---
 
@@ -389,7 +389,7 @@ In contexts where no negligence is implied, っぱなし sounds judgmental or bi
 | Stage | What It Looks Like |
 |-------|-------------------|
 | **Now — N3** | Recognize 〜っぱなし in household contexts; understand the negligence implication; produce correctly with transitive verb stems; distinguish from 〜たまま and 〜ている |
-| **Developing — N3→N2** | Deploy っぱなし naturally in indirect reproach; use noun-modification form (開けっぱなしの扉); understand when formal register forces replacement with neutral alternatives |
+| **Developing — N3→N2** | Deploy っぱなし naturally in indirect reproach; use noun-modification form (<ruby>開<rt>あ</rt></ruby>けっぱなしの<ruby>扉<rt>とびら</rt></ruby>); understand when formal register forces replacement with neutral alternatives |
 | **Automatic — N2+** | っぱなし registers immediately as "someone didn't finish what they started" — you hear the ghost action before conscious analysis; the reproach is felt, not decoded |
 | **Mastery** | You control the social temperature precisely — using っぱなし for gentle domestic friction, たまま for neutral description, and knowing when to drop both for formal distance. You also recognize when someone uses っぱなし to criticize you without naming you. |
 
@@ -419,4 +419,4 @@ In contexts where no negligence is implied, っぱなし sounds judgmental or bi
 
 - 〜っぱなしの + noun (N3) — Noun modification for compound descriptions
 - 〜っぱなしで + verb (N2) — Embedded in longer clauses with compounding meaning
-- 〜放題 (N3) — "Doing X without restriction" — visually similar but semantically different (食べ放題 vs. 食べっぱなし)
+- 〜<ruby>放題<rt>ほうだい</rt></ruby> (N3) — "Doing X without restriction" — visually similar but semantically different (<ruby>食<rt>た</rt></ruby>べ<ruby>放題<rt>ほうだい</rt></ruby> vs. <ruby>食<rt>た</rt></ruby>べっぱなし)

@@ -36,7 +36,7 @@ tags:
     - のに flags a contrast the speaker finds disappointing, frustrating, or ironic — "even though X was the case, Y happened anyway."
     - It carries emotional weight that plain けれど or でも does not — the speaker expected or hoped for a different outcome, and that violated expectation is baked into the grammar.
     - のに attaches directly to verbs (plain form) and i-adjectives. Nouns and な-adjectives require なのに — the な is mandatory, not optional.
-    - In real speech, のに clauses often trail off (勉強したのに…) leaving the second clause implied, or appear sentence-finally as pure complaint markers (約束したのに).
+    - In real speech, のに clauses often trail off (<ruby>勉強<rt>べんきょう</rt></ruby>したのに…) leaving the second clause implied, or appear sentence-finally as pure complaint markers (<ruby>約束<rt>やくそく</rt></ruby>したのに).
     - The form can turn inward: the speaker isn't complaining about someone else; they're narrating their own contradictory behavior with wry, affectionate self-blame.
 
 ---
@@ -72,7 +72,7 @@ tags:
 
     *"I'm on a diet and I went and ate cake anyway… there's definitely a part of me that regrets it."*
 
-    **Why のに fits here:** The diet is an active constraint — ダイエット中 establishes the context. ケーキ食べちゃって is the violation of that constraint. なのに is the emotional bridge between the two: "given that constraint exists, I did this anyway, and I feel some kind of way about it." The wry self-observation in 後悔してる自分がいるよ softens the regret into something shareable.
+    **Why のに fits here:** The diet is an active constraint — ダイエット<ruby>中<rt>ちゅう</rt></ruby> establishes the context. ケーキ<ruby>食<rt>た</rt></ruby>べちゃって is the violation of that constraint. なのに is the emotional bridge between the two: "given that constraint exists, I did this anyway, and I feel some kind of way about it." The wry self-observation in <ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいるよ softens the regret into something shareable.
 
     **What makes this natural:** She's not asking for comfort or advice. She's narrating her own contradiction — half-complaining, half-laughing at herself. This is exactly the register and emotional texture のに is built for in casual speech between close friends.
 
@@ -82,7 +82,7 @@ tags:
 
 のに is a compound conjunction built from の (nominalizer) + に (particle). Together they create a concessive frame: the first clause establishes a situation or expectation, the second clause delivers the reality that contradicts it — and the speaker's emotional reaction to that contradiction is structurally embedded.
 
-**Layer 1 — の (the nominalizer):** の turns the preceding clause into a noun-like concept. 勉強した becomes "the fact of having studied." This abstraction is what allows the clause to be evaluated as a condition.
+**Layer 1 — の (the nominalizer):** の turns the preceding clause into a noun-like concept. <ruby>勉強<rt>べんきょう</rt></ruby>した becomes "the fact of having studied." This abstraction is what allows the clause to be evaluated as a condition.
 
 **Layer 2 — に (the particle):** に attaches the nominalized clause to the following context. The original sense is concessive — "despite/in the face of [this fact]." The に carries the sense of "given this situation, the following is surprising/disappointing."
 
@@ -98,7 +98,7 @@ tags:
 
 ### Real Speech vs. Textbook Form
 
-In textbooks のに often appears in straightforward two-clause sentences like 休日なのに仕事した. In real spoken Japanese two patterns are more common: trailing sentences that don't complete the second clause (勉強したのに…) leaving the result implied, and のに used sentence-finally as a complaint marker (約束したのに).
+In textbooks のに often appears in straightforward two-clause sentences like <ruby>休日<rt>きゅうじつ</rt></ruby>なのに<ruby>仕事<rt>しごと</rt></ruby>した. In real spoken Japanese two patterns are more common: trailing sentences that don't complete the second clause (<ruby>勉強<rt>べんきょう</rt></ruby>したのに…) leaving the result implied, and のに used sentence-finally as a complaint marker (<ruby>約束<rt>やくそく</rt></ruby>したのに).
 
 | Form | Example | Note |
 |------|---------|------|
@@ -112,11 +112,11 @@ In textbooks のに often appears in straightforward two-clause sentences like �
 
 ### Function in Context
 
-- ダイエット中 establishes the active constraint. なのに flags that what follows violates that constraint in an emotionally loaded way — not a neutral "but," a disappointed or ironic "and yet."
+- ダイエット<ruby>中<rt>ちゅう</rt></ruby> establishes the active constraint. なのに flags that what follows violates that constraint in an emotionally loaded way — not a neutral "but," a disappointed or ironic "and yet."
 - ちゃって (contracted てしまって) compounds the regret — the eating happened somewhat against the speaker's will or better judgment. The combination of なのに + ちゃった is one of the most natural pairings for expressing mild self-directed irony.
-- The trailing … (ellipsis) after 食べちゃって leaves the logical conclusion unstated. The listener understands "and now I feel bad about it" without needing it spelled out.
-- 後悔してる自分がいるよ is a distinct pragmatic move — the speaker frames their own regret as a third-person observation ("there exists a self that regrets"). This creates gentle emotional distance.
-- Without のに: ダイエット中にケーキ食べちゃって would state the fact without the emotional contrast. The diet ceases to be a violated expectation — it's just background.
+- The trailing … (ellipsis) after <ruby>食<rt>た</rt></ruby>べちゃって leaves the logical conclusion unstated. The listener understands "and now I feel bad about it" without needing it spelled out.
+- <ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいるよ is a distinct pragmatic move — the speaker frames their own regret as a third-person observation ("there exists a self that regrets"). This creates gentle emotional distance.
+- Without のに: ダイエット<ruby>中<rt>ちゅう</rt></ruby>にケーキ<ruby>食<rt>た</rt></ruby>べちゃって would state the fact without the emotional contrast. The diet ceases to be a violated expectation — it's just background.
 
 | <ruby>好<rt>す</rt></ruby>きなのに<ruby>素直<rt>すなお</rt></ruby>になれなくて、ずっと<ruby>意地<rt>いじ</rt></ruby>を<ruby>張<rt>は</rt></ruby>ってた。 | Even though I liked them, I couldn't be honest and just kept being stubborn. |
 |---|---|
@@ -134,7 +134,7 @@ In textbooks のに often appears in straightforward two-clause sentences like �
 | Noun (past state) | <ruby>休日<rt>きゅうじつ</rt></ruby>だったのに | だった + のに for past state contrast |
 
 !!! warning "The な rule"
-    な before のに is required for nouns and な-adjectives — it is not optional. Saying 学生のに is ungrammatical. This is the single most common construction error learners make with this pattern.
+    な before のに is required for nouns and な-adjectives — it is not optional. Saying <ruby>学生<rt>がくせい</rt></ruby>のに is ungrammatical. This is the single most common construction error learners make with this pattern.
 
 ---
 
@@ -142,11 +142,11 @@ In textbooks のに often appears in straightforward two-clause sentences like �
 
 English handles contradiction with neutral connectors — "but," "however," "although." The emotional weight of the contradiction is added separately through word choice or tone. Japanese packages the emotion into the conjunction itself. のに and なのに are not neutral — they tell the listener how the speaker feels about the contrast before the second clause even arrives.
 
-In the input sentence the speaker is doing something very Japanese: sharing a minor personal failure through self-observation rather than direct confession. 後悔してる自分がいるよ — "there exists a self that regrets" — distances the speaker slightly from their own emotion, which makes it easier to share without seeming to demand sympathy.
+In the input sentence the speaker is doing something very Japanese: sharing a minor personal failure through self-observation rather than direct confession. <ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいるよ — "there exists a self that regrets" — distances the speaker slightly from their own emotion, which makes it easier to share without seeming to demand sympathy.
 
 - **Emotion-embedded grammar.** のに doesn't just describe a logical contrast — it pre-loads the listener with the speaker's emotional stance. When you hear のに you know before the second clause arrives that the speaker finds the situation unfortunate, ironic, or mildly reproachable.
-- **Trailing sentences as social grace.** Leaving the second clause unstated (勉強したのに…) is not vagueness — it's considerateness. The speaker trusts the listener to understand, which itself signals closeness and shared context.
-- **Self-observation as humor.** Framing one's own regret in third-person (後悔してる自分がいる) is a distinctly Japanese way of processing minor failure — it creates enough distance to laugh at yourself without dismissing the feeling entirely.
+- **Trailing sentences as social grace.** Leaving the second clause unstated (<ruby>勉強<rt>べんきょう</rt></ruby>したのに…) is not vagueness — it's considerateness. The speaker trusts the listener to understand, which itself signals closeness and shared context.
+- **Self-observation as humor.** Framing one's own regret in third-person (<ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいる) is a distinctly Japanese way of processing minor failure — it creates enough distance to laugh at yourself without dismissing the feeling entirely.
 
 ---
 
@@ -161,7 +161,7 @@ In the input sentence the speaker is doing something very Japanese: sharing a mi
 | それなのに | "And yet / despite all that" | Heavier than なのに — emphasizes betrayal or strong disappointment | When the contrast feels particularly unfair | N3 |
 | くせに | "Even though / despite the fact that" | Sharp, accusatory, contemptuous — directed at others | Criticizing someone for acting above their station [N2 awareness] | N2 |
 
-The closest lookalike is plain けれど. The key difference is emotional loading: けれど is a logical switch; のに is a violated expectation. 勉強したけれど落ちた states two facts. 勉強したのに落ちた expresses that the studying *should have* prevented the failure.
+The closest lookalike is plain けれど. The key difference is emotional loading: けれど is a logical switch; のに is a violated expectation. <ruby>勉強<rt>べんきょう</rt></ruby>したけれど<ruby>落<rt>お</rt></ruby>ちた states two facts. <ruby>勉強<rt>べんきょう</rt></ruby>したのに<ruby>落<rt>お</rt></ruby>ちた expresses that the studying *should have* prevented the failure.
 
 ---
 
@@ -245,7 +245,7 @@ The emotional nuance — wry self-reproach, mild irony — should be preserved a
 
     *"Despite being on a diet, I found myself partaking in some cake… I must admit I'm feeling somewhat regretful."*
 
-    **Shift:** にもかかわらず replaces なのに (formal written concessive); いただいてしまい uses humble receiving form; 後悔しております is humble progressive. The self-aware humor is largely lost — this sounds more like a formal apology than wry self-observation.
+    **Shift:** にもかかわらず replaces なのに (formal written concessive); いただいてしまい uses humble receiving form; <ruby>後悔<rt>こうかい</rt></ruby>しております is humble progressive. The self-aware humor is largely lost — this sounds more like a formal apology than wry self-observation.
 
 ---
 
@@ -300,7 +300,7 @@ The most common structural error.
 !!! failure "Incorrect"
     <ruby>学生<rt>がくせい</rt></ruby>[のに]{.mistake}<ruby>遅刻<rt>ちこく</rt></ruby>した。
 
-    ~Missing な — 学生 is a noun and requires なのに, not のに.~
+    ~Missing な — <ruby>学生<rt>がくせい</rt></ruby> is a noun and requires なのに, not のに.~
 
 !!! success "Correct"
     <ruby>学生<rt>がくせい</rt></ruby>**な**のに<ruby>遅刻<rt>ちこく</rt></ruby>した。
@@ -361,10 +361,10 @@ The most common structural error.
 
 ## Hidden Points {#hidden-points}
 
-- **のに can trail off completely.** 勉強したのに… with nothing following is a complete and natural utterance in casual speech. The second clause is implied by the situation and the listener's understanding. This trailing use is far more common in real conversation than the complete two-clause textbook version.
+- **のに can trail off completely.** <ruby>勉強<rt>べんきょう</rt></ruby>したのに… with nothing following is a complete and natural utterance in casual speech. The second clause is implied by the situation and the listener's understanding. This trailing use is far more common in real conversation than the complete two-clause textbook version.
 - **ちゃった and のに are a natural pair.** てしまう (and its casual contraction ちゃう) expresses accidental or regrettable completion — something that happened somewhat against one's will or better judgment. Combined with のに the sentence packages both the violated expectation (のに) and the helpless quality of the violation (ちゃった) in a single breath.
-- **Sentence-final のに as a standalone complaint** — 約束したのに。 — has no second clause at all. The complaint is the trailing expectation left hanging. The more the second clause is implied rather than stated, the more emotional weight the sentence carries. This is a case where saying less is saying more.
-- **のに works for positive contrast too.** 無理して来てくれたのに、ありがとう uses のに not to complain but to acknowledge sacrifice. The emotional loading is gratitude rather than frustration, but the grammar is the same: "Given this difficult condition, your action is noteworthy."
+- **Sentence-final のに as a standalone complaint** — <ruby>約束<rt>やくそく</rt></ruby>したのに。 — has no second clause at all. The complaint is the trailing expectation left hanging. The more the second clause is implied rather than stated, the more emotional weight the sentence carries. This is a case where saying less is saying more.
+- **のに works for positive contrast too.** <ruby>無理<rt>むり</rt></ruby>して<ruby>来<rt>き</rt></ruby>てくれたのに、ありがとう uses のに not to complain but to acknowledge sacrifice. The emotional loading is gratitude rather than frustration, but the grammar is the same: "Given this difficult condition, your action is noteworthy."
 - **のに can be used sarcastically.** With the right intonation, ありがとうなのに can mean "I was going to thank you, but… [you messed it up]." The sarcasm lives in the gap between the first clause and the truncated second.
 
 ---

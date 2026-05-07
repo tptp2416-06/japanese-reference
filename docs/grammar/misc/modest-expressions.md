@@ -57,13 +57,13 @@ Several high-frequency verbs have **completely irregular humble forms** that mus
 For verbs that *don't* have a special humble form, Japanese provides a productive template. Three steps:
 
 1. **Take the -masu stem.** Remove ます from the polite form.<br>
-   例: <ruby>書<rt>か</rt></ruby>きます → <ruby>書<rt>か</rt></ruby>き
+   <ruby>例<rt>れい</rt></ruby>: <ruby>書<rt>か</rt></ruby>きます → <ruby>書<rt>か</rt></ruby>き
 
 2. **Add お before the stem.** This prefix is a respect marker.<br>
-   例: お<ruby>書<rt>か</rt></ruby>き
+   <ruby>例<rt>れい</rt></ruby>: お<ruby>書<rt>か</rt></ruby>き
 
 3. **Attach する (or the more formal いたす) after the stem.**<br>
-   例: お<ruby>書<rt>か</rt></ruby>きする → お<ruby>書<rt>か</rt></ruby>きいたします
+   <ruby>例<rt>れい</rt></ruby>: お<ruby>書<rt>か</rt></ruby>きする → お<ruby>書<rt>か</rt></ruby>きいたします
 
 | Plain Verb | -masu Stem | Standard Humble | Extra Formal Humble |
 |---|---|---|---|
@@ -75,8 +75,8 @@ For verbs that *don't* have a special humble form, Japanese provides a productiv
 !!! note "Sino-Japanese verbs use ご, not お"
     For する verbs with Chinese-origin nouns like <ruby>連<rt>れん</rt></ruby><ruby>絡<rt>らく</rt></ruby>する, <ruby>説<rt>せつ</rt></ruby><ruby>明<rt>めい</rt></ruby>する, <ruby>案<rt>あん</rt></ruby><ruby>内<rt>ない</rt></ruby>する, the prefix changes from お to ご, and you skip the -masu stem logic entirely: **ご + noun + する／いたす**.
 
-    例: ご<ruby>連<rt>れん</rt></ruby><ruby>絡<rt>らく</rt></ruby>いたします = "I will (humbly) contact you."<br>
-    例: ご<ruby>案<rt>あん</rt></ruby><ruby>内<rt>ない</rt></ruby><ruby>致<rt>いた</rt></ruby>します = "I will (humbly) guide you."
+    <ruby>例<rt>れい</rt></ruby>: ご<ruby>連<rt>れん</rt></ruby><ruby>絡<rt>らく</rt></ruby>いたします = "I will (humbly) contact you."<br>
+    <ruby>例<rt>れい</rt></ruby>: ご<ruby>案<rt>あん</rt></ruby><ruby>内<rt>ない</rt></ruby><ruby>致<rt>いた</rt></ruby>します = "I will (humbly) guide you."
 
 ---
 

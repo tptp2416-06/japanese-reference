@@ -89,7 +89,7 @@ These two patterns are often taught together but serve fundamentally different f
 
 The よう in this pattern is a nominalizer — it turns the preceding clause into a noun-like concept. Unlike こと (which nominalizes actions as abstract entities) or の (which nominalizes more loosely), よう specifically nominalizes **manner, way, or state**.
 
-When attached to a potential form (泳げるよう), it nominalizes the state of being able to swim. When attached to a plain verb (分かるよう), it nominalizes the state of understanding.
+When attached to a potential form (<ruby>泳<rt>およ</rt></ruby>げるよう), it nominalizes the state of being able to swim. When attached to a plain verb (<ruby>分<rt>わ</rt></ruby>かるよう), it nominalizes the state of understanding.
 
 ### The Change Layer (なる)
 
@@ -115,7 +115,7 @@ The clause before ように can be:
 | Adjective + く | <ruby>早<rt>はや</rt></ruby>くなるように | "In a way that becomes early/fast" |
 
 !!! note "The potential form preference"
-    〜ようになる most commonly attaches to potential verbs (泳げる, 話せる, 読める) because the pattern's core meaning is **ability emerging**. But it also attaches to plain verbs for habit formation (毎日走るようになった — "came to run every day").
+    〜ようになる most commonly attaches to potential verbs (<ruby>泳<rt>およ</rt></ruby>げる, <ruby>話<rt>はな</rt></ruby>せる, <ruby>読<rt>よ</rt></ruby>める) because the pattern's core meaning is **ability emerging**. But it also attaches to plain verbs for habit formation (<ruby>毎日<rt>まいにち</rt></ruby><ruby>走<rt>はし</rt></ruby>るようになった — "came to run every day").
 
 ---
 
@@ -128,7 +128,7 @@ The clause before ように can be:
 
     *"Last year I couldn't speak at all, but now I've become able to handle daily conversation."*
 
-    **Why ようになった fits here:** The sentence explicitly contrasts past inability (全然話せなかった) with present ability. The ようになった is the bridge — it narrates the transformation. Without it, 話せるよ would be a flat statement of current ability; with it, the ability is framed as earned growth.
+    **Why ようになった fits here:** The sentence explicitly contrasts past inability (<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>話<rt>はな</rt></ruby>せなかった) with present ability. The ようになった is the bridge — it narrates the transformation. Without it, <ruby>話<rt>はな</rt></ruby>せるよ would be a flat statement of current ability; with it, the ability is framed as earned growth.
 
     **What the よ adds:** The sentence-final よ marks this as shareable news — something the speaker is pleased to report. Combined with ようになった, it creates a small celebration of progress.
 
@@ -156,10 +156,10 @@ The clause before ように can be:
 
 ### Function in Context
 
-- 去年は全然話せなかった establishes the "before" state — complete inability. The けど (but) sets up the contrast.
-- 今は marks the "after" state — present time frame.
-- 日常会話くらい scopes the ability — "daily conversation level." The くらい softens the claim, making it modest.
-- 話せるようになった is the core transformation. 話せる (potential) + ように (nominalization) + なった (past change).
+- <ruby>去年<rt>きょねん</rt></ruby>は<ruby>全然<rt>ぜんぜん</rt></ruby><ruby>話<rt>はな</rt></ruby>せなかった establishes the "before" state — complete inability. The けど (but) sets up the contrast.
+- <ruby>今<rt>いま</rt></ruby>は marks the "after" state — present time frame.
+- <ruby>日常<rt>にちじょう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby>くらい scopes the ability — "daily conversation level." The くらい softens the claim, making it modest.
+- <ruby>話<rt>はな</rt></ruby>せるようになった is the core transformation. <ruby>話<rt>はな</rt></ruby>せる (potential) + ように (nominalization) + なった (past change).
 - よ closes the sentence as shareable news. The speaker is not just stating ability; they're reporting growth.
 
 | <ruby>子供<rt>こども</rt></ruby>の<ruby>頃<rt>ころ</rt></ruby>は<ruby>苦手<rt>にがて</rt></ruby>だったけど、<ruby>今<rt>いま</rt></ruby>は<ruby>納豆<rt>なっとう</rt></ruby>が<ruby>食<rt>た</rt></ruby>べられるようになった。 | I used to be bad with it as a kid, but now I've become able to eat natto. |
@@ -199,8 +199,8 @@ The よう particle serves multiple functions across Japanese grammar. Understan
 | 〜ようにしている | Sustained effort | <ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>するようにしている。*"I make it a point to exercise every day."* |
 | 〜ようになる | Change over time | <ruby>毎日<rt>まいにち</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>するようになった。*"I've come to exercise every day."* |
 | 〜ようにしてくれる | Request for accommodation | <ruby>静<rt>しず</rt></ruby>かにするようにしてくれる？*"Can you try to be quiet?"* |
-| 〜ように言う | Indirect instruction | <ruby>早<rt>はや</rt></ruby>く<ruby>来<rt>こ</rt></ruby>いように<ruby>言<rt>い</rt></ruby>った。*"I told him to come early."* |
-| 〜ように見える | Appearance | <ruby>分<rt>わ</rt></ruby>かるように<ruby>見<rt>み</rt></ruby>える。*"It looks like [you] understand."* |
+| 〜ように<ruby>言<rt>ゆ</rt></ruby>う | Indirect instruction | <ruby>早<rt>はや</rt></ruby>く<ruby>来<rt>こ</rt></ruby>いように<ruby>言<rt>い</rt></ruby>った。*"I told him to come early."* |
+| 〜ように<ruby>見<rt>み</rt></ruby>える | Appearance | <ruby>分<rt>わ</rt></ruby>かるように<ruby>見<rt>み</rt></ruby>える。*"It looks like [you] understand."* |
 | 〜ようになっている | Designed state | <ruby>自動<rt>じどう</rt></ruby>で<ruby>止<rt>と</rt></ruby>まるようになっている。*"It's set up to stop automatically."* |
 
 ---
@@ -209,7 +209,7 @@ The よう particle serves multiple functions across Japanese grammar. Understan
 
 English talks about ability with can/could — static, present-oriented. Japanese talks about ability with 〜ようになる — narrative, change-oriented. This reflects a broader cultural preference for **process over state**, **emergence over possession**.
 
-When a Japanese speaker says 泳げるようになった, they are not just saying "I can swim." They are saying "There was a process, and now swimming is part of me." The grammar demands a story.
+When a Japanese speaker says <ruby>泳<rt>およ</rt></ruby>げるようになった, they are not just saying "I can swim." They are saying "There was a process, and now swimming is part of me." The grammar demands a story.
 
 - **Growth as narrative.** 〜ようになる requires a before and after. Even when unstated, the listener supplies it. The pattern activates a temporal frame automatically.
 - **Effort as invisible.** Unlike 〜ようにする which foregrounds effort, 〜ようになる backgrounds it. The change simply emerges. This is humbler — the speaker doesn't claim credit for their growth, they merely observe it.
@@ -226,11 +226,11 @@ When a Japanese speaker says 泳げるようになった, they are not just sayi
 | 〜ようにしている | Sustained effort — maintaining practice | Ongoing discipline; established routine | Describing current maintained habits | N3 |
 | 〜できる | Direct potential — current ability | Flat statement; no narrative | Answering ability questions; neutral capability | N5 |
 | 〜られる (passive/potential) | Potential (formal) or passive | More formal than できる; can be ambiguous | Written Japanese; formal speech | N4 |
-| 〜始める | Begin to do | Active start; deliberate initiation | Starting new actions | N4 |
-| 〜出す | Start to do (sudden) | Sudden emergence; often emotional or physical | Sudden changes in state | N4 |
+| 〜<ruby>始<rt>はじ</rt></ruby>める | Begin to do | Active start; deliberate initiation | Starting new actions | N4 |
+| 〜<ruby>出<rt>だ</rt></ruby>す | Start to do (sudden) | Sudden emergence; often emotional or physical | Sudden changes in state | N4 |
 | 〜てくる | Change approaching speaker | Gradual approach; "has come to be" | Changes noticed over time, approaching present | N4 |
 
-The closest lookalike is 〜始める. Both describe change over time, but 〜始める emphasizes the starting point ("I started swimming"), while 〜ようになる emphasizes the resulting state ("I've become able to swim"). 〜始める is about action; 〜ようになる is about capacity.
+The closest lookalike is 〜<ruby>始<rt>はじ</rt></ruby>める. Both describe change over time, but 〜<ruby>始<rt>はじ</rt></ruby>める emphasizes the starting point ("I started swimming"), while 〜ようになる emphasizes the resulting state ("I've become able to swim"). 〜<ruby>始<rt>はじ</rt></ruby>める is about action; 〜ようになる is about capacity.
 
 ---
 
@@ -290,14 +290,14 @@ The change-of-state meaning is preserved across registers, but the packaging shi
 
     *"Last year I could not speak at all, but now I have become able to handle daily conversation."*
 
-    **Shift:** Past negative 話せなかった → 話せませんでした; なった → なりました. The narrative structure is identical; the politeness is elevated.
+    **Shift:** Past negative <ruby>話<rt>はな</rt></ruby>せなかった → <ruby>話<rt>はな</rt></ruby>せませんでした; なった → なりました. The narrative structure is identical; the politeness is elevated.
 
 === ":material-briefcase-outline: Extra Polite"
     <ruby>昨年<rt>さくねん</rt></ruby>は<ruby>全く<rt>まったく</rt></ruby><ruby>話<rt>はな</rt></ruby>すことができませんでしたが、<ruby>現在<rt>げんざい</rt></ruby>は<ruby>日常会話<rt>にちじょうかいわ</rt></ruby>レベルまで<ruby>話<rt>はな</rt></ruby>せるようになっております。
 
     *"Last year I was entirely unable to speak, but at present I have come to be able to speak at a daily conversation level."*
 
-    **Shift:** 去年 → 昨年; 全然 → 全く; 今 → 現在; なった → なっております (humble progressive). The core pattern 〜ようになる is preserved even in ultra-formal register.
+    **Shift:** <ruby>去年<rt>きょねん</rt></ruby> → <ruby>昨年<rt>さくねん</rt></ruby>; <ruby>全然<rt>ぜんぜん</rt></ruby> → <ruby>全<rt>まった</rt></ruby>く; <ruby>今<rt>いま</rt></ruby> → <ruby>現在<rt>げんざい</rt></ruby>; なった → なっております (humble progressive). The core pattern 〜ようになる is preserved even in ultra-formal register.
 
 ---
 
@@ -359,7 +359,7 @@ The change-of-state meaning is preserved across registers, but the packaging shi
 
 ### 1. Confusing 〜ようにする and 〜ようになる
 
-The most common N4 error. Learners produce 泳ぐようにした when they mean 泳げるようになった, or vice versa.
+The most common N4 error. Learners produce <ruby>泳<rt>およ</rt></ruby>ぐようにした when they mean <ruby>泳<rt>およ</rt></ruby>げるようになった, or vice versa.
 
 !!! failure "Wrong pattern"
     <ruby>毎日<rt>まいにち</rt></ruby><ruby>泳<rt>およ</rt></ruby>いで、<ruby>泳<rt>およ</rt></ruby>げるようにした。
@@ -376,7 +376,7 @@ The most common N4 error. Learners produce 泳ぐようにした when they mean 
 !!! failure "Pragmatic mismatch"
     <ruby>事故<rt>じこ</rt></ruby>で<ruby>足<rt>あし</rt></ruby>が<ruby>動<rt>うご</rt></ruby>かないようになった。
 
-    *"Due to an accident, my legs became unable to move."* — Grammatically possible, but 動かなくなった is more natural for sudden traumatic change. 〜ようになる prefers gradual emergence.
+    *"Due to an accident, my legs became unable to move."* — Grammatically possible, but <ruby>動<rt>うご</rt></ruby>かなくなった is more natural for sudden traumatic change. 〜ようになる prefers gradual emergence.
 
 !!! success "Better"
     <ruby>事故<rt>じこ</rt></ruby>で<ruby>足<rt>あし</rt></ruby>が<ruby>動<rt>うご</rt></ruby>かなくなった。
@@ -388,7 +388,7 @@ The most common N4 error. Learners produce 泳ぐようにした when they mean 
 !!! failure "Narrative overkill"
     <ruby>私<rt>わたし</rt></ruby>は<ruby>英語<rt>えいご</rt></ruby>が<ruby>話<rt>はな</rt></ruby>せるようになっている。
 
-    *"I have become able to speak English [and remain so]."* — Grammatically odd. 〜ようになっている is for designed states, not personal abilities. Use 話せる or 話せます.
+    *"I have become able to speak English [and remain so]."* — Grammatically odd. 〜ようになっている is for designed states, not personal abilities. Use <ruby>話<rt>はな</rt></ruby>せる or <ruby>話<rt>はな</rt></ruby>せます.
 
 !!! success "Correct"
     <ruby>私<rt>わたし</rt></ruby>は<ruby>英語<rt>えいご</rt></ruby>が<ruby>話<rt>はな</rt></ruby>せます。
@@ -418,11 +418,11 @@ The most common N4 error. Learners produce 泳ぐようにした when they mean 
 
 ## Hidden Points {#hidden-points}
 
-- **〜ようになる can describe loss of ability.** 泳げなくなった ("became unable to swim") uses the negative potential + なる. The pattern accommodates decline as well as growth — though the valence is usually negative when describing loss.
-- **The "before" state is often ellipsed.** Japanese speakers frequently say 泳げるようになった without explicitly stating 前は泳げなかった. The pattern itself activates the "before" frame — listeners automatically supply it.
-- **〜ようになる + たい is aspirational grammar.** なりたい ("want to become") + ようになる creates the goal-state construction: 話せるようになりたい. This is more humble and process-oriented than 話したい ("want to speak").
-- **Simile よう and nominalization よう are related but distinct.** 大人のようになる ("become like an adult") uses simile よう; 泳げるようになる uses nominalization よう. The grammar looks identical but the semantics differ. Context disambiguates.
-- **〜ようになっている is a hidden N2 gem.** It describes designed or expected states: 自動で止まるようになっている ("It's set up to stop automatically"). The ている adds "is currently in the state of being designed to…" This is common in technical descriptions and instructions.
+- **〜ようになる can describe loss of ability.** <ruby>泳<rt>およ</rt></ruby>げなくなった ("became unable to swim") uses the negative potential + なる. The pattern accommodates decline as well as growth — though the valence is usually negative when describing loss.
+- **The "before" state is often ellipsed.** Japanese speakers frequently say <ruby>泳<rt>およ</rt></ruby>げるようになった without explicitly stating <ruby>前<rt>まえ</rt></ruby>は<ruby>泳<rt>およ</rt></ruby>げなかった. The pattern itself activates the "before" frame — listeners automatically supply it.
+- **〜ようになる + たい is aspirational grammar.** なりたい ("want to become") + ようになる creates the goal-state construction: <ruby>話<rt>はな</rt></ruby>せるようになりたい. This is more humble and process-oriented than <ruby>話<rt>はな</rt></ruby>したい ("want to speak").
+- **Simile よう and nominalization よう are related but distinct.** <ruby>大人<rt>おとな</rt></ruby>のようになる ("become like an adult") uses simile よう; <ruby>泳<rt>およ</rt></ruby>げるようになる uses nominalization よう. The grammar looks identical but the semantics differ. Context disambiguates.
+- **〜ようになっている is a hidden N2 gem.** It describes designed or expected states: <ruby>自動<rt>じどう</rt></ruby>で<ruby>止<rt>と</rt></ruby>まるようになっている ("It's set up to stop automatically"). The ている adds "is currently in the state of being designed to…" This is common in technical descriptions and instructions.
 
 ---
 
@@ -449,7 +449,7 @@ The most common N4 error. Learners produce 泳ぐようにした when they mean 
 
 - 〜ようにする — Deliberate effort vs. observed change
 - 〜できる — Static potential vs. narrative emergence
-- 〜始める — Active beginning vs. gradual emergence
+- 〜<ruby>始<rt>はじ</rt></ruby>める — Active beginning vs. gradual emergence
 - 〜てくる — Change approaching speaker vs. state change
 - 〜になる — Simple becoming vs. manner/state becoming
 
@@ -457,13 +457,13 @@ The most common N4 error. Learners produce 泳ぐようにした when they mean 
 
 - 〜なる (N5) — Intransitive change
 - 〜ように (N4) — Manner/nominalization
-- Potential forms (N4) — 泳げる, 話せる, 読める
+- Potential forms (N4) — <ruby>泳<rt>およ</rt></ruby>げる, <ruby>話<rt>はな</rt></ruby>せる, <ruby>読<rt>よ</rt></ruby>める
 - Plain verb forms (N5) — For habit formation usage
 
 ### Unlocks Next
 
 - 〜ようにしてくれる (N3) — Requesting accommodation
-- 〜ように言う (N3) — Indirect reported commands
+- 〜ように<ruby>言<rt>い</rt></ruby>う (N3) — Indirect reported commands
 - 〜ようになっている (N2) — Designed/expected states
 - 〜ようとする (N3) — Attemptive; "try to [do]"
 - 〜ようとしない (N3) — Refusal; "not try to [do]"

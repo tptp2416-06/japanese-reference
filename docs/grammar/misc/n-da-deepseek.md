@@ -21,7 +21,7 @@ tags:
     - 〜んだ (the casual spoken form of 〜のだ) attaches to plain-form predicates to mark the sentence as an **explanation**, a **realisation**, or an **emotionally charged statement**.
     - It is **not** simply a masculine variant of 〜の; it adds a layer of meaning: the speaker is presenting the information as something that clarifies, answers a question, or is newly understood.
     - In the reference sentence — よかったね。そんなに<ruby>変<rt>か</rt></ruby>わる**んだ**、すごい。 — the んだ expresses **discovery with admiration**: the speaker has just witnessed or understood *how much* someone changes, and the んだ conveys "So that's how it is!" / "I see that you change that much!"
-    - Without んだ, そんなに変わる is a plain statement of fact ("you change that much"). With んだ, the sentence becomes a reaction — the speaker is processing new information and sharing their realisation.
+    - Without んだ, そんなに<ruby>変<rt>か</rt></ruby>わる is a plain statement of fact ("you change that much"). With んだ, the sentence becomes a reaction — the speaker is processing new information and sharing their realisation.
     - 〜んだ is fundamental to natural spoken Japanese. It appears constantly in everyday conversation, often with no direct English translation, but its absence can make speech sound flat or robotic.
 
 ---
@@ -58,17 +58,17 @@ tags:
 | ね | Sentence-final particle | Adds shared feeling; softens the statement. |
 | そんなに | Adverb | "To that extent / that much." Indicates degree. |
 | <ruby>変<rt>か</rt></ruby>わる | Plain dictionary form of "to change" | The core verb — describes the action of changing. |
-| んだ | Contraction of のだ | Explanatory / realisation marker. Frames 変わる as newly understood information. |
+| んだ | Contraction of のだ | Explanatory / realisation marker. Frames <ruby>変<rt>か</rt></ruby>わる as newly understood information. |
 | すごい | i-adjective | "Amazing / incredible." The speaker's evaluative reaction. |
 
 ### Why んだ Here?
 
 Without んだ, the second part would be:
 
-> そんなに変わる、すごい。
+> そんなに<ruby>変<rt>か</rt></ruby>わる、すごい。
 > *"You change that much. Amazing."*
 
-This is grammatically correct but feels **flat** — two disconnected statements. The んだ links the observation (変わる) to the preceding situation, making it a shared realisation. The speaker is saying, in effect:
+This is grammatically correct but feels **flat** — two disconnected statements. The んだ links the observation (<ruby>変<rt>か</rt></ruby>わる) to the preceding situation, making it a shared realisation. The speaker is saying, in effect:
 
 > **"Oh, so the reality is that you change that much! That's amazing."**
 
@@ -104,10 +104,10 @@ Attach んだ to the **plain form** of the predicate. For nouns and na-adjective
 | Noun | <ruby>休<rt>やす</rt></ruby>みだ | <ruby>休<rt>やす</rt></ruby>みな**んだ** | So it's a holiday! / It's that it's a holiday. |
 
 !!! warning "Don't forget the な for nouns and na-adjectives"
-    休みだんだ ❌
-    休み**な**んだ ✅
-    元気だんだ ❌
-    元気**な**んだ ✅
+    <ruby>休<rt>やす</rt></ruby>みだんだ ❌
+    <ruby>休<rt>やす</rt></ruby>み**な**んだ ✅
+    <ruby>元気<rt>げんき</rt></ruby>だんだ ❌
+    <ruby>元気<rt>げんき</rt></ruby>**な**んだ ✅
 
 ---
 
@@ -176,12 +176,12 @@ The plain form reports; んだ **relates** the information to the context.
 んだ is not a default sentence-ender. Overusing it makes speech sound heavy or overly explanatory. If you simply state a fact with no connection to the context, plain form is better.
 
 !!! failure "Overuse"
-    今日は<ruby>月曜日<rt>げつようび</rt></ruby>なんだ。それで、<ruby>仕事<rt>しごと</rt></ruby>があるんだ。<ruby>天気<rt>てんき</rt></ruby>がいいんだ。
+    <ruby>今日<rt>きょう</rt></ruby>は<ruby>月曜日<rt>げつようび</rt></ruby>なんだ。それで、<ruby>仕事<rt>しごと</rt></ruby>があるんだ。<ruby>天気<rt>てんき</rt></ruby>がいいんだ。
 
     ~Every sentence is marked as an explanation — it sounds like a constant justification.~
 
 !!! success "Better"
-    今日は<ruby>月曜日<rt>げつようび</rt></ruby>だ。それで、<ruby>仕事<rt>しごと</rt></ruby>があるんだ。<ruby>天気<rt>てんき</rt></ruby>がいい。
+    <ruby>今日<rt>きょう</rt></ruby>は<ruby>月曜日<rt>げつようび</rt></ruby>だ。それで、<ruby>仕事<rt>しごと</rt></ruby>があるんだ。<ruby>天気<rt>てんき</rt></ruby>がいい。
 
     ~Use んだ only when you are explaining or reacting. The plain statement of day is fine without it.~
 
@@ -217,7 +217,7 @@ The plain form reports; んだ **relates** the information to the context.
 
 English often leaves the connection between a statement and its context implicit. "You've changed so much! That's amazing." The listener infers the speaker's realisation from tone and words.
 
-Japanese んだ makes that cognitive move **explicit**. そんなに変わるんだ says, "I am now processing the fact that you change that much; this is a realisation I'm sharing with you." It invites the listener into the speaker's moment of understanding. This aligns with a broader Japanese communication pattern: **explicitly marking shared understanding** (the ね in よかったね does this too).
+Japanese んだ makes that cognitive move **explicit**. そんなに<ruby>変<rt>か</rt></ruby>わるんだ says, "I am now processing the fact that you change that much; this is a realisation I'm sharing with you." It invites the listener into the speaker's moment of understanding. This aligns with a broader Japanese communication pattern: **explicitly marking shared understanding** (the ね in よかったね does this too).
 
 んだ often has no translation in English because the function is grammaticalised in Japanese: it signals the speaker's cognitive state (realising, explaining, insisting) rather than adding propositional content.
 

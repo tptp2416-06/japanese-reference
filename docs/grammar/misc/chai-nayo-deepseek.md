@@ -134,7 +134,7 @@ A simpler example:
 The pattern works by <strong>reframing hesitation as unnecessary</strong>. The speaker isn't giving an order — they're signaling that the path forward is clear, the conditions are met, and the only thing standing in the way is the listener's own reluctance. The grammar does this through a layered effect:
 
 - <strong>～ちゃう (from ～てしまう):</strong> Adds the nuance of "do it and be done with it." The action is presented as a single, complete-able step — something you can cross off the list. This is what makes the urging feel light: "it's not a big deal, just get it done."
-- <strong>～な (contracted from ～なさい):</strong> A mild imperative. At full length (<span class="jb">食べなさい</span>) it's a parental "eat your vegetables." Contracted to <span class="jb">～な</span> and bundled with <span class="jb">～ちゃう</span> and <span class="jb">よ</span>, it softens into something closer to "go on, do it."
+- <strong>～な (contracted from ～なさい):</strong> A mild imperative. At full length (<span class="jb"><ruby>食<rt>た</rt></ruby>べなさい</span>) it's a parental "eat your vegetables." Contracted to <span class="jb">～な</span> and bundled with <span class="jb">～ちゃう</span> and <span class="jb">よ</span>, it softens into something closer to "go on, do it."
 - <strong>よ:</strong> The sentence-final particle that wraps the whole thing in friendly assurance — "I'm telling you, it's fine."
 
 ### The Role of もう
@@ -158,7 +158,7 @@ The spoken form <span class="jb">～ちゃいなよ</span> is a significant cont
   </div>
 </div>
 
-The contraction path is: <span class="jb">入ってしまう</span> → <span class="jb">入っちゃう</span> → <span class="jb">入っちゃいなさい</span> → <span class="jb">入っちゃいな</span> → <span class="jb">入っちゃいなよ</span>. Each step strips formality and adds warmth.
+The contraction path is: <span class="jb"><ruby>入<rt>はい</rt></ruby>ってしまう</span> → <span class="jb"><ruby>入<rt>はい</rt></ruby>っちゃう</span> → <span class="jb"><ruby>入<rt>はい</rt></ruby>っちゃいなさい</span> → <span class="jb"><ruby>入<rt>はい</rt></ruby>っちゃいな</span> → <span class="jb"><ruby>入<rt>はい</rt></ruby>っちゃいなよ</span>. Each step strips formality and adds warmth.
 
 </div>
 
@@ -168,14 +168,14 @@ The contraction path is: <span class="jb">入ってしまう</span> → <span cl
 
 ### Function in Context
 
-In the input sentence, <span class="jb">入っちゃいなよ</span> does several things simultaneously:
+In the input sentence, <span class="jb"><ruby>入<rt>はい</rt></ruby>っちゃいなよ</span> does several things simultaneously:
 
-- <strong>Signals readiness:</strong> The <span class="jb">お風呂準備できてるから</span> clause establishes that everything is in place. <span class="jb">～ちゃいなよ</span> follows naturally: conditions are met, so action should follow without delay.
+- <strong>Signals readiness:</strong> The <span class="jb">お<ruby>風呂<rt>ふろ</rt></ruby><ruby>準備<rt>じゅんび</rt></ruby>できてるから</span> clause establishes that everything is in place. <span class="jb">～ちゃいなよ</span> follows naturally: conditions are met, so action should follow without delay.
 - <strong>Removes the listener's social hesitation:</strong> In a shared living situation, there's often a polite dance about who uses the bath first. The speaker cuts through this by making it clear the offer is genuine and the listener should not defer.
 - <strong>Frames the action as trivial:</strong> The <span class="jb">～ちゃう</span> component tells the listener: getting in the bath is not a production — you're not imposing, you're just completing a simple action. This is socially strategic.
 - <strong>Closes the negotiation:</strong> The <span class="jb">よ</span> at the end puts a full stop on the exchange. The speaker isn't opening a discussion; they're delivering a resolved position: the bath is ready, you're getting in, end of story — said warmly.
 
-Without <span class="jb">～ちゃいなよ</span> — if the speaker said <span class="jb">先に入ってください</span> — the sentence would lose all its casual warmth and sound like a formal instruction, which would be strange in this domestic context. If they said <span class="jb">先に入って</span>, it would be plain and direct but miss the "just get it done, it's nothing" nuance that makes the urging feel light.
+Without <span class="jb">～ちゃいなよ</span> — if the speaker said <span class="jb"><ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>ってください</span> — the sentence would lose all its casual warmth and sound like a formal instruction, which would be strange in this domestic context. If they said <span class="jb"><ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って</span>, it would be plain and direct but miss the "just get it done, it's nothing" nuance that makes the urging feel light.
 
 ### Construction {#construction}
 
@@ -313,9 +313,9 @@ The key distinction from the closest lookalike, <span class="jb">～ちゃえば
 
 ### What Leads Here
 
-- <strong>～てしまう / ～ちゃう (N4):</strong> The foundational contraction. Learner knows that <span class="jb">～てしまう</span> marks completion, unintended results, or "doing and being done with it," and that <span class="jb">～ちゃう</span> is its casual spoken form: <span class="jb">食べてしまった</span> → <span class="jb">食べちゃった</span>. Without this base, the <span class="jb">～ちゃいなよ</span> bundle is opaque.
+- <strong>～てしまう / ～ちゃう (N4):</strong> The foundational contraction. Learner knows that <span class="jb">～てしまう</span> marks completion, unintended results, or "doing and being done with it," and that <span class="jb">～ちゃう</span> is its casual spoken form: <span class="jb"><ruby>食<rt>た</rt></ruby>べてしまった</span> → <span class="jb"><ruby>食<rt>た</rt></ruby>べちゃった</span>. Without this base, the <span class="jb">～ちゃいなよ</span> bundle is opaque.
 
-- <strong>～なさい (N4):</strong> The polite imperative used from superior to inferior — parent to child, teacher to student. Learner knows that <span class="jb">食べなさい</span> means "eat" as an instruction. This form is the source of the contracted <span class="jb">～な</span> inside <span class="jb">～ちゃいな</span>.
+- <strong>～なさい (N4):</strong> The polite imperative used from superior to inferior — parent to child, teacher to student. Learner knows that <span class="jb"><ruby>食<rt>た</rt></ruby>べなさい</span> means "eat" as an instruction. This form is the source of the contracted <span class="jb">～な</span> inside <span class="jb">～ちゃいな</span>.
 
 - <strong>Sentence-final よ (N5):</strong> The particle that adds emphasis and shared-context signaling: "I'm telling you." Learner already uses this for friendly insistence and new-information delivery. In <span class="jb">～ちゃいなよ</span>, it's the final layer that makes the whole bundle feel warm rather than barking.
 
@@ -323,9 +323,9 @@ The key distinction from the closest lookalike, <span class="jb">～ちゃえば
 
 - <strong>～ちゃいな (without よ) (N3 Upper):</strong> Dropping the <span class="jb">よ</span> makes the urging slightly more brusque or efficient — still casual, but closer to "go on, do it" than "go on, do it — I'm telling you." The presence or absence of <span class="jb">よ</span> is a fine-tuning tool for warmth.
 
-- <strong>～んじゃいなよ (N3 Upper):</strong> The voiced variant for む/ぶ/ぬ-ending godan verbs: <span class="jb">飲んじゃいなよ</span> ("just drink up"), <span class="jb">遊んじゃいなよ</span> ("just go play"). The same bundle, but the voiced contraction follows a different phonetic path and learners often hesitate on these forms.
+- <strong>～んじゃいなよ (N3 Upper):</strong> The voiced variant for む/ぶ/ぬ-ending godan verbs: <span class="jb"><ruby>飲<rt>の</rt></ruby>んじゃいなよ</span> ("just drink up"), <span class="jb"><ruby>遊<rt>あそ</rt></ruby>んじゃいなよ</span> ("just go play"). The same bundle, but the voiced contraction follows a different phonetic path and learners often hesitate on these forms.
 
-- <strong>～ちゃって (N2 — awareness only):</strong> A softer, more open-ended variant: <span class="jb">先に入っちゃって</span> ("go ahead and get in" — said as a gentle nudge rather than an urging). The <span class="jb">～て</span> form trails off and feels less directive than <span class="jb">～ちゃいな</span>. Natural in the same casual contexts but even less pushy.
+- <strong>～ちゃって (N2 — awareness only):</strong> A softer, more open-ended variant: <span class="jb"><ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っちゃって</span> ("go ahead and get in" — said as a gentle nudge rather than an urging). The <span class="jb">～て</span> form trails off and feels less directive than <span class="jb">～ちゃいな</span>. Natural in the same casual contexts but even less pushy.
 
 </div>
 
@@ -419,12 +419,12 @@ Learners sometimes mishear or misread <span class="jb">～ちゃいなよ</span>
   <div class="pair-item correct">
     <span class="pair-label">Urging (～ちゃいなよ)</span>
     <span class="pair-jp"><ruby>食<rt>た</rt></ruby>べちゃいなよ。</span>
-    <span class="pair-en">"Just eat up." (Encouragement: 食べてしまいなさい → 食べちゃいな)</span>
+    <span class="pair-en">"Just eat up." (Encouragement: <ruby>食<rt>た</rt></ruby>べてしまいなさい → <ruby>食<rt>た</rt></ruby>べちゃいな)</span>
   </div>
   <div class="pair-item contrast">
     <span class="pair-label">Prohibition (～ちゃダメ)</span>
     <span class="pair-jp"><ruby>食<rt>た</rt></ruby>べちゃダメ。</span>
-    <span class="pair-en">"Don't eat that." (Prohibition: 食べてはいけない → 食べちゃいけない → 食べちゃダメ)</span>
+    <span class="pair-en">"Don't eat that." (Prohibition: <ruby>食<rt>た</rt></ruby>べてはいけない → <ruby>食<rt>た</rt></ruby>べちゃいけない → <ruby>食<rt>た</rt></ruby>べちゃダメ)</span>
   </div>
 </div>
 
@@ -462,13 +462,13 @@ The <span class="jb">～ちゃいなよ</span> pattern frequently pairs with cer
 
 <div class="sb-wrap">
 
-- <strong>The ～な in ～ちゃいな is not the prohibitive ～な:</strong> This is a critical structural point that learners can miss. The prohibitive <span class="jb">～な</span> attaches to the dictionary form (<span class="jb">食べるな</span> = "don't eat"), while the <span class="jb">～な</span> in <span class="jb">～ちゃいな</span> is a contraction of <span class="jb">～なさい</span> and attaches to the <span class="jb">～て</span> form via <span class="jb">～ちゃう</span>. The two <span class="jb">な</span> endings are etymologically unrelated but phonetically identical, which can cause a split-second misparse in fast speech.
+- <strong>The ～な in ～ちゃいな is not the prohibitive ～な:</strong> This is a critical structural point that learners can miss. The prohibitive <span class="jb">～な</span> attaches to the dictionary form (<span class="jb"><ruby>食<rt>た</rt></ruby>べるな</span> = "don't eat"), while the <span class="jb">～な</span> in <span class="jb">～ちゃいな</span> is a contraction of <span class="jb">～なさい</span> and attaches to the <span class="jb">～て</span> form via <span class="jb">～ちゃう</span>. The two <span class="jb">な</span> endings are etymologically unrelated but phonetically identical, which can cause a split-second misparse in fast speech.
 
 - <strong>Intonation distinguishes warm urging from impatient pushing:</strong> A flat or slightly descending <span class="jb">～ちゃいなよ</span> sounds warm — "go on, it's fine." A sharply stressed <span class="jb">ちゃいな</span> with a clipped <span class="jb">よ</span> sounds impatient — "just do it already." The difference is entirely in delivery, not vocabulary. N3 learners should be aware that over-flattening their intonation can accidentally make them sound irritable.
 
 - <strong>The pattern can sound gendered in certain contexts:</strong> <span class="jb">～ちゃいなよ</span> itself is relatively gender-neutral in modern casual speech, but the full uncontracted <span class="jb">～てしまいなさい</span> can carry a maternal/stern-feminine association when used by older speakers. In younger speech, both men and women use <span class="jb">～ちゃいなよ</span> freely, but some older male speakers may prefer <span class="jb">～ちゃえよ</span> (using the imperative <span class="jb">～ちゃえ</span> from <span class="jb">～ちゃう</span>) as a rougher alternative.
 
-- <strong>The ～ちゃう layer also softens the command — paradoxically:</strong> At first glance, adding <span class="jb">～ちゃう</span> to an imperative might seem like it would intensify it ("do it completely!"). But in practice, the opposite happens: <span class="jb">～ちゃう</span> reframes the action as a single, clean step, which makes it feel less demanding than a raw <span class="jb">～なさい</span>. <span class="jb">食べなさい</span> is "eat (because I'm telling you to)." <span class="jb">食べちゃいなよ</span> is "just eat up and be done with it — it's nothing." The completion nuance makes the action feel smaller, not larger.
+- <strong>The ～ちゃう layer also softens the command — paradoxically:</strong> At first glance, adding <span class="jb">～ちゃう</span> to an imperative might seem like it would intensify it ("do it completely!"). But in practice, the opposite happens: <span class="jb">～ちゃう</span> reframes the action as a single, clean step, which makes it feel less demanding than a raw <span class="jb">～なさい</span>. <span class="jb"><ruby>食<rt>た</rt></ruby>べなさい</span> is "eat (because I'm telling you to)." <span class="jb"><ruby>食<rt>た</rt></ruby>べちゃいなよ</span> is "just eat up and be done with it — it's nothing." The completion nuance makes the action feel smaller, not larger.
 
 </div>
 
@@ -488,7 +488,7 @@ The <span class="jb">～ちゃいなよ</span> pattern frequently pairs with cer
 
 <div class="ref-callback">
   <h4 id="reference-call-back">Reference Call Back</h4>
-  <p>If you've studied <span class="jb">～てしまう／～ちゃう</span> at N4, you learned it marks completion or unintended results. In <span class="jb">～ちゃいなよ</span>, the completion meaning is doing pragmatic work: the speaker calls the action "something you can just complete and be done with," which is what makes the urging feel light and encouraging rather than heavy. The same <span class="jb">～ちゃう</span> that expresses regret in <span class="jb">忘れちゃった</span> ("I forgot — oops, it's done") expresses liberation in <span class="jb">入っちゃいなよ</span> ("get in — just do it and it's done"). This is a common pattern in Japanese: the same grammar can encode opposite emotional tones depending on whether the "completion" is desired or undesired.</p>
+  <p>If you've studied <span class="jb">～てしまう／～ちゃう</span> at N4, you learned it marks completion or unintended results. In <span class="jb">～ちゃいなよ</span>, the completion meaning is doing pragmatic work: the speaker calls the action "something you can just complete and be done with," which is what makes the urging feel light and encouraging rather than heavy. The same <span class="jb">～ちゃう</span> that expresses regret in <span class="jb"><ruby>忘<rt>わす</rt></ruby>れちゃった</span> ("I forgot — oops, it's done") expresses liberation in <span class="jb"><ruby>入<rt>はい</rt></ruby>っちゃいなよ</span> ("get in — just do it and it's done"). This is a common pattern in Japanese: the same grammar can encode opposite emotional tones depending on whether the "completion" is desired or undesired.</p>
 </div>
 
 ## See Also {#see-also}

@@ -15,7 +15,7 @@ tags:
 ###### [のに・Disappointed Contrast / Even Though - Kimi](noni-disappointed-kimi.md)
 ###### [なって・Internal Quotation](natte-internalquote.md)
 ###### [〜ていけばいい・Reassurance of Sufficient Ongoing Action](te-ikebaiikara.md)
-###### [あっという間に vs. いつの間にか — Subjective Speed vs. Unnoticed Change・DeepSeek](speed-vs-change-deepseek.md)
+###### [あっという<ruby>間<rt>ま</rt></ruby>に vs. いつの<ruby>間<rt>あいだ</rt></ruby>にか — Subjective Speed vs. Unnoticed Change・DeepSeek](speed-vs-change-deepseek.md)
 ###### [Extra Modest Expressions - Claude](modest-expressions.md)
 ###### [Extra Modest Expressions - DeepSeek](modest-expressions-deepseek.md)
 ###### [Extra Modest Expressions - Kimi](modest-expressions-kimi.md)

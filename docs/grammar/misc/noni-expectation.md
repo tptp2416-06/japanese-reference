@@ -34,7 +34,7 @@ tags:
     - なのに flags a contrast the speaker finds disappointing, frustrating, or ironic — "even though X is the case, Y happened anyway."
     - It carries emotional weight that plain のに does not — the speaker expected or hoped for a different outcome.
     - In the input sentence it's turned inward: the speaker isn't complaining about someone else, they're narrating their own contradictory behavior with wry, affectionate self-blame.
-    - The trailing …後悔してる自分がいるよ is a key pattern in itself — the speaker observes themselves as if from outside. Learn both together.
+    - The trailing …<ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいるよ is a key pattern in itself — the speaker observes themselves as if from outside. Learn both together.
 
 ---
 
@@ -66,7 +66,7 @@ tags:
 
     *"I'm on a diet and I went and ate cake anyway… there's definitely a part of me that regrets it."*
 
-    **Why なのに fits here:** The diet is an active constraint — ダイエット中 establishes the context. ケーキ食べちゃって is the violation of that constraint. なのに is the emotional bridge between the two: "given that constraint exists, I did this anyway, and I feel some kind of way about it." The wry self-observation in 後悔してる自分がいるよ softens the regret into something shareable rather than a confession.
+    **Why なのに fits here:** The diet is an active constraint — ダイエット<ruby>中<rt>ちゅう</rt></ruby> establishes the context. ケーキ<ruby>食<rt>た</rt></ruby>べちゃって is the violation of that constraint. なのに is the emotional bridge between the two: "given that constraint exists, I did this anyway, and I feel some kind of way about it." The wry self-observation in <ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいるよ softens the regret into something shareable rather than a confession.
 
     **What makes this natural:** She's not asking for comfort or advice. She's narrating her own contradiction — half-complaining, half-laughing at herself. This is exactly the register and emotional texture なのに is built for in casual speech between close friends.
 
@@ -89,7 +89,7 @@ tags:
 
 ### Real Speech vs. Textbook Form
 
-In textbooks なのに often appears in straightforward two-clause sentences like 休日なのに仕事した. In real spoken Japanese two patterns are more common: trailing sentences that don't complete the second clause (ダイエット中なのに…) leaving the result implied, and なのに used sentence-finally as a complaint marker (どうして来てくれないの、約束したのに).
+In textbooks なのに often appears in straightforward two-clause sentences like <ruby>休日<rt>きゅうじつ</rt></ruby>なのに<ruby>仕事<rt>しごと</rt></ruby>した. In real spoken Japanese two patterns are more common: trailing sentences that don't complete the second clause (ダイエット<ruby>中<rt>ちゅう</rt></ruby>なのに…) leaving the result implied, and なのに used sentence-finally as a complaint marker (どうして<ruby>来<rt>き</rt></ruby>てくれないの、<ruby>約束<rt>やくそく</rt></ruby>したのに).
 
 | Form | Example | Note |
 |------|---------|------|
@@ -103,11 +103,11 @@ In textbooks なのに often appears in straightforward two-clause sentences lik
 
 ### Function in Context
 
-- ダイエット中 establishes the active constraint. なのに flags that what follows violates that constraint in an emotionally loaded way — not a neutral "but," a disappointed or ironic "and yet."
+- ダイエット<ruby>中<rt>ちゅう</rt></ruby> establishes the active constraint. なのに flags that what follows violates that constraint in an emotionally loaded way — not a neutral "but," a disappointed or ironic "and yet."
 - ちゃって (contracted form of てしまって) compounds the regret — the eating happened somewhat against the speaker's will or better judgment. The combination of なのに + ちゃった is one of the most natural pairings for expressing this kind of mild self-directed irony in casual speech.
-- The trailing … (ellipsis) after 食べちゃって leaves the logical conclusion unstated. The listener understands "and now I feel bad about it" without needing it spelled out. This is a key feature of natural spoken Japanese — なのに clauses often trail off deliberately.
-- 後悔してる自分がいるよ is a distinct pragmatic move — the speaker frames their own regret as a third-person observation ("there exists a self that regrets"). This creates gentle emotional distance, turning a potential complaint into self-aware humor.
-- Without なのに: ダイエット中にケーキ食べちゃって would state the fact without the emotional contrast. The diet ceases to be a relevant expectation — it's just background. なのに is what makes the diet a violated promise.
+- The trailing … (ellipsis) after <ruby>食<rt>た</rt></ruby>べちゃって leaves the logical conclusion unstated. The listener understands "and now I feel bad about it" without needing it spelled out. This is a key feature of natural spoken Japanese — なのに clauses often trail off deliberately.
+- <ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいるよ is a distinct pragmatic move — the speaker frames their own regret as a third-person observation ("there exists a self that regrets"). This creates gentle emotional distance, turning a potential complaint into self-aware humor.
+- Without なのに: ダイエット<ruby>中<rt>ちゅう</rt></ruby>にケーキ<ruby>食<rt>た</rt></ruby>べちゃって would state the fact without the emotional contrast. The diet ceases to be a relevant expectation — it's just background. なのに is what makes the diet a violated promise.
 
 | <ruby>雨<rt>あめ</rt></ruby>なのに<ruby>出<rt>で</rt></ruby>かけるの？ | You're going out even though it's raining? |
 |---|---|
@@ -126,7 +126,7 @@ In textbooks なのに often appears in straightforward two-clause sentences lik
 | Noun (past) | <ruby>休日<rt>きゅうじつ</rt></ruby>だったのに | だった + のに for past state contrast |
 
 !!! warning "The な rule"
-    な before のに is required for nouns and な-adjectives — it is not optional. Saying ダイエット中のに is ungrammatical. This is the single most common construction error learners make with this pattern.
+    な before のに is required for nouns and な-adjectives — it is not optional. Saying ダイエット<ruby>中<rt>ちゅう</rt></ruby>のに is ungrammatical. This is the single most common construction error learners make with this pattern.
 
 ---
 
@@ -134,11 +134,11 @@ In textbooks なのに often appears in straightforward two-clause sentences lik
 
 English handles contradiction with neutral connectors — "but," "however," "although." The emotional weight of the contradiction is added separately through word choice or tone. Japanese packages the emotion into the conjunction itself. のに and なのに are not neutral — they tell the listener how the speaker feels about the contrast before the second clause even arrives.
 
-In the input sentence the speaker is doing something very Japanese: sharing a minor personal failure through self-observation rather than direct confession. 後悔してる自分がいるよ — "there exists a self that regrets" — distances the speaker slightly from their own emotion, which makes it easier to share without seeming to demand sympathy. The listener can laugh along rather than feeling obligated to comfort.
+In the input sentence the speaker is doing something very Japanese: sharing a minor personal failure through self-observation rather than direct confession. <ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいるよ — "there exists a self that regrets" — distances the speaker slightly from their own emotion, which makes it easier to share without seeming to demand sympathy. The listener can laugh along rather than feeling obligated to comfort.
 
 - **Emotion-embedded grammar.** なのに doesn't just describe a logical contrast — it pre-loads the listener with the speaker's emotional stance. When you hear なのに you know before the second clause arrives that the speaker finds the situation unfortunate, ironic, or mildly reproachable.
-- **Trailing sentences as social grace.** Leaving the second clause unstated (ダイエット中なのに…) is not vagueness — it's considerateness. The speaker trusts the listener to understand, which itself signals closeness and shared context.
-- **Self-observation as humor.** Framing one's own regret in third-person (後悔してる自分がいる) is a distinctly Japanese way of processing minor failure — it creates enough distance to laugh at yourself without dismissing the feeling entirely.
+- **Trailing sentences as social grace.** Leaving the second clause unstated (ダイエット<ruby>中<rt>ちゅう</rt></ruby>なのに…) is not vagueness — it's considerateness. The speaker trusts the listener to understand, which itself signals closeness and shared context.
+- **Self-observation as humor.** Framing one's own regret in third-person (<ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいる) is a distinctly Japanese way of processing minor failure — it creates enough distance to laugh at yourself without dismissing the feeling entirely.
 
 ---
 
@@ -237,7 +237,7 @@ The emotional nuance — wry self-reproach, mild irony — should be preserved a
 
     *"Despite being on a diet, I found myself partaking in some cake… I must admit I'm feeling somewhat regretful."*
 
-    **Shift:** にもかかわらず replaces なのに (formal written concessive); いただいてしまい uses humble receiving form; 後悔しております is humble progressive. The self-aware humor is largely lost — this sounds more like a formal apology than wry self-observation.
+    **Shift:** にもかかわらず replaces なのに (formal written concessive); いただいてしまい uses humble receiving form; <ruby>後悔<rt>こうかい</rt></ruby>しております is humble progressive. The self-aware humor is largely lost — this sounds more like a formal apology than wry self-observation.
 
 ---
 
@@ -296,9 +296,9 @@ The emotional nuance — wry self-reproach, mild irony — should be preserved a
 The most common structural error. Learners attach のに directly to a noun without the required な, producing an ungrammatical sentence.
 
 !!! failure "Incorrect"
-    ダイエット[中のに]{.mistake}ケーキ<ruby>食<rt>た</rt></ruby>べた。
+    ダイエット[<ruby>中<rt>ちゅう</rt></ruby>のに]{.mistake}ケーキ<ruby>食<rt>た</rt></ruby>べた。
 
-    ~Missing な — ダイエット中 is a noun phrase and requires なのに, not のに.~
+    ~Missing な — ダイエット<ruby>中<rt>ちゅう</rt></ruby> is a noun phrase and requires なのに, not のに.~
 
 !!! success "Correct"
     ダイエット<ruby>中<rt>ちゅう</rt></ruby>**な**のにケーキ<ruby>食<rt>た</rt></ruby>べた。
@@ -358,9 +358,9 @@ The most common structural error. Learners attach のに directly to a noun with
 
 ## Hidden Points {#hidden-points}
 
-- **なのに can trail off completely.** ダイエット中なのに… with nothing following is a complete and natural utterance in casual speech. The second clause is implied by the situation and the listener's understanding. This trailing use is far more common in real conversation than the complete two-clause textbook version.
+- **なのに can trail off completely.** ダイエット<ruby>中<rt>ちゅう</rt></ruby>なのに… with nothing following is a complete and natural utterance in casual speech. The second clause is implied by the situation and the listener's understanding. This trailing use is far more common in real conversation than the complete two-clause textbook version.
 - **ちゃった and なのに are a natural pair.** てしまう (and its casual contraction ちゃう) expresses accidental or regrettable completion — something that happened somewhat against one's will or better judgment. Combined with なのに the sentence packages both the violated expectation (なのに) and the helpless quality of the violation (ちゃった) in a single breath.
-- **後悔してる自分がいる is a distinct construction.** "There exists a self that regrets" uses 自分がいる to create mild self-objectification — the speaker steps slightly outside themselves to observe their own emotion. This softens the confession and invites the listener to laugh along rather than offer sympathy. It's a recurring pattern in casual Japanese self-disclosure worth learning as its own chunk.
+- **<ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいる is a distinct construction.** "There exists a self that regrets" uses <ruby>自分<rt>じぶん</rt></ruby>がいる to create mild self-objectification — the speaker steps slightly outside themselves to observe their own emotion. This softens the confession and invites the listener to laugh along rather than offer sympathy. It's a recurring pattern in casual Japanese self-disclosure worth learning as its own chunk.
 - **Sentence-final のに as a standalone complaint** — <ruby>約束<rt>やくそく</rt></ruby>したのに。— has no second clause at all. The complaint is the trailing expectation left hanging. The more the second clause is implied rather than stated, the more emotional weight the sentence carries. This is a case where saying less is saying more.
 
 ---
