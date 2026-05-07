@@ -2,45 +2,83 @@
 title: Misc
 tags:
   - N3
+  - N4
 ---
 
-# Misc.
+<div class="jp-home" style="max-width: 640px; margin: 0 auto; padding: 2rem 0;">
 
-## N4
-##### [Overview](index.md)
-###### [Te-form](te-form.md)
-###### [Tense & Aspect](tense-aspect.md)
-###### [Conditionals](conditionals.md)
-###### [のに・Frustrated Expectations](noni-expectation.md)
-###### [のに・Disappointed Contrast / Even Though - Kimi](noni-disappointed-kimi.md)
-###### [なって・Internal Quotation](natte-internalquote.md)
-###### [〜ていけばいい・Reassurance of Sufficient Ongoing Action](te-ikebaiikara.md)
-###### [あっという<ruby>間<rt>ま</rt></ruby>に vs. いつの<ruby>間<rt>あいだ</rt></ruby>にか — Subjective Speed vs. Unnoticed Change・DeepSeek](speed-vs-change-deepseek.md)
-###### [Extra Modest Expressions - Claude](modest-expressions.md)
-###### [Extra Modest Expressions - DeepSeek](modest-expressions-deepseek.md)
-###### [Extra Modest Expressions - Kimi](modest-expressions-kimi.md)
-###### [Embedded Questions — 〜か & 〜かどうか - Claude](questions-in-sentences.md)
-###### [Embedded Questions — 〜か & 〜かどうか - DeepSeek](questions-in-sentences-deepseek.md)
-###### [Embedded Questions — 〜か & 〜かどうか - Kimi](questions-in-sentences-kimi.md)
-###### [～ちゃいなよ — Casual, Friendly Encouragement](chai-nayo-deepseek.md)
-###### [〜のこと — The Person Themselves / What Concerns X - Kimi](no-koto-kimi.md)
-###### [〜んだ — Explanatory / Realization Emphasis - DeepSeek](n-da-deepseek.md)
-###### [〜んだ — Explanatory / Realization Emphasis - Kimi](n-da-kimi.md)
-###### [〜んだ — Explanatory / Realization Emphasis - Kimi-ruby](n-da-kimi-ruby.md)
-###### [〜っぱなし — Leaving Something in an Ongoing State - DeepSeek](ppa-na-shi-deepseek.md)
-###### [〜っぱなし — Leaving Something in an Ongoing State - Kimi](ppa-na-shi-kimi.md)
-###### [〜って — Topic Marker / Quotative / Casual Register Workhorse](tte-casual.md)
-###### [〜って — Topic Marker / Quotative / Casual Register Workhorse - ChatGPT](tte-casual-gpt.md)
-###### [〜っちゃおっか — Casual Volitional + Completion + Self-Talk Invitation - Kimi](chau-okka-kimi.md)
-###### [〜なきゃ・ないと・なくては・なければ・ないといけない - Must / Have To - Kimi](obligation-kimi.md)
-###### [〜ように・〜ようになる — Change of State / Becoming Able To](youni-youninaru-kimi.md)
-###### [〜みたい — Seems Like / Looks Like / Apparently - Kimi](mitai-kimi.md)
-###### [かな — Self-Directed Musing, Soft Questions, Tentative Planning - Kimi](ka-na-kimi.md)
+  <div style="margin-bottom: 3rem;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 0.5rem;">
+      <span style="font-size: 36px; color: var(--md-default-fg-color--lighter); font-weight: 400;">雑</span>
+      <p style="font-size: 28px; font-weight: 500; margin: 0;">Misc</p>
+    </div>
+    <p style="font-size: 14px; color: var(--md-default-fg-color--lighter); margin: 0; max-width: 480px;">Casual speech patterns, explanatory forms, modality, quotation, and everyday conversational grammar.</p>
+    <div style="width: 40px; height: 1px; background: var(--md-default-fg-color--lightest); margin: 1.5rem 0 0;"></div>
+  </div>
 
+  <!-- N4 -->
+  <div style="margin-bottom: 2.5rem;">
+    <p style="font-size: 13px; font-weight: 500; letter-spacing: 0.1em; color: var(--md-default-fg-color--lighter); margin: 0 0 0.75rem; text-transform: uppercase;">N4</p>
 
+    <p style="font-size: 12px; color: var(--md-default-fg-color--lighter); margin: 1rem 0 0.25rem; letter-spacing: 0.05em; text-transform: uppercase;">Foundations</p>
+    <div style="border-top: 0.5px solid var(--md-default-fg-color--lightest);">
+      <a href="te-form/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">Te-form</a>
+      <a href="tense-aspect/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">Tense & Aspect</a>
+      <a href="conditionals/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">Conditionals</a>
+    </div>
 
-## N3
+    <p style="font-size: 12px; color: var(--md-default-fg-color--lighter); margin: 1.25rem 0 0.25rem; letter-spacing: 0.05em; text-transform: uppercase;">Explanatory & quotation</p>
+    <div style="border-top: 0.5px solid var(--md-default-fg-color--lightest);">
+      <a href="n-da-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜んだ — Explanatory / realization emphasis</a>
+      <a href="tte-casual/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜って — Casual topic marker / quotative</a>
+      <a href="natte-internalquote/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">なって・Internal quotation</a>
+      <a href="questions-in-sentences-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">Embedded questions — 〜か & 〜かどうか</a>
+    </div>
 
-###### [〜てある — Completed Action with Ongoing Intent / Prepared State](te-aru.md)
+    <p style="font-size: 12px; color: var(--md-default-fg-color--lighter); margin: 1.25rem 0 0.25rem; letter-spacing: 0.05em; text-transform: uppercase;">Contrast & expectations</p>
+    <div style="border-top: 0.5px solid var(--md-default-fg-color--lightest);">
+      <a href="noni-expectation/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">のに・Frustrated expectations</a>
+      <a href="noni-disappointed-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">のに・Disappointed contrast</a>
+    </div>
 
-Verb Forms and Conjugation Chains
+    <p style="font-size: 12px; color: var(--md-default-fg-color--lighter); margin: 1.25rem 0 0.25rem; letter-spacing: 0.05em; text-transform: uppercase;">Modality & obligation</p>
+    <div style="border-top: 0.5px solid var(--md-default-fg-color--lightest);">
+      <a href="obligation-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜なきゃ・ないと etc. — Must / have to</a>
+      <a href="chai-nayo-deepseek/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">～ちゃいなよ — Casual encouragement</a>
+    </div>
+
+    <p style="font-size: 12px; color: var(--md-default-fg-color--lighter); margin: 1.25rem 0 0.25rem; letter-spacing: 0.05em; text-transform: uppercase;">Softening & register</p>
+    <div style="border-top: 0.5px solid var(--md-default-fg-color--lightest);">
+      <a href="topic-pivot-casual/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">Casual topic-setting / softening pivot</a>
+      <a href="topic-markers-comp/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">Topic markers comparison</a>
+      <a href="modest-expressions-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">Extra modest expressions</a>
+      <a href="ka-na-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">かな — Self-directed musing / soft questions</a>
+    </div>
+
+    <p style="font-size: 12px; color: var(--md-default-fg-color--lighter); margin: 1.25rem 0 0.25rem; letter-spacing: 0.05em; text-transform: uppercase;">Aspect & state</p>
+    <div style="border-top: 0.5px solid var(--md-default-fg-color--lightest);">
+      <a href="te-ikebaiikara/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜ていけばいい — Reassurance of ongoing action</a>
+      <a href="speed-vs-change-deepseek/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">あっという間に vs. いつの間にか — Speed vs. change</a>
+      <a href="ppa-na-shi-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜っぱなし — Leaving something in an ongoing state</a>
+      <a href="chau-okka-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜っちゃおっか — Casual volitional + completion</a>
+    </div>
+
+    <p style="font-size: 12px; color: var(--md-default-fg-color--lighter); margin: 1.25rem 0 0.25rem; letter-spacing: 0.05em; text-transform: uppercase;">Reference & scope</p>
+    <div style="border-top: 0.5px solid var(--md-default-fg-color--lightest);">
+      <a href="no-koto-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜のこと — The person themselves</a>
+    </div>
+  </div>
+
+  <!-- N3 -->
+  <div>
+    <p style="font-size: 13px; font-weight: 500; letter-spacing: 0.1em; color: var(--md-default-fg-color--lighter); margin: 0 0 0.75rem; text-transform: uppercase;">N3</p>
+
+    <p style="font-size: 12px; color: var(--md-default-fg-color--lighter); margin: 1rem 0 0.25rem; letter-spacing: 0.05em; text-transform: uppercase;">State & change</p>
+    <div style="border-top: 0.5px solid var(--md-default-fg-color--lightest);">
+      <a href="te-aru/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜てある — Completed action with ongoing intent</a>
+      <a href="youni-youninaru-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜ように・〜ようになる — Change of state</a>
+      <a href="mitai-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜みたい — Seems like / apparently</a>
+    </div>
+  </div>
+
+</div>
