@@ -12,6 +12,7 @@ tags:
 ###### [Tense & Aspect](tense-aspect.md)
 ###### [Conditionals](conditionals.md)
 ###### [のに・Frustrated Expectations](noni-expectation.md)
+###### [のに・Disappointed Contrast / Even Though - Kimi](noni-disappointed-kimi.md)
 ###### [なって・Internal Quotation](natte-internalquote.md)
 ###### [〜ていけばいい・Reassurance of Sufficient Ongoing Action](te-ikebaiikara.md)
 ###### [あっという間に vs. いつの間にか — Subjective Speed vs. Unnoticed Change・DeepSeek](speed-vs-change-deepseek.md)
@@ -20,6 +21,7 @@ tags:
 ###### [Extra Modest Expressions - Kimi](modest-expressions-kimi.md)
 ###### [Embedded Questions — 〜か & 〜かどうか - Claude](questions-in-sentences.md)
 ###### [Embedded Questions — 〜か & 〜かどうか - DeepSeek](questions-in-sentences-deepseek.md)
+###### [Embedded Questions — 〜か & 〜かどうか - Kimi](questions-in-sentences-kimi.md)
 ###### [～ちゃいなよ — Casual, Friendly Encouragement](chai-nayo-deepseek.md)
 ###### [〜のこと — The Person Themselves / What Concerns X - Kimi](no-koto-kimi.md)
 ###### [〜んだ — Explanatory / Realization Emphasis - DeepSeek](n-da-deepseek.md)
@@ -29,10 +31,12 @@ tags:
 ###### [〜っぱなし — Leaving Something in an Ongoing State - Kimi](ppa-na-shi-kimi.md)
 ###### [〜って — Topic Marker / Quotative / Casual Register Workhorse](tte-casual.md)
 ###### [〜って — Topic Marker / Quotative / Casual Register Workhorse - ChatGPT](tte-casual-gpt.md)
-###### [〜っちゃおっか — Casual Volitional + Completion + Self-Talk Invitation](chau-okka-kimi.md)
-###### [〜なきゃ・ないと・なくては・なければ・ないといけない - Must / Have To](obligation-kimi.md)
+###### [〜っちゃおっか — Casual Volitional + Completion + Self-Talk Invitation - Kimi](chau-okka-kimi.md)
+###### [〜なきゃ・ないと・なくては・なければ・ないといけない - Must / Have To - Kimi](obligation-kimi.md)
 ###### [〜ように・〜ようになる — Change of State / Becoming Able To](youni-youninaru-kimi.md)
-###### [〜みたい — Seems Like / Looks Like / Apparently](mitai-kimi.md)
+###### [〜みたい — Seems Like / Looks Like / Apparently - Kimi](mitai-kimi.md)
+###### [かな — Self-Directed Musing, Soft Questions, Tentative Planning - Kimi](ka-na-kimi.md)
+
 
 
 ## N3
