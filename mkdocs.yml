@@ -93,61 +93,84 @@ nav:
     - Overview: grammar/index.md
     - Verbs:
       - Overview: grammar/verbs/index.md
-      - Causative Form (〜せる / 〜させる) — Make / Let Someone Do Something: grammar/verbs/causative-form.md
+      - Causative Form (〜せる / 〜させる): grammar/verbs/causative-form.md
     - Misc:
       - Overview: grammar/misc/index.md
-      - Te-form: grammar/misc/te-form.md
-      - Casual Topic-Setting / Softening Pivot: grammar/misc/topic-pivot-casual.md
-      - Topic Markers Comparison: grammar/misc/topic-markers-comp.md
-      - Tense & Aspect: grammar/misc/tense-aspect.md
-      - Conditionals: grammar/misc/conditionals.md
-      - のに・Frustrated Expectations: grammar/misc/noni-expectation.md
-      - のに・Disappointed Contrast / Even Though - Kimi: grammar/misc/noni-disappointed-kimi.md
-      - なって・Internal Quotation: grammar/misc/natte-internalquote.md
-      - 〜ていけばいい・Reassurance of Sufficient Ongoing Action: grammar/misc/te-ikebaiikara.md
-      - あっという間に vs. いつの間にか — Subjective Speed vs. Unnoticed Change・DeepSeek: grammar/misc/speed-vs-change-deepseek.md
-      - Extra Modest Expressions - Claude: grammar/misc/modest-expressions.md
-      - Extra Modest Expressions - DeepSeek: grammar/misc/modest-expressions-deepseek.md
-      - Extra Modest Expressions - Kimi: grammar/misc/modest-expressions-kimi.md
-      - Embedded Questions — 〜か & 〜かどうか - Claude: grammar/misc/questions-in-sentences.md
-      - Embedded Questions — 〜か & 〜かどうか - DeepSeek: grammar/misc/questions-in-sentences-deepseek.md
-      - Embedded Questions — 〜か & 〜かどうか - Kimi: grammar/misc/questions-in-sentences-kimi.md
-      - ～ちゃいなよ — Casual, Friendly Encouragement: grammar/misc/chai-nayo-deepseek.md
-      - 〜てある — Completed Action with Ongoing Intent / Prepared State: grammar/misc/te-aru.md
-      - 〜のこと — The Person Themselves / What Concerns X - Kimi: grammar/misc/no-koto-kimi.md
-      - 〜んだ — Explanatory / Realization Emphasis - DeepSeek: grammar/misc/n-da-deepseek.md
-      - 〜んだ — Explanatory / Realization Emphasis - Kimi: grammar/misc/n-da-kimi.md
-      - 〜んだ — Explanatory / Realization Emphasis - Kimi - RUBY: grammar/misc/n-da-kimi-ruby.md
-      - 〜っぱなし — Leaving Something in an Ongoing State - DeepSeek: grammar/misc/ppa-na-shi-deepseek.md
-      - 〜っぱなし — Leaving Something in an Ongoing State - Kimi: grammar/misc/ppa-na-shi-kimi.md
-      - 〜って — Topic Marker / Quotative / Casual Register Workhorse - Kimi: grammar/misc/tte-casual.md
-      - 〜って — Topic Marker / Quotative / Casual Register Workhorse - ChatGPT: grammar/misc/tte-casual-gpt.md
-      - 〜っちゃおっか — Casual Volitional + Completion + Self-Talk Invitation - Kimi: grammar/misc/chau-okka-kimi.md
-      - 〜なきゃ・ないと・なくては・なければ・ないといけない - Must / Have To - Kimi: grammar/misc/obligation-kimi.md
-      - 〜ように・〜ようになる — Change of State / Becoming Able To: grammar/misc/youni-youninaru-kimi.md
-      - 〜みたい — Seems Like / Looks Like / Apparently: grammar/misc/mitai-kimi.md
-      - かな — Self-Directed Musing, Soft Questions, Tentative Planning - Kimi: grammar/misc/ka-na-kimi.md
 
+      # ── N4 ──────────────────────────────
+      - N4:
+        # Foundations
+        - Te-form: grammar/misc/te-form.md
+        - Tense & Aspect: grammar/misc/tense-aspect.md
+        - Conditionals: grammar/misc/conditionals.md
 
-    - 〜ている Related Content:
+        # Explanatory & Quotation
+        - 〜んだ — Explanatory / Realization Emphasis: grammar/misc/n-da-kimi.md
+        - 〜って — Casual Topic Marker / Quotative: grammar/misc/tte-casual.md
+        - なって・Internal Quotation: grammar/misc/natte-internalquote.md
+        - Embedded Questions — 〜か & 〜かどうか: grammar/misc/questions-in-sentences-kimi.md
+
+        # Contrast & Expectations
+        - のに・Frustrated Expectations: grammar/misc/noni-expectation.md
+        - のに・Disappointed Contrast: grammar/misc/noni-disappointed-kimi.md
+
+        # Modality & Obligation
+        - 〜なきゃ・ないと etc. — Must / Have To: grammar/misc/obligation-kimi.md
+        - ～ちゃいなよ — Casual Encouragement: grammar/misc/chai-nayo-deepseek.md
+
+        # Softening & Register
+        - Casual Topic-Setting / Softening Pivot: grammar/misc/topic-pivot-casual.md
+        - Topic Markers Comparison: grammar/misc/topic-markers-comp.md
+        - Extra Modest Expressions: grammar/misc/modest-expressions-kimi.md
+        - かな — Self-Directed Musing / Soft Questions: grammar/misc/ka-na-kimi.md
+
+        # Aspect & State
+        - 〜ていけばいい — Reassurance of Ongoing Action: grammar/misc/te-ikebaiikara.md
+        - あっという間に vs. いつの間にか — Speed vs. Change: grammar/misc/speed-vs-change-deepseek.md
+        - 〜っぱなし — Leaving Something in an Ongoing State: grammar/misc/ppa-na-shi-kimi.md
+        - 〜っちゃおっか — Casual Volitional + Completion: grammar/misc/chau-okka-kimi.md
+
+        # Reference & Scope
+        - 〜のこと — The Person Themselves: grammar/misc/no-koto-kimi.md
+
+      # ── N3 ──────────────────────────────
+      - N3:
+        # State & Change
+        - 〜てある — Completed Action with Ongoing Intent: grammar/misc/te-aru.md
+        - 〜ように・〜ようになる — Change of State: grammar/misc/youni-youninaru-kimi.md
+        - 〜みたい — Seems Like / Apparently: grammar/misc/mitai-kimi.md
+
+    - 〜ている Related:
       - Overview: grammar/te-iru-related/index.md
-      - 〜ている - Resultative Change: grammar/te-iru-related/result-change.md
-      - なる + ている — The Resultative State of Becoming: grammar/te-iru-related/naru-te-iru.md
-      - 〜ていてくれる — Sustained Action for My Benefit - Kimi: grammar/te-iru-related/sustained-action-kimi.md
+      - 〜ている — Resultative Change: grammar/te-iru-related/result-change.md
+      - なる + ている — Resultative State of Becoming: grammar/te-iru-related/naru-te-iru.md
+      - 〜ていてくれる — Sustained Action for My Benefit: grammar/te-iru-related/sustained-action-kimi.md
+
     - Test:
       - Overview: grammar/test/index.md
-      - ChatGpt Test 1: grammar/test/chatgpt-test1.md
-      - Claude Test 1 - HTML MD Hybrid: grammar/test/claude-test1.md
+      # AI comparison versions
+      - 〜んだ — DeepSeek: grammar/misc/n-da-deepseek.md
+      - 〜んだ — Kimi (Ruby): grammar/misc/n-da-kimi-ruby.md
+      - 〜っぱなし — DeepSeek: grammar/misc/ppa-na-shi-deepseek.md
+      - 〜って — ChatGPT: grammar/misc/tte-casual-gpt.md
+      - Embedded Questions — Claude: grammar/misc/questions-in-sentences.md
+      - Embedded Questions — DeepSeek: grammar/misc/questions-in-sentences-deepseek.md
+      - Extra Modest Expressions — Claude: grammar/misc/modest-expressions.md
+      - Extra Modest Expressions — DeepSeek: grammar/misc/modest-expressions-deepseek.md
+      # Format tests
+      - ChatGPT Test 1: grammar/test/chatgpt-test1.md
+      - Claude Test 1 — HTML MD Hybrid: grammar/test/claude-test1.md
       - Gemini Test 1: grammar/test/gemini-test1.md
       - DeepSeek Test 1: grammar/test/deepseek-test1.md
       - Perplexity Test 1: grammar/test/perplexity-test1.md
       - Test One: grammar/test/test1.md
       - Claude MD Version: grammar/test/claude-test2-mdversion.md
+
   - Vocabulary:
     - Overview: vocabulary/index.md
-    - 甘える - depending on others' kindness: vocabulary/amaeru.md
-    - 大切 vs. 大事 — important: vocabulary/taisetsu-daiji.md
-    - 遅れる vs. 遅くなる vs. 遅刻する vs. 遅延する — Lateness & Delay - Kimi: vocabulary/lateness-delay.md
+    - 甘える — Depending on Others' Kindness: vocabulary/amaeru.md
+    - 大切 vs. 大事 — Important: vocabulary/taisetsu-daiji.md
+    - 遅れる vs. 遅くなる vs. 遅刻する vs. 遅延する — Lateness & Delay: vocabulary/lateness-delay.md
   - Patterns:
     - Overview: patterns/index.md
     - Softeners & Hedges: patterns/softeners.md
