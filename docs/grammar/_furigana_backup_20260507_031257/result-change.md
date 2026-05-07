@@ -9,7 +9,7 @@ tags:
 
 # 〜ている - Resultative Change
 
-The change (<ruby>暗<rt>くら</rt></ruby>くなる) occurs before the reference time (<ruby>着<rt>つ</rt></ruby>くころ). The 〜ている form — <ruby>暗<rt>くら</rt></ruby>くなってる — expresses that at the reference time, the post-change state is the reality. The speaker is making a prediction about what state will be in effect at a future reference point.
+The change (暗くなる) occurs before the reference time (着くころ). The 〜ている form — 暗くなってる — expresses that at the reference time, the post-change state is the reality. The speaker is making a prediction about what state will be in effect at a future reference point.
 
 ---
 
@@ -30,7 +30,7 @@ Verbs that take the resultative 〜ている meaning typically describe **instan
 | <ruby>沸<rt>わ</rt></ruby>く | To boil | <ruby>沸<rt>わ</rt></ruby>いている | Is boiling / has boiled (the water is hot) |
 
 !!! warning "The literal translation trap"
-    English speakers often want to translate <ruby>死<rt>し</rt></ruby>んでいる as "is dying." That is almost always wrong. "Is dying" describes an ongoing process — the person is still alive, approaching death. <ruby>死<rt>し</rt></ruby>んでいる means the person is already dead — the change is complete, the state is in effect. The English "is dead" captures it; "has died" also works. "Is dying" does not.
+    English speakers often want to translate 死んでいる as "is dying." That is almost always wrong. "Is dying" describes an ongoing process — the person is still alive, approaching death. 死んでいる means the person is already dead — the change is complete, the state is in effect. The English "is dead" captures it; "has died" also works. "Is dying" does not.
 
 ### Adjective + なる as a Change Verb
 
@@ -58,10 +58,10 @@ The same 〜ている form means completely different things depending on the ve
 | <ruby>着<rt>き</rt></ruby>る | Change (punctual) | <ruby>着<rt>き</rt></ruby>ている | **Is wearing** (state resulting from having put on) |
 | <ruby>知<rt>し</rt></ruby>る | Change (punctual) | <ruby>知<rt>し</rt></ruby>っている | **Knows** (state resulting from having learned) |
 
-!!! warning "<ruby>着<rt>き</rt></ruby>ている and <ruby>知<rt>し</rt></ruby>っている are resultative — don't read them as progressive"
+!!! warning "着ている and 知っている are resultative — don't read them as progressive"
     Two especially common traps:
-    - <ruby>着<rt>き</rt></ruby>ている means "is wearing" (the state after putting clothes on), **not** "is putting on clothes" (which would be <ruby>着<rt>き</rt></ruby>ている in some contexts, but usually <ruby>着替<rt>きが</rt></ruby>えている or similar).
-    - <ruby>知<rt>し</rt></ruby>っている means "knows" (the state after learning), **not** "is knowing." The verb <ruby>知<rt>し</rt></ruby>る means "to come to know / to learn" — a punctual change. <ruby>知<rt>し</rt></ruby>っている is the post-change state: "to have learned and therefore know."
+    - 着ている means "is wearing" (the state after putting clothes on), **not** "is putting on clothes" (which would be 着ている in some contexts, but usually 着替えている or similar).
+    - 知っている means "knows" (the state after learning), **not** "is knowing." The verb 知る means "to come to know / to learn" — a punctual change. 知っている is the post-change state: "to have learned and therefore know."
 
 ---
 
@@ -77,7 +77,7 @@ The same 〜ている form means completely different things depending on the ve
 | | ~Context: The wedding happened in the past. The married state continues.~ |
 | <ruby>道<rt>みち</rt></ruby>が<ruby>混<rt>こ</rt></ruby>んでるから、<ruby>少<rt>すこ</rt></ruby>し<ruby>遅<rt>おく</rt></ruby>れるかも。 | The roads are congested, so I might be a bit late. |
 | | *Literal: Road congested-state-is because, a-little late-might.* |
-| | ~Context: <ruby>混<rt>こ</rt></ruby>む (to become congested) is a change. <ruby>混<rt>こ</rt></ruby>んでいる describes the post-change congested state.~ |
+| | ~Context: 混む (to become congested) is a change. 混んでいる describes the post-change congested state.~ |
 | <ruby>もう<ruby>暗<rt>くら</rt></ruby>くなってるから、<ruby>気<rt>き</rt></ruby>をつけて<ruby>帰<rt>かえ</rt></ruby>ってね。 | It's already dark out, so be careful going home. |
 | | *Literal: Already dark-become-state-is because, careful go-home.* |
 | | ~Context: Same pattern as the reference sentence. The darkening happened earlier; the darkness is the present state.~ |
@@ -105,7 +105,7 @@ The contraction involves dropping the い after the te-form. For godan verbs, th
 - 〜いている → 〜いてる （<ruby>開<rt>あ</rt></ruby>いている → <ruby>開<rt>あ</rt></ruby>いてる）
 
 !!! info "The reference sentence uses the contracted form"
-    <ruby>着<rt>つ</rt></ruby>くころには<ruby>暗<rt>くら</rt></ruby>くなってるかも。The <ruby>暗<rt>くら</rt></ruby>くなってる is the contracted form of <ruby>暗<rt>くら</rt></ruby>くなっている. In casual speech, the full form <ruby>暗<rt>くら</rt></ruby>くなっている would sound slightly stiff or deliberate. The contraction is the natural choice between friends, family, or in relaxed self-talk.
+    着くころには暗くなってるかも。The 暗くなってる is the contracted form of 暗くなっている. In casual speech, the full form 暗くなっている would sound slightly stiff or deliberate. The contraction is the natural choice between friends, family, or in relaxed self-talk.
 
 ---
 
@@ -118,7 +118,7 @@ The single most common error. Learners apply the "is doing" meaning to every 〜
 !!! failure "Incorrect reading"
     もう<ruby>死<rt>し</rt></ruby>んでいる。
 
-    ~"He is dying." — Wrong. The person is already dead. "Is dying" would describe an ongoing process; <ruby>死<rt>し</rt></ruby>んでいる describes a completed state.~
+    ~"He is dying." — Wrong. The person is already dead. "Is dying" would describe an ongoing process; 死んでいる describes a completed state.~
 
 !!! success "Correct reading"
     "He is dead." / "He has died."
@@ -132,12 +132,12 @@ Using the dictionary form of a change verb when you mean the resulting state.
 !!! failure "Incorrect"
     もう<ruby>暗<rt>くら</rt></ruby>くなるから、<ruby>帰<rt>かえ</rt></ruby>ろう。
 
-    ~"It's going to get dark soon, so let's go home." — <ruby>暗<rt>くら</rt></ruby>くなる describes the change about to happen. Grammatically fine on its own, but...~
+    ~"It's going to get dark soon, so let's go home." — 暗くなる describes the change about to happen. Grammatically fine on its own, but...~
 
 !!! success "Correct (if the intended meaning is state)"
     もう<ruby>暗<rt>くら</rt></ruby>くなってるから、<ruby>帰<rt>かえ</rt></ruby>ろう。
 
-    ~"It's already dark, so let's go home." — <ruby>暗<rt>くら</rt></ruby>くなっている describes the current state. The darkness is already here.~
+    ~"It's already dark, so let's go home." — 暗くなっている describes the current state. The darkness is already here.~
 
 ### 3. Using 〜ている with stative verbs
 
@@ -159,12 +159,12 @@ Verbs like ある (to exist), いる (to exist, animate), and できる (to be a
 
 Japanese has a strong preference for describing the world in terms of **states** rather than **actions**. The resultative 〜ている is one of the clearest expressions of this tendency.
 
-In English, "It's dark" is a simple adjective construction — the darkness is a property, not an outcome. In Japanese, <ruby>暗<rt>くら</rt></ruby>くなっている embeds the same observation in a temporal logic: *it became dark, and that darkness is now the state of the world.* The change is acknowledged even when only the state matters.
+In English, "It's dark" is a simple adjective construction — the darkness is a property, not an outcome. In Japanese, 暗くなっている embeds the same observation in a temporal logic: *it became dark, and that darkness is now the state of the world.* The change is acknowledged even when only the state matters.
 
 This is not just grammar — it reflects a deeper cognitive framing. Where English often foregrounds the present condition, Japanese frequently frames the condition as the result of a prior change. The 〜ている form is the grammatical tool that makes this framing possible.
 
-- **State as outcome.** <ruby>結婚<rt>けっこん</rt></ruby>している means "is married" — the state is the outcome of a wedding. <ruby>死<rt>し</rt></ruby>んでいる means "is dead" — the state is the outcome of dying. The change is always implied, even when not mentioned.
-- **Temporal precision.** The distinction between <ruby>暗<rt>くら</rt></ruby>くなる (the change) and <ruby>暗<rt>くら</rt></ruby>くなっている (the state) lets Japanese speakers place events precisely in time relative to each other. In the reference sentence, this distinction is critical: the darkening precedes the arrival. The 〜ている is what establishes that sequence.
+- **State as outcome.** 結婚している means "is married" — the state is the outcome of a wedding. 死んでいる means "is dead" — the state is the outcome of dying. The change is always implied, even when not mentioned.
+- **Temporal precision.** The distinction between 暗くなる (the change) and 暗くなっている (the state) lets Japanese speakers place events precisely in time relative to each other. In the reference sentence, this distinction is critical: the darkening precedes the arrival. The 〜ている is what establishes that sequence.
 - **Continuation of state.** The 〜ている in both progressive and resultative uses shares a core meaning: the situation described by the verb stem has **continuing relevance**. For action verbs, the action continues. For change verbs, the resulting state continues. The form is unified around this idea of ongoing validity.
 
 ---
@@ -173,9 +173,9 @@ This is not just grammar — it reflects a deeper cognitive framing. Where Engli
 
 When you encounter an unfamiliar verb with 〜ている, ask:
 
-1.  **Is the verb an action that takes time?** (<ruby>食<rt>た</rt></ruby>べる、<ruby>走<rt>はし</rt></ruby>る、<ruby>読<rt>よ</rt></ruby>む、<ruby>書<rt>か</rt></ruby>く) → Progressive. "Is doing."
-2.  **Is the verb a change that happens at a moment?** (<ruby>死<rt>し</rt></ruby>ぬ、<ruby>開<rt>ひら</rt></ruby>く、<ruby>落<rt>お</rt></ruby>ちる、<ruby>結婚<rt>けっこん</rt></ruby>する) → Resultative. "Has become / is in the resulting state."
-3.  **Is the verb an adjective + なる?** (<ruby>暗<rt>くら</rt></ruby>くなる、<ruby>暖<rt>あたた</rt></ruby>かくなる、<ruby>静<rt>しず</rt></ruby>かになる) → Resultative. "Has become / is in that state."
+1.  **Is the verb an action that takes time?** (食べる、走る、読む、書く) → Progressive. "Is doing."
+2.  **Is the verb a change that happens at a moment?** (死ぬ、開く、落ちる、結婚する) → Resultative. "Has become / is in the resulting state."
+3.  **Is the verb an adjective + なる?** (暗くなる、暖かくなる、静かになる) → Resultative. "Has become / is in that state."
 4.  **Is the verb already a state?** (ある、いる、できる) → Plain form is used; 〜ている is usually absent or means something else.
 
 | Test | Progressive | Resultative |
@@ -204,4 +204,4 @@ When you encounter an unfamiliar verb with 〜ている, ask:
 ### Contrast With
 
 - Plain form vs. 〜ている for change verbs — the core distinction this page explains
-- 〜た (past) vs. 〜ている — past describes the change event; 〜ている describes the resulting state. <ruby>死<rt>し</rt></ruby>んだ = "died" (the event). <ruby>死<rt>し</rt></ruby>んでいる = "is dead" (the state).
+- 〜た (past) vs. 〜ている — past describes the change event; 〜ている describes the resulting state. 死んだ = "died" (the event). 死んでいる = "is dead" (the state).

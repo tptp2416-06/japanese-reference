@@ -33,7 +33,7 @@
 This grammar point is a combination of the conditional **〜ば**, the adjective **いい** (good/fine), and the explanatory particle **から**. It is a very common way to offer advice that lowers the pressure on the listener, suggesting that a single, simple action is sufficient to solve their problem.
 </div>
 
-## <ruby>核<rt>かく</rt></ruby><ruby>心<rt>こころ</rt></ruby>の<ruby>意<rt>い</rt></ruby><ruby>味<rt>み</rt></ruby> {#core-meaning}
+## <ruby>核<rt>かく</rt></ruby>心の<ruby>意<rt>い</rt></ruby><ruby>味<rt>み</rt></ruby> {#core-meaning}
 
 <div class="sb-wrap">
 ### "You just need to..." / "It's fine as long as..."

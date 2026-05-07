@@ -175,7 +175,7 @@ The emotional core — removing pressure and offering a sustainable frame — mu
 
     *"Don't push yourself, seriously. Just go at your own pace — that's all you need."*
 
-    **Shift:** <ruby>無理<rt>むり</rt></ruby>すんなって adds slightly more emphatic, almost exasperated warmth. The reassurance half is identical to the input sentence.
+    **Shift:** 無理すんなって adds slightly more emphatic, almost exasperated warmth. The reassurance half is identical to the input sentence.
 
 === ":material-tie: Basic Polite"
     <ruby>無理<rt>むり</rt></ruby>しなくていいですよ。<ruby>自分<rt>じぶん</rt></ruby>のペースで<ruby>やっていけばいい</ruby>ですから。
@@ -189,7 +189,7 @@ The emotional core — removing pressure and offering a sustainable frame — mu
 
     *"Please don't feel the need to push yourself. Taking things at your own pace is entirely sufficient."*
 
-    **Shift:** Keigo replaces the warm colloquial tone with respectful distance. なさらなくて<ruby>構<rt>かま</rt></ruby>いません uses respectful negative permission; <ruby>十分<rt>じゅうぶん</rt></ruby>です is a formal sufficiency statement.
+    **Shift:** Keigo replaces the warm colloquial tone with respectful distance. なさらなくて構いません uses respectful negative permission; 十分です is a formal sufficiency statement.
 
 ---
 
@@ -249,7 +249,7 @@ Learners often drop the ていく layer and use plain やればいいから. Thi
 Learners who parse から strictly as "because" expect a following clause that never comes. Sentence-final から in reassurance contexts is a soft emotional close — the statement is its own sufficient explanation.
 
 !!! failure "Incorrect reading"
-    <ruby>やっていけばいい</ruby>から… [<ruby>何<rt>なん</rt></ruby>かが<ruby>続<rt>つづ</rt></ruby>く？]
+    <ruby>やっていけばいい</ruby>から… [何かが続く？]
 
     *"Because you just need to keep doing it… [something follows?]"* — Wrong. Treating から as a causal connector expecting a result clause.
 
@@ -315,7 +315,7 @@ Certain words appear so frequently alongside 〜ていけばいいから that th
 - **〜ていく carries genuine directionality.** いく (to go) physically encodes forward movement through time. The listener is being told the journey they are already on is heading somewhere, and continuing on it is all that's required. This spatial metaphor is active, not decorative.
 - **Sentence-final から shifts with intonation.** With falling intonation it closes the statement warmly — "and that's why it's fine." With flat or rising intonation it shades toward impatience — "because I said so." In writing, context carries the tonal weight.
 - **The two-beat comfort structure is a learnable social script.** [Remove burden] ＋ [offer sustainable frame] appears across casual Japanese supportive speech. Jumping straight to やっていけばいい without first acknowledging the burden can feel tone-deaf.
-- **<ruby>自分<rt>じぶん</rt></ruby>のペースで signals non-comparison.** This near-fixed expression carries a cultural subtext: you are not being evaluated against anyone else. Combined with やっていけばいいから, the full sentence tells the listener not just what to do but how to measure themselves — by their own standard, not an external one.
+- **自分のペースで signals non-comparison.** This near-fixed expression carries a cultural subtext: you are not being evaluated against anyone else. Combined with やっていけばいいから, the full sentence tells the listener not just what to do but how to measure themselves — by their own standard, not an external one.
 
 ---
 

@@ -247,8 +247,8 @@ tags:
       <td><ruby>元<rt>げん</rt></ruby><ruby>気<rt>き</rt></ruby>ならいい <span class="meta-info">だ→なら. Also: <ruby>元<rt>げん</rt></ruby><ruby>気<rt>き</rt></ruby>であればいい</span></td>
     </tr>
     <tr>
-      <td>Noun: <ruby>今<rt>きょう</rt></ruby><ruby>日<rt>ひ</rt></ruby>だ</td>
-      <td><ruby>今<rt>きょう</rt></ruby><ruby>日<rt>ひ</rt></ruby>ならいい <span class="meta-info">だ dropped before なら. Same pattern as な-adjective.</span></td>
+      <td>Noun: <ruby>今<rt>きょう</rt></ruby>日だ</td>
+      <td><ruby>今<rt>きょう</rt></ruby>日ならいい <span class="meta-info">だ dropped before なら. Same pattern as な-adjective.</span></td>
     </tr>
   </tbody>
 </table>
@@ -478,7 +478,7 @@ tags:
       <td colspan="2"><span class="meta-info">A senior colleague reassuring a new starter who feels overwhelmed in a new role.</span></td>
     </tr>
     <tr>
-      <td><ruby>全<rt>ぜん</rt></ruby><ruby>部<rt>ぶ</rt></ruby>いっぺんにやろうとしなくていい。<ruby>今<rt>きょう</rt></ruby><ruby>日<rt>ひ</rt></ruby>できることだけやっていけばいいから。</td>
+      <td><ruby>全<rt>ぜん</rt></ruby><ruby>部<rt>ぶ</rt></ruby>いっぺんにやろうとしなくていい。<ruby>今<rt>きょう</rt></ruby>日できることだけやっていけばいいから。</td>
       <td>You don't have to try to do everything at once. Just do what you can today — that's enough.<br><span class="literal-line">Literal: All at once try-to-do not-necessary. Today can-do things only if-you-keep-doing good, because.</span></td>
     </tr>
     <tr>

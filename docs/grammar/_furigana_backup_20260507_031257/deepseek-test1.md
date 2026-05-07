@@ -65,7 +65,7 @@ This pattern is a triple contraction with a pragmatic overlay — each layer car
 
 **Layer 1 — てしまう → ちゃう:** The auxiliary verb てしまう marks completion or an action running its course — often with a nuance of something happening naturally, unintentionally, or unresisted. Contracted to ちゃう in casual speech. Here, it frames the action not as a formal decision but as something to just *let happen*.
 
-**Layer 2 — なさい → な:** なさい is a soft imperative — firmer than てください, softer than <ruby>命令<rt>めいれい</rt></ruby><ruby>形<rt>けい</rt></ruby>. It's the standard parent-to-child or teacher-to-student command form. Contracted to な, it loses some of its parental weight and becomes a casual, in-group urging.
+**Layer 2 — なさい → な:** なさい is a soft imperative — firmer than てください, softer than 命令形. It's the standard parent-to-child or teacher-to-student command form. Contracted to な, it loses some of its parental weight and becomes a casual, in-group urging.
 
 **Layer 3 — よ:** The sentence-final particle よ adds coaxing warmth. Without it, 〜ちゃいな is a straightforward urging. With it, the speaker is leaning in — "c'mon, just do it, it's fine."
 
@@ -74,7 +74,7 @@ This pattern is a triple contraction with a pragmatic overlay — each layer car
 | <ruby>遠慮<rt>えんりょ</rt></ruby>しないで<ruby>入<rt>はい</rt></ruby>っちゃいなよ。 | Don't hold back — just go on in. |
 |---|---|
 | | *Literal: Restraint don't-do, enter-and-finish-why-don't-you.* |
-| | *The full social move: remove the hesitation word (<ruby>遠慮<rt>えんりょ</rt></ruby>), then supply the urging form.* |
+| | *The full social move: remove the hesitation word (遠慮), then supply the urging form.* |
 
 ### Real Speech vs. Textbook Form
 
@@ -93,14 +93,14 @@ This pattern is almost never taught in full form because it lives entirely in ca
 
 ### Function in Context
 
-In the input sentence — お<ruby>風呂<rt>ふろ</rt></ruby><ruby>準備<rt>じゅんび</rt></ruby>できてるから、もう<ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>っちゃいなよ — the speaker sets up a reason (the bath is ready) and then issues the urging (just go ahead and get in). The から clause provides the permission structure; ちゃいなよ delivers the push.
+In the input sentence — お風呂準備できてるから、もう先に入っちゃいなよ — the speaker sets up a reason (the bath is ready) and then issues the urging (just go ahead and get in). The から clause provides the permission structure; ちゃいなよ delivers the push.
 
-- **お<ruby>風呂<rt>ふろ</rt></ruby><ruby>準備<rt>じゅんび</rt></ruby>できてるから** establishes that there is no obstacle — the bath is ready. This removes any practical reason to wait.
+- **お風呂準備できてるから** establishes that there is no obstacle — the bath is ready. This removes any practical reason to wait.
 - **もう** adds "already / at this point" — reinforcing that the moment for waiting has passed.
-- **<ruby>先<rt>さき</rt></ruby>に** explicitly frames the action as going ahead — the listener is being urged to act independently.
-- **<ruby>入<rt>はい</rt></ruby>っちゃいなよ** wraps the urging in warmth. The speaker isn't ordering the listener to get in — they're telling them to stop holding back and just do what they probably already want to do.
+- **先に** explicitly frames the action as going ahead — the listener is being urged to act independently.
+- **入っちゃいなよ** wraps the urging in warmth. The speaker isn't ordering the listener to get in — they're telling them to stop holding back and just do what they probably already want to do.
 
-Without ちゃいなよ: <ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って would be a simple "go in first." The urging and the warmth are missing.
+Without ちゃいなよ: 先に入って would be a simple "go in first." The urging and the warmth are missing.
 
 ### Construction {#construction}
 
@@ -125,7 +125,7 @@ Without ちゃいなよ: <ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</
 | Irregular: くる | くる | きちゃいなよ |
 
 !!! warning "The な is not the negative な"
-    Learners sometimes confuse this な (contracted なさい, soft imperative) with the negative command な (<ruby>食<rt>た</rt></ruby>べるな = "don't eat!"). <ruby>入<rt>はい</rt></ruby>っちゃいなよ means "go ahead and get in" — it's an urging, not a prohibition. Context and intonation disambiguate: urging な is warm and often followed by よ; prohibition な is sharp and sentence-final.
+    Learners sometimes confuse this な (contracted なさい, soft imperative) with the negative command な (食べるな = "don't eat!"). 入っちゃいなよ means "go ahead and get in" — it's an urging, not a prohibition. Context and intonation disambiguate: urging な is warm and often followed by よ; prohibition な is sharp and sentence-final.
 
 ---
 
@@ -133,9 +133,9 @@ Without ちゃいなよ: <ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>はい</
 
 This pattern is built on a very specific social move: **noticing someone's restraint and releasing them from it.** The speaker observes the listener holding back — out of politeness, hesitation, or self-consciousness — and issues a warm nudge to remove that barrier.
 
-In the bath sentence, the listener was almost certainly waiting for the speaker before getting in. The speaker frames the action as *already completable* (てしまう) and the waiting as *unnecessary* (もう<ruby>先<rt>さき</rt></ruby>に). The urging isn't about the bath — it's about the social hesitation.
+In the bath sentence, the listener was almost certainly waiting for the speaker before getting in. The speaker frames the action as *already completable* (てしまう) and the waiting as *unnecessary* (もう先に). The urging isn't about the bath — it's about the social hesitation.
 
-- **Hesitation is recognized before it's addressed.** The speaker doesn't just say "get in the bath." They first establish that everything is ready (お<ruby>風呂<rt>ふろ</rt></ruby><ruby>準備<rt>じゅんび</rt></ruby>できてるから), removing practical objections, and then address the unspoken social hesitation.
+- **Hesitation is recognized before it's addressed.** The speaker doesn't just say "get in the bath." They first establish that everything is ready (お風呂準備できてるから), removing practical objections, and then address the unspoken social hesitation.
 - **Completing, not doing.** てしまう frames the action as something to finish up and be done with — not a heavy task, just a thing to get through. This makes the urging feel lighter.
 - **In-group warmth.** This form is almost never used toward out-group members. Using it signals closeness — the speaker feels comfortable enough to nudge the listener. Using it toward a superior would be presumptuous and rude.
 
@@ -264,7 +264,7 @@ This pattern is inherently casual. Politeness markers would contradict the "just
 
 ### 1. Confusing な with the negative command marker
 
-Learners who know <ruby>食<rt>た</rt></ruby>べるな as "don't eat" may misread <ruby>食<rt>た</rt></ruby>べちゃいなよ as a prohibition. It's the opposite — it's an urging.
+Learners who know 食べるな as "don't eat" may misread 食べちゃいなよ as a prohibition. It's the opposite — it's an urging.
 
 !!! failure "Incorrect reading"
     <ruby>食<rt>た</rt></ruby>べちゃいなよ = "Don't eat!"
@@ -305,10 +305,10 @@ Learners who know <ruby>食<rt>た</rt></ruby>べるな as "don't eat" may misre
 | Collocation | Meaning |
 |-------------|---------|
 | **いいから** + 〜ちゃいなよ | "Never mind all that — just go ahead and [do it]" — dismisses objections before the urging |
-| **<ruby>遠慮<rt>えんりょ</rt></ruby>しないで** + 〜ちゃいなよ | "Don't hold back — just [do it]" — removes the hesitation explicitly before nudging |
+| **遠慮しないで** + 〜ちゃいなよ | "Don't hold back — just [do it]" — removes the hesitation explicitly before nudging |
 | **もう** + 〜ちゃいなよ | "Just [do it] already" — adds a sense of "the waiting has gone on long enough" |
-| **<ruby>先<rt>さき</rt></ruby>に** + 〜ちゃいなよ | "Go ahead and [do it] first" — common in domestic contexts with bathing, eating, leaving |
-| **<ruby>早<rt>はや</rt></ruby>く** + 〜ちゃいな | "Hurry up and just [do it]" — slightly more impatient; な without よ feels more directive |
+| **先に** + 〜ちゃいなよ | "Go ahead and [do it] first" — common in domestic contexts with bathing, eating, leaving |
+| **早く** + 〜ちゃいな | "Hurry up and just [do it]" — slightly more impatient; な without よ feels more directive |
 
 | Japanese | English |
 |----------|---------|
@@ -322,7 +322,7 @@ Learners who know <ruby>食<rt>た</rt></ruby>べるな as "don't eat" may misre
 - **The てしまう layer is doing real work.** It's not just a filler — it frames the action as *finishing something up naturally*, which makes the urging feel lighter than a direct command. "Just go ahead and get in" feels different from "Get in" — the completion framing reduces the weight of the action.
 - **よ is what makes it coaxing, not ordering.** Without よ, 〜ちゃいな is a straightforward urging. With よ, the speaker is leaning into the listener's world — "I'm telling you this for your own good." The よ signals that the speaker cares about the listener's hesitation and wants to help them past it.
 - **The pattern only works when the listener already wants to do the thing.** You can't use ちゃいなよ to urge someone toward an action they genuinely don't want. It nudges past hesitation; it doesn't overcome resistance.
-- **から is the natural lead-in.** In many natural examples, a から clause establishes the reason or permission first — お<ruby>風呂<rt>ふろ</rt></ruby><ruby>準備<rt>じゅんび</rt></ruby>できてるから, <ruby>疲<rt>つか</rt></ruby>れてるんだから. The structure is: [reason/permission] + [urging]. Jumping straight to the urging without the reason can feel abrupt.
+- **から is the natural lead-in.** In many natural examples, a から clause establishes the reason or permission first — お風呂準備できてるから, 疲れてるんだから. The structure is: [reason/permission] + [urging]. Jumping straight to the urging without the reason can feel abrupt.
 
 ---
 
@@ -360,5 +360,5 @@ Learners who know <ruby>食<rt>た</rt></ruby>べるな as "don't eat" may misre
 ### Unlocks Next
 
 - 〜てしまいなさい — uncontracted form; rare in speech but useful to recognise in written or parental contexts
-- Other なさい contractions (e.g., <ruby>食<rt>た</rt></ruby>べな→<ruby>食<rt>しょく</rt></ruby>えな in some dialects)
+- Other なさい contractions (e.g., 食べな→食えな in some dialects)
 - Dialogic urging patterns in drama and casual conversation — 〜ば？, 〜たら？, 〜といいよ
