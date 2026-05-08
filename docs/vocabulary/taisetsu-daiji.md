@@ -11,43 +11,43 @@ tags:
 
 # Two Words for "Important" — But Not Quite the Same
 
-## 大切（たいせつ） vs. 大事（だいじ） — Choosing the Right "Important"
+## <ruby>大切<rt>たいせつ</rt></ruby>（たいせつ） vs. <ruby>大事<rt>だいじ</rt></ruby>（だいじ） — Choosing the Right "Important"
 
 ---
 
 ## JLPT Level {#jlpt-level}
 
 !!! abstract "JLPT Level — N4–N3"
-    Both 大切 and 大事 are introduced around N4 as basic vocabulary meaning "important" or "precious." The ability to distinguish their nuances — emotional weight, formality, and collocational preferences — is a lower N3 skill.
+    Both <ruby>大切<rt>たいせつ</rt></ruby> and <ruby>大事<rt>だいじ</rt></ruby> are introduced around N4 as basic vocabulary meaning "important" or "precious." The ability to distinguish their nuances — emotional weight, formality, and collocational preferences — is a lower N3 skill.
 
     | Tier | Understanding | What It Looks Like |
     |------|---------------|-------------------|
-    | N4 — Recognition | Both mean "important." | Knows 大切な人 and 大事なこと as set phrases. |
-    | **N4–N3 — Core ← You are here** | **Nuance and collocation** | **Can choose between 大切 and 大事 based on emotional vs. practical nuance, formality, and common pairings.** |
-    | N3+ — Refinement | Full productive distinction | Feels the emotional undertone of 大切 in contrast to the pragmatic weight of 大事 without conscious analysis. |
+    | N4 — Recognition | Both mean "important." | Knows <ruby>大切<rt>たいせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby> and <ruby>大事<rt>だいじ</rt></ruby>なこと as set phrases. |
+    | **N4–N3 — Core ← You are here** | **Nuance and collocation** | **Can choose between <ruby>大切<rt>たいせつ</rt></ruby> and <ruby>大事<rt>だいじ</rt></ruby> based on emotional vs. practical nuance, formality, and common pairings.** |
+    | N3+ — Refinement | Full productive distinction | Feels the emotional undertone of <ruby>大切<rt>たいせつ</rt></ruby> in contrast to the pragmatic weight of <ruby>大事<rt>だいじ</rt></ruby> without conscious analysis. |
 
 ---
 
 ## Quick Summary {#quick-summary}
 
 !!! tip "At a glance"
-    - 大切 (taisetsu) and 大事 (daiji) both translate as **"important," "precious,"** or **"valuable."** In many everyday sentences, they are interchangeable.
-    - **大切 leans emotional** — it often describes things that are personally precious, irreplaceable, or deeply valued on an emotional level: people, memories, feelings, bonds.
-    - **大事 leans practical** — it often describes things of consequence, priority, or essential importance for a particular outcome: rules, tasks, practical considerations, health.
-    - **大事 is slightly more common in spoken, casual Japanese**, while **大切 carries a slightly more formal, heartfelt, or literary tone**.
-    - Many collocations are fixed: you 大切にする a person or a relationship (cherish); you 大事にする a possession or your health (take good care of). The choice of word signals the nature of the care.
+    - <ruby>大切<rt>たいせつ</rt></ruby> (taisetsu) and <ruby>大事<rt>だいじ</rt></ruby> (daiji) both translate as **"important," "precious,"** or **"valuable."** In many everyday sentences, they are interchangeable.
+    - **<ruby>大切<rt>たいせつ</rt></ruby> leans emotional** — it often describes things that are personally precious, irreplaceable, or deeply valued on an emotional level: people, memories, feelings, bonds.
+    - **<ruby>大事<rt>だいじ</rt></ruby> leans practical** — it often describes things of consequence, priority, or essential importance for a particular outcome: rules, tasks, practical considerations, health.
+    - **<ruby>大事<rt>だいじ</rt></ruby> is slightly more common in spoken, casual Japanese**, while **<ruby>大切<rt>たいせつ</rt></ruby> carries a slightly more formal, heartfelt, or literary tone**.
+    - Many collocations are fixed: you <ruby>大切<rt>たいせつ</rt></ruby>にする a person or a relationship (cherish); you <ruby>大事<rt>だいじ</rt></ruby>にする a possession or your health (take good care of). The choice of word signals the nature of the care.
     - Despite these tendencies, the two words overlap heavily. In many contexts, the choice is a matter of nuance and personal style, not grammatical correctness.
 
 ---
 
 ## Core Meanings — Side by Side {#core-meanings}
 
-### 大切（たいせつ）
+### <ruby>大切<rt>たいせつ</rt></ruby>（たいせつ）
 
 | <ruby>大切<rt>たいせつ</rt></ruby> | "Precious," "valued," "dear," "important" — often emotionally weighty. |
 |---|---|
 
-大切 comes from 切 (to cut / to be close/pressing) combined with 大 (big/great). The 切 implies something that is intimately close, something that would "cut" you if it were lost. This gives 大切 a strong emotional resonance — it describes things that are irreplaceable in a personal, heartfelt sense.
+<ruby>大切<rt>たいせつ</rt></ruby> comes from <ruby>切<rt>きれ</rt></ruby> (to cut / to be close/pressing) combined with <ruby>大<rt>だい</rt></ruby> (big/great). The <ruby>切<rt>きれ</rt></ruby> implies something that is intimately close, something that would "cut" you if it were lost. This gives <ruby>大切<rt>たいせつ</rt></ruby> a strong emotional resonance — it describes things that are irreplaceable in a personal, heartfelt sense.
 
 | <ruby>家族<rt>かぞく</rt></ruby>が<ruby>何<rt>なに</rt></ruby>より<ruby>大切<rt>たいせつ</rt></ruby>です。 | Family is more important than anything else. |
 |---|---|
@@ -57,12 +57,12 @@ tags:
 |---|---|
 | | *Emotional value — not monetary, but irreplaceable.* |
 
-### 大事（だいじ）
+### <ruby>大事<rt>だいじ</rt></ruby>（だいじ）
 
 | <ruby>大事<rt>だいじ</rt></ruby> | "Important," "significant," "crucial," "of great consequence." |
 |---|---|
 
-大事 combines 大 (big) with 事 (matter/thing) — literally "big matter." This gives it a pragmatic, consequential feel: things that are important because they matter for outcomes, for success, for wellbeing. It can be emotional, but the core is about weight and consequence.
+<ruby>大事<rt>だいじ</rt></ruby> combines <ruby>大<rt>だい</rt></ruby> (big) with <ruby>事<rt>こと</rt></ruby> (matter/thing) — literally "big matter." This gives it a pragmatic, consequential feel: things that are important because they matter for outcomes, for success, for wellbeing. It can be emotional, but the core is about weight and consequence.
 
 | <ruby>健康<rt>けんこう</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby><ruby>大事<rt>だいじ</rt></ruby>だよ。 | Health is the most important thing. |
 |---|---|
@@ -76,7 +76,7 @@ tags:
 
 ## Nuance Comparison — The Core Distinction {#nuance-comparison}
 
-| Axis | 大切 (taisetsu) | 大事 (daiji) |
+| Axis | <ruby>大切<rt>たいせつ</rt></ruby> (taisetsu) | <ruby>大事<rt>だいじ</rt></ruby> (daiji) |
 |------|-----------------|--------------|
 | **Emotional vs. Practical** | **Emotionally precious** — personal, irreplaceable, heartfelt. | **Practically important** — consequential, essential, weighty. |
 | **Tone** | Slightly more formal, literary, earnest. | Slightly more casual, spoken, pragmatic. |
@@ -85,15 +85,15 @@ tags:
 | **English feel** | "Precious," "dear to me," "treasured." | "Important," "crucial," "of consequence." |
 
 !!! tip "One-sentence rule of thumb"
-    If you're talking about something irreplaceable that you love — a person, a memory, a feeling — **大切** often fits better. If you're talking about something that matters for a reason — a rule, a task, your health — **大事** often fits better. But in countless everyday sentences, both are perfectly fine.
+    If you're talking about something irreplaceable that you love — a person, a memory, a feeling — **<ruby>大切<rt>たいせつ</rt></ruby>** often fits better. If you're talking about something that matters for a reason — a rule, a task, your health — **<ruby>大事<rt>だいじ</rt></ruby>** often fits better. But in countless everyday sentences, both are perfectly fine.
 
 ---
 
 ## Where They Are Fully Interchangeable {#interchangeable}
 
-In a large number of contexts, the two words overlap completely. The difference is a matter of nuance — 大切 adds emotional warmth; 大事 keeps it practical — but neither is wrong.
+In a large number of contexts, the two words overlap completely. The difference is a matter of nuance — <ruby>大切<rt>たいせつ</rt></ruby> adds emotional warmth; <ruby>大事<rt>だいじ</rt></ruby> keeps it practical — but neither is wrong.
 
-| Context | 大切 | 大事 | 
+| Context | <ruby>大切<rt>たいせつ</rt></ruby> | <ruby>大事<rt>だいじ</rt></ruby> | 
 |---------|------|------|
 | "This is an important document." | これは<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>です。 | これは<ruby>大事<rt>だいじ</rt></ruby>な<ruby>書類<rt>しょるい</rt></ruby>です。 |
 | | *Slightly more formal; emphasises the value of the document itself.* | *Slightly more pragmatic; emphasises the document's importance for a purpose.* |
@@ -110,28 +110,28 @@ In these examples, a native speaker might use either without a second thought. T
 
 Some collocations strongly favour one word over the other, usually because the nature of the thing described (emotional vs. practical) pulls toward one nuance.
 
-### 大切 is strongly preferred with…
+### <ruby>大切<rt>たいせつ</rt></ruby> is strongly preferred with…
 
-| Collocation | Meaning | Why 大切 |
+| Collocation | Meaning | Why <ruby>大切<rt>たいせつ</rt></ruby> |
 |-------------|---------|----------|
-| <ruby>大切<rt>たいせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby> | A precious person / someone dear | Emotional bond — the person is irreplaceable. 大事な人 is possible but slightly less tender. |
-| <ruby>大切<rt>たいせつ</rt></ruby>な<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby> | Precious memories | Memories are emotionally held, not practical. 大事な思い出 sounds slightly off. |
+| <ruby>大切<rt>たいせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby> | A precious person / someone dear | Emotional bond — the person is irreplaceable. <ruby>大事<rt>だいじ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby> is possible but slightly less tender. |
+| <ruby>大切<rt>たいせつ</rt></ruby>な<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby> | Precious memories | Memories are emotionally held, not practical. <ruby>大事<rt>だいじ</rt></ruby>な<ruby>思<rt>おも</rt></ruby>い<ruby>出<rt>で</rt></ruby> sounds slightly off. |
 | <ruby>大切<rt>たいせつ</rt></ruby>に<ruby>育<rt>そだ</rt></ruby>てる | To raise / nurture with care (a child, a plant) | Nurturing is a tender, emotional act. |
-| <ruby>時間<rt>じかん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にする | To value time / use time preciously | Time is treated as something personally precious, to be savoured. 大事にする also exists but is slightly more about efficiency. |
+| <ruby>時間<rt>じかん</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にする | To value time / use time preciously | Time is treated as something personally precious, to be savoured. <ruby>大事<rt>だいじ</rt></ruby>にする also exists but is slightly more about efficiency. |
 
-### 大事 is strongly preferred with…
+### <ruby>大事<rt>だいじ</rt></ruby> is strongly preferred with…
 
-| Collocation | Meaning | Why 大事 |
+| Collocation | Meaning | Why <ruby>大事<rt>だいじ</rt></ruby> |
 |-------------|---------|----------|
-| <ruby>大事<rt>だいじ</rt></ruby>な<ruby>話<rt>はなし</rt></ruby> | An important matter to discuss | Consequential — a decision, a problem, a serious conversation. 大切な話 exists but sounds more emotionally heavy. |
+| <ruby>大事<rt>だいじ</rt></ruby>な<ruby>話<rt>はなし</rt></ruby> | An important matter to discuss | Consequential — a decision, a problem, a serious conversation. <ruby>大切<rt>たいせつ</rt></ruby>な<ruby>話<rt>はなし</rt></ruby> exists but sounds more emotionally heavy. |
 | <ruby>大事<rt>だいじ</rt></ruby>な<ruby>用<rt>よう</rt></ruby> | Important business / an important errand | Practical purpose. |
-| <ruby>健康<rt>けんこう</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>にする | To take care of one's health | Health is practically essential. 大切にする is also common here — this is an area of heavy overlap. |
-| お<ruby>体<rt>からだ</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>に。 | Take care of yourself. (common farewell) | Set phrase — almost always 大事に, not 大切に, in the stock farewell. |
-| <ruby>大事<rt>だいじ</rt></ruby>な<ruby>試合<rt>しあい</rt></ruby> | An important match / game | The match is consequential for a tournament, ranking, etc. 大切な試合 is possible but less common. |
-| <ruby>大事<rt>だいじ</rt></ruby>なのは<ruby>結果<rt>けっか</rt></ruby>だ。 | What matters is the result. | Pragmatic, outcome-focused. 大切 would add an emotional weight that doesn't fit. |
+| <ruby>健康<rt>けんこう</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>にする | To take care of one's health | Health is practically essential. <ruby>大切<rt>たいせつ</rt></ruby>にする is also common here — this is an area of heavy overlap. |
+| お<ruby>体<rt>からだ</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>に。 | Take care of yourself. (common farewell) | Set phrase — almost always <ruby>大事<rt>だいじ</rt></ruby>に, not <ruby>大切<rt>たいせつ</rt></ruby>に, in the stock farewell. |
+| <ruby>大事<rt>だいじ</rt></ruby>な<ruby>試合<rt>しあい</rt></ruby> | An important match / game | The match is consequential for a tournament, ranking, etc. <ruby>大切<rt>たいせつ</rt></ruby>な<ruby>試合<rt>しあい</rt></ruby> is possible but less common. |
+| <ruby>大事<rt>だいじ</rt></ruby>なのは<ruby>結果<rt>けっか</rt></ruby>だ。 | What matters is the result. | Pragmatic, outcome-focused. <ruby>大切<rt>たいせつ</rt></ruby> would add an emotional weight that doesn't fit. |
 
-!!! info "お体を大事に — a fixed phrase"
-    The standard farewell お体を大事に ("take care of yourself" / "look after your health") almost exclusively uses 大事, not 大切. This is a deeply entrenched collocation — using 大切に here would not be incorrect but would sound unusual, like an intentional departure from the set phrase.
+!!! info "お<ruby>体<rt>からだ</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>に — a fixed phrase"
+    The standard farewell お<ruby>体<rt>からだ</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>に ("take care of yourself" / "look after your health") almost exclusively uses <ruby>大事<rt>だいじ</rt></ruby>, not <ruby>大切<rt>たいせつ</rt></ruby>. This is a deeply entrenched collocation — using <ruby>大切<rt>たいせつ</rt></ruby>に here would not be incorrect but would sound unusual, like an intentional departure from the set phrase.
 
 ---
 
@@ -148,19 +148,19 @@ Both words form the phrase 〜にする meaning "to treat as important / to valu
 |--|--|
 | <ruby>体<rt>からだ</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>にしてください。 | Please take care of your body / health. (practical — rest, eat well, etc.) |
 
-The difference is again one of shading. 大切にする can be used with health (体を大切にする) and sounds somewhat warmer; 大事にする with a person can sound slightly more about protecting them from harm than about emotional treasuring. In many contexts, both work.
+The difference is again one of shading. <ruby>大切<rt>たいせつ</rt></ruby>にする can be used with health (<ruby>体<rt>からだ</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にする) and sounds somewhat warmer; <ruby>大事<rt>だいじ</rt></ruby>にする with a person can sound slightly more about protecting them from harm than about emotional treasuring. In many contexts, both work.
 
 ---
 
 ## Emotional vs. Practical — A Deeper Look {#emotional-practical}
 
-The 切 in 大切 — meaning "to cut" or "to be pressing" — suggests something that is close to you, nearly touching, that would cut if it were gone. This etymology informs the word's emotional charge. 大切なもの are things that, if lost, would leave an emotional wound.
+The <ruby>切<rt>きれ</rt></ruby> in <ruby>大切<rt>たいせつ</rt></ruby> — meaning "to cut" or "to be pressing" — suggests something that is close to you, nearly touching, that would cut if it were gone. This etymology informs the word's emotional charge. <ruby>大切<rt>たいせつ</rt></ruby>なもの are things that, if lost, would leave an emotional wound.
 
-The 事 in 大事 — meaning "matter" or "thing" — keeps the word grounded in affairs and consequences. 大事なこと are matters that carry weight in the world. If you neglect them, there are practical consequences.
+The <ruby>事<rt>こと</rt></ruby> in <ruby>大事<rt>だいじ</rt></ruby> — meaning "matter" or "thing" — keeps the word grounded in affairs and consequences. <ruby>大事<rt>だいじ</rt></ruby>なこと are matters that carry weight in the world. If you neglect them, there are practical consequences.
 
 This is why:
-- A <ruby>恋人<rt>こいびと</rt></ruby>からのプレゼント is usually 大切 (precious) — the emotional value outweighs the practical.
-- A <ruby>仕事<rt>しごと</rt></ruby>の<ruby>契約書<rt>けいやくしょ</rt></ruby> is usually 大事 (important) — the legal and financial consequences are what matter.
+- A <ruby>恋人<rt>こいびと</rt></ruby>からのプレゼント is usually <ruby>大切<rt>たいせつ</rt></ruby> (precious) — the emotional value outweighs the practical.
+- A <ruby>仕事<rt>しごと</rt></ruby>の<ruby>契約書<rt>けいやくしょ</rt></ruby> is usually <ruby>大事<rt>だいじ</rt></ruby> (important) — the legal and financial consequences are what matter.
 
 ---
 
@@ -168,19 +168,19 @@ This is why:
 
 Both words are standard Japanese and can appear in polite and casual settings. The nuance difference is not about politeness — it's about tone.
 
-| | 大切 | 大事 |
+| | <ruby>大切<rt>たいせつ</rt></ruby> | <ruby>大事<rt>だいじ</rt></ruby> |
 |--|------|------|
 | **Formal speech** | ✅ Natural — sounds earnest and considered. | ✅ Natural — sounds clear and pragmatic. |
 | **Casual speech** | ✅ Natural — slightly heartfelt. | ✅ Very natural — common and unmarked. |
 | **Written (essays, letters)** | Favoured — adds emotional weight. | Less common — can sound too blunt for emotional topics. |
 | **Business** | Used for values, relationships, principles. | Used for priorities, tasks, practical matters. |
-| **Set farewell** | ❌ お体を大切に is understandable but not the standard. | ✅ お体を大事に is the set phrase. |
+| **Set farewell** | ❌ お<ruby>体<rt>からだ</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に is understandable but not the standard. | ✅ お<ruby>体<rt>からだ</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>に is the set phrase. |
 
 ---
 
 ## Common Mistakes {#common-mistakes}
 
-### 1. Using 大事 exclusively for everything
+### 1. Using <ruby>大事<rt>だいじ</rt></ruby> exclusively for everything
 
 !!! failure "Missed nuance"
     <ruby>祖母<rt>そぼ</rt></ruby>からもらった<ruby>指輪<rt>ゆびわ</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>にしている。
@@ -199,38 +199,38 @@ Although overlap is broad, some collocations are fixed. Using the wrong word in 
 !!! failure "Set phrase broken"
     お<ruby>体<rt>からだ</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>に。
 
-    ~Not wrong, but not the standard farewell. Native speakers almost always say 大事.~
+    ~Not wrong, but not the standard farewell. Native speakers almost always say <ruby>大事<rt>だいじ</rt></ruby>.~
 
 !!! success "Standard farewell"
     お<ruby>体<rt>からだ</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>に。
 
     ~The natural, expected expression.~
 
-### 3. Using 大切 for purely pragmatic, consequence-focused importance
+### 3. Using <ruby>大切<rt>たいせつ</rt></ruby> for purely pragmatic, consequence-focused importance
 
 !!! failure "Overly emotional"
     <ruby>納期<rt>のうき</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることは<ruby>大切<rt>たいせつ</rt></ruby>だ。
 
-    ~Grammatically fine, but 大切 adds an ethical/emotional weight that feels slightly off for a purely practical deadline.~
+    ~Grammatically fine, but <ruby>大切<rt>たいせつ</rt></ruby> adds an ethical/emotional weight that feels slightly off for a purely practical deadline.~
 
 !!! success "More natural"
     <ruby>納期<rt>のうき</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることは<ruby>大事<rt>だいじ</rt></ruby>だ。
 
-    ~大事 suits the pragmatic, consequence-focused context — deadlines matter because of what happens if you miss them.~
+    ~<ruby>大事<rt>だいじ</rt></ruby> suits the pragmatic, consequence-focused context — deadlines matter because of what happens if you miss them.~
 
 ---
 
 ## Hidden Points {#hidden-points}
 
-- **大事 has a second, rarer meaning: "serious matter" or "great event."** In compounds like 一大事 (いちだいじ — a grave affair) or the expression 大事に至る (to become a serious matter), 大事 carries a sense of gravity and potential crisis that 大切 lacks. 大切 does not share this "serious problem" meaning.
-- **大切 is more common in song lyrics and poetry.** The emotional resonance of 大切 makes it the preferred choice for expressing heartfelt value in artistic contexts. 大事 appears in songs too but tends toward more grounded or upbeat themes.
-- **The 切 in 大切 is the same as in 親切 (しんせつ, kindness) and 適切 (てきせつ, appropriate).** It implies closeness, precision, and care — the idea of being "close to the heart" carries across all these words.
-- **大事 is far more common in the phrase 大事なこと ("important thing / matter of importance")** when the tone is explanatory or instructional. 大切なこと appears too but often sounds slightly more philosophical.
-- **When in doubt, you can often default to 大事 for speech and 大切 for writing about feelings.** This is a rough heuristic, not a rule — but it will guide you correctly more often than not.
+- **<ruby>大事<rt>だいじ</rt></ruby> has a second, rarer meaning: "serious matter" or "great event."** In compounds like <ruby>一<rt>いち</rt></ruby><ruby>大事<rt>だいじ</rt></ruby> (いちだいじ — a grave affair) or the expression <ruby>大事<rt>だいじ</rt></ruby>に<ruby>至<rt>いた</rt></ruby>る (to become a serious matter), <ruby>大事<rt>だいじ</rt></ruby> carries a sense of gravity and potential crisis that <ruby>大切<rt>たいせつ</rt></ruby> lacks. <ruby>大切<rt>たいせつ</rt></ruby> does not share this "serious problem" meaning.
+- **<ruby>大切<rt>たいせつ</rt></ruby> is more common in song lyrics and poetry.** The emotional resonance of <ruby>大切<rt>たいせつ</rt></ruby> makes it the preferred choice for expressing heartfelt value in artistic contexts. <ruby>大事<rt>だいじ</rt></ruby> appears in songs too but tends toward more grounded or upbeat themes.
+- **The <ruby>切<rt>きれ</rt></ruby> in <ruby>大切<rt>たいせつ</rt></ruby> is the same as in <ruby>親切<rt>しんせつ</rt></ruby> (しんせつ, kindness) and <ruby>適切<rt>てきせつ</rt></ruby> (てきせつ, appropriate).** It implies closeness, precision, and care — the idea of being "close to the heart" carries across all these words.
+- **<ruby>大事<rt>だいじ</rt></ruby> is far more common in the phrase <ruby>大事<rt>だいじ</rt></ruby>なこと ("important thing / matter of importance")** when the tone is explanatory or instructional. <ruby>大切<rt>たいせつ</rt></ruby>なこと appears too but often sounds slightly more philosophical.
+- **When in doubt, you can often default to <ruby>大事<rt>だいじ</rt></ruby> for speech and <ruby>大切<rt>たいせつ</rt></ruby> for writing about feelings.** This is a rough heuristic, not a rule — but it will guide you correctly more often than not.
 
 ---
 
-## Extended Examples — 大切 & 大事 in Context {#extended-examples}
+## Extended Examples — <ruby>大切<rt>たいせつ</rt></ruby> & <ruby>大事<rt>だいじ</rt></ruby> in Context {#extended-examples}
 
 | Japanese | English |
 |----------|---------|
@@ -239,7 +239,7 @@ Although overlap is broad, some collocations are fixed. Using the wrong word in 
 | <ruby>今日<rt>きょう</rt></ruby>は<ruby>大事<rt>だいじ</rt></ruby>な<ruby>会議<rt>かいぎ</rt></ruby>があるから<ruby>遅<rt>おく</rt></ruby>れられない。 | I have an important meeting today, so I can't be late. |
 | | *Practical — the meeting has consequences.* |
 | あなたにとって<ruby>一番<rt>いちばん</rt></ruby><ruby>大切<rt>たいせつ</rt></ruby>なものは<ruby>何<rt>なん</rt></ruby>ですか？ | What is the most precious thing to you? |
-| | *Personal, philosophical — 大切 invites an emotional answer.* |
+| | *Personal, philosophical — <ruby>大切<rt>たいせつ</rt></ruby> invites an emotional answer.* |
 | <ruby>大事<rt>だいじ</rt></ruby>なのは<ruby>諦<rt>あきら</rt></ruby>めないことだ。 | What's important is not to give up. |
 | | *Pragmatic advice — the importance is about the outcome.* |
 | <ruby>彼女<rt>かのじょ</rt></ruby>は<ruby>私<rt>わたし</rt></ruby>の<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>友達<rt>ともだち</rt></ruby>です。 | She is a dear (precious) friend of mine. |
@@ -251,23 +251,23 @@ Although overlap is broad, some collocations are fixed. Using the wrong word in 
 
 ## Quick Decision Guide {#decision-guide}
 
-Ask yourself these questions to choose between 大切 and 大事:
+Ask yourself these questions to choose between <ruby>大切<rt>たいせつ</rt></ruby> and <ruby>大事<rt>だいじ</rt></ruby>:
 
 1.  **Is the importance mainly emotional or practical?**
-    - Emotional (love, memories, feelings, personal bonds) → lean toward **大切**.
-    - Practical (consequences, tasks, rules, health as a matter of outcome) → lean toward **大事**.
+    - Emotional (love, memories, feelings, personal bonds) → lean toward **<ruby>大切<rt>たいせつ</rt></ruby>**.
+    - Practical (consequences, tasks, rules, health as a matter of outcome) → lean toward **<ruby>大事<rt>だいじ</rt></ruby>**.
 
 2.  **Is it a set phrase?**
-    - お体を大事に → **大事** is standard.
+    - お<ruby>体<rt>からだ</rt></ruby>を<ruby>大事<rt>だいじ</rt></ruby>に → **<ruby>大事<rt>だいじ</rt></ruby>** is standard.
     - Other set phrases: check collocations.
 
 3.  **What register fits the situation?**
-    - Casual conversation: **大事** is slightly more common and unmarked.
-    - Formal or heartfelt speech/writing: **大切** can add weight.
+    - Casual conversation: **<ruby>大事<rt>だいじ</rt></ruby>** is slightly more common and unmarked.
+    - Formal or heartfelt speech/writing: **<ruby>大切<rt>たいせつ</rt></ruby>** can add weight.
 
 4.  **Are you describing a person or a relationship?**
-    - Person/relationship as something treasured: **大切** is warmer.
-    - Person as someone you need to protect or look after: **大事** is possible.
+    - Person/relationship as something treasured: **<ruby>大切<rt>たいせつ</rt></ruby>** is warmer.
+    - Person as someone you need to protect or look after: **<ruby>大事<rt>だいじ</rt></ruby>** is possible.
 
 5.  **When both feel possible (which is often) — don't overthink it.** You are unlikely to be wrong either way.
 
@@ -277,17 +277,17 @@ Ask yourself these questions to choose between 大切 and 大事:
 
 ### Related Vocabulary
 
-- <ruby>重要<rt>じゅうよう</rt></ruby> — "important" in a formal, objective sense (important documents, important roles). More distant and analytical than both 大切 and 大事.
+- <ruby>重要<rt>じゅうよう</rt></ruby> — "important" in a formal, objective sense (important documents, important roles). More distant and analytical than both <ruby>大切<rt>たいせつ</rt></ruby> and <ruby>大事<rt>だいじ</rt></ruby>.
 - <ruby>必要<rt>ひつよう</rt></ruby> — "necessary" / "needed." Practical requirement, not emotional value.
 - <ruby>貴重<rt>きちょう</rt></ruby> — "precious" in the sense of rare and valuable (a precious opportunity, a precious resource). Not for people or feelings.
-- <ruby>愛<rt>あい</rt></ruby>しい — "beloved" / "dear." Much stronger emotional weight than 大切; used for people you deeply love.
+- <ruby>愛<rt>あい</rt></ruby>しい — "beloved" / "dear." Much stronger emotional weight than <ruby>大切<rt>たいせつ</rt></ruby>; used for people you deeply love.
 
-### Same Family (for 大切)
+### Same Family (for <ruby>大切<rt>たいせつ</rt></ruby>)
 
 - <ruby>親切<rt>しんせつ</rt></ruby> — kindness (literally "close-cutting" — care that is near and personal)
 - <ruby>適切<rt>てきせつ</rt></ruby> — appropriate (literally "suitable-cutting" — fitting the situation closely)
 
 ### Builds From
 
-- Both are な-adjectives and can function predictively (大切だ, 大事だ) or attributively (大切な, 大事な).
+- Both are な-adjectives and can function predictively (<ruby>大切<rt>たいせつ</rt></ruby>だ, <ruby>大事<rt>だいじ</rt></ruby>だ) or attributively (<ruby>大切<rt>たいせつ</rt></ruby>な, <ruby>大事<rt>だいじ</rt></ruby>な).
 - 〜にする construction (N4) — to treat as / to make into.

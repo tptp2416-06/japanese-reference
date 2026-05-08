@@ -10,7 +10,7 @@ tags:
 
 # Lateness & Delay — Four Ways to Be Late
 
-## 遅れる・遅くなる・遅刻する・遅延する
+## <ruby>遅<rt>おく</rt></ruby>れる・<ruby>遅<rt>おそ</rt></ruby>くなる・<ruby>遅刻<rt>ちこく</rt></ruby>する・<ruby>遅延<rt>ちえん</rt></ruby>する
 
 ---
 
@@ -32,11 +32,11 @@ tags:
 ## Quick Summary {#quick-summary}
 
 !!! tip "At a glance"
-    - **遅れる** — Personal, intransitive, often fault-implied. You missed the mark. "I was delayed / I ran late."
-    - **遅くなる** — Scheduled or predicted shift. The time changes, not necessarily anyone's fault. "It will be late / run late."
-    - **遅刻する** — Formal, institutional, personal tardiness. Used for appointments, school, work. "To be tardy / arrive late."
-    - **遅延する** — Systemic, organizational, mechanical delay. Trains, flights, projects. "To be delayed [system-wide]."
-    - The key distinction: **遅れる** is about failing to arrive on time; **遅くなる** is about a schedule shifting later; **遅刻する** is the formal institutional word for personal tardiness; **遅延する** is the formal word for systemic delay.
+    - **<ruby>遅<rt>おく</rt></ruby>れる** — Personal, intransitive, often fault-implied. You missed the mark. "I was delayed / I ran late."
+    - **<ruby>遅<rt>おそ</rt></ruby>くなる** — Scheduled or predicted shift. The time changes, not necessarily anyone's fault. "It will be late / run late."
+    - **<ruby>遅刻<rt>ちこく</rt></ruby>する** — Formal, institutional, personal tardiness. Used for appointments, school, work. "To be tardy / arrive late."
+    - **<ruby>遅延<rt>ちえん</rt></ruby>する** — Systemic, organizational, mechanical delay. Trains, flights, projects. "To be delayed [system-wide]."
+    - The key distinction: **<ruby>遅<rt>おく</rt></ruby>れる** is about failing to arrive on time; **<ruby>遅<rt>おそ</rt></ruby>くなる** is about a schedule shifting later; **<ruby>遅刻<rt>ちこく</rt></ruby>する** is the formal institutional word for personal tardiness; **<ruby>遅延<rt>ちえん</rt></ruby>する** is the formal word for systemic delay.
 
 ---
 
@@ -48,7 +48,7 @@ tags:
 | <ruby>寝坊<rt>ねぼう</rt></ruby>して<ruby>遅<rt>おく</rt></ruby>れた。 | I overslept and was late [personal, my fault]. |
 |---|---|
 | | *Literal: Overslept did [te-form] was-delayed.* |
-| | *Context: Personal explanation. 遅れる is intransitive — the lateness happened to me, but the oversleeping implies my agency. Common for daily life, friends, informal workplace.* |
+| | *Context: Personal explanation. <ruby>遅<rt>おく</rt></ruby>れる is intransitive — the lateness happened to me, but the oversleeping implies my agency. Common for daily life, friends, informal workplace.* |
 
 | <ruby>会議<rt>かいぎ</rt></ruby>が<ruby>遅<rt>おそ</rt></ruby>くなる。 | The meeting will run late [schedule shift]. |
 |---|---|
@@ -58,31 +58,31 @@ tags:
 | <ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>遅刻<rt>ちこく</rt></ruby>した。 | I was late for the train [formal, institutional]. |
 |---|---|
 | | *Literal: Train-to tardiness did.* |
-| | *Context: Formal apology or report. 遅刻する is the institutional word for failing to arrive by a designated time. School, work, appointments.* |
+| | *Context: Formal apology or report. <ruby>遅刻<rt>ちこく</rt></ruby>する is the institutional word for failing to arrive by a designated time. School, work, appointments.* |
 
 | <ruby>飛行機<rt>ひこうき</rt></ruby>が<ruby>遅延<rt>ちえん</rt></ruby>しています。 | The flight is delayed [systemic, organizational]. |
 |---|---|
 | | *Literal: Flight delay doing [polite progressive].* |
-| | *Context: Airport announcement. 遅延する is never personal — it describes mechanical, operational, or systemic delays.* |
+| | *Context: Airport announcement. <ruby>遅延<rt>ちえん</rt></ruby>する is never personal — it describes mechanical, operational, or systemic delays.* |
 
 ---
 
 ## The Four-Way Distinction {#the-four-way-distinction}
 
-### 1. 遅れる — Personal Delay (Intransitive)
+### 1. <ruby>遅<rt>おく</rt></ruby>れる — Personal Delay (Intransitive)
 
 | Attribute | Value |
 |-----------|-------|
-| **Transitivity** | Intransitive (自動詞) |
+| **Transitivity** | Intransitive (<ruby>自動<rt>じどう</rt></ruby><ruby>詞<rt>し</rt></ruby>) |
 | **Agency** | Often implied fault, but grammatically the subject is affected |
 | **Formality** | Casual to standard |
 | **Scope** | Individual |
-| **Collocations** | 電車に遅れる, 寝坊して遅れる, 少し遅れる |
+| **Collocations** | <ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れる, <ruby>寝坊<rt>ねぼう</rt></ruby>して<ruby>遅<rt>おく</rt></ruby>れる, <ruby>少<rt>すこ</rt></ruby>し<ruby>遅<rt>おく</rt></ruby>れる |
 
-**The grammar of 遅れる:**
-- Takes に for the missed target (電車に遅れる — "late for the train")
-- Often paired with reasons in て-form (寝坊して遅れる — "oversleep and be late")
-- Past tense 遅れた is a common apology opener
+**The grammar of <ruby>遅<rt>おく</rt></ruby>れる:**
+- Takes に for the missed target (<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れる — "late for the train")
+- Often paired with reasons in て-form (<ruby>寝坊<rt>ねぼう</rt></ruby>して<ruby>遅<rt>おく</rt></ruby>れる — "oversleep and be late")
+- Past tense <ruby>遅<rt>おく</rt></ruby>れた is a common apology opener
 
 | <ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>遅<rt>おく</rt></ruby>れそう。 | I think I'm going to miss the train [personal prediction]. |
 |---|---|
@@ -92,90 +92,90 @@ tags:
 |---|---|
 | | *The で marks external cause, but the subject is still the person who failed to arrive on time.* |
 
-!!! warning "遅れる vs. 遅刻する"
-    Both describe personal lateness, but 遅れる is the everyday word while 遅刻する is the institutional/formal one. You 遅れる to meet a friend; you 遅刻する to class or work.
+!!! warning "<ruby>遅<rt>おく</rt></ruby>れる vs. <ruby>遅刻<rt>ちこく</rt></ruby>する"
+    Both describe personal lateness, but <ruby>遅<rt>おく</rt></ruby>れる is the everyday word while <ruby>遅刻<rt>ちこく</rt></ruby>する is the institutional/formal one. You <ruby>遅<rt>おく</rt></ruby>れる to meet a friend; you <ruby>遅刻<rt>ちこく</rt></ruby>する to class or work.
 
-### 2. 遅くなる — Schedule Shift (Adjective + なる)
+### 2. <ruby>遅<rt>おそ</rt></ruby>くなる — Schedule Shift (Adjective + なる)
 
 | Attribute | Value |
 |-----------|-------|
-| **Structure** | i-adjective 遅い + なる (to become) |
+| **Structure** | i-adjective <ruby>遅<rt>おそ</rt></ruby>い + なる (to become) |
 | **Agency** | Neutral — no fault implied |
 | **Formality** | Casual to standard |
 | **Scope** | Event, schedule, plan |
-| **Collocations** | 会議が遅くなる, 到着が遅くなる, 終わりが遅くなる |
+| **Collocations** | <ruby>会議<rt>かいぎ</rt></ruby>が<ruby>遅<rt>おそ</rt></ruby>くなる, <ruby>到着<rt>とうちゃく</rt></ruby>が<ruby>遅<rt>おそ</rt></ruby>くなる, <ruby>終<rt>お</rt></ruby>わりが<ruby>遅<rt>おそ</rt></ruby>くなる |
 
-**The grammar of 遅くなる:**
+**The grammar of <ruby>遅<rt>おそ</rt></ruby>くなる:**
 - The subject is the event/time, not the person
 - Often used for future predictions (〜になる)
-- Can be modified with extent: 30分遅くなる ("become 30 minutes late")
+- Can be modified with extent: 30<ruby>分<rt>ふん</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くなる ("become 30 minutes late")
 
 | <ruby>今日<rt>きょう</rt></ruby>の<ruby>終業<rt>しゅうぎょう</rt></ruby>は<ruby>遅<rt>おそ</rt></ruby>くなります。 | Today's closing will be delayed [schedule announcement]. |
 |---|---|
-| | *The subject is 終業 (closing time), not a person. This is a neutral schedule shift.* |
+| | *The subject is <ruby>終業<rt>しゅうぎょう</rt></ruby> (closing time), not a person. This is a neutral schedule shift.* |
 
 | <ruby>到着<rt>とうちゃく</rt></ruby>が<ruby>一時間<rt>いちじかん</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くなる。 | Arrival will be one hour late. |
 |---|---|
-| | *The 一時間 specifies the extent. The subject is 到着 (arrival), an event.* |
+| | *The <ruby>一<rt>いち</rt></ruby><ruby>時間<rt>じかん</rt></ruby> specifies the extent. The subject is <ruby>到着<rt>とうちゃく</rt></ruby> (arrival), an event.* |
 
-!!! note "遅くなる vs. 遅れる"
-    遅くなる is about the clock shifting. 遅れる is about failing to meet the clock. A meeting 遅くなる (starts later); a person 遅れる (arrives after the start).
+!!! note "<ruby>遅<rt>おそ</rt></ruby>くなる vs. <ruby>遅<rt>おく</rt></ruby>れる"
+    <ruby>遅<rt>おそ</rt></ruby>くなる is about the clock shifting. <ruby>遅<rt>おく</rt></ruby>れる is about failing to meet the clock. A meeting <ruby>遅<rt>おそ</rt></ruby>くなる (starts later); a person <ruby>遅<rt>おく</rt></ruby>れる (arrives after the start).
 
-### 3. 遅刻する — Institutional Tardiness (Formal Personal)
+### 3. <ruby>遅刻<rt>ちこく</rt></ruby>する — Institutional Tardiness (Formal Personal)
 
 | Attribute | Value |
 |-----------|-------|
 | **Register** | Formal, institutional |
 | **Agency** | Personal fault (usually) |
 | **Scope** | Individual within an institution |
-| **Collocations** | 遅刻する, 遅刻しました (apology), 遅刻扱い (treated as tardy), 無断遅刻 (unauthorized tardiness) |
+| **Collocations** | <ruby>遅刻<rt>ちこく</rt></ruby>する, <ruby>遅刻<rt>ちこく</rt></ruby>しました (apology), <ruby>遅刻<rt>ちこく</rt></ruby><ruby>扱<rt>あつか</rt></ruby>い (treated as tardy), <ruby>無断<rt>むだん</rt></ruby><ruby>遅刻<rt>ちこく</rt></ruby> (unauthorized tardiness) |
 
-**The grammar of 遅刻する:**
+**The grammar of <ruby>遅刻<rt>ちこく</rt></ruby>する:**
 - Suru-verb (する verb) — formal and countable
-- Often used in institutional apologies (遅刻しました)
-- Can be nominalized: 遅刻は禁止です ("Tardiness is prohibited")
+- Often used in institutional apologies (<ruby>遅刻<rt>ちこく</rt></ruby>しました)
+- Can be nominalized: <ruby>遅刻<rt>ちこく</rt></ruby>は<ruby>禁止<rt>きんし</rt></ruby>です ("Tardiness is prohibited")
 
 | <ruby>朝礼<rt>ちょうれい</rt></ruby>に<ruby>遅刻<rt>ちこく</rt></ruby>しました。 | I was late for the morning assembly [formal apology]. |
 |---|---|
-| | *Standard workplace/school apology. Using 遅れる here would sound too casual.* |
+| | *Standard workplace/school apology. Using <ruby>遅<rt>おく</rt></ruby>れる here would sound too casual.* |
 
 | <ruby>三回<rt>さんかい</rt></ruby>の<ruby>遅刻<rt>ちこく</rt></ruby>で<ruby>警告<rt>けいこく</rt></ruby>です。 | Three instances of tardiness result in a warning. |
 |---|---|
-| | *Nominalized usage. 遅刻 becomes a countable institutional offense.* |
+| | *Nominalized usage. <ruby>遅刻<rt>ちこく</rt></ruby> becomes a countable institutional offense.* |
 
-!!! warning "遅刻する is never systemic"
-    You cannot say 電車が遅刻した for a train delay. 遅刻する requires a person who has failed to meet an institutional schedule.
+!!! warning "<ruby>遅刻<rt>ちこく</rt></ruby>する is never systemic"
+    You cannot say <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅刻<rt>ちこく</rt></ruby>した for a train delay. <ruby>遅刻<rt>ちこく</rt></ruby>する requires a person who has failed to meet an institutional schedule.
 
-### 4. 遅延する — Systemic Delay (Organizational)
+### 4. <ruby>遅延<rt>ちえん</rt></ruby>する — Systemic Delay (Organizational)
 
 | Attribute | Value |
 |-----------|-------|
 | **Register** | Formal, technical, public |
 | **Agency** | Organizational/systemic — no individual fault |
 | **Scope** | Trains, flights, projects, services |
-| **Collocations** | 遅延する, 遅延情報 (delay info), 大幅遅延 (major delay), 遅延証明書 (delay certificate) |
+| **Collocations** | <ruby>遅延<rt>ちえん</rt></ruby>する, <ruby>遅延<rt>ちえん</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby> (delay info), <ruby>大幅<rt>おおはば</rt></ruby><ruby>遅延<rt>ちえん</rt></ruby> (major delay), <ruby>遅延<rt>ちえん</rt></ruby><ruby>証明<rt>しょうめい</rt></ruby><ruby>書<rt>しょ</rt></ruby> (delay certificate) |
 
-**The grammar of 遅延する:**
+**The grammar of <ruby>遅延<rt>ちえん</rt></ruby>する:**
 - Suru-verb — formal and technical
-- Often progressive (遅延しています) for announcements
+- Often progressive (<ruby>遅延<rt>ちえん</rt></ruby>しています) for announcements
 - Used in public announcements, news, official reports
 
 | <ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>新幹線<rt>しんかんせん</rt></ruby>は<ruby>大雪<rt>おおゆき</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>で<ruby>遅延<rt>ちえん</rt></ruby>しています。 | Today's Shinkansen is delayed due to heavy snow [announcement]. |
 |---|---|
-| | *Standard JR announcement. 遅延しています is the fixed public formula.* |
+| | *Standard JR announcement. <ruby>遅延<rt>ちえん</rt></ruby>しています is the fixed public formula.* |
 
 | <ruby>遅延<rt>ちえん</rt></ruby><ruby>証明書<rt>しょうめいしょ</rt></ruby>を<ruby>発行<rt>はっこう</rt></ruby>します。 | We will issue a delay certificate. |
 |---|---|
-| | *The 遅延証明書 is a formal document from train companies to excuse workplace tardiness.* |
+| | *The <ruby>遅延<rt>ちえん</rt></ruby><ruby>証明<rt>しょうめい</rt></ruby><ruby>書<rt>しょ</rt></ruby> is a formal document from train companies to excuse workplace tardiness.* |
 
-!!! warning "遅延する is never personal"
-    You cannot use 遅延する for yourself. It is exclusively for systems, organizations, and mechanical operations.
+!!! warning "<ruby>遅延<rt>ちえん</rt></ruby>する is never personal"
+    You cannot use <ruby>遅延<rt>ちえん</rt></ruby>する for yourself. It is exclusively for systems, organizations, and mechanical operations.
 
 ---
 
 ## Comparative Matrix {#comparative-matrix}
 
-| Scenario | 遅れる | 遅くなる | 遅刻する | 遅延する |
+| Scenario | <ruby>遅<rt>おく</rt></ruby>れる | <ruby>遅<rt>おそ</rt></ruby>くなる | <ruby>遅刻<rt>ちこく</rt></ruby>する | <ruby>遅延<rt>ちえん</rt></ruby>する |
 |----------|--------|----------|----------|----------|
 | I missed my train | ✓ | ✗ | ✗ | ✗ |
 | The train is running late | ✗ | ✗ | ✗ | ✓ |
@@ -199,7 +199,7 @@ tags:
 
     *"I overslept and was late. Wait about 10 minutes."*
 
-    **Why 遅れた:** Personal, informal, fault-implied. 遅刻した would sound oddly formal for a friend. 遅延 or 遅くなる don't fit — this is about his personal failure to arrive, not a schedule shift or system delay.
+    **Why <ruby>遅<rt>おく</rt></ruby>れた:** Personal, informal, fault-implied. <ruby>遅刻<rt>ちこく</rt></ruby>した would sound oddly formal for a friend. <ruby>遅延<rt>ちえん</rt></ruby> or <ruby>遅<rt>おそ</rt></ruby>くなる don't fit — this is about his personal failure to arrive, not a schedule shift or system delay.
 
 !!! example "Workplace announcement"
     **Situation:** Manager emails team about a meeting.
@@ -208,7 +208,7 @@ tags:
 
     *"The meeting will be 30 minutes late."*
 
-    **Why 遅くなる:** The meeting time shifts. No fault, no person — just a schedule change. 遅れる would imply someone failed; 遅刻する or 遅延する are wrong register and scope.
+    **Why <ruby>遅<rt>おそ</rt></ruby>くなる:** The meeting time shifts. No fault, no person — just a schedule change. <ruby>遅<rt>おく</rt></ruby>れる would imply someone failed; <ruby>遅刻<rt>ちこく</rt></ruby>する or <ruby>遅延<rt>ちえん</rt></ruby>する are wrong register and scope.
 
 !!! example "Formal apology to teacher"
     **Situation:** Student arrives late to class.
@@ -217,7 +217,7 @@ tags:
 
     *"The train stopped, and I was tardy."*
 
-    **Why 遅刻しました:** Institutional context requires institutional language. Even though the cause was the train, the student takes responsibility for the tardiness. 遅れた would be too casual for a teacher.
+    **Why <ruby>遅刻<rt>ちこく</rt></ruby>しました:** Institutional context requires institutional language. Even though the cause was the train, the student takes responsibility for the tardiness. <ruby>遅<rt>おく</rt></ruby>れた would be too casual for a teacher.
 
 !!! example "Station announcement"
     **Situation:** JR East station PA system.
@@ -226,7 +226,7 @@ tags:
 
     *"Trains toward Ueno are delayed due to a passenger injury incident."*
 
-    **Why 遅延しています:** Public, systemic, organizational. The train company uses 遅延する as its technical term. 遅れる would sound personal and inappropriate; 遅刻する is for people; 遅くなる is too casual for public announcement.
+    **Why <ruby>遅延<rt>ちえん</rt></ruby>しています:** Public, systemic, organizational. The train company uses <ruby>遅延<rt>ちえん</rt></ruby>する as its technical term. <ruby>遅<rt>おく</rt></ruby>れる would sound personal and inappropriate; <ruby>遅刻<rt>ちこく</rt></ruby>する is for people; <ruby>遅<rt>おそ</rt></ruby>くなる is too casual for public announcement.
 
 ---
 
@@ -244,30 +244,30 @@ tags:
 
 ## Hidden Points {#hidden-points}
 
-- **遅れる can be used for things, not just people.** 電車が遅れた is acceptable in casual speech, though 遅延した is more formal. The boundary: personal perspective vs. public announcement.
-- **遅刻する can be nominalized and counted.** 遅刻は3回まで ("Tardiness is limited to 3 times"). This institutional countability is unique to 遅刻.
-- **遅延証明書 is a cultural institution.** Japanese train companies issue these to excuse workplace tardiness. The existence of this document reveals how 遅延 (systemic) and 遅刻 (personal) are socially separated — the system acknowledges its fault to protect the individual from institutional penalty.
-- **遅くなる often pairs with specific times.** 30分遅くなる, 1時間遅くなる. The extent specification is common because the shift is measurable and predictable.
-- **遅れる + そう = anxious prediction.** 遅れそう ("I think I'll be late") is a common anxious self-talk pattern. 遅刻しそう is more formal prediction; 遅延しそう is systemic prediction.
-- **The rain exception.** 雨で遅れた (I was delayed by rain) uses 遅れる despite external cause. But 雨で遅刻した sounds like you're blaming the rain for your institutional tardiness — slightly less acceptable. 遅延 is never used for rain affecting a single person.
+- **<ruby>遅<rt>おく</rt></ruby>れる can be used for things, not just people.** <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れた is acceptable in casual speech, though <ruby>遅延<rt>ちえん</rt></ruby>した is more formal. The boundary: personal perspective vs. public announcement.
+- **<ruby>遅刻<rt>ちこく</rt></ruby>する can be nominalized and counted.** <ruby>遅刻<rt>ちこく</rt></ruby>は3<ruby>回<rt>かい</rt></ruby>まで ("Tardiness is limited to 3 times"). This institutional countability is unique to <ruby>遅刻<rt>ちこく</rt></ruby>.
+- **<ruby>遅延<rt>ちえん</rt></ruby><ruby>証明<rt>しょうめい</rt></ruby><ruby>書<rt>しょ</rt></ruby> is a cultural institution.** Japanese train companies issue these to excuse workplace tardiness. The existence of this document reveals how <ruby>遅延<rt>ちえん</rt></ruby> (systemic) and <ruby>遅刻<rt>ちこく</rt></ruby> (personal) are socially separated — the system acknowledges its fault to protect the individual from institutional penalty.
+- **<ruby>遅<rt>おそ</rt></ruby>くなる often pairs with specific times.** 30<ruby>分<rt>ふん</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くなる, 1<ruby>時間<rt>じかん</rt></ruby><ruby>遅<rt>おそ</rt></ruby>くなる. The extent specification is common because the shift is measurable and predictable.
+- **<ruby>遅<rt>おく</rt></ruby>れる + そう = anxious prediction.** <ruby>遅<rt>おく</rt></ruby>れそう ("I think I'll be late") is a common anxious self-talk pattern. <ruby>遅刻<rt>ちこく</rt></ruby>しそう is more formal prediction; <ruby>遅延<rt>ちえん</rt></ruby>しそう is systemic prediction.
+- **The rain exception.** <ruby>雨<rt>あめ</rt></ruby>で<ruby>遅<rt>おく</rt></ruby>れた (I was delayed by rain) uses <ruby>遅<rt>おく</rt></ruby>れる despite external cause. But <ruby>雨<rt>う</rt></ruby>で<ruby>遅刻<rt>ちこく</rt></ruby>した sounds like you're blaming the rain for your institutional tardiness — slightly less acceptable. <ruby>遅延<rt>ちえん</rt></ruby> is never used for rain affecting a single person.
 
 ---
 
 ## Common Mistakes {#common-mistakes}
 
-### 1. Using 遅刻する for systemic delays
+### 1. Using <ruby>遅刻<rt>ちこく</rt></ruby>する for systemic delays
 
 !!! failure "Scope error"
     <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅刻<rt>ちこく</rt></ruby>した。
 
-    *"The train was tardy."* — Trains cannot be tardy; they are delayed. 遅刻する requires a person with institutional obligations.
+    *"The train was tardy."* — Trains cannot be tardy; they are delayed. <ruby>遅刻<rt>ちこく</rt></ruby>する requires a person with institutional obligations.
 
 !!! success "Correct"
     <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅延<rt>ちえん</rt></ruby>した。
 
     *"The train was delayed."* — Systemic, appropriate.
 
-### 2. Using 遅延する for personal lateness
+### 2. Using <ruby>遅延<rt>ちえん</rt></ruby>する for personal lateness
 
 !!! failure "Register/scope error"
     <ruby>寝坊<rt>ねぼう</rt></ruby>して<ruby>遅延<rt>ちえん</rt></ruby>した。
@@ -279,7 +279,7 @@ tags:
 
     *"I overslept and was late."* — Personal, appropriate.
 
-### 3. Using 遅くなる for personal tardiness
+### 3. Using <ruby>遅<rt>おそ</rt></ruby>くなる for personal tardiness
 
 !!! failure "Category error"
     <ruby>私<rt>わたし</rt></ruby>が<ruby>遅<rt>おそ</rt></ruby>くなる。
@@ -314,10 +314,10 @@ tags:
 
 | Stage | What It Looks Like |
 |-------|-------------------|
-| **Now — N4** | Use 遅れる for personal lateness; recognize 遅刻する and 遅延する in context; avoid mixing personal and systemic scopes |
-| **Developing — N4→N3** | Deploy 遅くなる naturally for schedule shifts; choose 遅刻する vs. 遅れる based on institutional context; read 遅延しています without conscious decoding |
-| **Automatic — N3→N2** | The four-way distinction becomes intuitive — you feel the wrongness of 電車が遅刻した before analyzing why. You automatically match register to context. |
-| **Mastery** | You control the full lateness spectrum with precision — using 遅れる for personal fault, 遅くなる for neutral shifts, 遅刻する for institutional apologies, and 遅延する for public announcements. You also know when to use 延びる for duration expansion and when 遅い as adjective is sufficient. |
+| **Now — N4** | Use <ruby>遅<rt>おく</rt></ruby>れる for personal lateness; recognize <ruby>遅刻<rt>ちこく</rt></ruby>する and <ruby>遅延<rt>ちえん</rt></ruby>する in context; avoid mixing personal and systemic scopes |
+| **Developing — N4→N3** | Deploy <ruby>遅<rt>おそ</rt></ruby>くなる naturally for schedule shifts; choose <ruby>遅刻<rt>ちこく</rt></ruby>する vs. <ruby>遅<rt>おく</rt></ruby>れる based on institutional context; read <ruby>遅延<rt>ちえん</rt></ruby>しています without conscious decoding |
+| **Automatic — N3→N2** | The four-way distinction becomes intuitive — you feel the wrongness of <ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅刻<rt>ちこく</rt></ruby>した before analyzing why. You automatically match register to context. |
+| **Mastery** | You control the full lateness spectrum with precision — using <ruby>遅<rt>おく</rt></ruby>れる for personal fault, <ruby>遅<rt>おそ</rt></ruby>くなる for neutral shifts, <ruby>遅刻<rt>ちこく</rt></ruby>する for institutional apologies, and <ruby>遅延<rt>ちえん</rt></ruby>する for public announcements. You also know when to use <ruby>延<rt>の</rt></ruby>びる for duration expansion and when <ruby>遅<rt>おそ</rt></ruby>い as adjective is sufficient. |
 
 ---
 
@@ -328,21 +328,21 @@ tags:
 - <ruby>遅<rt>おそ</rt></ruby>い (i-adjective) — "Late" — descriptive state
 - <ruby>早<rt>はや</rt></ruby>い / <ruby>速<rt>はや</rt></ruby>い — "Early / Fast" — the temporal opposites
 - <ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>う — "To be in time" — the positive outcome
-- <ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わない — "To not be in time" — functional equivalent to 遅れる
+- <ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わない — "To not be in time" — functional equivalent to <ruby>遅<rt>おく</rt></ruby>れる
 
 ### Commonly Confused With
 
 - <ruby>延<rt>の</rt></ruby>びる — "To extend" — duration expansion, not lateness
 - <ruby>伸<rt>の</rt></ruby>びる — "To stretch / extend" — physical or temporal expansion
 - <ruby>後<rt>あと</rt></ruby>れる — "To lag behind" — falling behind, not time-specific
-- <ruby>遅<rt>おく</rt></ruby>らせる — Causative of 遅れる — "To make late / delay [something]"
+- <ruby>遅<rt>おく</rt></ruby>らせる — Causative of <ruby>遅<rt>おく</rt></ruby>れる — "To make late / delay [something]"
 
 ### Builds From
 
 - <ruby>遅<rt>おそ</rt></ruby>い (N5) — Base adjective
-- Intransitive verbs (N5) — 遅れる as 自動詞
+- Intransitive verbs (N5) — <ruby>遅<rt>おく</rt></ruby>れる as <ruby>自動<rt>じどう</rt></ruby><ruby>詞<rt>し</rt></ruby>
 - 〜なる (N5) — State change pattern
-- Suru-verbs (N4) — 遅刻する, 遅延する as formal verbs
+- Suru-verbs (N4) — <ruby>遅刻<rt>ちこく</rt></ruby>する, <ruby>遅延<rt>ちえん</rt></ruby>する as formal verbs
 
 ### Unlocks Next
 
