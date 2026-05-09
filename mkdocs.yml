@@ -185,7 +185,7 @@ nav:
   - Questions:
     - Overview: questions/index.md
     - Noun Modifying Clauses: questions/noun-modify-clause.md
-    - Word Order: dquestions/word-order.md    
+    - Word Order: questions/word-order.md    
   - Tags: tags.md
 
 extra:
