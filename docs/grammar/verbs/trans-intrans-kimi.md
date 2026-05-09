@@ -20,7 +20,7 @@ tags:
 
     | Tier | Pattern | Description | Example |
     |------|---------|-------------|---------|
-    | N5 — Foundation | Basic paired verbs | Individual memorization (<ruby>開<rt>あ</rt></ruby>ける/<ruby>開<rt>ひら</rt></ruby>く, etc.) | ドアを<ruby>開<rt>あ</rt></ruby>ける / ドアが<ruby>開<rt>ひら</rt></ruby>く |
+    | N5 — Foundation | Basic paired verbs | Individual memorization (<ruby>開<rt>あ</rt></ruby>ける/<ruby>開<rt>あ</rt></ruby>く, etc.) | ドアを<ruby>開<rt>あ</rt></ruby>ける / ドアが<ruby>開<rt>あ</rt></ruby>く |
     | N4 — Foundation | を vs が with transitivity | Core particle geometry | <ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>む / <ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る |
     | **N4 — Core ← You are here** | **Systematic transitivity** | **Understanding the three morphological patterns and the conceptual split from English** | <ruby>落<rt>お</rt></ruby>とす・<ruby>落<rt>お</rt></ruby>ちる・<ruby>落<rt>お</rt></ruby>とされる |
     | N3 — Extended | Exceptional を + intransitive | Motion verbs, point of departure | <ruby>家<rt>いえ</rt></ruby>を<ruby>出<rt>で</rt></ruby>る、<ruby>道<rt>みち</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>く |
@@ -33,8 +33,8 @@ tags:
 
 !!! tip "At a glance"
     - **Transitive verbs (<ruby>他動<rt>たどう</rt></ruby><ruby>詞<rt>し</rt></ruby>)** take a direct object marked by を. They describe an action performed *by* an agent *on* something: ドアを<ruby>開<rt>あ</rt></ruby>ける, <ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>む, <ruby>電気<rt>でんき</rt></ruby>をつける.
-    - **Intransitive verbs (<ruby>自動<rt>じどう</rt></ruby><ruby>詞<rt>し</rt></ruby>)** do not take a direct object. They describe events that *happen*, states that *obtain*, or changes that *occur*: ドアが<ruby>開<rt>ひら</rt></ruby>く, <ruby>雨<rt>う</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る, <ruby>電気<rt>でんき</rt></ruby>がつく.
-    - Japanese treats this distinction as **lexical and absolute**. Where English often uses the same verb for both ("I opened the door / The door opened"), Japanese almost always has two distinct verbs: <ruby>開<rt>あ</rt></ruby>ける (transitive) and <ruby>開<rt>ひら</rt></ruby>く (intransitive).
+    - **Intransitive verbs (<ruby>自動<rt>じどう</rt></ruby><ruby>詞<rt>し</rt></ruby>)** do not take a direct object. They describe events that *happen*, states that *obtain*, or changes that *occur*: ドアが<ruby>開<rt>あ</rt></ruby>く, <ruby>雨<rt>う</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>る, <ruby>電気<rt>でんき</rt></ruby>がつく.
+    - Japanese treats this distinction as **lexical and absolute**. Where English often uses the same verb for both ("I opened the door / The door opened"), Japanese almost always has two distinct verbs: <ruby>開<rt>あ</rt></ruby>ける (transitive) and <ruby>開<rt>あ</rt></ruby>く (intransitive).
     - The single most important mindset shift: **Stop thinking "Who did it?" and start thinking "What happened?"** Japanese sentences often describe events without agents. English sentences usually demand one.
     - There are three major morphological patterns for paired verbs, plus a handful of irregulars. Learning the patterns is more efficient than memorizing pairs in isolation.
 
@@ -49,9 +49,9 @@ tags:
 |---|---|
 | | *Subject: <ruby>太郎<rt>たろう</rt></ruby> (agent). Object: ドア (target). Verb: <ruby>開<rt>あ</rt></ruby>ける (transitive). The door did nothing — Taro acted on it.* |
 
-| ドアが<ruby>開<rt>ひら</rt></ruby>いた。 | The door opened [intransitive, event]. |
+| ドアが<ruby>開<rt>あ</rt></ruby>いた。 | The door opened [intransitive, event]. |
 |---|---|
-| | *Subject: ドア (thing undergoing change). No object. Verb: <ruby>開<rt>ひら</rt></ruby>く (intransitive). No agent is mentioned. The door simply changed state.* |
+| | *Subject: ドア (thing undergoing change). No object. Verb: <ruby>開<rt>あ</rt></ruby>く (intransitive). No agent is mentioned. The door simply changed state.* |
 
 | <ruby>電気<rt>でんき</rt></ruby>をつけた。 | I turned on the light [transitive]. |
 |---|---|
@@ -82,9 +82,9 @@ English frequently uses identical forms for transitive and intransitive meanings
 This creates a powerful expectation that one verb can do both jobs. Japanese almost never allows this. The door opening and you opening the door are **lexically distinct events**.
 
 !!! failure "English-calibrated error"
-    ドアを<ruby>開<rt>ひら</rt></ruby>いた。
+    ドアを<ruby>開<rt>あ</rt></ruby>いた。
 
-    ~This treats <ruby>開<rt>ひら</rt></ruby>く as transitive. It is not. <ruby>開<rt>ひら</rt></ruby>く is strictly intransitive. The correct transitive is <ruby>開<rt>あ</rt></ruby>ける: ドアを<ruby>開<rt>あ</rt></ruby>けた。~
+    ~This treats <ruby>開<rt>あ</rt></ruby>く as transitive. It is not. <ruby>開<rt>あ</rt></ruby>く is strictly intransitive. The correct transitive is <ruby>開<rt>あ</rt></ruby>ける: ドアを<ruby>開<rt>あ</rt></ruby>けた。~
 
 ### Trap 2: The Passive Substitution Urge
 
@@ -93,10 +93,10 @@ When English speakers want to say "The door was opened" without naming who did i
 !!! failure "English-calibrated error"
     ドアが<ruby>開<rt>あ</rt></ruby>けられた。
 
-    ~Grammatically possible (passive of <ruby>開<rt>あ</rt></ruby>ける), but bizarrely unnatural for a simple state change. In Japanese, if the door simply opened — wind, spring mechanism, someone unknown — you say ドアが<ruby>開<rt>ひら</rt></ruby>いた. The passive <ruby>開<rt>あ</rt></ruby>けられた implies someone specifically opened it and you want to obscure or emphasize their agency.~
+    ~Grammatically possible (passive of <ruby>開<rt>あ</rt></ruby>ける), but bizarrely unnatural for a simple state change. In Japanese, if the door simply opened — wind, spring mechanism, someone unknown — you say ドアが<ruby>開<rt>あ</rt></ruby>いた. The passive <ruby>開<rt>あ</rt></ruby>けられた implies someone specifically opened it and you want to obscure or emphasize their agency.~
 
 !!! success "Natural Japanese"
-    ドアが<ruby>開<rt>ひら</rt></ruby>いた。
+    ドアが<ruby>開<rt>あ</rt></ruby>いた。
 
     ~The intransitive verb is the default for "the door opened." No passive needed. No agent implied.~
 
@@ -109,7 +109,7 @@ Many English states are expressed as adjectives or participles, while Japanese u
 | English (adjective/participle) | Japanese (intransitive verb) |
 |-------------------------------|------------------------------|
 | The window is **broken**. | <ruby>窓<rt>まど</rt></ruby>が**<ruby>壊<rt>こわ</rt></ruby>れている**。 |
-| The door is **open**. | ドアが**<ruby>開<rt>ひら</rt></ruby>いている**。 |
+| The door is **open**. | ドアが**<ruby>開<rt>あ</rt></ruby>いている**。 |
 | He is **dead**. | <ruby>彼<rt>かれ</rt></ruby>が**<ruby>死<rt>し</rt></ruby>んでいる**。 |
 | The meat is **cooked**. | <ruby>肉<rt>にく</rt></ruby>が**<ruby>焼<rt>や</rt></ruby>けている**。 |
 
@@ -138,7 +138,7 @@ English is **agent-oriented**. A standard English sentence has a subject who doe
 
 Japanese transitivity is not merely a grammatical rule — it reflects a **cognitive preference for describing events over assigning agency**.
 
-- **The intransitive as default.** When a Japanese speaker sees a door open, they describe the door's state change: ドアが<ruby>開<rt>ひら</rt></ruby>いた. The English speaker asks "Who opened it?" or says "It was opened." The Japanese speaker often doesn't care about the opener — the event is the information.
+- **The intransitive as default.** When a Japanese speaker sees a door open, they describe the door's state change: ドアが<ruby>開<rt>あ</rt></ruby>いた. The English speaker asks "Who opened it?" or says "It was opened." The Japanese speaker often doesn't care about the opener — the event is the information.
 - **Transitivity as marked choice.** Using a transitive verb (ドアを<ruby>開<rt>あ</rt></ruby>けた) is a claim about agency. It says "Someone did this, and I am telling you who or that they did." This is more specific and more loaded than the intransitive.
 - **The を particle as agency marker.** を does not just mark objects — it marks the target of directed energy. When you say ドアを<ruby>開<rt>あ</rt></ruby>ける, you are not just describing a door and an opening; you are describing a vector of force from an agent to a target.
 - **The が particle as change marker.** が with intransitive verbs marks the locus of change — the thing that enters a new state. It is not "doing" anything; it is "becoming" something.
@@ -159,7 +159,7 @@ The most common pattern. Intransitive verbs end in ~aru (often ~waru, ~karu, ~ga
 |---------------------|-------------------|---------|
 | <ruby>上<rt>あ</rt></ruby>がる (agaru) | <ruby>上<rt>あ</rt></ruby>げる (ageru) | rise / raise |
 | <ruby>下<rt>さ</rt></ruby>がる (sagaru) | <ruby>下<rt>さ</rt></ruby>げる (sageru) | fall (price) / lower |
-| <ruby>開<rt>ひら</rt></ruby>く (hiraku) | <ruby>開<rt>あ</rt></ruby>ける (akeru) | open (naturally) / open (by hand) |
+| <ruby>開<rt>あ</rt></ruby>く (hiraku) | <ruby>開<rt>あ</rt></ruby>ける (akeru) | open (naturally) / open (by hand) |
 | <ruby>閉<rt>し</rt></ruby>まる (shimaru) | <ruby>閉<rt>し</rt></ruby>める (shimeru) | close (naturally) / close (by hand) |
 | <ruby>止<rt>と</rt></ruby>まる (tomaru) | <ruby>止<rt>と</rt></ruby>める (tomeru) | stop (moving) / stop (something) |
 | <ruby>始<rt>はじ</rt></ruby>まる (hajimaru) | <ruby>始<rt>はじ</rt></ruby>める (hajimeru) | begin (event) / begin (something) |
@@ -368,7 +368,7 @@ The particle choice is the immediate signal of transitivity. This is non-negotia
 | Particle | Role | Example |
 |----------|------|---------|
 | を | Direct object of transitive verb | ドアを<ruby>開<rt>あ</rt></ruby>ける |
-| が | Subject of intransitive verb | ドアが<ruby>開<rt>ひら</rt></ruby>く |
+| が | Subject of intransitive verb | ドアが<ruby>開<rt>あ</rt></ruby>く |
 | が | Subject of passive verb | ドアが<ruby>開<rt>あ</rt></ruby>けられた |
 | が | Subject of potential verb | ドアが<ruby>開<rt>あ</rt></ruby>けられる |
 | に | Indirect target / location | ドアに<ruby>鍵<rt>かぎ</rt></ruby>をかける |
@@ -376,7 +376,7 @@ The particle choice is the immediate signal of transitivity. This is non-negotia
 
 !!! warning "The を/が swap is the first transitivity test"
     If you can swap を and が and the sentence still makes sense with a different verb, you have a transitivity pair:
-    - ドア**を**<ruby>開<rt>あ</rt></ruby>けた (transitive) ↔ ドア**が**<ruby>開<rt>ひら</rt></ruby>いた (intransitive)
+    - ドア**を**<ruby>開<rt>あ</rt></ruby>けた (transitive) ↔ ドア**が**<ruby>開<rt>あ</rt></ruby>いた (intransitive)
 
 ### The Exceptional を: Motion and Departure
 
@@ -414,7 +414,7 @@ The same event can be described through multiple grammatical lenses. Choosing be
 
 | Form | Example | Meaning | Nuance |
 |------|---------|---------|--------|
-| Intransitive | ドアが<ruby>開<rt>ひら</rt></ruby>いた。 | The door opened. | Event-focused. No agent. The default description. |
+| Intransitive | ドアが<ruby>開<rt>あ</rt></ruby>いた。 | The door opened. | Event-focused. No agent. The default description. |
 | Transitive | <ruby>太郎<rt>たろう</rt></ruby>がドアを<ruby>開<rt>あ</rt></ruby>けた。 | Taro opened the door. | Agent-focused. Taro's action is the point. |
 | Passive | ドアが<ruby>太郎<rt>たろう</rt></ruby>に<ruby>開<rt>あ</rt></ruby>けられた。 | The door was opened by Taro. | Agent demoted but present. Emphasizes the door's experience. |
 | Causative | <ruby>太郎<rt>たろう</rt></ruby>が<ruby>花子<rt>はなこ</rt></ruby>にドアを<ruby>開<rt>あ</rt></ruby>けさせた。 | Taro made Hanako open the door. | Taro controls Hanako's action. |
@@ -424,10 +424,10 @@ The same event can be described through multiple grammatical lenses. Choosing be
 
 !!! warning "The passive is not the intransitive"
     English speakers often conflate "The door was opened" (passive) with "The door opened" (intransitive). In Japanese:
-    - ドアが<ruby>開<rt>ひら</rt></ruby>いた = The door opened (natural intransitive)
+    - ドアが<ruby>開<rt>あ</rt></ruby>いた = The door opened (natural intransitive)
     - ドアが<ruby>開<rt>あ</rt></ruby>けられた = The door was opened by someone (passive, agent implied or stated)
 
-    The passive <ruby>開<rt>あ</rt></ruby>けられた specifically implies an agent acted on the door. The intransitive <ruby>開<rt>ひら</rt></ruby>いた simply describes the door's state change.
+    The passive <ruby>開<rt>あ</rt></ruby>けられた specifically implies an agent acted on the door. The intransitive <ruby>開<rt>あ</rt></ruby>いた simply describes the door's state change.
 
 ---
 
@@ -436,12 +436,12 @@ The same event can be described through multiple grammatical lenses. Choosing be
 ### 1. Using the same verb for transitive and intransitive
 
 !!! failure "English transfer error"
-    ドアを<ruby>開<rt>ひら</rt></ruby>いた。
+    ドアを<ruby>開<rt>あ</rt></ruby>いた。
 
-    ~<ruby>開<rt>ひら</rt></ruby>く is intransitive. It cannot take を. The transitive partner is <ruby>開<rt>あ</rt></ruby>ける.~
+    ~<ruby>開<rt>あ</rt></ruby>く is intransitive. It cannot take を. The transitive partner is <ruby>開<rt>あ</rt></ruby>ける.~
 
 !!! success "Correct"
-    ドアを<ruby>開<rt>あ</rt></ruby>けた。 / ドアが<ruby>開<rt>ひら</rt></ruby>いた。
+    ドアを<ruby>開<rt>あ</rt></ruby>けた。 / ドアが<ruby>開<rt>あ</rt></ruby>いた。
 
 ### 2. Using passive where intransitive is natural
 
@@ -490,7 +490,7 @@ The same event can be described through multiple grammatical lenses. Choosing be
 - **Transitivity is lexical, not contextual.** In English, "cook" can be transitive or intransitive depending on context: "I'm cooking" vs "I'm cooking rice." In Japanese, <ruby>料理<rt>りょうり</rt></ruby>する is transitive (requires an object or context), while <ruby>火<rt>ひ</rt></ruby>が<ruby>通<rt>とお</rt></ruby>る describes the cooking process intransitively. You cannot simply "use the same verb both ways" as in English.
 - **The ~aru/~eru pattern has sound symbolism.** The ~aru ending often feels "lower" or "grounded" (intransitive, receiving), while ~eru feels "active" or "directed" (transitive, sending). This is not etymological fact but a useful mnemonic.
 - **Some "transitive" verbs in English are intransitive in Japanese.** "To graduate" is transitive in English ("I graduated college"), but <ruby>卒業<rt>そつぎょう</rt></ruby>する is intransitive and takes を only for the departure exception: <ruby>大学<rt>だいがく</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>する.
-- **The passive of transitive verbs often sounds unnatural for simple description.** ドアが<ruby>開<rt>あ</rt></ruby>けられた implies a story: someone opened it, and there's a reason to mention that fact. For simple state description, ドアが<ruby>開<rt>ひら</rt></ruby>いた is always preferred.
+- **The passive of transitive verbs often sounds unnatural for simple description.** ドアが<ruby>開<rt>あ</rt></ruby>けられた implies a story: someone opened it, and there's a reason to mention that fact. For simple state description, ドアが<ruby>開<rt>あ</rt></ruby>いた is always preferred.
 - **Transitivity affects keigo choices.** <ruby>尊敬<rt>そんけい</rt></ruby><ruby>語<rt>ご</rt></ruby> often shifts transitivity. お<ruby>知<rt>し</rt></ruby>りになります (intransitive respectful) vs ご<ruby>存知<rt>ぞんじ</rt></ruby>です (nominal respectful). The transitivity of the humble/respectful form may differ from the plain form.
 - **Potential forms of transitive verbs take が on the object.** This creates a surface similarity to intransitive sentences: <ruby>本<rt>ほん</rt></ruby>が<ruby>読<rt>よ</rt></ruby>める ("I can read books" — potential) looks like <ruby>本<rt>ほん</rt></ruby>が<ruby>落<rt>お</rt></ruby>ちる ("The book falls" — intransitive). The grammar is different, but the particle pattern is identical.
 - **Some intransitive verbs have no transitive partner.** <ruby>死<rt>し</rt></ruby>ぬ (die) has no simple transitive partner (<ruby>殺<rt>ころ</rt></ruby>す = kill is a different root). ある (exist) has no transitive partner. These gaps reveal conceptual boundaries.
@@ -504,7 +504,7 @@ The same event can be described through multiple grammatical lenses. Choosing be
 |---|---|
 | | *The point is Taro's action. The door is the target.* |
 
-| ドアが<ruby>開<rt>ひら</rt></ruby>いた。 | The door opened [intransitive, event-focused]. |
+| ドアが<ruby>開<rt>あ</rt></ruby>いた。 | The door opened [intransitive, event-focused]. |
 |---|---|
 | | *The point is the door's state change. No agent is relevant.* |
 
@@ -528,9 +528,9 @@ The same event can be described through multiple grammatical lenses. Choosing be
 |---|---|
 | | *The indirect passive (<ruby>迷惑<rt>めいわく</rt></ruby>の<ruby>受身<rt>うけみ</rt></ruby>). The speaker is affected by someone else's transitive action. This is distinct from simple intransitive description.* |
 
-| このボタンを<ruby>押<rt>お</rt></ruby>すと、ドアが<ruby>開<rt>ひら</rt></ruby>きます。 | When you press this button, the door opens [causal intransitive]. |
+| このボタンを<ruby>押<rt>お</rt></ruby>すと、ドアが<ruby>開<rt>あ</rt></ruby>きます。 | When you press this button, the door opens [causal intransitive]. |
 |---|---|
-| | *The transitive action (<ruby>押<rt>お</rt></ruby>す) triggers an intransitive result (<ruby>開<rt>ひら</rt></ruby>く). This is a standard mechanical description pattern.* |
+| | *The transitive action (<ruby>押<rt>お</rt></ruby>す) triggers an intransitive result (<ruby>開<rt>あ</rt></ruby>く). This is a standard mechanical description pattern.* |
 
 | <ruby>部屋<rt>へや</rt></ruby>をきれいにした。 | I made the room clean [adjective + transitive suru]. |
 |---|---|
@@ -546,9 +546,9 @@ The same event can be described through multiple grammatical lenses. Choosing be
 
 | Stage | What It Looks Like |
 |-------|-------------------|
-| **Now — N4** | Memorize core paired verbs (<ruby>開<rt>あ</rt></ruby>ける/<ruby>開<rt>ひら</rt></ruby>く, つける/つく, <ruby>壊<rt>こわ</rt></ruby>す/<ruby>壊<rt>こわ</rt></ruby>れる, etc.); use を and が correctly with transitive and intransitive verbs; avoid passive substitution for simple state changes |
+| **Now — N4** | Memorize core paired verbs (<ruby>開<rt>あ</rt></ruby>ける/<ruby>開<rt>あ</rt></ruby>く, つける/つく, <ruby>壊<rt>こわ</rt></ruby>す/<ruby>壊<rt>こわ</rt></ruby>れる, etc.); use を and が correctly with transitive and intransitive verbs; avoid passive substitution for simple state changes |
 | **Developing — N4→N3** | Recognize the three morphological patterns (~aru/~eru, ~reru/~su, irregular); predict unknown pairs from known ones; handle motion-verb を exceptions naturally; distinguish passive from intransitive in production |
-| **Automatic — N3→N2** | Transitivity becomes an intuitive filter — you feel the wrongness of ドアを<ruby>開<rt>ひら</rt></ruby>いた before analyzing it. You automatically select intransitive for event descriptions and transitive for agent descriptions. |
+| **Automatic — N3→N2** | Transitivity becomes an intuitive filter — you feel the wrongness of ドアを<ruby>開<rt>あ</rt></ruby>いた before analyzing it. You automatically select intransitive for event descriptions and transitive for agent descriptions. |
 | **Mastery** | You control the full transitivity spectrum: intransitive (event), transitive (agency), passive (demoted agency), causative (compelled agency), and potential (capability). You know when English passive must become Japanese intransitive, when adjectives need する, and when motion verbs take exceptional を. You also understand how transitivity interacts with keigo and humility. |
 
 ---
