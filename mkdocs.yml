@@ -182,6 +182,10 @@ nav:
     - dialogues/test.md
     - Sample Dialogue: dialogues/sample-dialogue.md
     - Suddenly Started Running: dialogues/suddenrunning.md
+  - Questions:
+    - Overview: questions/index.md
+    - Noun Modifying Clauses: questions/noun-modify-clause.md
+    - Word Order: dquestions/word-order.md    
   - Tags: tags.md
 
 extra:
