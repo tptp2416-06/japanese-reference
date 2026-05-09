@@ -94,6 +94,7 @@ nav:
     - Verbs:
       - Overview: grammar/verbs/index.md
       - Causative Form (〜せる / 〜させる): grammar/verbs/causative-form.md
+      - Transitive vs. Intransitive Verbs: /grammar/verbs/trans-intrans-kimi.md
     - Misc:
       - Overview: grammar/misc/index.md
 
