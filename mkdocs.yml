@@ -99,51 +99,51 @@ nav:
       - Overview: grammar/particles/index.md
       - で — Location, Means, Scope, and Limit: grammar/particles/de-particle.md
       - も — Additive, Emphatic, Scalar, and Universal: grammar/particles/mo-particle.md
-    - Misc:
-      - Overview: grammar/misc/index.md
+    - Expressions:
+      - Overview: grammar/expressions/index.md
 
       # ── N4 ──────────────────────────────
       - N4:
         # Foundations
-        - Te-form: grammar/misc/te-form.md
-        - Tense & Aspect: grammar/misc/tense-aspect.md
-        - Conditionals: grammar/misc/conditionals.md
+        - Te-form: grammar/expressions/te-form.md
+        - Tense & Aspect: grammar/expressions/tense-aspect.md
+        - Conditionals: grammar/expressions/conditionals.md
 
         # Explanatory & Quotation
-        - 〜んだ — Explanatory / Realization Emphasis: grammar/misc/n-da-kimi.md
-        - 〜って — Casual Topic Marker / Quotative: grammar/misc/tte-casual.md
-        - なって・Internal Quotation: grammar/misc/natte-internalquote.md
-        - Embedded Questions — 〜か & 〜かどうか: grammar/misc/questions-in-sentences-kimi.md
+        - 〜んだ — Explanatory / Realization Emphasis: grammar/expressions/n-da-kimi.md
+        - 〜って — Casual Topic Marker / Quotative: grammar/expressions/tte-casual.md
+        - なって・Internal Quotation: grammar/expressions/natte-internalquote.md
+        - Embedded Questions — 〜か & 〜かどうか: grammar/expressions/questions-in-sentences-kimi.md
 
         # Contrast & Expectations
-        - のに・Frustrated Expectations: grammar/misc/noni-expectation.md
-        - のに・Disappointed Contrast: grammar/misc/noni-disappointed-kimi.md
+        - のに・Frustrated Expectations: grammar/expressions/noni-expectation.md
+        - のに・Disappointed Contrast: grammar/expressions/noni-disappointed-kimi.md
 
         # Modality & Obligation
-        - 〜なきゃ・ないと etc. — Must / Have To: grammar/misc/obligation-kimi.md
-        - ～ちゃいなよ — Casual Encouragement: grammar/misc/chai-nayo-deepseek.md
+        - 〜なきゃ・ないと etc. — Must / Have To: grammar/expressions/obligation-kimi.md
+        - ～ちゃいなよ — Casual Encouragement: grammar/expressions/chai-nayo-deepseek.md
 
         # Softening & Register
-        - Casual Topic-Setting / Softening Pivot: grammar/misc/topic-pivot-casual.md
-        - Topic Markers Comparison: grammar/misc/topic-markers-comp.md
-        - Extra Modest Expressions: grammar/misc/modest-expressions-kimi.md
-        - かな — Self-Directed Musing / Soft Questions: grammar/misc/ka-na-kimi.md
+        - Casual Topic-Setting / Softening Pivot: grammar/expressions/topic-pivot-casual.md
+        - Topic Markers Comparison: grammar/expressions/topic-markers-comp.md
+        - Extra Modest Expressions: grammar/expressions/modest-expressions-kimi.md
+        - かな — Self-Directed Musing / Soft Questions: grammar/expressions/ka-na-kimi.md
 
         # Aspect & State
-        - 〜ていけばいい — Reassurance of Ongoing Action: grammar/misc/te-ikebaiikara.md
-        - あっという間に vs. いつの間にか — Speed vs. Change: grammar/misc/speed-vs-change-deepseek.md
-        - 〜っぱなし — Leaving Something in an Ongoing State: grammar/misc/ppa-na-shi-kimi.md
-        - 〜っちゃおっか — Casual Volitional + Completion: grammar/misc/chau-okka-kimi.md
+        - 〜ていけばいい — Reassurance of Ongoing Action: grammar/expressions/te-ikebaiikara.md
+        - あっという間に vs. いつの間にか — Speed vs. Change: grammar/expressions/speed-vs-change-deepseek.md
+        - 〜っぱなし — Leaving Something in an Ongoing State: grammar/expressions/ppa-na-shi-kimi.md
+        - 〜っちゃおっか — Casual Volitional + Completion: grammar/expressions/chau-okka-kimi.md
 
         # Reference & Scope
-        - 〜のこと — The Person Themselves: grammar/misc/no-koto-kimi.md
+        - 〜のこと — The Person Themselves: grammar/expressions/no-koto-kimi.md
 
       # ── N3 ──────────────────────────────
       - N3:
         # State & Change
-        - 〜てある — Completed Action with Ongoing Intent: grammar/misc/te-aru.md
-        - 〜ように・〜ようになる — Change of State: grammar/misc/youni-youninaru-kimi.md
-        - 〜みたい — Seems Like / Apparently: grammar/misc/mitai-kimi.md
+        - 〜てある — Completed Action with Ongoing Intent: grammar/expressions/te-aru.md
+        - 〜ように・〜ようになる — Change of State: grammar/expressions/youni-youninaru-kimi.md
+        - 〜みたい — Seems Like / Apparently: grammar/expressions/mitai-kimi.md
 
     - 〜ている Related:
       - Overview: grammar/te-iru-related/index.md
@@ -154,14 +154,14 @@ nav:
     - Test:
       - Overview: grammar/test/index.md
       # AI comparison versions
-      - 〜んだ — DeepSeek: grammar/misc/n-da-deepseek.md
-      - 〜んだ — Kimi (Ruby): grammar/misc/n-da-kimi-ruby.md
-      - 〜っぱなし — DeepSeek: grammar/misc/ppa-na-shi-deepseek.md
-      - 〜って — ChatGPT: grammar/misc/tte-casual-gpt.md
-      - Embedded Questions — Claude: grammar/misc/questions-in-sentences.md
-      - Embedded Questions — DeepSeek: grammar/misc/questions-in-sentences-deepseek.md
-      - Extra Modest Expressions — Claude: grammar/misc/modest-expressions.md
-      - Extra Modest Expressions — DeepSeek: grammar/misc/modest-expressions-deepseek.md
+      - 〜んだ — DeepSeek: grammar/expressions/n-da-deepseek.md
+      - 〜んだ — Kimi (Ruby): grammar/expressions/n-da-kimi-ruby.md
+      - 〜っぱなし — DeepSeek: grammar/expressions/ppa-na-shi-deepseek.md
+      - 〜って — ChatGPT: grammar/expressions/tte-casual-gpt.md
+      - Embedded Questions — Claude: grammar/expressions/questions-in-sentences.md
+      - Embedded Questions — DeepSeek: grammar/expressions/questions-in-sentences-deepseek.md
+      - Extra Modest Expressions — Claude: grammar/expressions/modest-expressions.md
+      - Extra Modest Expressions — DeepSeek: grammar/expressions/modest-expressions-deepseek.md
       # Format tests
       - ChatGPT Test 1: grammar/test/chatgpt-test1.md
       - Claude Test 1 — HTML MD Hybrid: grammar/test/claude-test1.md

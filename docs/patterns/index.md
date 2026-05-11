@@ -4,32 +4,52 @@ tags:
   - Pragmatics
 ---
 
-# Patterns
+<div class="jp-home" style="max-width: 640px; margin: 0 auto; padding: 2rem 0;">
 
-Pragmatic patterns, social strategies, and register moves — the layer beneath the grammar.
-
----
-
-<div class="card-grid">
-
-  <div class="card-grid-item">
-    <h3><a href="softeners/">Softeners & Hedges</a></h3>
-    <p>かな、かも、んだけど、ちょっと — how speakers soften force and manage deniability.</p>
-    <span class="card-tag">Pragmatics</span>
+  <div style="margin-bottom: 3rem;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 0.5rem;">
+      <span style="font-size: 36px; color: var(--md-default-fg-color--lighter); font-weight: 400;">型</span>
+      <p style="font-size: 28px; font-weight: 500; margin: 0;">Patterns</p>
+    </div>
+    <p style="font-size: 14px; color: var(--md-default-fg-color--lighter); margin: 0; max-width: 480px;">Pragmatic patterns, social strategies, and register moves — the layer beneath the grammar.</p>
+    <div style="width: 40px; height: 1px; background: var(--md-default-fg-color--lightest); margin: 1.5rem 0 0;"></div>
   </div>
 
-  <div class="card-grid-item">
-    <h3><a href="seeking-connection/">Seeking Connection</a></h3>
-    <p>Shared-thought framing, ね patterns, and moves that invite the listener in.</p>
-    <span class="card-tag">Casual</span>
-    <span class="card-tag">Pragmatics</span>
-  </div>
+  <div style="display: flex; flex-direction: column; gap: 0;">
 
-  <div class="card-grid-item">
-    <h3><a href="emotional-register/">Emotional Register</a></h3>
-    <p>How word choice within the same grammar frame signals emotional depth and stance.</p>
-    <span class="card-tag">Romantic</span>
-    <span class="card-tag">Pragmatics</span>
+    <a href="softeners/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+      <div style="display: flex; align-items: baseline; gap: 16px;">
+        <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">和</span>
+        <div>
+          <p style="font-size: 16px; font-weight: 500; margin: 0;">Softeners & Hedges</p>
+          <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">かな、かも、んだけど、ちょっと — softening force and managing deniability</p>
+        </div>
+      </div>
+      <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
+    </a>
+
+    <a href="seeking-connection/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+      <div style="display: flex; align-items: baseline; gap: 16px;">
+        <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">縁</span>
+        <div>
+          <p style="font-size: 16px; font-weight: 500; margin: 0;">Seeking Connection</p>
+          <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">Shared-thought framing, ね patterns, and moves that invite the listener in</p>
+        </div>
+      </div>
+      <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
+    </a>
+
+    <a href="emotional-register/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+      <div style="display: flex; align-items: baseline; gap: 16px;">
+        <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">情</span>
+        <div>
+          <p style="font-size: 16px; font-weight: 500; margin: 0;">Emotional Register</p>
+          <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">How word choice within the same grammar frame signals emotional depth and stance</p>
+        </div>
+      </div>
+      <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
+    </a>
+
   </div>
 
 </div>

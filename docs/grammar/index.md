@@ -28,11 +28,22 @@ tags:
       <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
     </a>
 
-    <a href="misc/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+    <a href="particles/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
       <div style="display: flex; align-items: baseline; gap: 16px;">
-        <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">雑</span>
+        <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">助</span>
         <div>
-          <p style="font-size: 16px; font-weight: 500; margin: 0;">Misc</p>
+          <p style="font-size: 16px; font-weight: 500; margin: 0;">Particles</p>
+          <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">で, も, and other particles — usage, nuance, and scope</p>
+        </div>
+      </div>
+      <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
+    </a>
+
+    <a href="expressions/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+      <div style="display: flex; align-items: baseline; gap: 16px;">
+        <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">表</span>
+        <div>
+          <p style="font-size: 16px; font-weight: 500; margin: 0;">Expressions</p>
           <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">Te-form, conditionals, modality, quotation, softening — N4 and N3</p>
         </div>
       </div>

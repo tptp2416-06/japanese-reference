@@ -4,12 +4,52 @@ tags:
   - Vocab
 ---
 
-# Vocabulary
+<div class="jp-home" style="max-width: 640px; margin: 0 auto; padding: 2rem 0;">
 
-Special/complex vocabulary. 
+  <div style="margin-bottom: 3rem;">
+    <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 0.5rem;">
+      <span style="font-size: 36px; color: var(--md-default-fg-color--lighter); font-weight: 400;">語</span>
+      <p style="font-size: 28px; font-weight: 500; margin: 0;">Vocabulary</p>
+    </div>
+    <p style="font-size: 14px; color: var(--md-default-fg-color--lighter); margin: 0; max-width: 480px;">Words that carry nuance — near-synonyms, subtle distinctions, and emotionally loaded vocabulary.</p>
+    <div style="width: 40px; height: 1px; background: var(--md-default-fg-color--lightest); margin: 1.5rem 0 0;"></div>
+  </div>
 
-## [<ruby>甘<rt>あま</rt></ruby>える - depending on others' kindness](amaeru.md)
-## [<ruby>大切<rt>たいせつ</rt></ruby> vs. <ruby>大事<rt>だいじ</rt></ruby> — important](taisetsu-daiji.md)
-## [<ruby>遅<rt>おく</rt></ruby>れる vs. <ruby>遅<rt>おそ</rt></ruby>くなる vs. <ruby>遅刻<rt>ちこく</rt></ruby>する vs. <ruby>遅延<rt>ちえん</rt></ruby>する — Lateness & Delay](lateness-delay.md)
+  <div style="display: flex; flex-direction: column; gap: 0;">
 
+    <a href="amaeru/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+      <div style="display: flex; align-items: baseline; gap: 16px;">
+        <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">甘</span>
+        <div>
+          <p style="font-size: 16px; font-weight: 500; margin: 0;">甘える — To Lean on Someone's Affection</p>
+          <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">Verb nuance and emotional use — when dependency is socially accepted</p>
+        </div>
+      </div>
+      <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
+    </a>
 
+    <a href="taisetsu-daiji/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+      <div style="display: flex; align-items: baseline; gap: 16px;">
+        <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">大</span>
+        <div>
+          <p style="font-size: 16px; font-weight: 500; margin: 0;">大切 vs. 大事 — Both Mean "Important"</p>
+          <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">Two near-synonyms — when to use each and where they diverge</p>
+        </div>
+      </div>
+      <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
+    </a>
+
+    <a href="lateness-delay/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+      <div style="display: flex; align-items: baseline; gap: 16px;">
+        <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">遅</span>
+        <div>
+          <p style="font-size: 16px; font-weight: 500; margin: 0;">遅れる vs. 遅くなる vs. 遅刻する vs. 遅延する</p>
+          <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">Four ways to express lateness and delay — register, cause, and scope</p>
+        </div>
+      </div>
+      <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
+    </a>
+
+  </div>
+
+</div>

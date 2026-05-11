@@ -1,5 +1,5 @@
 ---
-title: Misc
+title: Expressions
 tags:
   - N3
   - N4
@@ -9,8 +9,8 @@ tags:
 
   <div style="margin-bottom: 3rem;">
     <div style="display: flex; align-items: baseline; gap: 16px; margin-bottom: 0.5rem;">
-      <span style="font-size: 36px; color: var(--md-default-fg-color--lighter); font-weight: 400;">雑</span>
-      <p style="font-size: 28px; font-weight: 500; margin: 0;">Misc</p>
+      <span style="font-size: 36px; color: var(--md-default-fg-color--lighter); font-weight: 400;">表</span>
+      <p style="font-size: 28px; font-weight: 500; margin: 0;">Expressions</p>
     </div>
     <p style="font-size: 14px; color: var(--md-default-fg-color--lighter); margin: 0; max-width: 480px;">Casual speech patterns, explanatory forms, modality, quotation, and everyday conversational grammar.</p>
     <div style="width: 40px; height: 1px; background: var(--md-default-fg-color--lightest); margin: 1.5rem 0 0;"></div>
