@@ -95,6 +95,10 @@ nav:
       - Overview: grammar/verbs/index.md
       - Causative Form (〜せる / 〜させる): grammar/verbs/causative-form.md
       - Transitive vs. Intransitive Verbs: grammar/verbs/trans-intrans-kimi.md
+    - Particles:
+      - Overview: grammar/particles/index.md
+      - で — Location, Means, Scope, and Limit: grammar/particles/de-particle.md
+      - も — Additive, Emphatic, Scalar, and Universal: grammar/particles/mo-particle.md
     - Misc:
       - Overview: grammar/misc/index.md
 
