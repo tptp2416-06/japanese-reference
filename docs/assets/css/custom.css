@@ -221,30 +221,30 @@ body,
 
 /* Dark mode overrides */
 [data-md-color-scheme="slate"] .md-typeset h1 {
-  color: #7EC8E3;
-  border-bottom-color: #7EC8E3;
+  color: #B4DEED;
+  border-bottom-color: rgba(180, 222, 237, 0.4);
 }
 
 [data-md-color-scheme="slate"] .md-typeset h2 {
-  color: #7EC8E3;
-  border-bottom-color: rgba(126, 200, 227, 0.35);
+  color: #C9E3F0;
+  border-bottom-color: rgba(201, 227, 240, 0.3);
 }
 
 [data-md-color-scheme="slate"] .md-typeset h3 {
-  color: #FFAF2E;
-  border-bottom-color: rgba(255, 175, 46, 0.35);
+  color: #FFD41D;
+  border-bottom-color: #ECE8DD;
 }
 
 [data-md-color-scheme="slate"] .md-typeset h4 {
-  color: #C4A8E8;
+  color: #CBBFDB;
 }
 
 [data-md-color-scheme="slate"] .md-typeset h5 {
-  color: #8BFF82;
+  color: #C3E6CB;
 }
 
 [data-md-color-scheme="slate"] .md-typeset h6 {
-  color: #9A9488;
+  color: #CBCBD1;
 }
 
 :root,

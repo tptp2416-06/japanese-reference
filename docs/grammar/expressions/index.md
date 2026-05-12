@@ -66,6 +66,7 @@ tags:
     <p style="font-size: 12px; color: var(--md-default-fg-color--lighter); margin: 1.25rem 0 0.25rem; letter-spacing: 0.05em; text-transform: uppercase;">Reference & scope</p>
     <div style="border-top: 0.5px solid var(--md-default-fg-color--lightest);">
       <a href="no-koto-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜のこと — The person themselves</a>
+      <a href="explicit-pronouns-names/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">Explicit Pronouns and Names — When to Say 私, あなた, and 彼</a>
     </div>
   </div>
 
