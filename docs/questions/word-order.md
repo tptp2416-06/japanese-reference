@@ -20,24 +20,24 @@ Because Japanese is a **modifier-before-head, chronology-before-comment** langua
 ## 2. Sentence Breakdowns
 
 ### Sentence 1 — Casual Warning
-**食べないで寝ちゃダメだよ。**
+**<ruby>食べ<rt>たべ</rt></ruby>ないで<ruby>寝<rt>ね</rt></ruby>ちゃダメだよ。**
 
 | Piece | Grammar | Role |
 |---|---|---|
-| 食べないで | Negative て-form | "without eating" (skipped prerequisite) |
-| 寝ちゃ | 寝ては (contracted) | "sleeping" (main action, topicalized) |
+| <ruby>食べ<rt>たべ</rt></ruby>ないで | Negative て-form | "without eating" (skipped prerequisite) |
+| <ruby>寝<rt>ね</rt></ruby>ちゃ | <ruby>寝<rt>ね</rt></ruby>ては (contracted) | "sleeping" (main action, topicalized) |
 | ダメだよ | Evaluative + particle | "is no good, okay?" |
 
 **Full meaning:** "Going to bed without eating is no good."  
 **Natural English:** "Don't sleep without eating."
 
 ### Sentence 2 — Polite Request
-**食べないで寝ないでください。**
+**<ruby>食べ<rt>たべ</rt></ruby>ないで<ruby>寝<rt>ね</rt></ruby>ないでください。**
 
 | Piece | Grammar | Role |
 |---|---|---|
-| 食べないで | Negative て-form | "without eating" (skipped prerequisite) |
-| 寝ないでください | Negative request | "please don't sleep" (main action negated) |
+| <ruby>食べ<rt>たべ</rt></ruby>ないで | Negative て-form | "without eating" (skipped prerequisite) |
+| <ruby>寝<rt>ね</rt></ruby>ないでください | Negative request | "please don't sleep" (main action negated) |
 
 **Full meaning:** "Please don't sleep without eating."  
 **Natural English:** "Please don't go to bed without eating."
@@ -52,10 +52,10 @@ Japanese places **all** modifiers before the word they modify. This includes adj
 - **English:** Main verb first, then the adverbial phrase ("sleep without eating").
 - **Japanese:** Adverbial phrase first, then the main verb ("without eating, sleep").
 
-This is the same logic that puts adjectives before nouns (赤い車) and relative clauses before nouns (昨日買った本).
+This is the same logic that puts adjectives before nouns (<ruby>赤<rt>あか</rt></ruby>い<ruby>車<rt>くるま</rt></ruby>) and relative clauses before nouns (<ruby>昨日<rt>きのう</rt></ruby><ruby>買<rt>か</rt></ruby>った<ruby>本<rt>ほん</rt></ruby>).
 
 ### B. Temporal Iconicity
-Japanese strongly prefers to order events as they occur in **real time**. Chronologically, eating happens before sleeping. Even when the eating is negated (食べないで), the sentence preserves that temporal slot: the time for eating is referenced first, then the time for sleeping.
+Japanese strongly prefers to order events as they occur in **real time**. Chronologically, eating happens before sleeping. Even when the eating is negated (<ruby>食べ<rt>たべ</rt></ruby>ないで), the sentence preserves that temporal slot: the time for eating is referenced first, then the time for sleeping.
 
 - **Japanese timeline:** [time for eating: skipped] → [time for sleeping: done]
 - **English packaging:** bundles the main action first, then backfills the skipped step.
@@ -65,10 +65,10 @@ Japanese sentences build toward the **main predicate at the end**. The "most imp
 
 | Sentence | Main Predicate (last) |
 |---|---|
-| 食べないで寝ちゃダメだよ | ダメだ (the evaluation/prohibition) |
-| 食べないで寝ないでください | ください (the request) |
+| <ruby>食べ<rt>たべ</rt></ruby>ないで<ruby>寝<rt>ね</rt></ruby>ちゃダメだよ | ダメだ (the evaluation/prohibition) |
+| <ruby>食べ<rt>たべ</rt></ruby>ないで<ruby>寝<rt>ね</rt></ruby>ないでください | ください (the request) |
 
-The prerequisite (食べないで) is structurally subordinate and therefore comes earlier.
+The prerequisite (<ruby>食べ<rt>たべ</rt></ruby>ないで) is structurally subordinate and therefore comes earlier.
 
 ---
 
@@ -84,15 +84,15 @@ English is **head-initial** in verb phrases. The main verb must appear early, an
 
 | Japanese Front-Loaded | English Back-Loaded |
 |---|---|
-| 食べないで寝る | sleep without eating |
-| 勉強しないで試験を受ける | take an exam without studying |
-| 断らないで承諾する | agree without refusing |
+| <ruby>食べ<rt>たべ</rt></ruby>ないで<ruby>寝<rt>ね</rt></ruby>る | sleep without eating |
+| <ruby>勉強<rt>べんきょう</rt></ruby>しないで<ruby>試験<rt>しけん</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける | take an exam without studying |
+| <ruby>断<rt>ことわ</rt></ruby>らないで<ruby>承諾<rt>しょうだく</rt></ruby>する | agree without refusing |
 
 ---
 
 ## 5. The "Gap" of the Object
 
-An N3-level detail: in 食べないで, the object (dinner, breakfast, etc.) is omitted because it is recoverable from context. The full underlying clause is something like ご飯を食べないで. Japanese routinely drops the object when it is obvious, but the grammatical slot remains. The negative て-form then attaches directly to the verb stem, creating a compact modifier.
+An N3-level detail: in <ruby>食べ<rt>たべ</rt></ruby>ないで, the object (dinner, breakfast, etc.) is omitted because it is recoverable from context. The full underlying clause is something like ご<ruby>飯<rt>はん</rt></ruby>を<ruby>食べ<rt>たべ</rt></ruby>ないで. Japanese routinely drops the object when it is obvious, but the grammatical slot remains. The negative て-form then attaches directly to the verb stem, creating a compact modifier.
 
 ---
 
@@ -100,7 +100,7 @@ An N3-level detail: in 食べないで, the object (dinner, breakfast, etc.) is 
 
 | | Casual | Polite |
 |---|---|---|
-| **Form** | 寝ちゃダメだよ | 寝ないでください |
+| **Form** | <ruby>寝<rt>ね</rt></ruby>ちゃダメだよ | <ruby>寝<rt>ね</rt></ruby>ないでください |
 | **Grammar** | 〜てはダメだ (prohibition) | 〜ないでください (negative request) |
 | **Tone** | Scolding, warning, familiar | Direct but respectful request |
 | **Focus** | Evaluates the situation as "bad" | Directly asks the listener not to do it |
@@ -112,17 +112,17 @@ Both share the same **modifier-head** architecture: the prerequisite (eating) co
 ## 7. Additional Examples
 
 ### Example A — Skipped Study
-**日本語を勉強しないで日本に来た。**
+**<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>しないで<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た。**
 - "I came to Japan without studying Japanese."
 - Prerequisite (studying) first, main action (came) last.
 
 ### Example B — Skipped Permission
-**許可を取らないで入らないでください。**
+**<ruby>許可<rt>きょか</rt></ruby>を<ruby>取<rt>と</rt></ruby>らないで<ruby>入<rt>はい</rt></ruby>らないでください。**
 - "Please don't enter without getting permission."
-- Two layers of negation: the skipped prerequisite (取らないで) and the negated main request (入らないでください).
+- Two layers of negation: the skipped prerequisite (<ruby>取<rt>と</rt></ruby>らないで) and the negated main request (<ruby>入<rt>はい</rt></ruby>らないでください).
 
 ### Example C — Temporal Sequence with Affirmative
-**歯を磨いて寝る。**
+**<ruby>歯<rt>は</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>いて<ruby>寝<rt>ね</rt></ruby>る。**
 - "I brush my teeth and (then) sleep."
 - Even in the positive, the chronological order is preserved: prerequisite action first, main action last.
 
@@ -137,7 +137,7 @@ When you encounter a negative て-form followed by another verb, read it in this
 3. **Check temporal logic:** does the first action normally happen before the second in real life? If yes, Japanese has almost certainly preserved that order.
 
 **Mental template:**
-&gt; [Skipped prerequisite] + [ないで] + [Main action] + [Sentence predicate]
+> [Skipped prerequisite] + [ないで] + [Main action] + [Sentence predicate]
 
 ---
 

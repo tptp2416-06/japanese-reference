@@ -286,44 +286,37 @@ The explicitness of かどうか makes it slightly more formal than か alone, b
 | <ruby>何<rt>なん</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたか<ruby>知<rt>し</rt></ruby>りたい。 | I want to know what happened. |
 |---|---|
 | | *Literal: What happened-question want-to-know.* |
-
-~Context: Wh-question embedding. Only か is possible. <ruby>何<rt>なん</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたかどうか would be ungrammatical.*~
+| | *Context: Wh-question embedding. Only か is possible. <ruby>何<rt>なん</rt></ruby>が<ruby>起<rt>お</rt></ruby>きたかどうか would be ungrammatical.* |
 
 | <ruby>誰<rt>だれ</rt></ruby>が<ruby>来<rt>く</rt></ruby>るか、まだ<ruby>知<rt>し</rt></ruby>らせてない。 | I haven't been told who's coming yet. |
 |---|---|
 | | *Literal: Who come-question, yet inform-not-done.* |
-
-~Context: Wh-question as object of passive communication. The comma marks the embedded clause boundary.*~
+| | *Context: Wh-question as object of passive communication. The comma marks the embedded clause boundary.* |
 
 | これが<ruby>正<rt>ただ</rt></ruby>しいか<ruby>確認<rt>かくにん</rt></ruby>してください。 | Please check whether this is correct. |
 |---|---|
 | | *Literal: This correct-question confirm-please.* |
-
-~Context: Yes/no embedding with か alone. The context makes the binary nature obvious, so どうか is unnecessary.*~
+| | *Context: Yes/no embedding with か alone. The context makes the binary nature obvious, so どうか is unnecessary.* |
 
 | <ruby>日本<rt>にっぽん</rt></ruby><ruby>語<rt>ご</rt></ruby>が<ruby>話<rt>はな</rt></ruby>せるかどうか、<ruby>聞<rt>き</rt></ruby>いてください。 | Please ask whether they can speak Japanese or not. |
 |---|---|
 | | *Literal: Japanese speak-can-question-or-not, ask-please.* |
-
-~Context: Explicit yes/no embedding in an instruction. The かどうか makes the binary inquiry clear.*~
+| | *Context: Explicit yes/no embedding in an instruction. The かどうか makes the binary inquiry clear.* |
 
 | <ruby>行<rt>い</rt></ruby>くか<ruby>行<rt>い</rt></ruby>かないか、<ruby>決<rt>き</rt></ruby>めていない。 | I haven't decided whether to go or not. |
 |---|---|
 | | *Literal: Go-question go-not-question, decide-not-doing.* |
-
-~Context: Literary double form. Both alternatives stated explicitly. More emphatic than <ruby>行<rt>い</rt></ruby>くかどうか.*~
+| | *Context: Literary double form. Both alternatives stated explicitly. More emphatic than <ruby>行<rt>い</rt></ruby>くかどうか.* |
 
 | <ruby>彼<rt>かれ</rt></ruby>が<ruby>怒<rt>おこ</rt></ruby>っているかのように、<ruby>黙<rt>だま</rt></ruby>っていた。 | He remained silent as if he were angry. |
 |---|---|
 | | *Literal: He angry-is-question-as, silent-was.* |
-
-~Context: N2 pattern — hypothetical embedding. The かのように creates a simile of unconfirmed state.*~
+| | *Context: N2 pattern — hypothetical embedding. The かのように creates a simile of unconfirmed state.* |
 
 | <ruby>明日<rt>あす</rt></ruby>までに<ruby>終<rt>お</rt></ruby>わるかどうか、<ruby>怪<rt>あや</rt></ruby>しい。 | It's doubtful whether it'll be finished by tomorrow. |
 |---|---|
 | | *Literal: Tomorrow-by finish-question-or-not, doubtful.* |
-
-~Context: かどうか with adjectival predicate (<ruby>怪<rt>あや</rt></ruby>しい). The embedded clause functions as the subject.*~
+| | *Context: かどうか with adjectival predicate (<ruby>怪<rt>あや</rt></ruby>しい). The embedded clause functions as the subject.* |
 
 ---
 
@@ -334,7 +327,7 @@ The explicitness of かどうか makes it slightly more formal than か alone, b
 !!! failure "Ungrammatical"
     <ruby>何<rt>なん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるかどうか<ruby>知<rt>し</rt></ruby>らない。
 
-    ~<ruby>何<rt>なん</rt></ruby> is a wh-word, not a yes/no question. かどうか cannot follow wh-questions. Use <ruby>何<rt>なん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるか<ruby>知<rt>し</rt></ruby>らない。~
+    *<ruby>何<rt>なん</rt></ruby> is a wh-word, not a yes/no question. かどうか cannot follow wh-questions. Use <ruby>何<rt>なん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるか<ruby>知<rt>し</rt></ruby>らない.*
 
 !!! success "Correct"
     <ruby>何<rt>なん</rt></ruby>を<ruby>食<rt>た</rt></ruby>べるか<ruby>知<rt>し</rt></ruby>らない。
@@ -346,7 +339,7 @@ The explicitness of かどうか makes it slightly more formal than か alone, b
 !!! failure "Ungrammatical"
     <ruby>彼<rt>かれ</rt></ruby>が<ruby>来<rt>き</rt></ruby>ますか<ruby>分<rt>わ</rt></ruby>からない。
 
-    ~Embedded clauses must use plain form. <ruby>来<rt>き</rt></ruby>ますか is a standalone polite question, not an embeddable clause.~
+    *Embedded clauses must use plain form. <ruby>来<rt>き</rt></ruby>ますか is a standalone polite question, not an embeddable clause.*
 
 !!! success "Correct"
     <ruby>彼<rt>かれ</rt></ruby>が<ruby>来<rt>く</rt></ruby>るか<ruby>分<rt>わ</rt></ruby>からない。
@@ -358,7 +351,7 @@ The explicitness of かどうか makes it slightly more formal than か alone, b
 !!! failure "Structural error"
     <ruby>彼<rt>かれ</rt></ruby>が<ruby>来<rt>く</rt></ruby>るか<ruby>知<rt>し</rt></ruby>らないかもしれない。
 
-    ~This tries to embed <ruby>知<rt>し</rt></ruby>らないかもしれない ("might not know"), which is possible but means something different. If the intent is "I don't know if he might come," the structure is wrong.~
+    *This tries to embed <ruby>知<rt>し</rt></ruby>らないかもしれない ("might not know"), which is possible but means something different. If the intent is "I don't know if he might come," the structure is wrong.*
 
 !!! success "Correct (for intended meaning)"
     <ruby>彼<rt>かれ</rt></ruby>が<ruby>来<rt>く</rt></ruby>るかどうか<ruby>分<rt>わ</rt></ruby>からない。
@@ -382,7 +375,7 @@ The explicitness of かどうか makes it slightly more formal than か alone, b
 | 〜かどうか<ruby>関係<rt>かんけい</rt></ruby>ない | "Doesn't matter whether… or not" — dismissal |
 | 〜かのように | "As if…" — hypothetical resemblance (N2) |
 
-~These collocations are worth learning as complete units. 〜か<ruby>分<rt>わ</rt></ruby>からない and 〜かどうか<ruby>分<rt>わ</rt></ruby>からない are daily-use patterns.~
+*These collocations are worth learning as complete units. 〜か<ruby>分<rt>わ</rt></ruby>からない and 〜かどうか<ruby>分<rt>わ</rt></ruby>からない are daily-use patterns.*
 
 ---
 
