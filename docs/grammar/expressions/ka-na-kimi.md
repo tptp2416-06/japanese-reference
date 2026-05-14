@@ -5,6 +5,7 @@ tags:
   - sentence-final-particle
   - soliloquy
   - kana
+  - Reviewed-Kimi
 ---
 
 # かな — Thinking Aloud
@@ -97,7 +98,7 @@ When intonation rises, かな transforms from internal monologue into a gentle, 
 |---|---|
 | | *Rising tone. A gentle probe. The speaker is interested but not pressuring. Compare to <ruby>君<rt>くん</rt></ruby>も<ruby>行<rt>い</rt></ruby>くの？ which is more direct and potentially intrusive.* |
 
-| <ruby>明日<rt>みょうにち</rt></ruby><ruby>都合<rt>つごう</rt></ruby><ruby>悪<rt>わる</rt></ruby>くないかな？ | I wonder if tomorrow isn't inconvenient [for you]? |
+| <ruby>明日<rt>あす</rt></ruby><ruby>都合<rt>つごう</rt></ruby><ruby>悪<rt>わる</rt></ruby>くないかな？ | I wonder if tomorrow isn't inconvenient [for you]? |
 |---|---|
 | | *Rising tone. A very soft way of checking availability. The negative + かな double-softens the request.* |
 
@@ -168,7 +169,7 @@ When attached to a volitional verb (〜よう/〜おう), かな creates tentati
 ## In Real Life {#in-real-life}
 
 !!! example "Pure soliloquy"
-    **Situation:** ハル is packing for a trip. She holds up a jacket, looks out the window at gray clouds, speaks to no one in particular.
+    **Situation:** <ruby>春<rt>ハル</rt></ruby> is packing for a trip. She holds up a jacket, looks out the window at gray clouds, speaks to no one in particular.
 
     > <ruby>明日<rt>あす</rt></ruby><ruby>雨<rt>あめ</rt></ruby><ruby>降<rt>ふ</rt></ruby>るかな。
 
@@ -179,7 +180,7 @@ When attached to a volitional verb (〜よう/〜おう), かな creates tentati
     **What makes this natural:** The falling intonation, the lack of eye contact, the context of solitary activity. The かな is the sound of a mind working in real time.
 
 !!! example "Soft question to a partner"
-    **Situation:** ケン has cooked dinner for ユイ. He sets the plate down and hesitates.
+    **Situation:** <ruby>健<rt>ケン</rt></ruby> has cooked dinner for <ruby>由衣<rt>ユイ</rt></ruby>. He sets the plate down and hesitates.
 
     > これでいいかな？
 
@@ -190,7 +191,7 @@ When attached to a volitional verb (〜よう/〜おう), かな creates tentati
     **What the かな protects:** Direct questions can feel like tests. かな feels like a shared wondering.
 
 !!! example "Tentative planning"
-    **Situation:** Friday afternoon. リョウ is messaging friends about weekend plans, but nothing is confirmed. He thinks aloud.
+    **Situation:** Friday afternoon. <ruby>涼<rt>リョウ</rt></ruby> is messaging friends about weekend plans, but nothing is confirmed. He thinks aloud.
 
     > <ruby>特<rt>とく</rt></ruby>に<ruby>予定<rt>よてい</rt></ruby>ないし、<ruby>家<rt>いえ</rt></ruby>でゴロゴロしようかな。
 
@@ -206,7 +207,7 @@ When attached to a volitional verb (〜よう/〜おう), かな creates tentati
 
 Japanese communication often avoids direct statements of intent or direct questions that pin the listener down. かな is a key tool in this indirectness — it allows speakers to exist in a state of productive uncertainty, to think aloud without imposing, to plan without committing.
 
-This reflects the broader value of **ma (<ruby>間<rt>ま</rt></ruby>)** — the space between things. かな creates verbal ma: a pause, a breath, a gap where the thought can hover without landing.
+This reflects the broader value of **<ruby>間<rt>ま</rt></ruby>** — the space between things. かな creates verbal <ruby>間<rt>ま</rt></ruby>: a pause, a breath, a gap where the thought can hover without landing.
 
 - **Soliloquy as social grace.** By making your thought process audible but not directive, you allow others to opt in or opt out. They can answer your かな, ignore it, or simply acknowledge it with うん. None of these responses is socially wrong.
 - **Tentative planning as face-saving.** A plan announced boldly (<ruby>行<rt>い</rt></ruby>くよ) creates accountability. A plan mused in かな (<ruby>行<rt>い</rt></ruby>こうかな) creates wiggle room. If circumstances change, the speaker can retreat without having broken a promise.
@@ -431,7 +432,7 @@ More direct, more demanding.
 | これでいいかな | "I wonder if this is okay" — soft check |
 | <ruby>何<rt>なん</rt></ruby>しようかな | "What should I do, I wonder" — open planning |
 
-~These collocations are worth learning as complete pragmatic units. どうしようかな and 〜ようかな especially are daily-use patterns.~
+These collocations are worth learning as complete pragmatic units. どうしようかな and 〜ようかな especially are daily-use patterns.
 
 ---
 

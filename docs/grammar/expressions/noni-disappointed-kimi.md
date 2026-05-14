@@ -5,6 +5,7 @@ tags:
   - conjunctions
   - emotional-contrast
   - noni
+  - reviewed
 ---
 
 # Disappointed Contrast — のに
@@ -35,7 +36,7 @@ tags:
 !!! tip "At a glance"
     - のに flags a contrast the speaker finds disappointing, frustrating, or ironic — "even though X was the case, Y happened anyway."
     - It carries emotional weight that plain けれど or でも does not — the speaker expected or hoped for a different outcome, and that violated expectation is baked into the grammar.
-    - のに attaches directly to verbs (plain form) and i-adjectives. Nouns and な-adjectives require なのに — the な is mandatory, not optional.
+    - のに attaches directly to <ruby>動詞<rt>どうし</rt></ruby>（verbs） (plain form) and i-adjectives. Nouns and な-adjectives require なのに — the な is mandatory, not optional.
     - In real speech, のに clauses often trail off (<ruby>勉強<rt>べんきょう</rt></ruby>したのに…) leaving the second clause implied, or appear sentence-finally as pure complaint markers (<ruby>約束<rt>やくそく</rt></ruby>したのに).
     - The form can turn inward: the speaker isn't complaining about someone else; they're narrating their own contradictory behavior with wry, affectionate self-blame.
 
@@ -66,13 +67,13 @@ tags:
 ## In Real Life {#in-real-life}
 
 !!! example "In Real Life"
-    **Situation:** Sunday evening. リホ has been on a diet for two weeks and was doing well. She walked past a café, went in "just to look," and ended up ordering cake. She's now telling a close friend about it.
+    **Situation:** <ruby>日曜日<rt>にちようび</rt></ruby> evening. リホ has been on a diet for two weeks and was doing well. She walked past a café, went in "just to look," and ended up ordering cake. She's now telling a close friend about it.
 
     > <ruby>ダイエット<rt>だいえっと</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>なのにケーキ<ruby>食<rt>た</rt></ruby>べちゃって…<ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいるよ。
 
     *"I'm on a diet and I went and ate cake anyway… there's definitely a part of me that regrets it."*
 
-    **Why のに fits here:** The diet is an active constraint — ダイエット<ruby>中<rt>ちゅう</rt></ruby> establishes the context. ケーキ<ruby>食<rt>た</rt></ruby>べちゃって is the violation of that constraint. なのに is the emotional bridge between the two: "given that constraint exists, I did this anyway, and I feel some kind of way about it." The wry self-observation in <ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいるよ softens the regret into something shareable.
+    **Why のに fits here:** The diet is an active constraint — <ruby>ダイエット<rt>だいえっと</rt></ruby><ruby>中<rt>ちゅう</rt></ruby> establishes the context. ケーキ<ruby>食<rt>た</rt></ruby>べちゃって is the violation of that constraint. なのに is the emotional bridge between the two: "given that constraint exists, I did this anyway, and I feel some kind of way about it." The wry self-observation in <ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいるよ softens the regret into something shareable.
 
     **What makes this natural:** She's not asking for comfort or advice. She's narrating her own contradiction — half-complaining, half-laughing at herself. This is exactly the register and emotional texture のに is built for in casual speech between close friends.
 
@@ -112,11 +113,11 @@ In textbooks のに often appears in straightforward two-clause sentences like <
 
 ### Function in Context
 
-- ダイエット<ruby>中<rt>ちゅう</rt></ruby> establishes the active constraint. なのに flags that what follows violates that constraint in an emotionally loaded way — not a neutral "but," a disappointed or ironic "and yet."
+- <ruby>ダイエット<rt>だいえっと</rt></ruby><ruby>中<rt>ちゅう</rt></ruby> establishes the active constraint. なのに flags that what follows violates that constraint in an emotionally loaded way — not a neutral "but," a disappointed or ironic "and yet."
 - ちゃって (contracted てしまって) compounds the regret — the eating happened somewhat against the speaker's will or better judgment. The combination of なのに + ちゃった is one of the most natural pairings for expressing mild self-directed irony.
 - The trailing … (ellipsis) after <ruby>食<rt>た</rt></ruby>べちゃって leaves the logical conclusion unstated. The listener understands "and now I feel bad about it" without needing it spelled out.
 - <ruby>後悔<rt>こうかい</rt></ruby>してる<ruby>自分<rt>じぶん</rt></ruby>がいるよ is a distinct pragmatic move — the speaker frames their own regret as a third-person observation ("there exists a self that regrets"). This creates gentle emotional distance.
-- Without のに: ダイエット<ruby>中<rt>ちゅう</rt></ruby>にケーキ<ruby>食<rt>た</rt></ruby>べちゃって would state the fact without the emotional contrast. The diet ceases to be a violated expectation — it's just background.
+- Without のに: <ruby>ダイエット<rt>だいえっと</rt></ruby><ruby>中<rt>ちゅう</rt></ruby>にケーキ<ruby>食<rt>た</rt></ruby>べちゃって would state the fact without the emotional contrast. The diet ceases to be a violated expectation — it's just background.
 
 | <ruby>好<rt>す</rt></ruby>きなのに<ruby>素直<rt>すなお</rt></ruby>になれなくて、ずっと<ruby>意地<rt>いじ</rt></ruby>を<ruby>張<rt>は</rt></ruby>ってた。 | Even though I liked them, I couldn't be honest and just kept being stubborn. |
 |---|---|
@@ -126,12 +127,12 @@ In textbooks のに often appears in straightforward two-clause sentences like <
 
 | Form | Result | What Changed |
 |------|--------|--------------|
-| Verb (plain form) | <ruby>行<rt>い</rt></ruby>くのに | Direct attachment — verb plain form + のに |
-| Verb (past) | <ruby>行<rt>い</rt></ruby>ったのに | Past plain form + のに — "even though I went / did" |
-| i-Adjective | <ruby>寒<rt>さむ</rt></ruby>いのに | Direct attachment — い retained |
-| な-Adjective | <ruby>元気<rt>げんき</rt></ruby>**な**のに | だ → な before のに |
-| Noun | <ruby>学生<rt>がくせい</rt></ruby>**な**のに | だ → な before のに |
-| Noun (past state) | <ruby>休日<rt>きゅうじつ</rt></ruby>だったのに | だった + のに for past state contrast |
+| <ruby>動詞<rt>どうし</rt></ruby>（Verb） (plain form) | <ruby>行<rt>い</rt></ruby>くのに | Direct attachment — verb plain form + のに |
+| <ruby>動詞<rt>どうし</rt></ruby>（Verb） (past) | <ruby>行<rt>い</rt></ruby>ったのに | Past plain form + のに — "even though I went / did" |
+| i-<ruby>形容詞<rt>けいようし</rt></ruby>（Adjective） | <ruby>寒<rt>さむ</rt></ruby>いのに | Direct attachment — い retained |
+| な-<ruby>形容詞<rt>けいようし</rt></ruby>（Adjective） | <ruby>元気<rt>げんき</rt></ruby>**な**のに | だ → な before のに |
+| <ruby>名詞<rt>めいし</rt></ruby>（Noun） | <ruby>学生<rt>がくせい</rt></ruby>**な**のに | だ → な before のに |
+| <ruby>名詞<rt>めいし</rt></ruby>（Noun） (past state) | <ruby>休日<rt>きゅうじつ</rt></ruby>だったのに | だった + のに for past state contrast |
 
 !!! warning "The な rule"
     な before のに is required for nouns and な-adjectives — it is not optional. Saying <ruby>学生<rt>がくせい</rt></ruby>のに is ungrammatical. This is the single most common construction error learners make with this pattern.

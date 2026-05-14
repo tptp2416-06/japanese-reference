@@ -5,6 +5,7 @@ tags:
   - adverbs
   - nuance-comparison
   - time-expressions
+  - DeepSeek
 ---
 
 # Subjective Speed vs. Unnoticed Change

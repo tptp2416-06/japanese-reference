@@ -1,11 +1,13 @@
 ---
-title: "も — Additive, Emphatic, Scalar, and Universal"
+title: "も — Additive, Scalar, and Universal"
 tags:
   - N5-Foundation
   - particles
   - mo
   - additive
+  - reviewed
 ---
+
 
 # The Particle も — Also, Even, and Everything In Between
 
@@ -20,7 +22,7 @@ tags:
 
     | Tier | Pattern | Description | Example |
     |------|---------|-------------|---------|
-    | N5 — Foundation | Noun + も | Additive — "also / too" | <ruby>私<rt>わたくし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く。 |
+    | N5 — Foundation | Noun + も | Additive — "also / too" | <ruby>私<rt>わたし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く。 |
     | N5 — Foundation | AもBも | Listing — "both A and B" | <ruby>猫<rt>ねこ</rt></ruby>も<ruby>犬<rt>いぬ</rt></ruby>も<ruby>好<rt>す</rt></ruby>き。 |
     | N4 — Foundation | Quantity + も | Scalar — "as much as / a whole / not even" | <ruby>三<rt>さん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>も<ruby>待<rt>ま</rt></ruby>った。 |
     | N4 — Foundation | Wh-word + も + negative | Negative polarity — "nothing / nobody / nowhere" | <ruby>何<rt>なん</rt></ruby>も<ruby>食<rt>た</rt></ruby>べない。 |
@@ -34,7 +36,7 @@ tags:
 ## Quick Summary {#quick-summary}
 
 !!! tip "At a glance"
-    - も is a **multipurpose particle** that replaces は, が, or を on a noun to add it to a set. <ruby>私<rt>わたくし</rt></ruby>は<ruby>行<rt>い</rt></ruby>く → <ruby>私<rt>わたくし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く ("I too will go").
+    - も is a **multipurpose particle** that replaces は, が, or を on a noun to add it to a set. <ruby>私<rt>わたし</rt></ruby>は<ruby>行<rt>い</rt></ruby>く → <ruby>私<rt>わたし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く ("I too will go").
     - Beyond simple addition, も scales: attached to quantities it means "as much as / a whole" (<ruby>三<rt>さん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>も); attached to minimal quantities with negative verbs it means "not even" (<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby>もない).
     - With wh-words (<ruby>何<rt>なん</rt></ruby>, <ruby>誰<rt>だれ</rt></ruby>, どこ) and negative verbs, も creates universal negatives: <ruby>何<rt>なん</rt></ruby>も<ruby>食<rt>た</rt></ruby>べない = "I eat nothing."
     - With the te-form (〜ても / 〜でも), も creates conditional extremes: "even if / even though."
@@ -48,7 +50,7 @@ tags:
 !!! note "Core Rule"
     Use も when you want to mark an item as belonging to a set in a way that emphasizes its inclusion, its extremity, or its exhaustiveness. The particle absorbs and replaces whatever case particle (は, が, を) would normally mark that item.
 
-| <ruby>私<rt>わたくし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く。 | I will go too [additive — I am added to the set of goers]. |
+| <ruby>私<rt>わたし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く。 | I will go too [additive — I am added to the set of goers]. |
 |---|---|
 | | *も replaces が or は. The speaker joins an existing group.* |
 
@@ -78,13 +80,13 @@ The foundational use. も replaces は, が, or を on a noun to include it in a
 
 | Pattern | Example | Meaning |
 |---------|---------|---------|
-| Noun + も | <ruby>私<rt>わたくし</rt></ruby>も。 | Me too. |
+| Noun + も | <ruby>私<rt>わたし</rt></ruby>も。 | Me too. |
 | Noun + も + predicate | <ruby>彼<rt>かれ</rt></ruby>も<ruby>来<rt>き</rt></ruby>た。 | He came too. |
-| Noun + も + particle + predicate | <ruby>東京<rt>とうきょう</rt></ruby>にも<ruby>行<rt>おこな</rt></ruby>った。 | I went to Tokyo too. |
+| Noun + も + particle + predicate | <ruby>東京<rt>とうきょう</rt></ruby>にも<ruby>行<rt>い</rt></ruby>った。 | I went to Tokyo too. |
 | Noun + も + noun + も | <ruby>猫<rt>ねこ</rt></ruby>も<ruby>犬<rt>いぬ</rt></ruby>も<ruby>好<rt>す</rt></ruby>き。 | I like both cats and dogs. |
 
 !!! warning "も absorbs particles"
-    You cannot double-mark. <ruby>私<rt>わたくし</rt></ruby>はも and <ruby>私<rt>わたくし</rt></ruby>もは are both ungrammatical. も replaces the topic/subject/object marker entirely. For other particles (に, で, から, etc.), も attaches after them: <ruby>東京<rt>とうきょう</rt></ruby>にも, <ruby>学校<rt>がっこう</rt></ruby>でも.
+    You cannot double-mark. <ruby>私<rt>わたし</rt></ruby>はも and <ruby>私<rt>わたし</rt></ruby>もは are both ungrammatical. も replaces the topic/subject/object marker entirely. For other particles (に, で, から, etc.), も attaches after them: <ruby>東京<rt>とうきょう</rt></ruby>にも, <ruby>学校<rt>がっこう</rt></ruby>でも.
 
 | <ruby>彼<rt>かれ</rt></ruby>にも<ruby>言<rt>い</rt></ruby>った。 | I told him too [に + も]. |
 |---|---|
@@ -165,7 +167,7 @@ When も attaches directly to nouns (or noun+copula) without a conditional te/de
 
 も marks the edge of verbal action — either the absence of even minimal action, or the presence of additional action.
 
-| <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>行<rt>おこな</rt></ruby>ったことがない。 | I've never gone even once [minimal]. |
+| <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>行<rt>い</rt></ruby>ったことがない。 | I've never gone even once [minimal]. |
 |---|---|
 | <ruby>驚<rt>おどろ</rt></ruby>くこともある。 | There are also surprising things [maximal/additive]. |
 | <ruby>何<rt>なん</rt></ruby>もしない。 | Do nothing [universal negative]. |
@@ -179,7 +181,7 @@ When も attaches directly to nouns (or noun+copula) without a conditional te/de
     **Situation:** ユイ and ケン are planning a weekend outing. They've been discussing restaurants.
 
     &gt; ユイ：<ruby>寿司<rt>すし</rt></ruby>も<ruby>食<rt>た</rt></ruby>べたいな。
-    &gt; ケン：<ruby>私<rt>わたくし</rt></ruby>も。でも、<ruby>高<rt>たか</rt></ruby>いよ。
+    &gt; ケン：<ruby>私<rt>わたし</rt></ruby>も。でも、<ruby>高<rt>たか</rt></ruby>いよ。
     &gt; ユイ：<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby>もしないよ。ランチなら。
     &gt; ケン：<ruby>子供<rt>こども</rt></ruby>でも<ruby>行<rt>い</rt></ruby>ける？
     &gt; ユイ：<ruby>誰<rt>だれ</rt></ruby>でも<ruby>行<rt>い</rt></ruby>ける。<ruby>何<rt>なん</rt></ruby>も<ruby>心配<rt>しんぱい</rt></ruby>しないで。
@@ -192,7 +194,7 @@ When も attaches directly to nouns (or noun+copula) without a conditional te/de
 
     **The も density:** This short exchange contains five distinct も functions:
     1. **<ruby>寿司<rt>すし</rt></ruby>も** — additive (sushi too, in addition to other foods)
-    2. **<ruby>私<rt>わたくし</rt></ruby>も** — additive (me too)
+    2. **<ruby>私<rt>わたし</rt></ruby>も** — additive (me too)
     3. **<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby>もしない** — scalar negative (not even 1000 yen)
     4. **<ruby>子供<rt>こども</rt></ruby>でも** — extreme conditional (even if [you're] a child / even a child)
     5. **<ruby>誰<rt>だれ</rt></ruby>でも** — extreme universal (anyone, no matter who)
@@ -210,7 +212,7 @@ When も attaches directly to nouns (or noun+copula) without a conditional te/de
 
 | Normal Particle | + も | Example |
 |-----------------|------|---------|
-| は (topic) | も (replaces) | <ruby>私<rt>わたくし</rt></ruby>は → <ruby>私<rt>わたくし</rt></ruby>も |
+| は (topic) | も (replaces) | <ruby>私<rt>わたし</rt></ruby>は → <ruby>私<rt>わたし</rt></ruby>も |
 | が (subject) | も (replaces) | <ruby>彼<rt>かれ</rt></ruby>が → <ruby>彼<rt>かれ</rt></ruby>も |
 | を (object) | も (replaces) | <ruby>本<rt>ほん</rt></ruby>を → <ruby>本<rt>ほん</rt></ruby>も |
 | に (direction) | にも | <ruby>東京<rt>とうきょう</rt></ruby>に → <ruby>東京<rt>とうきょう</rt></ruby>にも |
@@ -263,13 +265,13 @@ The scalar function has precise pragmatic rules:
 
 ## Japanese Mindset {#japanese-mindset}
 
-English tends to add information through new subjects and verbs: "I went. She went too. He also went." Japanese tends to add information through particle manipulation on a stable predicate: <ruby>私<rt>わたくし</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>った。<ruby>彼女<rt>かのじょ</rt></ruby>も<ruby>行<rt>おこな</rt></ruby>った。<ruby>彼<rt>かれ</rt></ruby>も<ruby>行<rt>おこな</rt></ruby>った。 The predicate stays; the participants accumulate.
+English tends to add information through new subjects and verbs: "I went. She went too. He also went." Japanese tends to add information through particle manipulation on a stable predicate: <ruby>私<rt>わたし</rt></ruby>が<ruby>行<rt>い</rt></ruby>った。<ruby>彼女<rt>かのじょ</rt></ruby>も<ruby>行<rt>い</rt></ruby>った。<ruby>彼<rt>かれ</rt></ruby>も<ruby>行<rt>い</rt></ruby>った。 The predicate stays; the participants accumulate.
 
 This reflects a broader Japanese preference for **stable frames with modular participants**. も is the perfect tool for this — it allows the sentence skeleton to remain while new elements are clipped on.
 
 The scalar uses reveal another preference: **quantities as emotional events**. <ruby>三<rt>さん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>も<ruby>待<rt>ま</rt></ruby>った doesn't just state the duration; it evaluates it. The も turns a measurement into an experience. English requires separate words ("a whole three hours," "as much as three hours") to achieve this; Japanese builds it into the particle.
 
-- **Inclusion as social harmony.** Additive も is the grammar of solidarity. Saying <ruby>私<rt>わたくし</rt></ruby>も is not just information — it's alignment. You are joining the other's frame.
+- **Inclusion as social harmony.** Additive も is the grammar of solidarity. Saying <ruby>私<rt>わたし</rt></ruby>も is not just information — it's alignment. You are joining the other's frame.
 - **Extremity as rhetoric.** Scalar も pushes quantities to the edge of believability. It makes numbers feel large, small, shocking, or pitiful.
 - **Exhaustion as negation.** Wh-word + も + negative doesn't just deny — it empties the universe of possibilities. <ruby>何<rt>なん</rt></ruby>もない is stronger than ない because it denies the existence of any possible thing.
 
@@ -291,7 +293,7 @@ The scalar uses reveal another preference: **quantities as emotional events**. <
 
 **も vs. さえ:** <ruby>子供<rt>こども</rt></ruby>でもできる means "Even a child can do it" (surprising but neutral). <ruby>子供<rt>こども</rt></ruby>さえできる means "Even a child can do it" (dismissive of adult difficulty, or emphasizing how easy it is). さえ is sharper and more evaluative.
 
-**も vs. だけ:** <ruby>私<rt>わたくし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く ("I too will go" — inclusive) vs. <ruby>私<rt>わたくし</rt></ruby>だけ<ruby>行<rt>い</rt></ruby>く ("Only I will go" — exclusive). They are semantic opposites but structurally similar in replacing particles.
+**も vs. だけ:** <ruby>私<rt>わたし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く ("I too will go" — inclusive) vs. <ruby>私<rt>わたし</rt></ruby>だけ<ruby>行<rt>い</rt></ruby>く ("Only I will go" — exclusive). They are semantic opposites but structurally similar in replacing particles.
 
 ---
 
@@ -303,7 +305,7 @@ The opposite of additive も. Limits rather than expands.
 
 | | |
 |---|---|
-| **Example** | <ruby>私<rt>わたくし</rt></ruby>だけ<ruby>行<rt>い</rt></ruby>く。 |
+| **Example** | <ruby>私<rt>わたし</rt></ruby>だけ<ruby>行<rt>い</rt></ruby>く。 |
 | **English** | "Only I will go." |
 | **Intent** | Exclusion — others are not going |
 | **vs. も** | も adds to a set; だけ subtracts from it. |
@@ -325,7 +327,7 @@ Exclusive, like だけ, but grammatically negative.
 
 | | |
 |---|---|
-| **Example** | <ruby>私<rt>わたくし</rt></ruby>しか<ruby>行<rt>い</rt></ruby>かない。 |
+| **Example** | <ruby>私<rt>わたし</rt></ruby>しか<ruby>行<rt>い</rt></ruby>かない。 |
 | **English** | "Only I will go / Nobody but me is going." |
 | **Intent** | Strong exclusion with negative framing |
 | **vs. も** | も is positive/inclusive addition; しか〜ない is negative/exclusive limitation. |
@@ -342,25 +344,25 @@ Exclusive, like だけ, but grammatically negative.
 も is neutral and appears across all registers. The formality shifts come from the main predicate, not from も itself.
 
 === ":material-chat-outline: Casual"
-    <ruby>私<rt>わたくし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く。<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby>もしないし。
+    <ruby>私<rt>わたし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く。<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby>もしないし。
 
     *"I'm going too. And it won't even cost 1000 yen."*
 
     **Shift:** Plain form, additive + scalar. The し adds "and what's more."
 
 === ":material-tie: Basic Polite"
-    <ruby>私<rt>わたくし</rt></ruby>も<ruby>行<rt>い</rt></ruby>きます。<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby>もいたしません。
+    <ruby>私<rt>わたし</rt></ruby>も<ruby>行<rt>い</rt></ruby>きます。<ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby>もいたしません。
 
     *"I will go as well. It will not even amount to 1000 yen."*
 
     **Shift:** です／ます on the main verbs. も itself is unchanged. しない → いたしません (humble negative of する).
 
 === ":material-briefcase-outline: Extra Polite"
-    <ruby>私<rt>わたくし</rt></ruby>どもも<ruby>参<rt>まい</rt></ruby>ります。いかなる<ruby>場合<rt>ばあい</rt></ruby>でも<ruby>対応<rt>たいおう</rt></ruby>いたします。
+    <ruby>私<rt>わたし</rt></ruby>どもも<ruby>参<rt>さん</rt></ruby>ります。いかなる<ruby>場合<rt>ばあい</rt></ruby>でも<ruby>対応<rt>たいおう</rt></ruby>いたします。
 
     *"We too will attend. We will respond in any and all circumstances."*
 
-    **Shift:** <ruby>私<rt>わたくし</rt></ruby>どもも (humble plural + additive も). いかなる<ruby>場合<rt>ばあい</rt></ruby>でも (literary/extreme conditional + も). も survives even in the most formal registers.
+    **Shift:** <ruby>私<rt>わたし</rt></ruby>どもも (humble plural + additive も). いかなる<ruby>場合<rt>ばあい</rt></ruby>でも (literary/extreme conditional + も). も survives even in the most formal registers.
 
 ---
 
@@ -368,7 +370,7 @@ Exclusive, like だけ, but grammatically negative.
 
 | Step | Pattern | What It Adds | Example |
 |------|---------|--------------|---------|
-| N5 — Foundation | Noun + も | Additive — "also / too" | <ruby>私<rt>わたくし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く。 |
+| N5 — Foundation | Noun + も | Additive — "also / too" | <ruby>私<rt>わたし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く。 |
 | N5 — Foundation | AもBも | Listing — "both A and B" | <ruby>猫<rt>ねこ</rt></ruby>も<ruby>犬<rt>いぬ</rt></ruby>も<ruby>好<rt>す</rt></ruby>き。 |
 | N4 — Foundation | Quantity + も | Scalar — "as much as / not even" | <ruby>三<rt>さん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>も<ruby>待<rt>ま</rt></ruby>った。 |
 | N4 — Foundation | Wh-word + も + negative | Negative polarity | <ruby>何<rt>なん</rt></ruby>も<ruby>食<rt>た</rt></ruby>べない。 |
@@ -409,7 +411,7 @@ Exclusive, like だけ, but grammatically negative.
 |---|---|
 | | *Context: Reassurance through total negation. The も exhausts the set of worries.* |
 
-| <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>行<rt>おこな</rt></ruby>ったことがない。 | I've never gone even once [minimal scalar]. |
+| <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>も<ruby>行<rt>い</rt></ruby>ったことがない。 | I've never gone even once [minimal scalar]. |
 |---|---|
 | | *Context: <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>も with negative creates the strongest "never." The minimal quantity is denied.* |
 
@@ -428,12 +430,12 @@ Exclusive, like だけ, but grammatically negative.
 ### 1. Double-marking with は or が
 
 !!! failure "Incorrect"
-    <ruby>私<rt>わたくし</rt></ruby>はも<ruby>行<rt>い</rt></ruby>く。
+    <ruby>私<rt>わたし</rt></ruby>はも<ruby>行<rt>い</rt></ruby>く。
 
     ~も replaces は/が. Stacking them is ungrammatical.~
 
 !!! success "Correct"
-    <ruby>私<rt>わたくし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く。
+    <ruby>私<rt>わたし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く。
 
 ### 2. Using <ruby>何<rt>なん</rt></ruby>も with affirmative verbs
 
@@ -481,7 +483,7 @@ Exclusive, like だけ, but grammatically negative.
 
 | Collocation | Meaning |
 |-------------|---------|
-| <ruby>私<rt>わたくし</rt></ruby>も | "Me too" — the universal additive |
+| <ruby>私<rt>わたし</rt></ruby>も | "Me too" — the universal additive |
 | 〜も〜も | "Both… and…" — listing pattern |
 | <ruby>何<rt>なん</rt></ruby>も〜ない | "Not… anything" — universal negative |
 | <ruby>誰<rt>だれ</rt></ruby>も〜ない | "Nobody…" — universal negative |
@@ -524,7 +526,7 @@ Exclusive, like だけ, but grammatically negative.
 
 | Stage | What It Looks Like |
 |-------|-------------------|
-| **Now — N5** | Use additive も correctly (<ruby>私<rt>わたくし</rt></ruby>も, AもBも); avoid double-marking with は/が; recognize いつも as "always" |
+| **Now — N5** | Use additive も correctly (<ruby>私<rt>わたし</rt></ruby>も, AもBも); avoid double-marking with は/が; recognize いつも as "always" |
 | **Developing — N5→N4** | Deploy scalar も with quantities (<ruby>三<rt>さん</rt></ruby><ruby>時間<rt>じかん</rt></ruby>も, <ruby>千<rt>せん</rt></ruby><ruby>円<rt>えん</rt></ruby>も); master <ruby>何<rt>なん</rt></ruby>も/<ruby>誰<rt>だれ</rt></ruby>も/どこも + negative; use 〜ても/〜でも for conditional extremes |
 | **Automatic — N4→N3** | Distinguish additive も from scalar も from extreme も in real time; use <ruby>子供<rt>こども</rt></ruby>でも naturally; understand 〜てもいい as permission; produce <ruby>一<rt>いち</rt></ruby><ruby>度<rt>ど</rt></ruby>も〜ない without thinking |
 | **Mastery** | You control the full も spectrum — adding items, scaling quantities, exhausting universes, and pushing conditional boundaries. You know when さえ would be too sharp, when だけ would be too exclusive, and when も is exactly right. You also hear the scalar origin in てもいい permission and the lexicalized drift in いつも. |

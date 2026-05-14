@@ -5,7 +5,7 @@ tags:
   - obligation
   - conditionals
   - nai-to
-  - Kimi2.6
+  - reviewed
 ---
 
 # Obligation Expressions — Must / Have To
@@ -339,7 +339,7 @@ The most formal variant, common in legal, academic, and official written Japanes
 
     *"If you do not have a valid pass, you must pay a separate fare."*
 
-    **Why なければなりません:** Legal clarity, public authority, zero ambiguity. The combination of <ruby>尊敬<rt>そんけい</rt></ruby><ruby>語<rt>ご</rt></ruby> (お<ruby>持<rt>も</rt></ruby>ちになる) and <ruby>謙譲<rt>けんじょう</rt></ruby><ruby>語<rt>ご</rt></ruby>/<ruby>丁寧<rt>ていねい</rt></ruby><ruby>語<rt>ご</rt></ruby> obligation creates full keigo architecture.
+    **Why なければなりません:** Legal clarity, public authority, zero ambiguity. The combination of <ruby>敬語<rt>けいご</rt></ruby> forms creates full keigo architecture.
 
 ---
 
@@ -373,9 +373,7 @@ The most formal variant, common in legal, academic, and official written Japanes
 !!! failure "Opposite meaning"
     <ruby>入<rt>はい</rt></ruby>らなきゃ。
 
-    *"I must not enter"* [wrong — this means "I must enter"]
-
-    ~The negative conditional creates positive obligation. Prohibition requires 〜てはいけない: <ruby>入<rt>はい</rt></ruby>ってはいけない ("You must not enter").~
+    *"I must not enter"* [wrong — this means "I must enter"]*
 
 !!! success "Correct"
     <ruby>入<rt>はい</rt></ruby>らなきゃ。
@@ -414,8 +412,6 @@ The most formal variant, common in legal, academic, and official written Japanes
 | 〜しなきゃ<ruby>困<rt>こま</rt></ruby>る | "If I don't do it, I'll be in trouble" — personal vulnerability as request |
 | 〜しないと<ruby>間<rt>ま</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わない | "If not, won't make it" — explicit time pressure |
 | 〜しないと<ruby>怒<rt>おこ</rt></ruby>られる | "If not, will be scolded" — social consequence fear |
-
-~These collocations are worth learning as complete pragmatic units. The だよね and ね variants especially are social lubricants that transform pressure into bonding.~
 
 ---
 

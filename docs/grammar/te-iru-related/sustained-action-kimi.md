@@ -5,7 +5,7 @@ tags:
   - te-form
   - giving-receiving
   - sustained-action
-  - Kimi2.6
+  - reviewed
 ---
 
 # 〜ていてくれる — Sustained Action for My Benefit
@@ -191,7 +191,7 @@ Textbooks teach 〜てくれる and 〜ている separately. Real speech stacks 
 
 Japanese relational grammar encodes **sustained attention as a form of care**. Asking someone to <ruby>待<rt>ま</rt></ruby>っていてくれる is not merely asking for a practical favor — it is asking them to maintain an emotional state on your behalf while you are absent or failing.
 
-This reflects the broader cultural value of **omoi-yari (<ruby>思<rt>おも</rt></ruby>い<ruby>遣<rt>や</rt></ruby>り / empathetic consideration)** — but with a twist. The speaker is not performing consideration; they are *requesting* it. This creates vulnerability, and the grammar must package that vulnerability without making it burdensome.
+This reflects the broader cultural value of **<ruby>思<rt>おも</rt></ruby>い<ruby>遣<rt>や</rt></ruby>り (omoi-yari / empathetic consideration)** — but with a twist. The speaker is not performing consideration; they are *requesting* it. This creates vulnerability, and the grammar must package that vulnerability without making it burdensome.
 
 - **Sustained states as relational glue.** In Japanese, relationships are maintained through ongoing small acts of attention, not grand declarations. <ruby>待<rt>ま</rt></ruby>っていてくれる asks for one such act — but sustained, through time. The grammar recognizes that brief moments are insufficient for real care.
 - **The progressive as emotional commitment.** 〜ている is not merely grammatical progressive aspect; in this construction, it becomes a promise of continuity. "I will keep this state alive for you."
@@ -320,37 +320,37 @@ The sustained-benefit meaning must be preserved across register shifts, though t
 |---|---|
 | | *Literal: Work-by busy even-if, remember [sustained] [te-form] give [question]?* |
 
-~Context: Asking a partner to maintain emotional memory through their own demanding periods. The <ruby>覚<rt>おぼ</rt></ruby>えていて layer is essential — "keep holding this in your mind" rather than "remember this fact."~
+Context: Asking a partner to maintain emotional memory through their own demanding periods. The <ruby>覚<rt>おぼ</rt></ruby>えていて layer is essential — "keep holding this in your mind" rather than "remember this fact."
 
 | <ruby>遠<rt>とお</rt></ruby>くにいても、<ruby>応援<rt>おうえん</rt></ruby>していてくれる？ | Even if I'm far away, will you keep supporting me? |
 |---|---|
 | | *Literal: Far being even-if, support [sustained] [te-form] give [question]?* |
 
-~Context: Before a long-distance separation. The していて layer asks for sustained action across spatial and temporal distance.~
+Context: Before a long-distance separation. The していて layer asks for sustained action across spatial and temporal distance.
 
 | <ruby>寂<rt>さび</rt></ruby>しくても、<ruby>我慢<rt>がまん</rt></ruby>していてくれる？ | Even if you get lonely, will you keep being patient [for me]? |
 |---|---|
 | | *Literal: Lonely even-if, endure [sustained] [te-form] give [question]?* |
 
-~Context: Asking someone to maintain a difficult emotional state on your behalf. The burden is explicitly acknowledged.~
+Context: Asking someone to maintain a difficult emotional state on your behalf. The burden is explicitly acknowledged.
 
 | いつも<ruby>信<rt>しん</rt></ruby>じていてくれてありがとう。 | Thank you for always keeping believing in me. |
 |---|---|
 | | *Literal: Always believe [sustained] [te-form] give [te-form] thanks.* |
 
-~Context: Expression of deep gratitude. The いつも (always) + ていて (sustained) + くれて (giving) creates a triple layer of appreciation for ongoing commitment.~
+Context: Expression of deep gratitude. The いつも (always) + ていて (sustained) + くれて (giving) creates a triple layer of appreciation for ongoing commitment.
 
 | <ruby>待<rt>ま</rt></ruby>っていてくれて、ありがとう。 | Thanks for keeping waiting for me. |
 |---|---|
 | | *Literal: Wait [sustained] [te-form] give [te-form], thanks.* |
 
-~Context: Arriving late and finding someone still there. The ていてくれて thanks them for the sustained state they maintained.~
+Context: Arriving late and finding someone still there. The ていてくれて thanks them for the sustained state they maintained.
 
 | <ruby>待<rt>ま</rt></ruby>っていてくれなかった。 | You didn't keep waiting for me. |
 |---|---|
 | | *Literal: Wait [sustained] [te-form] give-past-negative.* |
 
-~Context: Disappointment upon finding someone gone. The ていて layer makes the disappointment deeper — they didn't just fail to wait; they failed to sustain the state.~
+Context: Disappointment upon finding someone gone. The ていて layer makes the disappointment deeper — they didn't just fail to wait; they failed to sustain the state.
 
 ---
 
@@ -363,12 +363,12 @@ Learners sometimes try to connect the progressive directly to くれる without 
 !!! failure "Ungrammatical"
     <ruby>待<rt>ま</rt></ruby>っているくれる？
 
-    ~The progressive <ruby>待<rt>ま</rt></ruby>っている cannot directly attach to くれる. The te-form <ruby>待<rt>ま</rt></ruby>っていて is required as connective.~
+    The progressive <ruby>待<rt>ま</rt></ruby>っている cannot directly attach to くれる. The te-form <ruby>待<rt>ま</rt></ruby>っていて is required as connective.
 
 !!! success "Correct"
     <ruby>待<rt>ま</rt></ruby>っていてくれる？
 
-    ~Te-form of progressive (<ruby>待<rt>ま</rt></ruby>っていて) + くれる. The double-te is mandatory.~
+    Te-form of progressive (<ruby>待<rt>ま</rt></ruby>っていて) + くれる. The double-te is mandatory.
 
 ### 2. Using 〜ていてくれる for brief actions
 
@@ -382,7 +382,7 @@ The sustained aspect is semantic, not just grammatical. Using it for momentary a
 !!! success "Appropriate"
     <ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けてくれる？
 
-    *"Will you open the window for me?"* — Simple request for discrete action.~
+    *"Will you open the window for me?"* — Simple request for discrete action.
 
 ### 3. Confusing 〜ていてくれる with 〜てくれる in emotional weight
 
@@ -414,7 +414,7 @@ Using the simple form when the sustained form is emotionally required creates a 
 | 〜ていてくれた | "[You] kept [doing X] for me" — past realization of sustained care |
 | 〜ていてくれなかった | "Didn't keep [doing X] for me" — past disappointment |
 
-~These collocations are worth learning as complete emotional units. The pattern is highly productive for any verb where sustained presence or attention matters.~
+These collocations are worth learning as complete emotional units. The pattern is highly productive for any verb where sustained presence or attention matters.
 
 ---
 
@@ -469,8 +469,3 @@ Using the simple form when the sustained form is emotionally required creates a 
 - 〜ていてくれてありがとう (N3) — Gratitude for sustained benefit
 - 〜ていてもらえる (N4) — Humble sustained request
 - 〜ていてほしい (N3) — "I want you to keep [doing X]" — desire rather than request
-
-
-## Model
-
-Kimi 2.6 Instant

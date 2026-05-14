@@ -5,6 +5,7 @@ tags:
   - particles
   - de
   - scope
+  - reviewed
 ---
 
 # The Particle で — Action, Means, and Domain
