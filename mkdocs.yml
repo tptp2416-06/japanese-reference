@@ -106,6 +106,7 @@ nav:
       - N4:
         # Foundations
         - Te-form: grammar/expressions/te-form.md
+        - 〜て＋Auxiliary — Te-form Expression Spectrum (N5–N3): grammar/expressions/te-expressions.md
         - Tense & Aspect: grammar/expressions/tense-aspect.md
         - Conditionals: grammar/expressions/conditionals.md
 

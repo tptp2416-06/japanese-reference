@@ -23,6 +23,7 @@ tags:
     <p style="font-size: 12px; color: var(--md-default-fg-color--lighter); margin: 1rem 0 0.25rem; letter-spacing: 0.05em; text-transform: uppercase;">Foundations</p>
     <div style="border-top: 0.5px solid var(--md-default-fg-color--lightest);">
       <a href="te-form/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">Te-form</a>
+      <a href="te-expressions/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜て＋Auxiliary — Te-form expression spectrum (N5–N3)</a>
       <a href="tense-aspect/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">Tense & Aspect</a>
       <a href="conditionals/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">Conditionals</a>
     </div>
