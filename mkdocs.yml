@@ -192,7 +192,8 @@ nav:
   - Questions:
     - Overview: questions/index.md
     - Noun Modifying Clauses: questions/noun-modify-clause.md
-    - Word Order: questions/word-order.md    
+    - Word Order: questions/word-order.md
+    - Relative Clause vs. Nominalization: questions/clause-vs-nominal.md    
   - Tags: tags.md
 
 extra:
