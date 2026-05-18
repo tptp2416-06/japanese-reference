@@ -95,6 +95,7 @@ nav:
       - Overview: grammar/verbs/index.md
       - Causative Form (〜せる / 〜させる): grammar/verbs/causative-form.md
       - Transitive vs. Intransitive Verbs: grammar/verbs/trans-intrans-kimi.md
+      - Passive Form (受身形 / 〜れる・〜られる): grammar/verbs/passive-form-kimi.md
     - Particles:
       - Overview: grammar/particles/index.md
       - で — Location, Means, Scope, and Limit: grammar/particles/de-particle.md
@@ -109,6 +110,7 @@ nav:
         - 〜て＋Auxiliary — Te-form Expression Spectrum (N5–N3): grammar/expressions/te-expressions.md
         - Tense & Aspect: grammar/expressions/tense-aspect.md
         - Conditionals: grammar/expressions/conditionals.md
+        - 〜やすい・〜にくい — Easy to Do / Hard to Do: grammar/expressions/yasui-nikui-kimi.md
 
         # Explanatory & Quotation
         - 〜んだ — Explanatory / Realization Emphasis: grammar/expressions/n-da-kimi.md
@@ -123,6 +125,7 @@ nav:
         # Modality & Obligation
         - 〜なきゃ・ないと etc. — Must / Have To: grammar/expressions/obligation-kimi.md
         - ～ちゃいなよ — Casual Encouragement: grammar/expressions/chai-nayo-deepseek.md
+        - 〜はず — Supposed To Be / Expected Certainty: grammar/expressions/hazu-kimi.md
 
         # Softening & Register
         - Casual Topic-Setting / Softening Pivot: grammar/expressions/topic-pivot-casual.md

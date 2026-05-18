@@ -28,12 +28,23 @@ tags:
       <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
     </a>
 
-    <a href="trans-intrans-kimi/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+    <a href="trans-intrans-kimi/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
       <div style="display: flex; align-items: baseline; gap: 16px;">
         <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">対</span>
         <div>
           <p style="font-size: 16px; font-weight: 500; margin: 0;">Transitive vs. Intransitive Verbs — 他動詞・自動詞</p>
           <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">Verb pairs, を vs. が, and why the distinction matters in everyday speech</p>
+        </div>
+      </div>
+      <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
+    </a>
+
+    <a href="passive-form-kimi/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+      <div style="display: flex; align-items: baseline; gap: 16px;">
+        <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">受</span>
+        <div>
+          <p style="font-size: 16px; font-weight: 500; margin: 0;">Passive Form — 受身形 (〜れる / 〜られる)</p>
+          <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">Direct, suffering, and intransitive passive — plus the three functions of られる</p>
         </div>
       </div>
       <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
