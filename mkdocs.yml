@@ -96,6 +96,7 @@ nav:
       - Causative Form (〜せる / 〜させる): grammar/verbs/causative-form.md
       - Transitive vs. Intransitive Verbs: grammar/verbs/trans-intrans-kimi.md
       - Passive Form (受身形 / 〜れる・〜られる): grammar/verbs/passive-form-kimi.md
+      - Potential Form (可能形 / 〜られる・〜れる): grammar/verbs/potential-form.md
     - Particles:
       - Overview: grammar/particles/index.md
       - で — Location, Means, Scope, and Limit: grammar/particles/de-particle.md
@@ -111,6 +112,7 @@ nav:
         - Tense & Aspect: grammar/expressions/tense-aspect.md
         - Conditionals: grammar/expressions/conditionals.md
         - 〜やすい・〜にくい — Easy to Do / Hard to Do: grammar/expressions/yasui-nikui-kimi.md
+        - 名詞＋多い・少ない — Quantity Adjectives & the が-Drop Pattern: grammar/expressions/noun-ooi-sukunai.md
 
         # Explanatory & Quotation
         - 〜んだ — Explanatory / Realization Emphasis: grammar/expressions/n-da-kimi.md
