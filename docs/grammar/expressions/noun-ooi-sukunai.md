@@ -18,18 +18,18 @@ tags:
 ## JLPT Level {#jlpt-level}
 
 !!! abstract "JLPT Level — N4 Core / N3 Awareness"
-    The mechanical pattern (noun + adjective with dropped が) is solid N4 — a core feature of casual spoken Japanese. But the underlying logic — why 多い and 少ない resist direct pre-nominal attribution, why Japanese adjectives are fundamentally predicates, and how this extends to dozens of other adjectives — pushes into N3 sociolinguistic awareness. This page maps the full casual-speech adjective landscape.
+    The mechanical pattern (noun + adjective with dropped が) is solid N4 — a core feature of casual spoken Japanese. But the underlying logic — why <ruby>多い<rt>おおい</rt></ruby> and <ruby>少ない<rt>すくない</rt></ruby> resist direct pre-nominal attribution, why Japanese adjectives are fundamentally predicates, and how this extends to dozens of other adjectives — pushes into N3 sociolinguistic awareness. This page maps the full casual-speech adjective landscape.
 
     | Tier | Pattern | Description | Example |
     |------|---------|-------------|---------|
     | N5 — Foundation | Adjective + Noun | Standard pre-nominal attribution | <ruby>大きい<rt>おおきい</rt></ruby><ruby>家<rt>いえ</rt></ruby> |
     | N5 — Foundation | Noun + が + Adjective | Standard predicative | <ruby>家<rt>いえ</rt></ruby>が<ruby>大きい<rt>おおきい</rt></ruby> |
     | **N4 — Core ← You are here** | **Noun + (が) + Adjective** | **Casual が-drop; adjective follows noun** | **<ruby>休み<rt>やすみ</rt></ruby>(が)<ruby>少ない<rt>すくない</rt></ruby>** |
-    | N4 — Core | 多くの / 少しの | Formal pre-nominal quantity | <ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby> |
-    | N3 — Extended | **Noun + 大きい／小さい etc.** | **Property adjectives in casual post-nominal position** | **サイズ<ruby>大きい<rt>おおきい</rt></ruby>** |
-    | N3 — Extended | **Noun + 遠い／近い etc.** | **Spatial/temporal adjectives post-nominal** | **<ruby>距離<rt>きょり</rt></ruby><ruby>遠い<rt>とおい</rt></ruby>** |
-    | N2 — Awareness | 〜なき (文語) | Literary post-nominal | <ruby>神<rt>かみ</rt></ruby>なき<ruby>世界<rt>せかい</rt></ruby> |
-    | N2 — Awareness | 〜たる (文語) | Archival attributive post-nominal | <ruby>勇敢<rt>ゆうかん</rt></ruby>たる<ruby>兵士<rt>へいし</rt></ruby> |
+    | N4 — Core | <ruby>多く<rt>おおく</rt></ruby>の / <ruby>少<rt>すこ</rt></ruby>しの | Formal pre-nominal quantity | <ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby> |
+    | N3 — Extended | **Noun + <ruby>大きい<rt>おおきい</rt></ruby>／<ruby>小さい<rt>ちいさい</rt></ruby> etc.** | **Property adjectives in casual post-nominal position** | **サイズ<ruby>大きい<rt>おおきい</rt></ruby>** |
+    | N3 — Extended | **Noun + <ruby>遠い<rt>とおい</rt></ruby>／<ruby>近い<rt>ちかい</rt></ruby> etc.** | **Spatial/temporal adjectives post-nominal** | **<ruby>距離<rt>きょり</rt></ruby><ruby>遠い<rt>とおい</rt></ruby>** |
+    | N2 — Awareness | 〜なき (<ruby>文語<rt>ぶんご</rt></ruby>) | Literary post-nominal | <ruby>神<rt>かみ</rt></ruby>なき<ruby>世界<rt>せかい</rt></ruby> |
+    | N2 — Awareness | 〜たる (<ruby>文語<rt>ぶんご</rt></ruby>) | Archival attributive post-nominal | <ruby>勇敢<rt>ゆうかん</rt></ruby>たる<ruby>兵士<rt>へいし</rt></ruby> |
 
 ---
 
@@ -37,7 +37,7 @@ tags:
 
 !!! tip "At a glance"
     - What looks like "post-nominal modification" in <ruby>休み<rt>やすみ</rt></ruby><ruby>少ない<rt>すくない</rt></ruby> or お<ruby>店<rt>みせ</rt></ruby><ruby>多い<rt>おおい</rt></ruby> is usually **casual が omission**. The underlying grammar is <ruby>休み<rt>やすみ</rt></ruby>**が**<ruby>少ない<rt>すくない</rt></ruby> / お<ruby>店<rt>みせ</rt></ruby>**が**<ruby>多い<rt>おおい</rt></ruby> — standard predicative sentences with the subject marker dropped.
-    - **多い** and **少ない** are **inherently predicative** quantity adjectives. They describe the count of a set, not the intrinsic property of an individual. This makes them resist direct pre-nominal use: <ruby>多い<rt>おおい</rt></ruby><ruby>人<rt>ひと</rt></ruby> is ambiguous, while <ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby> is crystal clear.
+    - **<ruby>多い<rt>おおい</rt></ruby>** and **<ruby>少ない<rt>すくない</rt></ruby>** are **inherently predicative** quantity adjectives. They describe the count of a set, not the intrinsic property of an individual. This makes them resist direct pre-nominal use: <ruby>多い<rt>おおい</rt></ruby><ruby>人<rt>ひと</rt></ruby> is ambiguous, while <ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby> is crystal clear.
     - In casual speech, **virtually any i-adjective or na-adjective** can follow its noun when が drops. But the pattern is most natural with adjectives describing **measurable, perceivable, or evaluable properties**: size, distance, time, quality, temperature, brightness, cleanliness.
     - **Pre-nominal** (<ruby>多い<rt>おおい</rt></ruby>お<ruby>店<rt>みせ</rt></ruby>) is formal/written. **Predicative with が** (お<ruby>店<rt>みせ</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>) is standard. **Predicative with dropped が** (お<ruby>店<rt>みせ</rt></ruby><ruby>多い<rt>おおい</rt></ruby>) is casual spoken. These are three registers of the same idea, not three different grammars.
     - The key insight: **Japanese adjectives are predicates first, modifiers second.** They conjugate like verbs. When they follow a noun, they are usually just doing their primary job — predicating — without the particle that normally announces the subject.
@@ -59,9 +59,9 @@ tags:
 | | *Underlying: このへん、お<ruby>店<rt>みせ</rt></ruby>がめっちゃ<ruby>多い<rt>おおい</rt></ruby>。The が drops; めっちゃ intensifies. The post-nominal position feels like an afterthought, which is exactly how casual observations are delivered.* |
 | | *Context: Walking through a new neighborhood with a friend. The grammar matches the rhythm of looking around and commenting.* |
 
-| この<ruby>部屋<rt>へや</rt></ruby>、<ruby>明るく<rt>あかるく</rt></ruby>て<ruby>気持ちいい<rt>きもちいい</rt></ruby>。 | This room is bright and feels good [casual]. |
+| この<ruby>部屋<rt>へや</rt></ruby>、<ruby>明<rt>あか</rt></ruby>るくて<ruby>気持<rt>きも</rt></ruby>ちいい。 | This room is bright and feels good [casual]. |
 |---|---|
-| | *Underlying: この<ruby>部屋<rt>へや</rt></ruby>が<ruby>明るく<rt>あかるく</rt></ruby>て… The pattern extends far beyond quantity adjectives.* |
+| | *Underlying: この<ruby>部屋<rt>へや</rt></ruby>が<ruby>明<rt>あか</rt></ruby>るくて… The pattern extends far beyond quantity adjectives.* |
 | | *Context: Entering a room and reacting. The post-nominal adjective chain feels spontaneous.* |
 
 | <ruby>彼<rt>かれ</rt></ruby>、<ruby>頭<rt>あたま</rt></ruby>いいよね。 | He's smart, isn't he [casual]. |
@@ -71,9 +71,9 @@ tags:
 
 ---
 
-## Why 多い and 少ない Feel Different {#why-sukunai-and-ooi-feel-different}
+## Why <ruby>多い<rt>おおい</rt></ruby> and <ruby>少ない<rt>すくない</rt></ruby> Feel Different {#why-sukunai-and-ooi-feel-different}
 
-多い and 少ない are not just "adjectives that sometimes drop が." They are **structurally predicative** in a way that most adjectives are not. Understanding this explains why they are the poster children for the post-nominal pattern.
+<ruby>多い<rt>おおい</rt></ruby> and <ruby>少ない<rt>すくない</rt></ruby> are not just "adjectives that sometimes drop が." They are **structurally predicative** in a way that most adjectives are not. Understanding this explains why they are the poster children for the post-nominal pattern.
 
 ### 1. They quantify sets, not individuals
 
@@ -82,7 +82,7 @@ tags:
 | <ruby>多い<rt>おおい</rt></ruby><ruby>人<rt>ひと</rt></ruby> | <ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby> / <ruby>人<rt>ひと</rt></ruby><ruby>多い<rt>おおい</rt></ruby> | <ruby>多い<rt>おおい</rt></ruby><ruby>人<rt>ひと</rt></ruby> = "a person who is abundant" (nonsense) or "many people" (awkward as attributive). <ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby> = "people are numerous" — the set is quantified. |
 | <ruby>少ない<rt>すくない</rt></ruby><ruby>休み<rt>やすみ</rt></ruby> | <ruby>休み<rt>やすみ</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby> / <ruby>休み<rt>やすみ</rt></ruby><ruby>少ない<rt>すくない</rt></ruby> | <ruby>少ない<rt>すくない</rt></ruby><ruby>休み<rt>やすみ</rt></ruby> = "few holidays" (acceptable as attributive NP). <ruby>休み<rt>やすみ</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby> = "holidays are few" — a statement about the whole schedule. |
 
-多い and 少ない describe **the cardinality of a group**. They are awkward when forced to modify a single noun attributively because they want to predicate over a plural subject. This is why **多くの** (adverbial form) is required for true pre-nominal attribution: <ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby> = "many (of) people."
+<ruby>多い<rt>おおい</rt></ruby> and <ruby>少ない<rt>すくない</rt></ruby> describe **the cardinality of a group**. They are awkward when forced to modify a single noun attributively because they want to predicate over a plural subject. This is why **<ruby>多く<rt>おおく</rt></ruby>の** (adverbial form) is required for true pre-nominal attribution: <ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby> = "many (of) people."
 
 ### 2. They resist true attributive use without transformation
 
@@ -92,11 +92,11 @@ tags:
 | お<ruby>金<rt>かね</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby> | <ruby>少ない<rt>すくない</rt></ruby>お<ruby>金<rt>かね</rt></ruby> | お<ruby>金<rt>かね</rt></ruby><ruby>少ない<rt>すくない</rt></ruby> |
 | <ruby>店<rt>みせ</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby> | <ruby>多く<rt>おおく</rt></ruby>の<ruby>店<rt>みせ</rt></ruby> | <ruby>店<rt>みせ</rt></ruby><ruby>多い<rt>おおい</rt></ruby> |
 
-**多くの** and **少しの** (or **少ない** directly) are the formal pre-nominal forms. But in casual speech, native speakers simply drop が and let the adjective follow the noun. This is not bad grammar — it is **register-appropriate grammar**.
+**<ruby>多く<rt>おおく</rt></ruby>の** and **<ruby>少<rt>すこ</rt></ruby>しの** (or **<ruby>少ない<rt>すくない</rt></ruby>** directly) are the formal pre-nominal forms. But in casual speech, native speakers simply drop が and let the adjective follow the noun. This is not bad grammar — it is **register-appropriate grammar**.
 
 ### 3. They are "floating quantifiers"
 
-In このへん、お<ruby>店<rt>みせ</rt></ruby><ruby>多い<rt>おおい</rt></ruby>, 多い does not feel like it is "modifying" お<ruby>店<rt>みせ</rt></ruby> in the way that 大きい modifies <ruby>家<rt>いえ</rt></ruby> in <ruby>大きい<rt>おおきい</rt></ruby><ruby>家<rt>いえ</rt></ruby>. It feels like it is **assessing the scene**. This "floating" quality — where the adjective evaluates the noun's presence in the environment — is unique to quantity and a few other semantic categories.
+In このへん、お<ruby>店<rt>みせ</rt></ruby><ruby>多い<rt>おおい</rt></ruby>, <ruby>多い<rt>おおい</rt></ruby> does not feel like it is "modifying" お<ruby>店<rt>みせ</rt></ruby> in the way that <ruby>大きい<rt>おおきい</rt></ruby> modifies <ruby>家<rt>いえ</rt></ruby> in <ruby>大きい<rt>おおきい</rt></ruby><ruby>家<rt>いえ</rt></ruby>. It feels like it is **assessing the scene**. This "floating" quality — where the adjective evaluates the noun's presence in the environment — is unique to quantity and a few other semantic categories.
 
 ---
 
@@ -119,7 +119,7 @@ Topic + , + Noun + [ø] + Adjective
 The comma or topic phrase (このへん) creates a pause that makes the dropped が even more natural. The ear hears a topic, then a comment, and the missing particle is supplied by context.
 
 !!! note "What gets dropped"
-    Only **が** drops this way. **を** can also drop in very casual speech (<ruby>ご飯<rt>ごはん</rt></ruby><ruby>食べた<rt>たべた</rt></ruby>?), but the "noun + adjective" pattern is overwhelmingly a **が-drop phenomenon**. に and へ do not drop in this construction.
+    Only **が** drops this way. **を** can also drop in very casual speech (ご<ruby>飯<rt>はん</rt></ruby><ruby>食<rt>た</rt></ruby>べた?), but the "noun + adjective" pattern is overwhelmingly a **が-drop phenomenon**. に and へ do not drop in this construction.
 
 !!! note "Why this is not the same as な-adjective attribution"
     <ruby>静か<rt>しずか</rt></ruby>な<ruby>部屋<rt>へや</rt></ruby> = "a quiet room" (true pre-nominal attribution with な).  
@@ -130,7 +130,7 @@ The comma or topic phrase (このへん) creates a pause that makes the dropped 
 
 ## The Extended Family: Other Adjectives in This Pattern {#the-extended-family}
 
-While 多い and 少ない are the most iconic examples, the casual post-nominal pattern extends to **dozens of adjectives** that describe measurable, perceivable, or evaluable properties. Below is the full landscape, organized by semantic category.
+While <ruby>多い<rt>おおい</rt></ruby> and <ruby>少ない<rt>すくない</rt></ruby> are the most iconic examples, the casual post-nominal pattern extends to **dozens of adjectives** that describe measurable, perceivable, or evaluable properties. Below is the full landscape, organized by semantic category.
 
 ### Quantity & Amount
 | Casual Post-Nominal | Standard Predicative | Pre-Nominal (Formal) | Meaning |
@@ -249,8 +249,8 @@ The post-nominal adjective pattern reveals something deep about Japanese informa
 
 - **Observation before evaluation.** In このへん、お<ruby>店<rt>みせ</rt></ruby><ruby>多い<rt>おおい</rt></ruby>, the speaker establishes the spatial frame (このへん) before delivering the quantification (<ruby>多い<rt>おおい</rt></ruby>). This mirrors how Japanese speakers often scan a scene and then comment — a cognitive pattern encoded in grammar.
 - **が omission as social softening.** Dropping が removes grammatical scaffolding, making the sentence feel less declarative and more observational. <ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby> is a statement; <ruby>人<rt>ひと</rt></ruby><ruby>多い<rt>おおい</rt></ruby> is a murmured notice. The missing particle creates interpersonal distance from the assertion.
-- **Adjectives as verbs of state.** Because Japanese i-adjectives conjugate like verbs (<ruby>高かった<rt>たかかった</rt></ruby>, <ruby>高くない<rt>たかくない</rt></ruby>), they are already halfway to being predicates. Placing them after the noun is not a violation of adjective behavior — it is a return to their natural habitat.
-- **Quantity as environment.** 多い and 少ない do not describe the noun's essence; they describe the noun's abundance in the perceptual field. This is why they resist pre-nominal position: they are not properties of the noun, but **assessments of the scene**.
+- **Adjectives as verbs of state.** Because Japanese i-adjectives conjugate like verbs (<ruby>高<rt>たか</rt></ruby>かった, <ruby>高<rt>たか</rt></ruby>くない), they are already halfway to being predicates. Placing them after the noun is not a violation of adjective behavior — it is a return to their natural habitat.
+- **Quantity as environment.** <ruby>多い<rt>おおい</rt></ruby> and <ruby>少ない<rt>すくない</rt></ruby> do not describe the noun's essence; they describe the noun's abundance in the perceptual field. This is why they resist pre-nominal position: they are not properties of the noun, but **assessments of the scene**.
 
 ---
 
@@ -264,7 +264,7 @@ The post-nominal adjective pattern reveals something deep about Japanese informa
 | Explanatory のだ | <ruby>休み<rt>やすみ</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>んだ | Casual explanatory | Adds reasoning or seeking-understanding tone. |
 | Explanatory + drop | <ruby>休み<rt>やすみ</rt></ruby><ruby>少ない<rt>すくない</rt></ruby>んだ | Casual explanatory | The most natural complaint register. |
 
-**Pre-nominal vs. post-nominal for 多い/少ない:**
+**Pre-nominal vs. post-nominal for <ruby>多い<rt>おおい</rt></ruby>/<ruby>少ない<rt>すくない</rt></ruby>:**
 - <ruby>多い<rt>おおい</rt></ruby>お<ruby>店<rt>みせ</rt></ruby> (pre-nominal) = "many shops" as a noun phrase. Slightly stiff; often better as <ruby>多く<rt>おおく</rt></ruby>のお<ruby>店<rt>みせ</rt></ruby>.
 - お<ruby>店<rt>みせ</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby> (predicative) = "shops are numerous." The natural way to state this.
 - お<ruby>店<rt>みせ</rt></ruby><ruby>多い<rt>おおい</rt></ruby> (casual drop) = "shops, huh? Lots of them." The natural way to notice this.
@@ -290,7 +290,7 @@ The post-nominal adjective pattern reveals something deep about Japanese informa
 
     *"Around here, there are mad shops."*
 
-    **Shift:** めっちゃ (intensifier) inserted between noun and adjective. This is only possible in the casual post-nominal pattern — you cannot say めっちゃ多いお店 and keep the same spoken rhythm.
+    **Shift:** めっちゃ (intensifier) inserted between noun and adjective. This is only possible in the casual post-nominal pattern — you cannot say めっちゃ<ruby>多い<rt>おおい</rt></ruby>お<ruby>店<rt>みせ</rt></ruby> and keep the same spoken rhythm.
 
 === ":material-tie: Basic Polite"
     <ruby>今月<rt>こんげつ</rt></ruby>は<ruby>休み<rt>やすみ</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby>ですね。
@@ -304,10 +304,10 @@ The post-nominal adjective pattern reveals something deep about Japanese informa
 
     *"Our store has many customers."*
 
-    **Shift:** お<ruby>客<rt>きゃく</rt></ruby>様が (subject with honorific). <ruby>多く<rt>おおく</rt></ruby> (adverbial form, not 多い). ございます (humble copula). The quantity adjective is forced into its formal shape.
+    **Shift:** お<ruby>客様<rt>きゃくさま</rt></ruby>が (subject with honorific). <ruby>多く<rt>おおく</rt></ruby> (adverbial form, not <ruby>多い<rt>おおい</rt></ruby>). ございます (humble copula). The quantity adjective is forced into its formal shape.
 
 === ":material-briefcase-outline: Written / Formal"
-    <ruby>少ない<rt>すくない</rt></ruby><ruby>休み<rt>やすみ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>、<ruby>頑張り<rt>がんばり</rt></ruby>ました。
+    <ruby>少ない<rt>すくない</rt></ruby><ruby>休み<rt>やすみ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>、<ruby>頑張<rt>がんば</rt></ruby>りました。
 
     *"Despite few holidays, I did my best."*
 
@@ -322,11 +322,11 @@ The post-nominal adjective pattern reveals something deep about Japanese informa
 | N5 — Foundation | Adj + Noun | Pre-nominal attribution | <ruby>大きい<rt>おおきい</rt></ruby><ruby>家<rt>いえ</rt></ruby> |
 | N5 — Foundation | Noun + が + Adj | Predicative sentence | <ruby>家<rt>いえ</rt></ruby>が<ruby>大きい<rt>おおきい</rt></ruby> |
 | **N4 — Core ← You are here** | **Noun + (が) + Adj** | **Casual が-drop; adjective follows noun** | **<ruby>休み<rt>やすみ</rt></ruby>(が)<ruby>少ない<rt>すくない</rt></ruby>** |
-| N4 — Core | 多くの / 少しの | Formal quantity attribution | <ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby> |
-| N3 — Extended | Noun + 大きい／小さい | Size adjectives post-nominal | サイズ<ruby>大きい<rt>おおきい</rt></ruby> |
-| N3 — Extended | Noun + 遠い／近い | Distance adjectives post-nominal | <ruby>距離<rt>きょり</rt></ruby><ruby>遠い<rt>とおい</rt></ruby> |
-| N3 — Extended | Noun + 良い／悪い | Quality adjectives post-nominal | <ruby>天気<rt>てんき</rt></ruby><ruby>良い<rt>いい</rt></ruby> |
-| N2 — Awareness | 〜なき (文語) | Literary post-nominal | <ruby>神<rt>かみ</rt></ruby>なき<ruby>世界<rt>せかい</rt></ruby> |
+| N4 — Core | <ruby>多く<rt>おおく</rt></ruby>の / <ruby>少<rt>すこ</rt></ruby>しの | Formal quantity attribution | <ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby> |
+| N3 — Extended | Noun + <ruby>大きい<rt>おおきい</rt></ruby>／<ruby>小さい<rt>ちいさい</rt></ruby> | Size adjectives post-nominal | サイズ<ruby>大きい<rt>おおきい</rt></ruby> |
+| N3 — Extended | Noun + <ruby>遠い<rt>とおい</rt></ruby>／<ruby>近い<rt>ちかい</rt></ruby> | Distance adjectives post-nominal | <ruby>距離<rt>きょり</rt></ruby><ruby>遠い<rt>とおい</rt></ruby> |
+| N3 — Extended | Noun + <ruby>良い<rt>いい</rt></ruby>／<ruby>悪い<rt>わるい</rt></ruby> | Quality adjectives post-nominal | <ruby>天気<rt>てんき</rt></ruby><ruby>良い<rt>いい</rt></ruby> |
+| N2 — Awareness | 〜なき (<ruby>文語<rt>ぶんご</rt></ruby>) | Literary post-nominal | <ruby>神<rt>かみ</rt></ruby>なき<ruby>世界<rt>せかい</rt></ruby> |
 | N2 — Awareness | 〜たる | Archival post-nominal | <ruby>勇敢<rt>ゆうかん</rt></ruby>たる<ruby>兵士<rt>へいし</rt></ruby> |
 
 ---
@@ -345,21 +345,21 @@ The post-nominal adjective pattern reveals something deep about Japanese informa
 |---|---|
 | | *Context: Peer assessment. <ruby>頭<rt>あたま</rt></ruby>いい is lexicalized as a set post-nominal phrase.* |
 
-| この<ruby>部屋<rt>へや</rt></ruby>、<ruby>明るく<rt>あかるく</rt></ruby>て<ruby>気持ちいい<rt>きもちいい</rt></ruby>。 | This room is bright and feels good [casual]. |
+| この<ruby>部屋<rt>へや</rt></ruby>、<ruby>明<rt>あか</rt></ruby>るくて<ruby>気持<rt>きも</rt></ruby>ちいい。 | This room is bright and feels good [casual]. |
 |---|---|
 | | *Context: Entering a room. Two post-nominal adjectives chained with て.* |
 
-| <ruby>会社<rt>かいしゃ</rt></ruby>、<ruby>遠く<rt>とおく</rt></ruby>ない？ | Isn't your company far [casual]? |
+| <ruby>会社<rt>かいしゃ</rt></ruby>、<ruby>遠<rt>とお</rt></ruby>くない？ | Isn't your company far [casual]? |
 |---|---|
-| | *Context: Checking commute distance. <ruby>遠く<rt>とおく</rt></ruby>ない is the negative form, still post-nominal.* |
+| | *Context: Checking commute distance. <ruby>遠<rt>とお</rt></ruby>くない is the negative form, still post-nominal.* |
 
-| <ruby>昨日<rt>きのう</rt></ruby>のパーティー、<ruby>人<rt>ひと</rt></ruby><ruby>多かっ<rt>おおかっ</rt></ruby>た。 | Yesterday's party had a lot of people [casual]. |
+| <ruby>昨日<rt>きのう</rt></ruby>のパーティー、<ruby>人<rt>ひと</rt></ruby><ruby>多<rt>おお</rt></ruby>かった。 | Yesterday's party had a lot of people [casual]. |
 |---|---|
-| | *Context: Recapping an event. <ruby>人<rt>ひと</rt></ruby><ruby>多かっ<rt>おおかっ</rt></ruby>た is the past tense, post-nominal.* |
+| | *Context: Recapping an event. <ruby>人<rt>ひと</rt></ruby><ruby>多<rt>おお</rt></ruby>かった is the past tense, post-nominal.* |
 
-| この<ruby>料理<rt>りょうり</rt></ruby>、<ruby>味<rt>あじ</rt></ruby><ruby>濃く<rt>こく</rt></ruby>ない？ | Isn't this dish strongly flavored [casual]? |
+| この<ruby>料理<rt>りょうり</rt></ruby>、<ruby>味<rt>あじ</rt></ruby><ruby>濃<rt>こ</rt></ruby>くない？ | Isn't this dish strongly flavored [casual]? |
 |---|---|
-| | *Context: Commenting on food. <ruby>味<rt>あじ</rt></ruby><ruby>濃く<rt>こく</rt></ruby>ない is post-nominal negative.* |
+| | *Context: Commenting on food. <ruby>味<rt>あじ</rt></ruby><ruby>濃<rt>こ</rt></ruby>くない is post-nominal negative.* |
 
 | <ruby>来週<rt>らいしゅう</rt></ruby>、<ruby>予定<rt>よてい</rt></ruby><ruby>忙しい<rt>いそがしい</rt></ruby>？ | Are you busy next week [casual]? |
 |---|---|
@@ -387,15 +387,15 @@ The post-nominal adjective pattern reveals something deep about Japanese informa
 !!! success "Correct understanding"
     <ruby>休み<rt>やすみ</rt></ruby><ruby>少ない<rt>すくない</rt></ruby> = <ruby>休み<rt>やすみ</rt></ruby>**が**<ruby>少ない<rt>すくない</rt></ruby> with が dropped. The adjective is the predicate; the noun is the subject.
 
-### 2. Using pre-nominal 多い in formal writing without transformation
+### 2. Using pre-nominal <ruby>多い<rt>おおい</rt></ruby> in formal writing without transformation
 
 !!! failure "Formal register error"
-    <ruby>多い<rt>おおい</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>集まっ<rt>あつまっ</rt></ruby>た。
+    <ruby>多い<rt>おおい</rt></ruby><ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まった。
 
-    ~In formal writing, 多い directly modifying a noun is acceptable but slightly casual. <ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>集まっ<rt>あつまっ</rt></ruby>た is the standard formal choice.~
+    ~In formal writing, <ruby>多い<rt>おおい</rt></ruby> directly modifying a noun is acceptable but slightly casual. <ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まった is the standard formal choice.~
 
 !!! success "Correct"
-    <ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>集まっ<rt>あつまっ</rt></ruby>た。
+    <ruby>多く<rt>おおく</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まった。
 
 ### 3. Dropping が in formal contexts with です
 
@@ -418,15 +418,15 @@ The post-nominal adjective pattern reveals something deep about Japanese informa
     <ruby>部屋<rt>へや</rt></ruby>きれいだね。 (Standard casual)
     <ruby>部屋<rt>へや</rt></ruby>きれいね。 (Extra casual, だ-drop)
 
-### 5. Assuming only 多い and 少ない do this
+### 5. Assuming only <ruby>多い<rt>おおい</rt></ruby> and <ruby>少ない<rt>すくない</rt></ruby> do this
 
 !!! failure "Limited understanding"
-    "Only 多い and 少ない go after nouns."
+    "Only <ruby>多い<rt>おおい</rt></ruby> and <ruby>少ない<rt>すくない</rt></ruby> go after nouns."
 
-    ~While they are the most iconic examples, the pattern extends to virtually all adjectives in casual speech. The difference is that 多い/少ない are almost *obligatorily* predicative, whereas other adjectives simply *allow* casual が-drop.~
+    ~While they are the most iconic examples, the pattern extends to virtually all adjectives in casual speech. The difference is that <ruby>多い<rt>おおい</rt></ruby>/<ruby>少ない<rt>すくない</rt></ruby> are almost *obligatorily* predicative, whereas other adjectives simply *allow* casual が-drop.~
 
 !!! success "Correct understanding"
-    <ruby>大きい<rt>おおきい</rt></ruby><ruby>家<rt>いえ</rt></ruby> (standard) → <ruby>家<rt>いえ</rt></ruby><ruby>大きい<rt>おおきい</rt></ruby> (casual drop). Both patterns exist; 多い/少ない simply resist the pre-nominal form more strongly.
+    <ruby>大きい<rt>おおきい</rt></ruby><ruby>家<rt>いえ</rt></ruby> (standard) → <ruby>家<rt>いえ</rt></ruby><ruby>大きい<rt>おおきい</rt></ruby> (casual drop). Both patterns exist; <ruby>多い<rt>おおい</rt></ruby>/<ruby>少ない<rt>すくない</rt></ruby> simply resist the pre-nominal form more strongly.
 
 ---
 
@@ -434,12 +434,12 @@ The post-nominal adjective pattern reveals something deep about Japanese informa
 
 - **The post-nominal pattern is spreading.** Younger speakers increasingly use "noun + adjective" even in semi-formal contexts where their parents would have kept が. In 20 years, <ruby>休み<rt>やすみ</rt></ruby><ruby>少ない<rt>すくない</rt></ruby> may become standard spoken Japanese, with <ruby>休み<rt>やすみ</rt></ruby>が<ruby>少ない<rt>すくない</rt></ruby> sounding slightly stiff.
 - **Some nouns are more prone to the drop than others.** Abstract nouns (<ruby>時間<rt>じかん</rt></ruby>, <ruby>仕事<rt>しごと</rt></ruby>, <ruby>予定<rt>よてい</rt></ruby>) and body/self nouns (<ruby>頭<rt>あたま</rt></ruby>, <ruby>目<rt>め</rt></ruby>, <ruby>足<rt>あし</rt></ruby>, <ruby>体調<rt>たいちょう</rt></ruby>) drop が most readily. Concrete object nouns (<ruby>机<rt>つくえ</rt></ruby>, <ruby>本<rt>ほん</rt></ruby>, <ruby>車<rt>くるま</rt></ruby>) are slightly more resistant: <ruby>本<rt>ほん</rt></ruby>おもしろい is natural, but <ruby>車<rt>くるま</rt></ruby><ruby>赤い<rt>あかい</rt></ruby> sounds more childlike than <ruby>車<rt>くるま</rt></ruby>が<ruby>赤い<rt>あかい</rt></ruby>.
-- **めっちゃ and すごく love the post-nominal slot.** Intensifiers naturally insert between noun and adjective in casual speech: お<ruby>店<rt>みせ</rt></ruby>**めっちゃ**<ruby>多い<rt>おおい</rt></ruby>, <ruby>部屋<rt>へや</rt></ruby>**すごく**<ruby>寒い<rt>さむい</rt></ruby>. This insertion is awkward in pre-nominal position: ?めっちゃ多いお店 (possible but less rhythmic).
-- **The pattern works with negative adjectives too.** <ruby>休み<rt>やすみ</rt></ruby><ruby>少なくない<rt>すくなくない</rt></ruby> (not few), <ruby>部屋<rt>へや</rt></ruby><ruby>寒くない<rt>さむくない</rt></ruby> (not cold), <ruby>予定<rt>よてい</rt></ruby><ruby>忙しくない<rt>いそがしくない</rt></ruby> (not busy). The くない form sits just as naturally after the noun as the plain form.
+- **めっちゃ and すごく love the post-nominal slot.** Intensifiers naturally insert between noun and adjective in casual speech: お<ruby>店<rt>みせ</rt></ruby>**めっちゃ**<ruby>多い<rt>おおい</rt></ruby>, <ruby>部屋<rt>へや</rt></ruby>**すごく**<ruby>寒い<rt>さむい</rt></ruby>. This insertion is awkward in pre-nominal position: ?めっちゃ<ruby>多い<rt>おおい</rt></ruby>お<ruby>店<rt>みせ</rt></ruby> (possible but less rhythmic).
+- **The pattern works with negative adjectives too.** <ruby>休み<rt>やすみ</rt></ruby><ruby>少<rt>すく</rt></ruby>なくない (not few), <ruby>部屋<rt>へや</rt></ruby><ruby>寒<rt>さむ</rt></ruby>くない (not cold), <ruby>予定<rt>よてい</rt></ruby><ruby>忙<rt>いそが</rt></ruby>しくない (not busy). The くない form sits just as naturally after the noun as the plain form.
 - **Double が-drop creates set phrases.** <ruby>頭<rt>あたま</rt></ruby>いい, <ruby>足<rt>あし</rt></ruby><ruby>速い<rt>はやい</rt></ruby>, <ruby>目<rt>め</rt></ruby><ruby>悪い<rt>わるい</rt></ruby>, and <ruby>体調<rt>たいちょう</rt></ruby><ruby>良い<rt>いい</rt></ruby> are so common with dropped particles that they feel like compound words. A generation from now, they may be written without spaces and treated as lexical items.
 - **Na-adjectives drop だ, not just が.** <ruby>部屋<rt>へや</rt></ruby><ruby>静か<rt>しずか</rt></ruby>だ → <ruby>部屋<rt>へや</rt></ruby><ruby>静か<rt>しずか</rt></ruby>. The だ is the predicative copula; in casual speech it vanishes along with が. But な (the attributive copula) never appears in this pattern: you never say <ruby>部屋<rt>へや</rt></ruby><ruby>静か<rt>しずか</rt></ruby>な in casual drop.
-- **The pattern is impossible with relative clauses.** You cannot say *人日本語話せる to mean "a person who can speak Japanese." Relative clauses must pre-nominal: <ruby>日本語<rt>にほんご</rt></ruby>が<ruby>話せる<rt>はなせる</rt></ruby><ruby>人<rt>ひと</rt></ruby>. The post-nominal pattern is strictly for **main-clause predication**, not attribution.
-- **多い and 少ない have no true antonym symmetry.** 少ない directly pre-modifies nouns naturally (<ruby>少ない<rt>すくない</rt></ruby><ruby>休み<rt>やすみ</rt></ruby>). 多い resists direct pre-modification and prefers 多くの. This asymmetry is lexical, not grammatical.
+- **The pattern is impossible with relative clauses.** You cannot say *<ruby>人<rt>ひと</rt></ruby><ruby>日本語<rt>にほんご</rt></ruby><ruby>話<rt>はな</rt></ruby>せる to mean "a person who can speak Japanese." Relative clauses must pre-nominal: <ruby>日本語<rt>にほんご</rt></ruby>が<ruby>話<rt>はな</rt></ruby>せる<ruby>人<rt>ひと</rt></ruby>. The post-nominal pattern is strictly for **main-clause predication**, not attribution.
+- **<ruby>多い<rt>おおい</rt></ruby> and <ruby>少ない<rt>すくない</rt></ruby> have no true antonym symmetry.** <ruby>少ない<rt>すくない</rt></ruby> directly pre-modifies nouns naturally (<ruby>少ない<rt>すくない</rt></ruby><ruby>休み<rt>やすみ</rt></ruby>). <ruby>多い<rt>おおい</rt></ruby> resists direct pre-modification and prefers <ruby>多く<rt>おおく</rt></ruby>の. This asymmetry is lexical, not grammatical.
 - **The pattern mirrors Japanese topic-comment structure.** In このへん、お<ruby>店<rt>みせ</rt></ruby><ruby>多い<rt>おおい</rt></ruby>, the structure is: [Topic] + [Comment: Subject + Predicate]. This is identical to <ruby>今日<rt>きょう</rt></ruby>は<ruby>暑い<rt>あつい</rt></ruby> (Today is hot) but with an extra noun in the comment slot.
 
 ---
@@ -449,9 +449,9 @@ The post-nominal adjective pattern reveals something deep about Japanese informa
 | Stage | What It Looks Like |
 |-------|-------------------|
 | **Now — N4** | Recognize <ruby>休み<rt>やすみ</rt></ruby><ruby>少ない<rt>すくない</rt></ruby> and お<ruby>店<rt>みせ</rt></ruby><ruby>多い<rt>おおい</rt></ruby> as casual が-drop, not "backwards adjectives." Produce basic post-nominal sentences with quantity adjectives. Keep が in formal contexts. |
-| **Developing — N4→N3** | Deploy the pattern naturally with size, distance, quality, and sensory adjectives. Understand that 多い/少ない are predicative by nature while other adjectives simply allow drop. Distinguish 多くの (formal pre-nominal) from 多い (casual post-nominal/predicative). |
+| **Developing — N4→N3** | Deploy the pattern naturally with size, distance, quality, and sensory adjectives. Understand that <ruby>多い<rt>おおい</rt></ruby>/<ruby>少ない<rt>すくない</rt></ruby> are predicative by nature while other adjectives simply allow drop. Distinguish <ruby>多く<rt>おおく</rt></ruby>の (formal pre-nominal) from <ruby>多い<rt>おおい</rt></ruby> (casual post-nominal/predicative). |
 | **Automatic — N3→N2** | The pattern becomes invisible. You hear <ruby>部屋<rt>へや</rt></ruby><ruby>寒い<rt>さむい</rt></ruby> and parse it as "the room is cold" without conscious analysis. You choose pre-nominal vs. post-nominal based on register and rhythm, not grammar rules. |
-| **Mastery** | You control the full adjective-placement spectrum: pre-nominal (<ruby>大きい<rt>おおきい</rt></ruby><ruby>家<rt>いえ</rt></ruby>) for packaging concepts, predicative with が (<ruby>家<rt>いえ</rt></ruby>が<ruby>大きい<rt>おおきい</rt></ruby>) for standard statements, casual drop (<ruby>家<rt>いえ</rt></ruby><ruby>大きい<rt>おおきい</rt></ruby>) for observations, and formal transformations (多くの) for writing. You never drop が in a business email, and you never use <ruby>多い<rt>おおい</rt></ruby><ruby>人<rt>ひと</rt></ruby> when you mean <ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>. |
+| **Mastery** | You control the full adjective-placement spectrum: pre-nominal (<ruby>大きい<rt>おおきい</rt></ruby><ruby>家<rt>いえ</rt></ruby>) for packaging concepts, predicative with が (<ruby>家<rt>いえ</rt></ruby>が<ruby>大きい<rt>おおきい</rt></ruby>) for standard statements, casual drop (<ruby>家<rt>いえ</rt></ruby><ruby>大きい<rt>おおきい</rt></ruby>) for observations, and formal transformations (<ruby>多く<rt>おおく</rt></ruby>の) for writing. You never drop が in a business email, and you never use <ruby>多い<rt>おおい</rt></ruby><ruby>人<rt>ひと</rt></ruby> when you mean <ruby>人<rt>ひと</rt></ruby>が<ruby>多い<rt>おおい</rt></ruby>. |
 
 ---
 
@@ -461,13 +461,13 @@ The post-nominal adjective pattern reveals something deep about Japanese informa
 
 - Noun + が + i-Adjective — Standard predicative (N5)
 - Noun + な + na-Adjective — Standard attributive (N5)
-- 多くの / 少しの — Formal pre-nominal quantity forms
+- <ruby>多く<rt>おおく</rt></ruby>の / <ruby>少<rt>すこ</rt></ruby>しの — Formal pre-nominal quantity forms
 - 〜んです — Explanatory extension (N4)
 
 ### Commonly Confused With
 
 - True pre-nominal attribution (<ruby>大きい<rt>おおきい</rt></ruby><ruby>家<rt>いえ</rt></ruby>) — Standard order, not casual drop
-- Relative clauses (<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>話せる<rt>はなせる</rt></ruby><ruby>人<rt>ひと</rt></ruby>) — Pre-nominal by grammatical necessity
+- Relative clauses (<ruby>日本語<rt>にほんご</rt></ruby>が<ruby>話<rt>はな</rt></ruby>せる<ruby>人<rt>ひと</rt></ruby>) — Pre-nominal by grammatical necessity
 - 〜なき / 〜たる — Literary/archival post-nominal (N2)
 - Topic-comment structure (<ruby>今日<rt>きょう</rt></ruby>は<ruby>暑い<rt>あつい</rt></ruby>) — Same cognitive pattern, simpler noun
 
@@ -484,4 +484,4 @@ The post-nominal adjective pattern reveals something deep about Japanese informa
 - 〜めっちゃ／〜すごく intensification (N3) — Intensifiers in casual slots
 - Sentence-ending particles (よ, ね, よね, わ) (N4) — Casual sentence packaging
 - 〜んだ explanatory (N4) — Adding reasoning to casual observations
-- 文語的表現 (N2) — Literary post-nominal patterns (〜なき, 〜たる)
+- <ruby>文語的<rt>ぶんごてき</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby> (N2) — Literary post-nominal patterns (〜なき, 〜たる)
