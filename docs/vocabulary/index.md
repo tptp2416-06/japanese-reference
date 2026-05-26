@@ -39,12 +39,34 @@ tags:
       <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
     </a>
 
-    <a href="lateness-delay/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+    <a href="lateness-delay/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
       <div style="display: flex; align-items: baseline; gap: 16px;">
         <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">遅</span>
         <div>
           <p style="font-size: 16px; font-weight: 500; margin: 0;">遅れる vs. 遅くなる vs. 遅刻する vs. 遅延する</p>
           <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">Four ways to express lateness and delay — register, cause, and scope</p>
+        </div>
+      </div>
+      <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
+    </a>
+
+    <a href="mou-mada/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+      <div style="display: flex; align-items: baseline; gap: 16px;">
+        <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">も</span>
+        <div>
+          <p style="font-size: 16px; font-weight: 500; margin: 0;">もう vs. まだ — Already / Still / Not Yet / Anymore</p>
+          <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">The threshold adverbs — completion, persistence, cessation, and emotional weight</p>
+        </div>
+      </div>
+      <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
+    </a>
+
+    <a href="mou-shika/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+      <div style="display: flex; align-items: baseline; gap: 16px;">
+        <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">外</span>
+        <div>
+          <p style="font-size: 16px; font-weight: 500; margin: 0;">以外 vs. しか — Exclusion & Limitation</p>
+          <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">Objective boundary vs. emotional "only" — when each grammar point fits</p>
         </div>
       </div>
       <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>

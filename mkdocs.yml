@@ -97,6 +97,7 @@ nav:
       - Transitive vs. Intransitive Verbs: grammar/verbs/trans-intrans-kimi.md
       - Passive Form (受身形 / 〜れる・〜られる): grammar/verbs/passive-form-kimi.md
       - Potential Form (可能形 / 〜られる・〜れる): grammar/verbs/potential-form.md
+      - なる — The Change Engine: grammar/verbs/naru.md
     - Particles:
       - Overview: grammar/particles/index.md
       - で — Location, Means, Scope, and Limit: grammar/particles/de-particle.md
@@ -145,6 +146,7 @@ nav:
         # Reference & Scope
         - 〜のこと — The Person Themselves: grammar/expressions/no-koto-kimi.md
         - Explicit Pronouns and Names — When to Say 私, あなた, and 彼: grammar/expressions/explicit-pronouns-names.md
+        - こういう / そういう / ああいう / どういう — The いう Classification System: grammar/expressions/kouiu-souiu-douiu.md
 
       # ── N3 ──────────────────────────────
       - N3:
@@ -184,6 +186,8 @@ nav:
     - 甘える — Depending on Others' Kindness: vocabulary/amaeru.md
     - 大切 vs. 大事 — Important: vocabulary/taisetsu-daiji.md
     - 遅れる vs. 遅くなる vs. 遅刻する vs. 遅延する — Lateness & Delay: vocabulary/lateness-delay.md
+    - もう vs. まだ — Already / Still / Not Yet / Anymore: vocabulary/mou-mada.md
+    - 以外 vs. しか — Exclusion & Limitation: vocabulary/mou-shika.md
   - Patterns:
     - Overview: patterns/index.md
     - Softeners & Hedges: patterns/softeners.md
