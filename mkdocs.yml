@@ -102,6 +102,7 @@ nav:
       - Overview: grammar/particles/index.md
       - で — Location, Means, Scope, and Limit: grammar/particles/de-particle.md
       - も — Additive, Emphatic, Scalar, and Universal: grammar/particles/mo-particle.md
+      - まで — Limit, Deadline, Extent, and Emphatic Inclusion: grammar/particles/made-particle.md
     - Expressions:
       - Overview: grammar/expressions/index.md
 
@@ -118,6 +119,7 @@ nav:
         # Explanatory & Quotation
         - 〜んだ — Explanatory / Realization Emphasis: grammar/expressions/n-da-kimi.md
         - 〜って — Casual Topic Marker / Quotative: grammar/expressions/tte-casual.md
+        - なんて — Casual Dismissive / Emotional Quotative: grammar/expressions/nante-kimi.md
         - なって・Internal Quotation: grammar/expressions/natte-internalquote.md
         - Embedded Questions — 〜か & 〜かどうか: grammar/expressions/questions-in-sentences-kimi.md
 

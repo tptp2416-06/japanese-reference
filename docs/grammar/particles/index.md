@@ -28,12 +28,23 @@ tags:
       <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
     </a>
 
-    <a href="mo-particle/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+    <a href="mo-particle/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
       <div style="display: flex; align-items: baseline; gap: 16px;">
         <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">も</span>
         <div>
           <p style="font-size: 16px; font-weight: 500; margin: 0;">も — Additive, Emphatic, Scalar, and Universal</p>
           <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">How も extends beyond "also" into emphasis, extremes, and universal scope</p>
+        </div>
+      </div>
+      <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>
+    </a>
+
+    <a href="made-particle/" style="display: flex; align-items: baseline; justify-content: space-between; padding: 1.25rem 0; border-top: 0.5px solid var(--md-default-fg-color--lightest); border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit;">
+      <div style="display: flex; align-items: baseline; gap: 16px;">
+        <span style="font-size: 24px; color: var(--md-default-fg-color--lighter); font-weight: 400; min-width: 32px;">ま</span>
+        <div>
+          <p style="font-size: 16px; font-weight: 500; margin: 0;">まで — Limit, Deadline, Extent, and Emphatic Inclusion</p>
+          <p style="font-size: 13px; color: var(--md-default-fg-color--lighter); margin: 4px 0 0;">Spatial and temporal limits, deadline までに, and the "even" emphatic extension</p>
         </div>
       </div>
       <span style="font-size: 16px; color: var(--md-default-fg-color--lighter);">›</span>

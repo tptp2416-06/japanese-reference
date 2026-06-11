@@ -34,6 +34,7 @@ tags:
     <div style="border-top: 0.5px solid var(--md-default-fg-color--lightest);">
       <a href="n-da-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜んだ — Explanatory / realization emphasis</a>
       <a href="tte-casual/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">〜って — Casual topic marker / quotative</a>
+      <a href="nante-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">なんて — Casual dismissive exemplification / emotional quotative</a>
       <a href="natte-internalquote/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">なって・Internal quotation</a>
       <a href="questions-in-sentences-kimi/" style="display: block; padding: 0.6rem 0; border-bottom: 0.5px solid var(--md-default-fg-color--lightest); text-decoration: none; color: inherit; font-size: 14px;">Embedded questions — 〜か & 〜かどうか</a>
     </div>
