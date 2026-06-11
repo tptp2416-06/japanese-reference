@@ -139,7 +139,7 @@ Both expressions reflect a Japanese attentiveness to the speaker's own perceptua
 | <ruby>あっという間<rt>ま</rt></ruby>に | "In a startlingly short time" | Present and watching | Surprise, mild loss, wistfulness | Bounded events: <ruby>終<rt>お</rt></ruby>わる, <ruby>過<rt>す</rt></ruby>ぎる, <ruby>無<rt>な</rt></ruby>くなる |
 | <ruby>何時<rt>いつ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にか | "Without my noticing" | Absent or distracted | Mild disorientation, poignancy | State changes: 〜くなる, 〜ていた, 〜てしまう |
 | <ruby>瞬<rt>またた</rt></ruby>く<ruby>間<rt>ま</rt></ruby>に | "In the time it takes to blink" | Present and watching | Pure speed, more neutral than あっという<ruby>間<rt>ま</rt></ruby>に | Same as あっという<ruby>間<rt>ま</rt></ruby>に but more formal/written |
-| <ruby>気<rt>き</rt></ruby>がついたら | "When I came to / realized" | Absent, then awareness arrives | Active realization, sometimes alarmed | Same as いつの<ruby>間<rt>あいだ</rt></ruby>にか but with a stronger "wake-up" moment |
+| <ruby>気<rt>き</rt></ruby>がついたら | "When I came to / realized" | Absent, then awareness arrives | Active realization, sometimes alarmed | Same as いつの<ruby>間<rt>ま</rt></ruby>にか but with a stronger "wake-up" moment |
 | いつの<ruby>間<rt>ま</rt></ruby>にか | Same as <ruby>何時<rt>いつ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にか; slightly more casual | Same | Same | Same |
 
 <ruby>瞬<rt>またた</rt></ruby>く<ruby>間<rt>ま</rt></ruby>に is the most frequent source of confusion for learners who encounter it in reading. It belongs to the same family as <ruby>あっという間<rt>ま</rt></ruby>に (the speaker was watching time fly) but is slightly more formal and less emotionally charged — it reports speed without necessarily reporting surprise.
@@ -277,7 +277,7 @@ Neither <ruby>あっという間<rt>ま</rt></ruby>に nor <ruby>何時<rt>い�
 
 ## Hidden Points {#hidden-points}
 
-- **<ruby>あっという間<rt>ま</rt></ruby>に can carry mild grief.** The expression is not neutral about speed — it often signals that the speaker wishes the time had been longer. A vacation that ends <ruby>あっという間<rt>ま</rt></ruby>に is a vacation the speaker misses. Using it for something unpleasant (a boring meeting) would be strange — you'd reach for <ruby>やっと</ruby> or <ruby>ようやく</ruby> instead.
+- **<ruby>あっという間<rt>ま</rt></ruby>に can carry mild grief.** The expression is not neutral about speed — it often signals that the speaker wishes the time had been longer. A vacation that ends <ruby>あっという間<rt>ま</rt></ruby>に is a vacation the speaker misses. Using it for something unpleasant (a boring meeting) would be strange — you'd reach for やっと or ようやく instead.
 - **<ruby>何時<rt>いつ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にか can carry quiet alarm.** When the unnoticed change is negative — a friendship faded, a health problem developed — the expression carries an undercurrent of "I should have been paying attention." It's not an apology, but it is an acknowledgment of inattention with consequences.
 - **The 〜ていた ending is near-obligatory with <ruby>何時<rt>いつ</rt></ruby>の<ruby>間<rt>ま</rt></ruby>にか.** Because the speaker discovers the change after it has already occurred, the resultant-state 〜ていた form is the natural pairing. Using simple past 〜た is not incorrect but loses the sense of looking at the aftermath.
 - **<ruby>あっという間<rt>ま</rt></ruby>に can pair with both 〜た and 〜てしまう.** The 〜てしまう form amplifies the emotional content — it adds a sense of "it ended up happening (and I have feelings about that)." This is the most natural form when the event was something the speaker wanted to last longer.
