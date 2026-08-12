@@ -1,0 +1,33 @@
+{
+  // Cloudflare Workers Static Assets config.
+  //
+  // WHY THIS FILE EXISTS. Cloudflare merged the Pages and Workers creation
+  // flows; "Create application" now builds a Worker, and a Worker deploy needs
+  // this file to know what to serve. Cloudflare Pages is still supported and
+  // would not have needed it, but the dashboard no longer offers that path
+  // without hunting for it.
+  //
+  // There is no Worker CODE here and there should not be. This is a static
+  // documentation site: MkDocs writes HTML into ./site and Workers serves it.
+  // If a "src" or "main" entry ever appears below, something has gone wrong.
+
+  "name": "japanese-reference",
+
+  // Pins the Workers runtime behaviour to this date. Leave it alone unless
+  // something actually requires a newer runtime — changing it changes how the
+  // platform behaves under a site that has not changed.
+  "compatibility_date": "2026-08-12",
+
+  "assets": {
+    // What `mkdocs build` writes. Must match `site_dir` in mkdocs.yml.
+    "directory": "./site",
+
+    // MkDocs runs with use_directory_urls, so every page is served as
+    // <path>/index.html and Workers resolves the directory index itself.
+    //
+    // On a miss, serve Material's generated 404.html rather than a bare
+    // Workers error — otherwise a stale link from an Anki note produces a
+    // blank platform page with no way back into the site.
+    "not_found_handling": "404-page"
+  }
+}
