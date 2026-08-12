@@ -4,6 +4,19 @@ site_author: Tim
 docs_dir: docs
 site_dir: site
 
+# LOAD-BEARING — do not change this to false.
+#
+# Anki notes in the jp-deck project link to
+#   https://nihongo.jp-node.com/deck/cards/<Card ID>/
+# and that URL shape exists only because this is true. Setting it false
+# republishes every page as <path>.html and breaks every link in every note
+# at once — silently. The build succeeds, the site looks correct, and only a
+# tapped link from a flashcard reveals it.
+#
+# Recorded as DECISIONS.md #68 in the jp-deck repo, which is also where the
+# link template lives.
+use_directory_urls: true
+
 theme:
   name: material
   language: ja
