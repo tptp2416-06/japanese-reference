@@ -6,16 +6,25 @@ site_dir: site
 
 # LOAD-BEARING — do not change this to false.
 #
-# Anki notes in the jp-deck project link to
-#   https://nihongo.jp-node.com/deck/cards/<Card ID>/
+# Every Anki card in the jp-deck project links to
+#   https://nihongo.jp-node.com/deck/grammar/<page-slug>/#<anchor>
 # and that URL shape exists only because this is true. Setting it false
-# republishes every page as <path>.html and breaks every link in every note
+# republishes every page as <path>.html and breaks every link on every card
 # at once — silently. The build succeeds, the site looks correct, and only a
 # tapped link from a flashcard reveals it.
 #
-# Recorded as DECISIONS.md #68 in the jp-deck repo, which is also where the
-# link template lives.
+# The link builder lives in the jp-deck repo (scripts/vocab.py, #194); the
+# constraint was first recorded as its DECISIONS.md #68 and survives it.
 use_directory_urls: true
+
+# The generated deck pages (docs/deck/grammar/, built by jp-deck's
+# scripts/build_site.py) are deliberately not in the nav — 362 pages would
+# drown the sidebar. They are reached from Anki cards, from the generated
+# index page (which IS in the nav, under Deck), and from search.
+not_in_nav: |
+  deck/grammar/*.md
+  deck/contrasts/*.md
+  !deck/grammar/index.md
 
 theme:
   name: material
@@ -217,7 +226,9 @@ nav:
     - Overview: questions/index.md
     - Noun Modifying Clauses: questions/noun-modify-clause.md
     - Word Order: questions/word-order.md
-    - Relative Clause vs. Nominalization: questions/clause-vs-nominal.md    
+    - Relative Clause vs. Nominalization: questions/clause-vs-nominal.md
+  - Deck:
+    - Overview: deck/grammar/index.md
   - Tags: tags.md
 
 extra:
