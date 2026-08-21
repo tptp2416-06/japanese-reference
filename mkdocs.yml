@@ -114,27 +114,20 @@ nav:
   - Grammar:
     - Overview: grammar/index.md
     - Verbs:
-      - Overview: grammar/verbs/index.md
       - Causative Form (〜せる / 〜させる): grammar/verbs/causative-form.md
       - Transitive vs. Intransitive Verbs: grammar/verbs/trans-intrans-kimi.md
       - Passive Form (受身形 / 〜れる・〜られる): grammar/verbs/passive-form-kimi.md
       - Potential Form (可能形 / 〜られる・〜れる): grammar/verbs/potential-form.md
       - なる — The Change Engine: grammar/verbs/naru.md
     - Particles:
-      - Overview: grammar/particles/index.md
       - で — Location, Means, Scope, and Limit: grammar/particles/de-particle.md
       - も — Additive, Emphatic, Scalar, and Universal: grammar/particles/mo-particle.md
       - まで — Limit, Deadline, Extent, and Emphatic Inclusion: grammar/particles/made-particle.md
     - Expressions:
-      - Overview: grammar/expressions/index.md
-
       # ── N4 ──────────────────────────────
       - N4:
         # Foundations
-        - Te-form: grammar/expressions/te-form.md
         - 〜て＋Auxiliary — Te-form Expression Spectrum (N5–N3): grammar/expressions/te-expressions.md
-        - Tense & Aspect: grammar/expressions/tense-aspect.md
-        - Conditionals: grammar/expressions/conditionals.md
         - 〜やすい・〜にくい — Easy to Do / Hard to Do: grammar/expressions/yasui-nikui-kimi.md
         - 名詞＋多い・少ない — Quantity Adjectives & the が-Drop Pattern: grammar/expressions/noun-ooi-sukunai.md
 
@@ -180,16 +173,13 @@ nav:
         - 〜みたい — Seems Like / Apparently: grammar/expressions/mitai-kimi.md
 
     - 〜ている Related:
-      - Overview: grammar/te-iru-related/index.md
       - 〜ている — Resultative Change: grammar/te-iru-related/result-change.md
       - なる + ている — Resultative State of Becoming: grammar/te-iru-related/naru-te-iru.md
       - 〜ていてくれる — Sustained Action for My Benefit: grammar/te-iru-related/sustained-action-kimi.md
 
     - Test:
-      - Overview: grammar/test/index.md
       # AI comparison versions
       - 〜んだ — DeepSeek: grammar/expressions/n-da-deepseek.md
-      - 〜んだ — Kimi (Ruby): grammar/expressions/n-da-kimi-ruby.md
       - 〜っぱなし — DeepSeek: grammar/expressions/ppa-na-shi-deepseek.md
       - 〜って — ChatGPT: grammar/expressions/tte-casual-gpt.md
       - Embedded Questions — Claude: grammar/expressions/questions-in-sentences.md
@@ -198,12 +188,8 @@ nav:
       - Extra Modest Expressions — DeepSeek: grammar/expressions/modest-expressions-deepseek.md
       # Format tests
       - ChatGPT Test 1: grammar/test/chatgpt-test1.md
-      - Claude Test 1 — HTML MD Hybrid: grammar/test/claude-test1.md
       - Gemini Test 1: grammar/test/gemini-test1.md
       - DeepSeek Test 1: grammar/test/deepseek-test1.md
-      - Perplexity Test 1: grammar/test/perplexity-test1.md
-      - Test One: grammar/test/test1.md
-      - Claude MD Version: grammar/test/claude-test2-mdversion.md
 
   - Vocabulary:
     - Overview: vocabulary/index.md
@@ -214,22 +200,14 @@ nav:
     - 以外 vs. しか — Exclusion & Limitation: vocabulary/mou-shika.md
   - Patterns:
     - Overview: patterns/index.md
-    - Softeners & Hedges: patterns/softeners.md
-    - Seeking Connection: patterns/seeking-connection.md
-    - Emotional Register: patterns/emotional-register.md
   - Dialogues:
-    - Overview: dialogues/index.md
-    - dialogues/test.md
-    - Sample Dialogue: dialogues/sample-dialogue.md
     - Suddenly Started Running: dialogues/suddenrunning.md
   - Questions:
-    - Overview: questions/index.md
     - Noun Modifying Clauses: questions/noun-modify-clause.md
     - Word Order: questions/word-order.md
     - Relative Clause vs. Nominalization: questions/clause-vs-nominal.md
   - Deck:
     - Overview: deck/grammar/index.md
-  - Tags: tags.md
 
 extra:
   tags:
