@@ -27,9 +27,9 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="../contrasts/kamo-shirenai-darou-deshou-hazu/">かもしれない・だろう・でしょう・はず</a></h3><p>the certainty ladder</p></div>
 <div class="card-grid-item"><h3><a href="../contrasts/te-iru/">ている</a></h3><p>progressive, habit, result, status</p></div>
 <div class="card-grid-item"><h3><a href="../contrasts/te-oku-te-aru-te-iru-te-shimau/">ておく・てある・ている・てしまう</a></h3><p>prepared, resulting, finished</p></div>
-<div class="card-grid-item"><h3><a href="../contrasts/kotoni-suru-kotoni-naru-you-ni-suru-you-ni-naru/">ことにする・ことになる・ようにする・ようになる</a></h3><p>the する／なる decision square</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/koto-ni-suru-koto-ni-naru-you-ni-suru-you-ni-naru/">ことにする・ことになる・ようにする・ようになる</a></h3><p>the する／なる decision square</p></div>
 <div class="card-grid-item"><h3><a href="../contrasts/tame-ni-you-ni-noni-vstem-ni/">ために・ように・のに・Vstem＋に</a></h3><p>the purpose family</p></div>
-<div class="card-grid-item"><h3><a href="../contrasts/aida-aida-ni-nagara-nai-uchi-ni-no-uchi-ni/">間・間に・ながら・ないうちに・のうちに</a></h3><p>during and while</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/during-and-while/">間・間に・ながら・ないうちに・のうちに</a></h3><p>during and while</p></div>
 <div class="card-grid-item"><h3><a href="../contrasts/dake-shika-nai-bakari/">だけ・しか〜ない・ばかり</a></h3><p>only and just</p></div>
 </div>
 

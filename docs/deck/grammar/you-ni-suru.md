@@ -6,4 +6,4 @@
 
 Make a deliberate effort or arrangement to achieve a behavior
 
-*Compare:* [ことにする・ことになる・ようにする・ようになる — the する／なる decision square](<../contrasts/kotoni-suru-kotoni-naru-you-ni-suru-you-ni-naru.md> "the する／なる decision square")
+*Compare:* [ことにする・ことになる・ようにする・ようになる — the する／なる decision square](<../contrasts/koto-ni-suru-koto-ni-naru-you-ni-suru-you-ni-naru.md> "the する／なる decision square")

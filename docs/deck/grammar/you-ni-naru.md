@@ -6,4 +6,4 @@
 
 Come to do something or reach a new ability or habitual state
 
-*Compare:* [なる family — ways of expressing change](<../contrasts/naru-family.md> "ways of expressing change") · [ことにする・ことになる・ようにする・ようになる — the する／なる decision square](<../contrasts/kotoni-suru-kotoni-naru-you-ni-suru-you-ni-naru.md> "the する／なる decision square")
+*Compare:* [なる family — ways of expressing change](<../contrasts/naru-family.md> "ways of expressing change") · [ことにする・ことになる・ようにする・ようになる — the する／なる decision square](<../contrasts/koto-ni-suru-koto-ni-naru-you-ni-suru-you-ni-naru.md> "the する／なる decision square")

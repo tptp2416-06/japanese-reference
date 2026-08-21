@@ -6,4 +6,4 @@
 
 Within the available period; before a current opportunity or interval ends
 
-*Compare:* [間・間に・ながら・ないうちに・のうちに — during and while](<../contrasts/aida-aida-ni-nagara-nai-uchi-ni-no-uchi-ni.md> "during and while")
+*Compare:* [間・間に・ながら・ないうちに・のうちに — during and while](<../contrasts/during-and-while.md> "during and while")
