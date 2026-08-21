@@ -11,396 +11,406 @@ easiest of its members').
 
 When to use which — one page per confusable set.
 
-- [たら・ば・と・なら — the conditional quartet](<../contrasts/たら・ば・と・なら.md>)
-- [は — topic, contrast, scope](<../contrasts/は.md>)
-- [に vs で — where things happen](<../contrasts/に-vs-で.md>)
-- [ようだ・そうだ・らしい・みたい — appearance, inference, hearsay](<../contrasts/ようだ・そうだ・らしい・みたい.md>)
-- [あげる・くれる・もらう — giving and receiving](<../contrasts/あげる・くれる・もらう.md>)
-- [こと vs の — the nominalizers](<../contrasts/こと-vs-の.md>)
-- [まで vs までに — extent vs deadline](<../contrasts/まで-vs-までに.md>)
-- [なる family — ways of expressing change](<../contrasts/なる-family.md>)
-- [まだ vs もう — still vs already](<../contrasts/まだ-vs-もう.md>)
-- [てもいい・なくてもいい・なければならない・てはいけない — the obligation–permission square](<../contrasts/てもいい・なくてもいい・なければならない・てはいけない.md>)
-- [なければならない and its shortenings — the 'must' register ladder](<../contrasts/なければならない-and-its-shortenings.md>)
-- [から・ので・し — reason connectives](<../contrasts/から・ので・し.md>)
-- [かもしれない・だろう・でしょう・はず — the certainty ladder](<../contrasts/かもしれない・だろう・でしょう・はず.md>)
-- [ている — progressive, habit, result, status](<../contrasts/ている.md>)
-- [ておく・てある・ている・てしまう — prepared, resulting, finished](<../contrasts/ておく・てある・ている・てしまう.md>)
-- [ことにする・ことになる・ようにする・ようになる — the する／なる decision square](<../contrasts/ことにする・ことになる・ようにする・ようになる.md>)
-- [ために・ように・のに・Vstem＋に — the purpose family](<../contrasts/ために・ように・のに・Vstem＋に.md>)
-- [間・間に・ながら・ないうちに・のうちに — during and while](<../contrasts/間・間に・ながら・ないうちに・のうちに.md>)
-- [だけ・しか〜ない・ばかり — only and just](<../contrasts/だけ・しか〜ない・ばかり.md>)
+<div class="card-grid" markdown="0">
+<div class="card-grid-item"><h3><a href="../contrasts/tara-ba-to-nara/">たら・ば・と・なら</a></h3><p>the conditional quartet</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/wa/">は</a></h3><p>topic, contrast, scope</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/ni-vs-de/">に vs で</a></h3><p>where things happen</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/you-da-sou-da-rashii-mitai/">ようだ・そうだ・らしい・みたい</a></h3><p>appearance, inference, hearsay</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/ageru-kureru-morau/">あげる・くれる・もらう</a></h3><p>giving and receiving</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/koto-vs-no/">こと vs の</a></h3><p>the nominalizers</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/made-vs-made-ni/">まで vs までに</a></h3><p>extent vs deadline</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/naru-family/">なる family</a></h3><p>ways of expressing change</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/mada-vs-mou/">まだ vs もう</a></h3><p>still vs already</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/te-mo-ii-nakute-mo-ii-nakereba-naranai-te-wa-ikenai/">てもいい・なくてもいい・なければならない・てはいけない</a></h3><p>the obligation–permission square</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/nakereba-naranai-and-its-shortenings/">なければならない and its shortenings</a></h3><p>the &#x27;must&#x27; register ladder</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/kara-node-shi/">から・ので・し</a></h3><p>reason connectives</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/kamo-shirenai-darou-deshou-hazu/">かもしれない・だろう・でしょう・はず</a></h3><p>the certainty ladder</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/te-iru/">ている</a></h3><p>progressive, habit, result, status</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/te-oku-te-aru-te-iru-te-shimau/">ておく・てある・ている・てしまう</a></h3><p>prepared, resulting, finished</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/kotoni-suru-kotoni-naru-you-ni-suru-you-ni-naru/">ことにする・ことになる・ようにする・ようになる</a></h3><p>the する／なる decision square</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/tame-ni-you-ni-noni-vstem-ni/">ために・ように・のに・Vstem＋に</a></h3><p>the purpose family</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/aida-aida-ni-nagara-nai-uchi-ni-no-uchi-ni/">間・間に・ながら・ないうちに・のうちに</a></h3><p>during and while</p></div>
+<div class="card-grid-item"><h3><a href="../contrasts/dake-shika-nai-bakari/">だけ・しか〜ない・ばかり</a></h3><p>only and just</p></div>
+</div>
 
 ## N5
 
-- [AもBも — Both A and B](<AもBも.md>)
-- [Counters — counting with classifiers](<Counters.md>)
-- [Vstem＋に — Go somewhere in order to do an action](<Vstem＋に.md>)
-- [V辞書形＋前に — Before doing an action](<V辞書形＋前に.md>)
-- [〜がほしい — Want a particular thing](<〜がほしい.md>)
-- [〜くて — Links an i-adjective to another description](<〜くて.md>)
-- [〜じゃない — na-adjective negative, and じゃなくて](<〜じゃない.md>)
-- [〜たい — wanting to do something](<〜たい.md>)
-- [〜ませんか — Would you like to do something together? A polite invitation](<〜ませんか.md>)
-- [あげる・くれる・もらう — giving and receiving](<あげる・くれる・もらう.md>)
-- [あと — remaining, and "and also"](<あと.md>)
-- [あとで — Later](<あとで.md>)
-- [あの — That noun over there](<あの.md>)
-- [あれ — That one over there](<あれ.md>)
-- [いつも — Always or habitually](<いつも.md>)
-- [いる-ある — Indicates existence: animate beings use one form](<いる-ある.md>)
-- [お願いします — Please](<お願いします.md>)
-- [か — Or](<か.md>)
-- [かかる — States the time or money required for something](<かかる.md>)
-- [から — reason, and the particle for source and time](<から.md>)
-- [から〜まで — Marks a range from its starting point through its endpoint](<から〜まで.md>)
-- [が好き — Like or prefer something, with the liked item marked by が](<が好き.md>)
-- [くなる — Become a stated i-adjective quality](<くなる.md>)
-- [く形 — the adverbial form of い-adjectives](<く形.md>)
-- [ぐらい — approximation, and the minimal "only about"](<ぐらい.md>)
-- [けど — But or though](<けど.md>)
-- [これから — From now on](<これから.md>)
-- [ごろ — Around a stated clock time or approximate point in time](<ごろ.md>)
-- [さっき — A short while ago](<さっき.md>)
-- [すぎて — Because something is excessively X](<すぎて.md>)
-- [すぎる — Do too much, or be excessively a stated quality](<すぎる.md>)
-- [すぐ — Immediately or right away](<すぐ.md>)
-- [すごく — Very or really](<すごく.md>)
-- [ずっと — Continuously, all along, or by far](<ずっと.md>)
-- [たことがある — have done something before](<たことがある.md>)
-- [たほうがいい — It is better to do something](<たほうがいい.md>)
-- [たまに — Occasionally](<たまに.md>)
-- [たり〜たりする — Lists representative actions or states](<たり〜たりする.md>)
-- [だから — So or therefore](<だから.md>)
-- [だけ — only, just](<だけ.md>)
-- [だろう — Probably or presumably](<だろう.md>)
-- [ちょっと — Softens a request, refusal, or negative judgment](<ちょっと.md>)
-- [って言ってた — Said that](<って言ってた.md>)
-- [つい — Unintentionally or despite oneself](<つい.md>)
-- [つもり — Intend to do something](<つもり.md>)
-- [つもりだった — Had intended to do](<つもりだった.md>)
-- [ている — progressive, resultant state, habit, and the てる contractions](<ている.md>)
-- [てから — after doing, and ever since](<てから.md>)
-- [てください — Please do](<てください.md>)
-- [てね — Do this](<てね.md>)
-- [てはいけない — must not, with the ちゃだめ contractions](<てはいけない.md>)
-- [てもいい — asking and giving permission](<てもいい.md>)
-- [て形 — the te-form: linking, sequence, cause, and request](<て形.md>)
-- [で — location of action, instrument, cause, and time limit](<で.md>)
-- [でしょう — Probably will](<でしょう.md>)
-- [でしょうか — Softened polite question: could it be...? or would it be...?](<でしょうか.md>)
-- [でしょ？ — right? — casual confirmation](<でしょ？.md>)
-- [と — the conditional, and the particle for listing and accompaniment](<と.md>)
-- [とても — Very](<とても.md>)
-- [どうですか — How about it? Asks an opinion](<どうですか.md>)
-- [どこ＋ですか — Asks where someone or something is in a polite sentence](<どこ＋ですか.md>)
-- [どちらが好き — Asks which of two alternatives the listener prefers](<どちらが好き.md>)
-- [どっち — Which one?](<どっち.md>)
-- [ないでください — Please do not do](<ないでください.md>)
-- [ない？ — Won't you...?](<ない？.md>)
-- [なくなる — no longer, ran out, and lost the ability](<なくなる.md>)
-- [なければならない — must, have to, and don't have to](<なければならない.md>)
-- [なる — Become](<なる.md>)
-- [に — destination, arrival, recipient, purpose, and occasion](<に.md>)
-- [にする — Choose X from available options](<にする.md>)
-- [になる — Become X](<になる.md>)
-- [ね — agreement and soft assertion](<ね.md>)
-- [の — the nominalizer](<の.md>)
-- [の／んです — the explanatory mood](<の-explanatory.md>)
-- [の — noun-modifying and possessive](<の-modifier.md>)
-- [の — the indefinite pronoun](<の-substitute.md>)
-- [ので — Because or since](<ので.md>)
-- [のは — Nominalizes a clause and presents it as the sentence topic](<のは.md>)
-- [のほうが — the one that is more](<のほうが.md>)
-- [の中で — Within or among a group or place](<の中で.md>)
-- [の中で一番 — The most X within a defined group](<の中で一番.md>)
-- [の前に — Before a noun or event](<の前に.md>)
-- [の後で — After a noun or event](<の後で.md>)
-- [の日 — The day designated for X](<の日.md>)
-- [は — topic, contrast, and scope](<は.md>)
-- [へ — Toward](<へ.md>)
-- [ほう — The one, side, or alternative selected from a contrast](<ほう.md>)
-- [ましょうか — shall I?, shall we?](<ましょうか.md>)
-- [また — Again, later, or another time](<また.md>)
-- [まで — up to, as far as, and even](<まで.md>)
-- [も — Also or too](<も.md>)
-- [もうすぐ — Soon or before long](<もうすぐ.md>)
-- [もうちょっと — A little more](<もうちょっと.md>)
-- [もう・まだ — already, still, and not yet](<もう・まだ.md>)
-- [もう＋counter — One more unit of something](<もう＋counter.md>)
-- [もっと — More](<もっと.md>)
-- [や・など — listing examples, not exhaustively](<や・など.md>)
-- [よ — Sentence-final particle that supplies information or emphasis](<よ.md>)
-- [よく — Often or well](<よく.md>)
-- [より — comparison](<より.md>)
-- [を — leaving a place, and moving through one](<を.md>)
-- [んだ — the explanatory のだ and its compounds](<んだ.md>)
-- [一番 — The most or number one](<一番.md>)
-- [一緒に — Together with](<一緒に.md>)
-- [位置語＋に — Marks a position such as above or below with に](<位置語＋に.md>)
-- [先に — Before others or earlier](<先に.md>)
-- [前に — A stated duration before another time or event](<前に.md>)
-- [前は — Previously or before](<前は.md>)
-- [意向形 — the volitional: intention, invitation, and ましょう](<意向形.md>)
-- [挨拶表現 — Set phrases for greeting](<挨拶表現.md>)
-- [時間＋に — Marks the time at which an event occurs. Clock times](<時間＋に.md>)
-- [期間＋に — Per period](<期間＋に.md>)
-- [毎朝 — Every morning](<毎朝.md>)
-- [熱がある — Have a fever](<熱がある.md>)
-- [疑問詞＋か — embedded questions](<疑問詞＋か.md>)
-- [疑問詞＋も〜ない — Question word plus も with a negative predicate denies every case](<疑問詞＋も〜ない.md>)
-- [誰の — Whose? Asks which person owns or is associated with something](<誰の.md>)
-- [過去形・辞書形 — States past or nonpast facts plainly, without polite marking](<過去形・辞書形.md>)
+<div class="card-grid" markdown="0">
+<div class="card-grid-item"><h3><a href="a-mo-b-mo/">AもBも — Both A and B</a></h3><p>Both A and B; includes each item equally</p></div>
+<div class="card-grid-item"><h3><a href="ageru-kureru-morau/">あげる・くれる・もらう — giving and receiving</a></h3><p>Give something to another person, viewed from the giver&#x27;s side</p></div>
+<div class="card-grid-item"><h3><a href="aisatsuhyougen/">挨拶表現 — Set phrases for greeting</a></h3><p>Set phrases for greeting, introduction, thanks, apology, or leave-taking</p></div>
+<div class="card-grid-item"><h3><a href="ano/">あの — That noun over there</a></h3><p>That noun over there.</p></div>
+<div class="card-grid-item"><h3><a href="are/">あれ — That one over there</a></h3><p>That one over there, or an interjection noticing something unexpected</p></div>
+<div class="card-grid-item"><h3><a href="ato/">あと — remaining, and &quot;and also&quot;</a></h3><p>Also; adds another item or request after what was just mentioned</p></div>
+<div class="card-grid-item"><h3><a href="ato-de/">あとで — Later</a></h3><p>Later; after the current or previously mentioned time or event</p></div>
+<div class="card-grid-item"><h3><a href="chotto/">ちょっと — Softens a request, refusal, or negative judgment</a></h3><p>Softens a request, refusal, or negative judgment.</p></div>
+<div class="card-grid-item"><h3><a href="counters/">Counters — counting with classifiers</a></h3><p>Japanese counts nouns with a classifier chosen by the kind of thing counted, and the reading often changes with the number.</p></div>
+<div class="card-grid-item"><h3><a href="dakara/">だから — So or therefore</a></h3><p>So or therefore; casual result connector.</p></div>
+<div class="card-grid-item"><h3><a href="dake/">だけ — only, just</a></h3><p>Only or just; limits the statement to the marked item or amount</p></div>
+<div class="card-grid-item"><h3><a href="dare-no/">誰の — Whose? Asks which person owns or is associated with something</a></h3><p>Whose? Asks which person owns or is associated with something</p></div>
+<div class="card-grid-item"><h3><a href="darou/">だろう — Probably or presumably</a></h3><p>Probably or presumably; plain-form prediction with relatively strong confidence</p></div>
+<div class="card-grid-item"><h3><a href="de/">で — location of action, instrument, cause, and time limit</a></h3><p>Marks the place where an action occurs.</p></div>
+<div class="card-grid-item"><h3><a href="desho-q/">でしょ？ — right? — casual confirmation</a></h3><p>Right? Casual confirmation seeking agreement about shared information</p></div>
+<div class="card-grid-item"><h3><a href="deshou/">でしょう — Probably will</a></h3><p>Probably will; polite prediction based on expectation or reasoning</p></div>
+<div class="card-grid-item"><h3><a href="deshou-ka/">でしょうか — Softened polite question: could it be...? or would it be...?</a></h3><p>Softened polite question: could it be...? or would it be...?</p></div>
+<div class="card-grid-item"><h3><a href="docchi/">どっち — Which one?</a></h3><p>Which one?; casual form of どちら.</p></div>
+<div class="card-grid-item"><h3><a href="dochira-ga-suki/">どちらが好き — Asks which of two alternatives the listener prefers</a></h3><p>Asks which of two alternatives the listener prefers</p></div>
+<div class="card-grid-item"><h3><a href="doko-desu-ka/">どこ＋ですか — Asks where someone or something is in a polite sentence</a></h3><p>Asks where someone or something is in a polite sentence</p></div>
+<div class="card-grid-item"><h3><a href="dou-desu-ka/">どうですか — How about it? Asks an opinion</a></h3><p>How about it? Asks an opinion, makes an offer, or proposes an activity</p></div>
+<div class="card-grid-item"><h3><a href="ga-hoshii/">〜がほしい — Want a particular thing</a></h3><p>Want a particular thing; expresses the speaker&#x27;s desire for a noun</p></div>
+<div class="card-grid-item"><h3><a href="ga-suki/">が好き — Like or prefer something, with the liked item marked by が</a></h3><p>Like or prefer something, with the liked item marked by が.</p></div>
+<div class="card-grid-item"><h3><a href="gimonshi-ka/">疑問詞＋か — embedded questions</a></h3><p>Embeds a content question inside a larger statement or question</p></div>
+<div class="card-grid-item"><h3><a href="gimonshi-mo-nai/">疑問詞＋も〜ない — Question word plus も with a negative predicate denies every case</a></h3><p>Question word plus も with a negative predicate denies every case: 何も nothing at all, どこにも nowhere</p></div>
+<div class="card-grid-item"><h3><a href="goro/">ごろ — Around a stated clock time or approximate point in time</a></h3><p>Around a stated clock time or approximate point in time</p></div>
+<div class="card-grid-item"><h3><a href="gurai/">ぐらい — approximation, and the minimal &quot;only about&quot;</a></h3><p>In about the stated amount of time; estimates duration until completion</p></div>
+<div class="card-grid-item"><h3><a href="he/">へ — Toward</a></h3><p>Toward; marks the direction of movement.</p></div>
+<div class="card-grid-item"><h3><a href="hou/">ほう — The one, side, or alternative selected from a contrast</a></h3><p>The one, side, or alternative selected from a contrast</p></div>
+<div class="card-grid-item"><h3><a href="ichiban/">一番 — The most or number one</a></h3><p>The most or number one.</p></div>
+<div class="card-grid-item"><h3><a href="ichigo-ni/">位置語＋に — Marks a position such as above or below with に</a></h3><p>Marks a position such as above or below with に.</p></div>
+<div class="card-grid-item"><h3><a href="ikoukei/">意向形 — the volitional: intention, invitation, and ましょう</a></h3><p>Let&#x27;s do...; polite volitional invitation.</p></div>
+<div class="card-grid-item"><h3><a href="iru-aru/">いる-ある — Indicates existence: animate beings use one form</a></h3><p>Indicates existence: animate beings use one form, inanimate things the other</p></div>
+<div class="card-grid-item"><h3><a href="issho-ni/">一緒に — Together with</a></h3><p>Together with.</p></div>
+<div class="card-grid-item"><h3><a href="itsumo/">いつも — Always or habitually</a></h3><p>Always or habitually; occurring on every relevant occasion</p></div>
+<div class="card-grid-item"><h3><a href="ja-nai/">〜じゃない — na-adjective negative, and じゃなくて</a></h3><p>Makes a noun or na-adjective negative in casual speech</p></div>
+<div class="card-grid-item"><h3><a href="jikan-ni/">時間＋に — Marks the time at which an event occurs. Clock times</a></h3><p>Marks the time at which an event occurs. Clock times, days and dates take に; relative words like 今日 and 毎朝 do not.</p></div>
+<div class="card-grid-item"><h3><a href="ka/">か — Or</a></h3><p>Or; marks a choice between alternatives.</p></div>
+<div class="card-grid-item"><h3><a href="kakaru/">かかる — States the time or money required for something</a></h3><p>States the time or money required for something</p></div>
+<div class="card-grid-item"><h3><a href="kakokei-jishokei/">過去形・辞書形 — States past or nonpast facts plainly, without polite marking</a></h3><p>States past or nonpast facts plainly, without polite marking</p></div>
+<div class="card-grid-item"><h3><a href="kara/">から — reason, and the particle for source and time</a></h3><p>Because, placed after the main clause as an added justification.</p></div>
+<div class="card-grid-item"><h3><a href="kara-made/">から〜まで — Marks a range from its starting point through its endpoint</a></h3><p>Marks a range from its starting point through its endpoint</p></div>
+<div class="card-grid-item"><h3><a href="kedo/">けど — But or though</a></h3><p>But or though; contrast or soft setup.</p></div>
+<div class="card-grid-item"><h3><a href="kikan-ni/">期間＋に — Per period</a></h3><p>Per period: a time span plus に states frequency or rate within each period (週に一回, 月に二回)</p></div>
+<div class="card-grid-item"><h3><a href="korekara/">これから — From now on</a></h3><p>From now on; beginning at the present moment and continuing forward</p></div>
+<div class="card-grid-item"><h3><a href="ku-naru/">くなる — Become a stated i-adjective quality</a></h3><p>Become a stated i-adjective quality; marks a change of state</p></div>
+<div class="card-grid-item"><h3><a href="kukei/">く形 — the adverbial form of い-adjectives</a></h3><p>The く form turns an i-adjective into an adverb: 早く early or quickly, 短く shortly</p></div>
+<div class="card-grid-item"><h3><a href="kute/">〜くて — Links an i-adjective to another description</a></h3><p>Links an i-adjective to another description, often implying cause or sequence</p></div>
+<div class="card-grid-item"><h3><a href="made/">まで — up to, as far as, and even</a></h3><p>Even someone or something surprising; extends inclusion to an unexpected extreme</p></div>
+<div class="card-grid-item"><h3><a href="mae-ni/">前に — A stated duration before another time or event</a></h3><p>A stated duration before another time or event</p></div>
+<div class="card-grid-item"><h3><a href="mae-wa/">前は — Previously or before</a></h3><p>Previously or before; contrasts an earlier situation with now</p></div>
+<div class="card-grid-item"><h3><a href="maiasa/">毎朝 — Every morning</a></h3><p>Every morning; habitual time expression for each day&#x27;s morning</p></div>
+<div class="card-grid-item"><h3><a href="masen-ka/">〜ませんか — Would you like to do something together? A polite invitation</a></h3><p>Would you like to do something together? A polite invitation</p></div>
+<div class="card-grid-item"><h3><a href="mashou-ka/">ましょうか — shall I?, shall we?</a></h3><p>Shall I do X? Polite offer to act on the listener&#x27;s behalf</p></div>
+<div class="card-grid-item"><h3><a href="mata/">また — Again, later, or another time</a></h3><p>Again, later, or another time; indicates repetition or return</p></div>
+<div class="card-grid-item"><h3><a href="mo/">も — Also or too</a></h3><p>Also or too.</p></div>
+<div class="card-grid-item"><h3><a href="motto/">もっと — More</a></h3><p>More.</p></div>
+<div class="card-grid-item"><h3><a href="mou-chotto/">もうちょっと — A little more</a></h3><p>A little more.</p></div>
+<div class="card-grid-item"><h3><a href="mou-counter/">もう＋counter — One more unit of something</a></h3><p>One more unit of something; requests or adds an additional quantity</p></div>
+<div class="card-grid-item"><h3><a href="mou-mada/">もう・まだ — already, still, and not yet</a></h3><p>Still or not yet; state continues relative to expectations</p></div>
+<div class="card-grid-item"><h3><a href="mousugu/">もうすぐ — Soon or before long</a></h3><p>Soon or before long.</p></div>
+<div class="card-grid-item"><h3><a href="n-da/">んだ — the explanatory のだ and its compounds</a></h3><p>Provides background, explanation, or emphasis in casual speech</p></div>
+<div class="card-grid-item"><h3><a href="nai-de-kudasai/">ないでください — Please do not do</a></h3><p>Please do not do.</p></div>
+<div class="card-grid-item"><h3><a href="nai-q/">ない？ — Won&#x27;t you...?</a></h3><p>Won&#x27;t you...?; casual invitation.</p></div>
+<div class="card-grid-item"><h3><a href="nakereba-naranai/">なければならない — must, have to, and don&#x27;t have to</a></h3><p>Must do; casual obligation with the consequence left unstated</p></div>
+<div class="card-grid-item"><h3><a href="nakunaru/">なくなる — no longer, ran out, and lost the ability</a></h3><p>Become unable to do; an ability is lost over time</p></div>
+<div class="card-grid-item"><h3><a href="naru/">なる — Become</a></h3><p>Become.</p></div>
+<div class="card-grid-item"><h3><a href="ne/">ね — agreement and soft assertion</a></h3><p>Sentence-final particle seeking agreement.</p></div>
+<div class="card-grid-item"><h3><a href="netsu-ga-aru/">熱がある — Have a fever</a></h3><p>Have a fever; common health-state expression with が</p></div>
+<div class="card-grid-item"><h3><a href="ni/">に — destination, arrival, recipient, purpose, and occasion</a></h3><p>Marks the destination reached or place entered by a movement</p></div>
+<div class="card-grid-item"><h3><a href="ni-naru/">になる — Become X</a></h3><p>Become X; intransitive change into a noun or na-adjective state</p></div>
+<div class="card-grid-item"><h3><a href="ni-suru-choice/">にする — Choose X from available options</a></h3><p>Choose X from available options; make it the selected outcome</p></div>
+<div class="card-grid-item"><h3><a href="no/">の — the nominalizer</a></h3><p>Turns a clause into an activity or thing with の.</p></div>
+<div class="card-grid-item"><h3><a href="no-ato-de/">の後で — After a noun or event</a></h3><p>After a noun or event.</p></div>
+<div class="card-grid-item"><h3><a href="no-explanatory/">の／んです — the explanatory mood</a></h3><p>Supplies background or asks for an explanation with の.</p></div>
+<div class="card-grid-item"><h3><a href="no-hi/">の日 — The day designated for X</a></h3><p>The day designated for X; noun modifier identifying a scheduled category</p></div>
+<div class="card-grid-item"><h3><a href="no-hou-ga/">のほうが — the one that is more</a></h3><p>The marked option is more or better when comparing alternatives</p></div>
+<div class="card-grid-item"><h3><a href="no-mae-ni/">の前に — Before a noun or event</a></h3><p>Before a noun or event.</p></div>
+<div class="card-grid-item"><h3><a href="no-modifier/">の — noun-modifying and possessive</a></h3><p>One belonging to someone; replaces an understood possessed noun</p></div>
+<div class="card-grid-item"><h3><a href="no-naka-de/">の中で — Within or among a group or place</a></h3><p>Within or among a group or place.</p></div>
+<div class="card-grid-item"><h3><a href="no-naka-de-ichiban/">の中で一番 — The most X within a defined group</a></h3><p>The most X within a defined group; superlative comparison</p></div>
+<div class="card-grid-item"><h3><a href="no-substitute/">の — the indefinite pronoun</a></h3><p>Uses の in place of an understood noun or item.</p></div>
+<div class="card-grid-item"><h3><a href="no-wa/">のは — Nominalizes a clause and presents it as the sentence topic</a></h3><p>Nominalizes a clause and presents it as the sentence topic</p></div>
+<div class="card-grid-item"><h3><a href="node/">ので — Because or since</a></h3><p>Because or since; gives a softer, more explanatory reason</p></div>
+<div class="card-grid-item"><h3><a href="o-negai-shimasu/">お願いします — Please</a></h3><p>Please; standard polite formula for making requests or entrusting something</p></div>
+<div class="card-grid-item"><h3><a href="saki-ni/">先に — Before others or earlier</a></h3><p>Before others or earlier; gives an action priority in sequence</p></div>
+<div class="card-grid-item"><h3><a href="sakki/">さっき — A short while ago</a></h3><p>A short while ago; earlier in the same general period</p></div>
+<div class="card-grid-item"><h3><a href="sugiru/">すぎる — Do too much, or be excessively a stated quality</a></h3><p>Do too much, or be excessively a stated quality</p></div>
+<div class="card-grid-item"><h3><a href="sugite/">すぎて — Because something is excessively X</a></h3><p>Because something is excessively X; links an excessive degree to its consequence</p></div>
+<div class="card-grid-item"><h3><a href="sugoku/">すごく — Very or really</a></h3><p>Very or really; casual intensifier.</p></div>
+<div class="card-grid-item"><h3><a href="sugu/">すぐ — Immediately or right away</a></h3><p>Immediately or right away.</p></div>
+<div class="card-grid-item"><h3><a href="ta-hou-ga-ii/">たほうがいい — It is better to do something</a></h3><p>It is better to do something; offers advice or recommendation</p></div>
+<div class="card-grid-item"><h3><a href="ta-koto-ga-aru/">たことがある — have done something before</a></h3><p>Have done before; casual expression of past experience</p></div>
+<div class="card-grid-item"><h3><a href="tai/">〜たい — wanting to do something</a></h3><p>Want to do something; expresses the speaker&#x27;s own desire</p></div>
+<div class="card-grid-item"><h3><a href="tamani/">たまに — Occasionally</a></h3><p>Occasionally; happening at irregular and relatively infrequent times</p></div>
+<div class="card-grid-item"><h3><a href="tari-tari-suru/">たり〜たりする — Lists representative actions or states</a></h3><p>Lists representative actions or states, implying the list is not exhaustive</p></div>
+<div class="card-grid-item"><h3><a href="te-iru/">ている — progressive, resultant state, habit, and the てる contractions</a></h3><p>Was doing or used to do; past progressive or habitual state</p></div>
+<div class="card-grid-item"><h3><a href="te-kara/">てから — after doing, and ever since</a></h3><p>After completing one action, then perform the following action</p></div>
+<div class="card-grid-item"><h3><a href="te-kudasai/">てください — Please do</a></h3><p>Please do.</p></div>
+<div class="card-grid-item"><h3><a href="te-mo-ii/">てもいい — asking and giving permission</a></h3><p>May I do...?; casual permission question.</p></div>
+<div class="card-grid-item"><h3><a href="te-ne/">てね — Do this</a></h3><p>Do this, okay? Soft casual request seeking cooperative follow-through</p></div>
+<div class="card-grid-item"><h3><a href="te-wa-ikenai/">てはいけない — must not, with the ちゃだめ contractions</a></h3><p>Must not do; casual contraction of てはいけない.</p></div>
+<div class="card-grid-item"><h3><a href="tekei/">て形 — the te-form: linking, sequence, cause, and request</a></h3><p>Links a cause or reason to its result with the て-form.</p></div>
+<div class="card-grid-item"><h3><a href="to/">と — the conditional, and the particle for listing and accompaniment</a></h3><p>Given X or if X is the case; sets a conditional frame</p></div>
+<div class="card-grid-item"><h3><a href="totemo/">とても — Very</a></h3><p>Very.</p></div>
+<div class="card-grid-item"><h3><a href="tsui/">つい — Unintentionally or despite oneself</a></h3><p>Unintentionally or despite oneself.</p></div>
+<div class="card-grid-item"><h3><a href="tsumori/">つもり — Intend to do something</a></h3><p>Intend to do something; expresses a considered personal plan</p></div>
+<div class="card-grid-item"><h3><a href="tsumori-datta/">つもりだった — Had intended to do</a></h3><p>Had intended to do; past plan later changed or unrealized</p></div>
+<div class="card-grid-item"><h3><a href="tte-itteta/">って言ってた — Said that</a></h3><p>Said that; casually reports what someone previously said</p></div>
+<div class="card-grid-item"><h3><a href="v-jishokei-mae-ni/">V辞書形＋前に — Before doing an action</a></h3><p>Before doing an action; the action serves as the time reference</p></div>
+<div class="card-grid-item"><h3><a href="vstem-ni/">Vstem＋に — Go somewhere in order to do an action</a></h3><p>In order to do; Vstem＋に pairs with a motion verb such as 行く, 来る or 帰る, and marks the movement&#x27;s purpose</p></div>
+<div class="card-grid-item"><h3><a href="wa/">は — topic, contrast, and scope</a></h3><p>As for this item specifically, contrasts it with another possibility</p></div>
+<div class="card-grid-item"><h3><a href="wo/">を — leaving a place, and moving through one</a></h3><p>Marks a point exited or departed from, such as a vehicle or doorway</p></div>
+<div class="card-grid-item"><h3><a href="ya-nado/">や・など — listing examples, not exhaustively</a></h3><p>Lists examples such as A and B without exhausting all possibilities</p></div>
+<div class="card-grid-item"><h3><a href="yo/">よ — Sentence-final particle that supplies information or emphasis</a></h3><p>Sentence-final particle that supplies information or emphasis.</p></div>
+<div class="card-grid-item"><h3><a href="yoku/">よく — Often or well</a></h3><p>Often or well.</p></div>
+<div class="card-grid-item"><h3><a href="yori/">より — comparison</a></h3><p>More than any X; compares one item against an entire set</p></div>
+<div class="card-grid-item"><h3><a href="zutto/">ずっと — Continuously, all along, or by far</a></h3><p>Continuously, the whole time; an unbroken state or action over a span.</p></div>
+</div>
 
 ## N4-lower
 
-- [Transitivity — transitive and intransitive verb pairs](<Transitivity.md>)
-- [〜くする — Make something become an i-adjective state](<〜くする.md>)
-- [〜にする — making something into a state](<〜にする.md>)
-- [〜めに — Deliberately a bit more than usual](<〜めに.md>)
-- [あまり — not very, not much](<あまり.md>)
-- [あんなに — To that great extent](<あんなに.md>)
-- [いかがですか — How about it? Polite way to offer, invite, or ask an opinion](<いかがですか.md>)
-- [いつまでも — Forever or indefinitely](<いつまでも.md>)
-- [お先に — Before others](<お先に.md>)
-- [お腹が鳴る — Have one's stomach rumble audibly, usually from hunger](<お腹が鳴る.md>)
-- [お＋名詞 — the honorific and beautifying prefix お](<お＋名詞.md>)
-- [かな — I wonder](<かな.md>)
-- [かも — Might](<かも.md>)
-- [かもしれない — Might or may](<かもしれない.md>)
-- [かもしれません — Polite might or may](<かもしれません.md>)
-- [がする — a sound, smell, or sensation](<がする.md>)
-- [がる — showing someone else's feelings, with たがる and 嫌がる](<がる.md>)
-- [きっと — Surely or certainly](<きっと.md>)
-- [こちら — This way or this one](<こちら.md>)
-- [こと — Nominalizes a clause as a fact, matter, or thing](<こと.md>)
-- [ことがある — Sometimes or occasionally does something](<ことがある.md>)
-- [ご＋名詞 — the honorific and beautifying prefix ご](<ご＋名詞.md>)
-- [させてください — Please let me do something](<させてください.md>)
-- [させてくれる — Let someone do something for their benefit](<させてくれる.md>)
-- [させてもらう — humbly getting permission to do something](<させてもらう.md>)
-- [し — listing reasons](<し.md>)
-- [しか〜ない — Only or nothing but, used with a negative predicate](<しか〜ない.md>)
-- [しばらく — For a while](<しばらく.md>)
-- [じゃん — You know](<じゃん.md>)
-- [ずつ — Each by each](<ずつ.md>)
-- [そうだ — looks like, seems, and about to](<そうだ.md>)
-- [そうだ (hearsay) — I hear that, they say that](<そうだ-hearsay.md>)
-- [そろそろ — Soon, or about time to do something](<そろそろ.md>)
-- [そんなに — To that extent](<そんなに.md>)
-- [たあとで — After doing X](<たあとで.md>)
-- [たら — the tara-conditional: condition, discovery, time, and suggestion](<たら.md>)
-- [だいぶ — Considerably or quite a lot](<だいぶ.md>)
-- [だんだん — Gradually](<だんだん.md>)
-- [ちゃんと — Properly, reliably, or as expected](<ちゃんと.md>)
-- [ちょうどいい — Just right or exactly suitable](<ちょうどいい.md>)
-- [てあげる・てくれる・てもらう — doing something for someone](<てあげる・てくれる・てもらう.md>)
-- [てあった — A deliberately created state existed in the past](<てあった.md>)
-- [ておく — doing something in advance, with the とく contraction](<ておく.md>)
-- [てくる・ていく — movement and change, toward or away from now](<てくる・ていく.md>)
-- [てしまう — completion and regret, with the ちゃう contractions](<てしまう.md>)
-- [てほしい — Want another person to do something](<てほしい.md>)
-- [ても — even if, however much](<ても.md>)
-- [て帰る — Do something and return afterward](<て帰る.md>)
-- [て＋ありがとう — Thanks for doing](<て＋ありがとう.md>)
-- [では — location, and "according to"](<では.md>)
-- [でも — but, even, and "or something"](<でも.md>)
-- [とか〜とか — Gives representative examples such as X and Y](<とか〜とか.md>)
-- [とき — When or at the time that](<とき.md>)
-- [と思う — Think that something is true](<と思う.md>)
-- [どのくらい — How much, how long, or to what degree](<どのくらい.md>)
-- [なあ — Sentence-final reflection or emotion](<なあ.md>)
-- [ないで — Without doing one action, or while refraining from it](<ないで.md>)
-- [ないと — unless](<ないと.md>)
-- [ながら — Do two actions simultaneously](<ながら.md>)
-- [なさい — Do it](<なさい.md>)
-- [なら — the nara-conditional, topic, and advice](<なら.md>)
-- [なるべく — As much as possible](<なるべく.md>)
-- [には — At or for X, with は adding contrast or emphasis](<には.md>)
-- [のに — even though, and "for doing"](<のに.md>)
-- [のんびり — Relax at an unhurried pace](<のんびり.md>)
-- [の帰りに — On the way home from X](<の帰りに.md>)
-- [ば — the ba-conditional, ばいい and ばよかった](<ば.md>)
-- [への — For or toward X](<への.md>)
-- [ほど — About or approximately an amount](<ほど.md>)
-- [までに — by a deadline](<までに.md>)
-- [みたいに — Like or in the same way as](<みたいに.md>)
-- [もし — If](<もし.md>)
-- [やすい・にくい — easy and hard to do](<やすい・にくい.md>)
-- [やっと — Finally, after delay or effort](<やっと.md>)
-- [やっぱり — As expected or after reconsideration](<やっぱり.md>)
-- [ような — A kind of X or as if X](<ような.md>)
-- [よかったら — If you like or if convenient](<よかったら.md>)
-- [られる・させる — passive, causative, and causative-passive](<られる.md>)
-- [るところだ — Be just about to do](<るところだ.md>)
-- [一度も〜ない — Not even once](<一度も〜ない.md>)
-- [久しぶりに — For the first time in a long while](<久しぶりに.md>)
-- [予定だ — Plan to do](<予定だ.md>)
-- [予定です — Polite expression of a planned future action or event](<予定です.md>)
-- [今日中に — By the end of today](<今日中に.md>)
-- [以上-以下 — At least or at most](<以上-以下.md>)
-- [全然〜ない — Not at all](<全然〜ない.md>)
-- [出す — Begin suddenly](<出す.md>)
-- [始める — Begin doing an action](<始める.md>)
-- [必ず — Without fail](<必ず.md>)
-- [思ったより — More or less X than expected](<思ったより.md>)
-- [急に — Suddenly](<急に.md>)
-- [数量＋も — As many or much as the stated quantity, expressing surprise](<数量＋も.md>)
-- [数量＋も〜ない — Not even the stated quantity](<数量＋も〜ない.md>)
-- [方 — Polite noun meaning person](<方.md>)
-- [昔は〜今は — Previously X, but now Y](<昔は〜今は.md>)
-- [最近 — Recently or lately](<最近.md>)
-- [気に入る — Come to like or find something pleasing after experiencing it](<気に入る.md>)
-- [無料で — Free of charge](<無料で.md>)
-- [疑問詞＋でも — Anything or whatever](<疑問詞＋でも.md>)
-- [聞こえる — Can be heard](<聞こえる.md>)
-- [見える — Be visible or come into view naturally](<見える.md>)
-- [見つかる — Be found or turn up](<見つかる.md>)
-- [足りる — Be sufficient or enough](<足りる.md>)
-- [連れてくる — bringing a person with you](<連れてくる.md>)
-- [連れて行く — Take or accompany someone away to another location](<連れて行く.md>)
-- [間 — Throughout a period](<間.md>)
-- [間に — During a period](<間に.md>)
+<div class="card-grid" markdown="0">
+<div class="card-grid-item"><h3><a href="aida/">間 — Throughout a period</a></h3><p>Throughout a period; state or action continues for the entire span</p></div>
+<div class="card-grid-item"><h3><a href="aida-ni/">間に — During a period</a></h3><p>During a period; another event occurs within that time window</p></div>
+<div class="card-grid-item"><h3><a href="amari/">あまり — not very, not much</a></h3><p>Not very or not much, used with a negative.</p></div>
+<div class="card-grid-item"><h3><a href="annani/">あんなに — To that great extent</a></h3><p>To that great extent; emphasizes a notably high degree</p></div>
+<div class="card-grid-item"><h3><a href="ba/">ば — the ba-conditional, ばいい and ばよかった</a></h3><p>If X, then Y; presents X as the condition enabling Y</p></div>
+<div class="card-grid-item"><h3><a href="chanto/">ちゃんと — Properly, reliably, or as expected</a></h3><p>Properly, reliably, or as expected; emphasizes adequate care or completeness</p></div>
+<div class="card-grid-item"><h3><a href="choudo-ii/">ちょうどいい — Just right or exactly suitable</a></h3><p>Just right or exactly suitable.</p></div>
+<div class="card-grid-item"><h3><a href="daibu/">だいぶ — Considerably or quite a lot</a></h3><p>Considerably or quite a lot.</p></div>
+<div class="card-grid-item"><h3><a href="dandan/">だんだん — Gradually</a></h3><p>Gradually; change proceeds step by step over time</p></div>
+<div class="card-grid-item"><h3><a href="dasu/">出す — Begin suddenly</a></h3><p>Begin suddenly; action starts abruptly or becomes noticeable</p></div>
+<div class="card-grid-item"><h3><a href="de-wa/">では — location, and &quot;according to&quot;</a></h3><p>Within or at a place or institutional scope; で plus topic-contrastive は marks the place as the domain in which the statement holds</p></div>
+<div class="card-grid-item"><h3><a href="demo/">でも — but, even, and &quot;or something&quot;</a></h3><p>Even if X; concessive condition whose result remains unchanged</p></div>
+<div class="card-grid-item"><h3><a href="dono-kurai/">どのくらい — How much, how long, or to what degree</a></h3><p>How much, how long, or to what degree; asks about extent</p></div>
+<div class="card-grid-item"><h3><a href="ga-suru/">がする — a sound, smell, or sensation</a></h3><p>A sensory impression is perceived; used with smell, sound, taste, or feeling</p></div>
+<div class="card-grid-item"><h3><a href="garu/">がる — showing someone else&#x27;s feelings, with たがる and 嫌がる</a></h3><p>Shows another person&#x27;s observable emotion or desire through outward behavior</p></div>
+<div class="card-grid-item"><h3><a href="gimonshi-demo/">疑問詞＋でも — Anything or whatever</a></h3><p>Anything or whatever; question word plus でも.</p></div>
+<div class="card-grid-item"><h3><a href="go-meishi/">ご＋名詞 — the honorific and beautifying prefix ご</a></h3><p>Adds polite or beautifying ご to certain Sino-Japanese nouns; not inherently honorific</p></div>
+<div class="card-grid-item"><h3><a href="hajimeru/">始める — Begin doing an action</a></h3><p>Begin doing an action; attaches to a verb stem</p></div>
+<div class="card-grid-item"><h3><a href="he-no/">への — For or toward X</a></h3><p>For or toward X; の-marked noun modifies a following noun</p></div>
+<div class="card-grid-item"><h3><a href="hisashiburi-ni/">久しぶりに — For the first time in a long while</a></h3><p>For the first time in a long while; after an extended absence</p></div>
+<div class="card-grid-item"><h3><a href="hodo/">ほど — About or approximately an amount</a></h3><p>About or approximately an amount.</p></div>
+<div class="card-grid-item"><h3><a href="ichido-mo-nai/">一度も〜ない — Not even once</a></h3><p>Not even once; combines with a negative predicate for zero occurrences</p></div>
+<div class="card-grid-item"><h3><a href="ijou-ika/">以上-以下 — At least or at most</a></h3><p>At least or at most; sets inclusive numerical limits</p></div>
+<div class="card-grid-item"><h3><a href="ikaga-desu-ka/">いかがですか — How about it? Polite way to offer, invite, or ask an opinion</a></h3><p>How about it? Polite way to offer, invite, or ask an opinion</p></div>
+<div class="card-grid-item"><h3><a href="itsu-made-mo/">いつまでも — Forever or indefinitely</a></h3><p>Forever or indefinitely; continuing without a stated endpoint</p></div>
+<div class="card-grid-item"><h3><a href="jan/">じゃん — You know</a></h3><p>You know, isn&#x27;t it obvious? Casual challenge or emphatic confirmation</p></div>
+<div class="card-grid-item"><h3><a href="ka-na/">かな — I wonder</a></h3><p>I wonder; softens a tentative thought or question.</p></div>
+<div class="card-grid-item"><h3><a href="kamo/">かも — Might</a></h3><p>Might; casual shortened expression showing an uncertain possibility</p></div>
+<div class="card-grid-item"><h3><a href="kamo-shiremasen/">かもしれません — Polite might or may</a></h3><p>Polite might or may; softens an uncertain assessment</p></div>
+<div class="card-grid-item"><h3><a href="kamo-shirenai/">かもしれない — Might or may</a></h3><p>Might or may; expresses a possibility the speaker considers uncertain</p></div>
+<div class="card-grid-item"><h3><a href="kanarazu/">必ず — Without fail</a></h3><p>Without fail; expresses certainty or a firm requirement</p></div>
+<div class="card-grid-item"><h3><a href="kata/">方 — Polite noun meaning person</a></h3><p>Polite noun meaning person.</p></div>
+<div class="card-grid-item"><h3><a href="ki-ni-iru/">気に入る — Come to like or find something pleasing after experiencing it</a></h3><p>Come to like or find something pleasing after experiencing it</p></div>
+<div class="card-grid-item"><h3><a href="kikoeru/">聞こえる — Can be heard</a></h3><p>Can be heard; describes natural audibility rather than deliberate listening</p></div>
+<div class="card-grid-item"><h3><a href="kitto/">きっと — Surely or certainly</a></h3><p>Surely or certainly; expresses strong confidence in a prediction or belief</p></div>
+<div class="card-grid-item"><h3><a href="kochira/">こちら — This way or this one</a></h3><p>This way or this one; polite demonstrative.</p></div>
+<div class="card-grid-item"><h3><a href="koto/">こと — Nominalizes a clause as a fact, matter, or thing</a></h3><p>Nominalizes a clause as a fact, matter, or thing.</p></div>
+<div class="card-grid-item"><h3><a href="koto-ga-aru/">ことがある — Sometimes or occasionally does something</a></h3><p>Sometimes or occasionally does something.</p></div>
+<div class="card-grid-item"><h3><a href="ku-suru/">〜くする — Make something become an i-adjective state</a></h3><p>Make something become an i-adjective state, often by deliberate adjustment</p></div>
+<div class="card-grid-item"><h3><a href="kyoujuu-ni/">今日中に — By the end of today</a></h3><p>By the end of today; deadline within the current day</p></div>
+<div class="card-grid-item"><h3><a href="kyuu-ni/">急に — Suddenly</a></h3><p>Suddenly; change happens without warning or gradual lead-in</p></div>
+<div class="card-grid-item"><h3><a href="made-ni/">までに — by a deadline</a></h3><p>By a deadline; the action must occur no later than that time</p></div>
+<div class="card-grid-item"><h3><a href="me-ni/">〜めに — Deliberately a bit more than usual</a></h3><p>Deliberately a bit more than usual: adjective stem plus め(に) errs toward the quality (多めに, 早めに)</p></div>
+<div class="card-grid-item"><h3><a href="mieru/">見える — Be visible or come into view naturally</a></h3><p>Be visible or come into view naturally; not deliberate looking</p></div>
+<div class="card-grid-item"><h3><a href="mitai-ni/">みたいに — Like or in the same way as</a></h3><p>Like or in the same way as.</p></div>
+<div class="card-grid-item"><h3><a href="mitsukaru/">見つかる — Be found or turn up</a></h3><p>Be found or turn up; intransitive result rather than deliberate search</p></div>
+<div class="card-grid-item"><h3><a href="moshi/">もし — If</a></h3><p>If; optional adverb introducing a condition.</p></div>
+<div class="card-grid-item"><h3><a href="mukashi-wa-ima-wa/">昔は〜今は — Previously X, but now Y</a></h3><p>Previously X, but now Y; contrasts past and present states</p></div>
+<div class="card-grid-item"><h3><a href="muryou-de/">無料で — Free of charge</a></h3><p>Free of charge; no payment is required for the item or service</p></div>
+<div class="card-grid-item"><h3><a href="naa/">なあ — Sentence-final reflection or emotion</a></h3><p>Sentence-final reflection or emotion, often sounding wistful, impressed, or self-directed</p></div>
+<div class="card-grid-item"><h3><a href="nagara/">ながら — Do two actions simultaneously</a></h3><p>Do two actions simultaneously, with the later action as primary</p></div>
+<div class="card-grid-item"><h3><a href="nai-de/">ないで — Without doing one action, or while refraining from it</a></h3><p>Without doing one action, or while refraining from it; also, used sentence-finally, a casual negative request not to do it</p></div>
+<div class="card-grid-item"><h3><a href="nai-to/">ないと — unless</a></h3><p>Unless X happens; the following outcome will not occur</p></div>
+<div class="card-grid-item"><h3><a href="nara/">なら — the nara-conditional, topic, and advice</a></h3><p>If it is X; sets a contextual condition on what follows.</p></div>
+<div class="card-grid-item"><h3><a href="narubeku/">なるべく — As much as possible</a></h3><p>As much as possible; seeks the greatest practical degree</p></div>
+<div class="card-grid-item"><h3><a href="nasai/">なさい — Do it</a></h3><p>Do it; firm but not necessarily rude command.</p></div>
+<div class="card-grid-item"><h3><a href="ni-suru-na-adj/">〜にする — making something into a state</a></h3><p>Make something become a na-adjective state through deliberate action</p></div>
+<div class="card-grid-item"><h3><a href="ni-wa/">には — At or for X, with は adding contrast or emphasis</a></h3><p>At or for X, with は adding contrast or emphasis.</p></div>
+<div class="card-grid-item"><h3><a href="no-kaeri-ni/">の帰りに — On the way home from X</a></h3><p>On the way home from X; time or event during return</p></div>
+<div class="card-grid-item"><h3><a href="nonbiri/">のんびり — Relax at an unhurried pace</a></h3><p>Relax at an unhurried pace; leisurely and without pressure</p></div>
+<div class="card-grid-item"><h3><a href="noni/">のに — even though, and &quot;for doing&quot;</a></h3><p>Even though; the outcome defies the stated situation, often with surprise or frustration — takes any plain clause, dictionary form included.</p></div>
+<div class="card-grid-item"><h3><a href="o-meishi/">お＋名詞 — the honorific and beautifying prefix お</a></h3><p>Adds polite or beautifying お to certain nouns; not inherently honorific</p></div>
+<div class="card-grid-item"><h3><a href="o-saki-ni/">お先に — Before others</a></h3><p>Before others; polite phrase used when leaving or acting first</p></div>
+<div class="card-grid-item"><h3><a href="omotta-yori/">思ったより — More or less X than expected</a></h3><p>More or less X than expected; comparison against prior expectation</p></div>
+<div class="card-grid-item"><h3><a href="onaka-ga-naru/">お腹が鳴る — Have one&#x27;s stomach rumble audibly, usually from hunger</a></h3><p>Have one&#x27;s stomach rumble audibly, usually from hunger</p></div>
+<div class="card-grid-item"><h3><a href="rareru/">られる・させる — passive, causative, and causative-passive</a></h3><p>Be made or forced to do something by another person</p></div>
+<div class="card-grid-item"><h3><a href="ru-tokoro-da/">るところだ — Be just about to do</a></h3><p>Be just about to do; focuses on the immediate pre-action point</p></div>
+<div class="card-grid-item"><h3><a href="saikin/">最近 — Recently or lately</a></h3><p>Recently or lately.</p></div>
+<div class="card-grid-item"><h3><a href="sase-te-kudasai/">させてください — Please let me do something</a></h3><p>Please let me do something; requests permission for the speaker&#x27;s action</p></div>
+<div class="card-grid-item"><h3><a href="sasete-kureru/">させてくれる — Let someone do something for their benefit</a></h3><p>Let the speaker (or in-group) do something; permissive causative with the benefit flowing inward.</p></div>
+<div class="card-grid-item"><h3><a href="sasete-morau/">させてもらう — humbly getting permission to do something</a></h3><p>Be allowed to do something; highly deferential permission or self-presentation</p></div>
+<div class="card-grid-item"><h3><a href="shi/">し — listing reasons</a></h3><p>Lists one or more reasons, suggesting additional reasons may also exist</p></div>
+<div class="card-grid-item"><h3><a href="shibaraku/">しばらく — For a while</a></h3><p>For a while; an unspecified but meaningful span of time</p></div>
+<div class="card-grid-item"><h3><a href="shika-nai/">しか〜ない — Only or nothing but, used with a negative predicate</a></h3><p>Only or nothing but, used with a negative predicate.</p></div>
+<div class="card-grid-item"><h3><a href="sonnani/">そんなに — To that extent</a></h3><p>To that extent; often used to reject or downplay an excessive degree</p></div>
+<div class="card-grid-item"><h3><a href="sorosoro/">そろそろ — Soon, or about time to do something</a></h3><p>Soon, or about time to do something.</p></div>
+<div class="card-grid-item"><h3><a href="sou-da/">そうだ — looks like, seems, and about to</a></h3><p>Looks or seems likely based on direct visual evidence. Attaches to the verb stem or adjective stem.</p></div>
+<div class="card-grid-item"><h3><a href="sou-da-hearsay/">そうだ (hearsay) — I hear that, they say that</a></h3><p>Reportedly; conveys information learned from another source, not direct observation. Attaches to the plain form.</p></div>
+<div class="card-grid-item"><h3><a href="suuryou-mo/">数量＋も — As many or much as the stated quantity, expressing surprise</a></h3><p>As many or much as the stated quantity, expressing surprise</p></div>
+<div class="card-grid-item"><h3><a href="suuryou-mo-nai/">数量＋も〜ない — Not even the stated quantity</a></h3><p>Not even the stated quantity; with a negative predicate the amount is presented as surprisingly small</p></div>
+<div class="card-grid-item"><h3><a href="ta-ato-de/">たあとで — After doing X</a></h3><p>After doing X; places another event later in sequence</p></div>
+<div class="card-grid-item"><h3><a href="tara/">たら — the tara-conditional: condition, discovery, time, and suggestion</a></h3><p>If or when a condition is met, the following result applies</p></div>
+<div class="card-grid-item"><h3><a href="tariru/">足りる — Be sufficient or enough</a></h3><p>Be sufficient or enough; required amount is met</p></div>
+<div class="card-grid-item"><h3><a href="te-ageru-te-kureru-te-morau/">てあげる・てくれる・てもらう — doing something for someone</a></h3><p>If or when you do something for someone; also a casual suggestion — 手伝ってあげたら？ (why not help them?).</p></div>
+<div class="card-grid-item"><h3><a href="te-arigatou/">て＋ありがとう — Thanks for doing</a></h3><p>Thanks for doing...; て-form action followed by ありがとう.</p></div>
+<div class="card-grid-item"><h3><a href="te-atta/">てあった — A deliberately created state existed in the past</a></h3><p>A deliberately created state existed in the past; result remained in place</p></div>
+<div class="card-grid-item"><h3><a href="te-hoshii/">てほしい — Want another person to do something</a></h3><p>Want another person to do something; expresses the speaker&#x27;s desired action</p></div>
+<div class="card-grid-item"><h3><a href="te-kaeru/">て帰る — Do something and return afterward</a></h3><p>Do something and return afterward; action occurs before coming back</p></div>
+<div class="card-grid-item"><h3><a href="te-kuru-te-iku/">てくる・ていく — movement and change, toward or away from now</a></h3><p>Continue changing from now onward; development proceeds away from the present</p></div>
+<div class="card-grid-item"><h3><a href="te-mo/">ても — even if, however much</a></h3><p>Even if something happens or holds, the result remains unchanged</p></div>
+<div class="card-grid-item"><h3><a href="te-oku/">ておく — doing something in advance, with the とく contraction</a></h3><p>Did something in advance; past preparatory action for a later need</p></div>
+<div class="card-grid-item"><h3><a href="te-shimau/">てしまう — completion and regret, with the ちゃう contractions</a></h3><p>End up doing or do completely; contraction of てしまう.</p></div>
+<div class="card-grid-item"><h3><a href="to-omou/">と思う — Think that something is true</a></h3><p>Think that something is true, or express an opinion or intention</p></div>
+<div class="card-grid-item"><h3><a href="toka-toka/">とか〜とか — Gives representative examples such as X and Y</a></h3><p>Gives representative examples such as X and Y, without exhausting the list</p></div>
+<div class="card-grid-item"><h3><a href="toki/">とき — When or at the time that</a></h3><p>When or at the time that.</p></div>
+<div class="card-grid-item"><h3><a href="transitivity/">Transitivity — transitive and intransitive verb pairs</a></h3><p>A verb that takes no direct object; often the self-happening half of a transitive/intransitive pair.</p></div>
+<div class="card-grid-item"><h3><a href="tsurete-iku/">連れて行く — Take or accompany someone away to another location</a></h3><p>Take or accompany someone away to another location</p></div>
+<div class="card-grid-item"><h3><a href="tsurete-kuru/">連れてくる — bringing a person with you</a></h3><p>Bring or accompany someone toward the speaker&#x27;s current location</p></div>
+<div class="card-grid-item"><h3><a href="yappari/">やっぱり — As expected or after reconsideration</a></h3><p>As expected or after reconsideration; returns to a prior judgment</p></div>
+<div class="card-grid-item"><h3><a href="yasui-nikui/">やすい・にくい — easy and hard to do</a></h3><p>Difficult to do because the action itself is hard</p></div>
+<div class="card-grid-item"><h3><a href="yatto/">やっと — Finally, after delay or effort</a></h3><p>Finally, after delay or effort; desired result is eventually reached</p></div>
+<div class="card-grid-item"><h3><a href="yokattara/">よかったら — If you like or if convenient</a></h3><p>If you like or if convenient; gentle invitation or offer</p></div>
+<div class="card-grid-item"><h3><a href="yotei-da/">予定だ — Plan to do</a></h3><p>Plan to do; states an intended future action</p></div>
+<div class="card-grid-item"><h3><a href="yotei-desu/">予定です — Polite expression of a planned future action or event</a></h3><p>Polite expression of a planned future action or event</p></div>
+<div class="card-grid-item"><h3><a href="youna/">ような — A kind of X or as if X</a></h3><p>A kind of X or as if X; modifies a following noun</p></div>
+<div class="card-grid-item"><h3><a href="zenzen-nai/">全然〜ない — Not at all</a></h3><p>Not at all; strongly negates the following description or action</p></div>
+<div class="card-grid-item"><h3><a href="zutsu/">ずつ — Each by each</a></h3><p>Each by each; distributes equal amounts or handles items sequentially</p></div>
+</div>
 
 ## N4-upper
 
-- [V方 — How to perform an action](<V方.md>)
-- [〜さ — turning an adjective into a noun](<〜さ.md>)
-- [〜なし — Without or with none of something](<〜なし.md>)
-- [いらっしゃいませんか — respectful "won't you come?"](<いらっしゃいませんか.md>)
-- [お〜ください — Please do](<お〜ください.md>)
-- [お〜する — Humbly perform an action for someone](<お〜する.md>)
-- [お〜になる — the honorific お〜になる](<お〜になる.md>)
-- [お礼に — In return or as thanks](<お礼に.md>)
-- [かどうか — Whether or not](<かどうか.md>)
-- [から-で — the material something is made from](<から-で.md>)
-- [が — Joins contrasting clauses as 'but'](<が.md>)
-- [ことが多い — Often do or experience something](<ことが多い.md>)
-- [ことにする — Decide to do or not do something](<ことにする.md>)
-- [ことになる — it has been decided that](<ことになる.md>)
-- [じゃあ — Then](<じゃあ.md>)
-- [それで — As a result](<それで.md>)
-- [それに — Moreover](<それに.md>)
-- [たばかり — Have just done something](<たばかり.md>)
-- [たまま — Leave a state unchanged after an action](<たまま.md>)
-- [ために — In order to achieve a goal](<ために.md>)
-- [たり — listing representative actions or states](<たり.md>)
-- [って — the casual quote, topic marker, and だって](<って.md>)
-- [てある — A deliberately created state remains](<てある.md>)
-- [ていたら — If someone keeps doing X](<ていたら.md>)
-- [ております — Humble equivalent of ています](<ております.md>)
-- [てしまいました — Completed regrettably or entirely](<てしまいました.md>)
-- [てみたら — On trying X, found Y](<てみたら.md>)
-- [てみる — trying something out](<てみる.md>)
-- [て＋ありがとうございました — Thanks for having done X](<て＋ありがとうございました.md>)
-- [でございます — Highly formal copula equivalent to です](<でございます.md>)
-- [という — Called or named](<という.md>)
-- [という意味 — Means that](<という意味.md>)
-- [ところ — just did, in the middle of, about to](<ところ.md>)
-- [どういう意味 — what does it mean?](<どういう意味.md>)
-- [どうして — Why? Asks for the reason or cause of a situation](<どうして.md>)
-- [どんな — What kind of](<どんな.md>)
-- [な (prohibition) — Sentence-final な after the dictionary form forbids the action outright (諦めるな)](<な-(prohibition).md>)
-- [ないほうがいい — It is better not to do](<ないほうがいい.md>)
-- [なぜか — For some unknown reason](<なぜか.md>)
-- [に困る — Have trouble with X](<に困る.md>)
-- [のために — For a noun's purpose or benefit](<のために.md>)
-- [のまま — Keeping the noun's state unchanged](<のまま.md>)
-- [はず — supposed to be, and はずがない / はずだった](<はず.md>)
-- [ばかり — nothing but](<ばかり.md>)
-- [ほど〜ない — Not as X as Y](<ほど〜ない.md>)
-- [みたいだ — Seems that](<みたいだ.md>)
-- [やつ — Casual noun substitute for a thing](<やつ.md>)
-- [ようだ — It appears that](<ようだ.md>)
-- [ようとする — Be about to do](<ようとする.md>)
-- [ように — so that, and taking care not to](<ように.md>)
-- [ようにしている — Make an ongoing habit or effort to do something regularly](<ようにしている.md>)
-- [ようにする — Make a deliberate effort or arrangement to achieve a behavior](<ようにする.md>)
-- [ようになる — Come to do something or reach a new ability or habitual state](<ようになる.md>)
-- [ように言う — telling someone to do something](<ように言う.md>)
-- [よろしければ — If it is agreeable](<よろしければ.md>)
-- [らしい — hearsay, and "typical of"](<らしい.md>)
-- [中止になる — Be canceled](<中止になる.md>)
-- [仕方ない — It cannot be helped](<仕方ない.md>)
-- [以内 — within a limit](<以内.md>)
-- [何倍も — Many times as much](<何倍も.md>)
-- [先ほど — A short while ago](<先ほど.md>)
-- [先日 — The other day or recently](<先日.md>)
-- [助かる — Be helpful or relieving](<助かる.md>)
-- [可能形・ことができる — the two ways to say "can"](<可能形・ことができる.md>)
-- [名詞修飾節 — A modifying clause placed before a noun](<名詞修飾節.md>)
-- [命令形 — Plain imperative commands; forceful direct orders requiring careful social use (走れ, 諦めろ)](<命令形.md>)
-- [場合 — In the case of X](<場合.md>)
-- [必要がある — need to, and 必要はない](<必要がある.md>)
-- [忘れる — Fail to complete a compound action through forgetting](<忘れる.md>)
-- [数＋人＋で — A group of a stated number performs an action together](<数＋人＋で.md>)
-- [横 — Beside or next to something](<横.md>)
-- [正直 — Honestly speaking](<正直.md>)
-- [直す — Do the action again or correctly](<直す.md>)
-- [終わる-続ける — Finish or continue doing an action](<終わる-続ける.md>)
-- [自分から — Voluntarily or on one's own initiative, without being prompted](<自分から.md>)
-- [間に合う — Be in time or make a deadline](<間に合う.md>)
-- [（ら）れる — honorific passive-shaped form](<（ら）れる.md>)
+<div class="card-grid" markdown="0">
+<div class="card-grid-item"><h3><a href="baai/">場合 — In the case of X</a></h3><p>In the case of X; states a condition or contingency</p></div>
+<div class="card-grid-item"><h3><a href="bakari/">ばかり — nothing but</a></h3><p>Mostly or only into X; focus particle restricts a destination or target</p></div>
+<div class="card-grid-item"><h3><a href="chuushi-ni-naru/">中止になる — Be canceled</a></h3><p>Be canceled; an event or plan changes into a canceled state</p></div>
+<div class="card-grid-item"><h3><a href="degozaimasu/">でございます — Highly formal copula equivalent to です</a></h3><p>Highly formal copula equivalent to です, common in service language</p></div>
+<div class="card-grid-item"><h3><a href="donna/">どんな — What kind of</a></h3><p>What kind of; asks for the type or qualities of a noun</p></div>
+<div class="card-grid-item"><h3><a href="dou-iu-imi/">どういう意味 — what does it mean?</a></h3><p>What does X mean? Fixed interrogative asking for the meaning of a word or phrase</p></div>
+<div class="card-grid-item"><h3><a href="doushite/">どうして — Why? Asks for the reason or cause of a situation</a></h3><p>Why? Asks for the reason or cause of a situation</p></div>
+<div class="card-grid-item"><h3><a href="ga/">が — Joins contrasting clauses as &#x27;but&#x27;</a></h3><p>Joins contrasting clauses as &#x27;but&#x27;, often more softly than a full objection</p></div>
+<div class="card-grid-item"><h3><a href="hazu/">はず — supposed to be, and はずがない / はずだった</a></h3><p>Should be or is expected to be; confident expectation from evidence</p></div>
+<div class="card-grid-item"><h3><a href="hitsuyou-ga-aru/">必要がある — need to, and 必要はない</a></h3><p>There is a need to do X; states objective necessity</p></div>
+<div class="card-grid-item"><h3><a href="hodo-nai/">ほど〜ない — Not as X as Y</a></h3><p>Not as X as Y; comparison denying an equivalent degree</p></div>
+<div class="card-grid-item"><h3><a href="inai/">以内 — within a limit</a></h3><p>Within a limit of X; no later, farther, or greater than it</p></div>
+<div class="card-grid-item"><h3><a href="irasshaimasen-ka/">いらっしゃいませんか — respectful &quot;won&#x27;t you come?&quot;</a></h3><p>Would you honor us by visiting? Respectful negative-question invitation</p></div>
+<div class="card-grid-item"><h3><a href="jaa/">じゃあ — Then</a></h3><p>Then; draws a practical conclusion from the preceding information</p></div>
+<div class="card-grid-item"><h3><a href="jibun-kara/">自分から — Voluntarily or on one&#x27;s own initiative, without being prompted</a></h3><p>Voluntarily or on one&#x27;s own initiative, without being prompted</p></div>
+<div class="card-grid-item"><h3><a href="ka-dou-ka/">かどうか — Whether or not</a></h3><p>Whether or not; embeds a yes-no question inside a larger sentence</p></div>
+<div class="card-grid-item"><h3><a href="kanoukei-koto-ga-dekiru/">可能形・ことができる — the two ways to say &quot;can&quot;</a></h3><p>Can do; formal, nominalized expression of ability or permission</p></div>
+<div class="card-grid-item"><h3><a href="kara-de/">から-で — the material something is made from</a></h3><p>Marks the raw material something is transformed from or made with</p></div>
+<div class="card-grid-item"><h3><a href="koto-ga-ooi/">ことが多い — Often do or experience something</a></h3><p>Often do or experience something; describes a frequent tendency</p></div>
+<div class="card-grid-item"><h3><a href="koto-ni-naru/">ことになる — it has been decided that</a></h3><p>Be established as a rule or arrangement, independent of personal choice</p></div>
+<div class="card-grid-item"><h3><a href="koto-ni-suru/">ことにする — Decide to do or not do something</a></h3><p>Decide to do or not do something; speaker-controlled choice</p></div>
+<div class="card-grid-item"><h3><a href="ma-ni-au/">間に合う — Be in time or make a deadline</a></h3><p>Be in time or make a deadline; arrive before it is too late</p></div>
+<div class="card-grid-item"><h3><a href="meireikei/">命令形 — Plain imperative commands; forceful direct orders requiring careful social use (走れ, 諦めろ)</a></h3><p>Plain imperative commands; forceful direct orders requiring careful social use (走れ, 諦めろ)</p></div>
+<div class="card-grid-item"><h3><a href="meishishuushokusetsu/">名詞修飾節 — A modifying clause placed before a noun</a></h3><p>A modifying clause placed before a noun, without a relative pronoun</p></div>
+<div class="card-grid-item"><h3><a href="mitai-da/">みたいだ — Seems that</a></h3><p>Seems that; plain conjecture from indirect evidence or appearance</p></div>
+<div class="card-grid-item"><h3><a href="na-prohibition/">な (prohibition) — Sentence-final な after the dictionary form forbids the action outright (諦めるな)</a></h3><p>Sentence-final な after the dictionary form forbids the action outright (諦めるな)</p></div>
+<div class="card-grid-item"><h3><a href="nai-hou-ga-ii/">ないほうがいい — It is better not to do</a></h3><p>It is better not to do; advice against an action</p></div>
+<div class="card-grid-item"><h3><a href="nanbai-mo/">何倍も — Many times as much</a></h3><p>Many times as much; emphatically compares a multiple in degree</p></div>
+<div class="card-grid-item"><h3><a href="naosu/">直す — Do the action again or correctly</a></h3><p>Do the action again or correctly; productive compound-verb suffix</p></div>
+<div class="card-grid-item"><h3><a href="nashi/">〜なし — Without or with none of something</a></h3><p>Without or with none of something.</p></div>
+<div class="card-grid-item"><h3><a href="naze-ka/">なぜか — For some unknown reason</a></h3><p>For some unknown reason; speaker cannot explain the cause</p></div>
+<div class="card-grid-item"><h3><a href="ni-komaru/">に困る — Have trouble with X</a></h3><p>Have trouble with X; X creates a practical difficulty</p></div>
+<div class="card-grid-item"><h3><a href="no-mama/">のまま — Keeping the noun&#x27;s state unchanged</a></h3><p>Keeping the noun&#x27;s state unchanged; without changing clothes or condition</p></div>
+<div class="card-grid-item"><h3><a href="no-tame-ni/">のために — For a noun&#x27;s purpose or benefit</a></h3><p>For a noun&#x27;s purpose or benefit; marks what preparation serves</p></div>
+<div class="card-grid-item"><h3><a href="o-kudasai/">お〜ください — Please do</a></h3><p>Please do; respectful request built from an honorific verb form</p></div>
+<div class="card-grid-item"><h3><a href="o-ni-naru/">お〜になる — the honorific お〜になる</a></h3><p>Respectfully describes an action performed by a socially superior person</p></div>
+<div class="card-grid-item"><h3><a href="o-rei-ni/">お礼に — In return or as thanks</a></h3><p>In return or as thanks; marks a reciprocal gesture</p></div>
+<div class="card-grid-item"><h3><a href="o-suru/">お〜する — Humbly perform an action for someone</a></h3><p>Humbly perform an action for someone; lowers the speaker&#x27;s action</p></div>
+<div class="card-grid-item"><h3><a href="owaru-tsuzukeru/">終わる-続ける — Finish or continue doing an action</a></h3><p>Finish or continue doing an action, attached after the verb stem</p></div>
+<div class="card-grid-item"><h3><a href="ra-reru/">（ら）れる — honorific passive-shaped form</a></h3><p>Honorific passive-shaped form; respectfully describes a higher-status person&#x27;s action</p></div>
+<div class="card-grid-item"><h3><a href="rashii/">らしい — hearsay, and &quot;typical of&quot;</a></h3><p>Apparently or reportedly; conveys information inferred or learned indirectly</p></div>
+<div class="card-grid-item"><h3><a href="sa/">〜さ — turning an adjective into a noun</a></h3><p>Turns an adjective into a noun expressing degree or measurable quality</p></div>
+<div class="card-grid-item"><h3><a href="sakihodo/">先ほど — A short while ago</a></h3><p>A short while ago; formal or polite reference to recent past</p></div>
+<div class="card-grid-item"><h3><a href="senjitsu/">先日 — The other day or recently</a></h3><p>The other day or recently; polite reference to a past occasion</p></div>
+<div class="card-grid-item"><h3><a href="shikata-nai/">仕方ない — It cannot be helped</a></h3><p>It cannot be helped; accepts an unavoidable or unchangeable situation</p></div>
+<div class="card-grid-item"><h3><a href="shoujiki/">正直 — Honestly speaking</a></h3><p>Honestly speaking; signals a frank or unvarnished opinion</p></div>
+<div class="card-grid-item"><h3><a href="sorede/">それで — As a result</a></h3><p>As a result; introduces a consequence of the preceding situation</p></div>
+<div class="card-grid-item"><h3><a href="soreni/">それに — Moreover</a></h3><p>Moreover; adds another supporting point with greater argumentative weight</p></div>
+<div class="card-grid-item"><h3><a href="suu-nin-de/">数＋人＋で — A group of a stated number performs an action together</a></h3><p>A group of a stated number performs an action together</p></div>
+<div class="card-grid-item"><h3><a href="ta-bakari/">たばかり — Have just done something</a></h3><p>Have just done something, with recency judged subjectively by the speaker</p></div>
+<div class="card-grid-item"><h3><a href="ta-mama/">たまま — Leave a state unchanged after an action</a></h3><p>Leave a state unchanged after an action; often contrary to expectations</p></div>
+<div class="card-grid-item"><h3><a href="tame-ni/">ために — In order to achieve a goal</a></h3><p>In order to achieve a goal; marks deliberate purpose</p></div>
+<div class="card-grid-item"><h3><a href="tari/">たり — listing representative actions or states</a></h3><p>Lists alternating adjective states or representative qualities without exhaustively naming all</p></div>
+<div class="card-grid-item"><h3><a href="tasukaru/">助かる — Be helpful or relieving</a></h3><p>Be helpful or relieving; someone&#x27;s help improves the situation</p></div>
+<div class="card-grid-item"><h3><a href="te-arigatougozaimashita/">て＋ありがとうございました — Thanks for having done X</a></h3><p>Thanks for having done X; formal past gratitude for a completed action</p></div>
+<div class="card-grid-item"><h3><a href="te-aru/">てある — A deliberately created state remains</a></h3><p>A deliberately created state remains; focuses on the prepared result</p></div>
+<div class="card-grid-item"><h3><a href="te-itara/">ていたら — If someone keeps doing X</a></h3><p>If, when, or while someone is doing X, a result follows; progressive host on たら, covering both the conditional and the past-discovery readings</p></div>
+<div class="card-grid-item"><h3><a href="te-miru/">てみる — trying something out</a></h3><p>Want to try doing something; combines desire with tentative experience</p></div>
+<div class="card-grid-item"><h3><a href="te-mitara/">てみたら — On trying X, found Y</a></h3><p>On trying X, found Y; or casually suggests trying X</p></div>
+<div class="card-grid-item"><h3><a href="te-orimasu/">ております — Humble equivalent of ています</a></h3><p>Courteous (丁重語) equivalent of ています; states an ongoing action or resulting state with deference to the listener.</p></div>
+<div class="card-grid-item"><h3><a href="te-shimaimashita/">てしまいました — Completed regrettably or entirely</a></h3><p>Completed regrettably or entirely; polite form often used for apology</p></div>
+<div class="card-grid-item"><h3><a href="to-iu-imi/">という意味 — Means that</a></h3><p>Means that; explains the interpretation or definition of a quoted expression</p></div>
+<div class="card-grid-item"><h3><a href="toiu/">という — Called or named</a></h3><p>Called or named; identifies the name or label of something</p></div>
+<div class="card-grid-item"><h3><a href="tokoro/">ところ — just did, in the middle of, about to</a></h3><p>Have just finished doing; focuses on the immediate post-action point</p></div>
+<div class="card-grid-item"><h3><a href="tte/">って — the casual quote, topic marker, and だって</a></h3><p>I hear that; casual report of information learned from someone else</p></div>
+<div class="card-grid-item"><h3><a href="v-kata/">V方 — How to perform an action</a></h3><p>How to perform an action; turns a verb into a method noun</p></div>
+<div class="card-grid-item"><h3><a href="wasureru/">忘れる — Fail to complete a compound action through forgetting</a></h3><p>Fail to complete a compound action through forgetting</p></div>
+<div class="card-grid-item"><h3><a href="yatsu/">やつ — Casual noun substitute for a thing</a></h3><p>Casual noun substitute for a thing, person, or previously mentioned item</p></div>
+<div class="card-grid-item"><h3><a href="yoko/">横 — Beside or next to something</a></h3><p>Beside or next to something; horizontal position relative to it</p></div>
+<div class="card-grid-item"><h3><a href="yoroshikereba/">よろしければ — If it is agreeable</a></h3><p>If it is agreeable; formal respectful condition introducing an offer</p></div>
+<div class="card-grid-item"><h3><a href="you-da/">ようだ — It appears that</a></h3><p>It appears that; formal-sounding conjecture based on signs or reasoning</p></div>
+<div class="card-grid-item"><h3><a href="you-ni/">ように — so that, and taking care not to</a></h3><p>Take care that X does not happen; expresses preventive purpose</p></div>
+<div class="card-grid-item"><h3><a href="you-ni-iu/">ように言う — telling someone to do something</a></h3><p>Tell someone to do or avoid X; reports an indirect command</p></div>
+<div class="card-grid-item"><h3><a href="you-ni-naru/">ようになる — Come to do something or reach a new ability or habitual state</a></h3><p>Come to do something or reach a new ability or habitual state</p></div>
+<div class="card-grid-item"><h3><a href="you-ni-shite-iru/">ようにしている — Make an ongoing habit or effort to do something regularly</a></h3><p>Make an ongoing habit or effort to do something regularly</p></div>
+<div class="card-grid-item"><h3><a href="you-ni-suru/">ようにする — Make a deliberate effort or arrangement to achieve a behavior</a></h3><p>Make a deliberate effort or arrangement to achieve a behavior</p></div>
+<div class="card-grid-item"><h3><a href="you-to-suru/">ようとする — Be about to do</a></h3><p>Be about to do; an attempted action is just beginning</p></div>
+</div>
 
 ## N3
 
-- [〜目 — Marks ordinal position or sequence](<〜目.md>)
-- [あっという間に — In what feels like no time](<あっという間に.md>)
-- [いける — Be acceptable, workable, or surprisingly good](<いける.md>)
-- [いたす — Humbly do](<いたす.md>)
-- [いらっしゃる — Honorific equivalent of いる and 来る](<いらっしゃる.md>)
-- [お〜ところを — Although you were occupied with X](<お〜ところを.md>)
-- [おかげで — Thanks to a favorable cause](<おかげで.md>)
-- [おきに — At regular intervals of a stated amount](<おきに.md>)
-- [おっしゃる — Honorific verb meaning say](<おっしゃる.md>)
-- [おります — humble おる — "I am", "I stay"](<おります.md>)
-- [きれない — Cannot finish doing something completely](<きれない.md>)
-- [ぎりぎり — Just barely](<ぎりぎり.md>)
-- [こそ — Precisely or especially this time](<こそ.md>)
-- [ことにしている — making a standing rule for oneself](<ことにしている.md>)
-- [ご覧になる — honorific "look" and "see"](<ご覧になる.md>)
-- [ずに — Without doing X](<ずに.md>)
-- [せいで — Because of an unfavorable cause](<せいで.md>)
-- [せっかく — after going to the trouble](<せっかく.md>)
-- [せっかく〜んだから — Since the opportunity is special](<せっかく〜んだから.md>)
-- [たびに — Whenever X happens](<たびに.md>)
-- [ため — Due to](<ため.md>)
-- [っけ — What was it again? Retrieves a forgotten fact from memory](<っけ.md>)
-- [って顔をされる — Be given a look that says](<って顔をされる.md>)
-- [っぽい — Prone to or having a noticeable tendency](<っぽい.md>)
-- [とおりに — In the same manner as instructed](<とおりに.md>)
-- [ところで — By the way](<ところで.md>)
-- [と同じ-と違う — The same as X or different from X](<と同じ-と違う.md>)
-- [と申します — My name is](<と申します.md>)
-- [どうやって — How or by what method](<どうやって.md>)
-- [どうりで — No wonder](<どうりで.md>)
-- [ないうちに — Before a state changes](<ないうちに.md>)
-- [なかなか〜ない — Not readily](<なかなか〜ない.md>)
-- [なさる — Honorific verb for do](<なさる.md>)
-- [なしじゃ — Without X, doing Y is impossible](<なしじゃ.md>)
-- [なんか — Something like X, or a dismissive filler](<なんか.md>)
-- [なんて — Something like X](<なんて.md>)
-- [について — Regarding X](<について.md>)
-- [によると — According to X](<によると.md>)
-- [に違いない — Must be](<に違いない.md>)
-- [のうちに — Within the available period](<のうちに.md>)
-- [ば〜ほど — The more X, the more Y](<ば〜ほど.md>)
-- [わけだ — that explains it, and わけがない](<わけだ.md>)
-- [わけではない — Not necessarily or not entirely X](<わけではない.md>)
-- [わざわざ — Deliberately taking extra trouble](<わざわざ.md>)
-- [んじゃない？ — Isn't it likely that? Casual tentative suggestion or inference](<んじゃない？.md>)
-- [伺う — humble "ask", "hear", "visit"](<伺う.md>)
-- [別に — Not particularly](<別に.md>)
-- [勝手に — Without permission or on one's own initiative](<勝手に.md>)
-- [参る — Humble verb for go or come](<参る.md>)
-- [召し上がる — honorific "eat" and "drink"](<召し上がる.md>)
-- [念のため — Just in case](<念のため.md>)
-- [意外と — Surprisingly or contrary to expectation](<意外と.md>)
-- [拝見する — Humble verb meaning see or inspect](<拝見する.md>)
-- [案外 — Unexpectedly or contrary to assumption](<案外.md>)
-- [気がする — Feel that or have the impression that](<気がする.md>)
-- [申し訳ありませんが — I am sorry, but](<申し訳ありませんが.md>)
-- [疑問詞＋ばいい — what should I do?](<疑問詞＋ばいい.md>)
-- [言いさし-て — Trails off after the connective form](<言いさし-て.md>)
-- [試しに — As an experiment or trial](<試しに.md>)
-- [遠慮なく — Without hesitation or reserve](<遠慮なく.md>)
+<div class="card-grid" markdown="0">
+<div class="card-grid-item"><h3><a href="angai/">案外 — Unexpectedly or contrary to assumption</a></h3><p>Unexpectedly or contrary to assumption; outcome differs from expectation</p></div>
+<div class="card-grid-item"><h3><a href="atto-iu-ma-ni/">あっという間に — In what feels like no time</a></h3><p>In what feels like no time; emphasizes surprisingly quick completion</p></div>
+<div class="card-grid-item"><h3><a href="ba-hodo/">ば〜ほど — The more X, the more Y</a></h3><p>The more X, the more Y; proportional change between two degrees</p></div>
+<div class="card-grid-item"><h3><a href="betsu-ni/">別に — Not particularly</a></h3><p>Not particularly; often softens a negative or denies special motivation</p></div>
+<div class="card-grid-item"><h3><a href="dou-yatte/">どうやって — How or by what method</a></h3><p>How or by what method; asks about procedure or means</p></div>
+<div class="card-grid-item"><h3><a href="douri-de/">どうりで — No wonder</a></h3><p>No wonder; recognizes that newly learned information explains the result</p></div>
+<div class="card-grid-item"><h3><a href="enryo-naku/">遠慮なく — Without hesitation or reserve</a></h3><p>Without hesitation or reserve.</p></div>
+<div class="card-grid-item"><h3><a href="gimonshi-ba-ii/">疑問詞＋ばいい — what should I do?</a></h3><p>What should one do? Combines an open question with advice-seeking</p></div>
+<div class="card-grid-item"><h3><a href="girigiri/">ぎりぎり — Just barely</a></h3><p>Just barely; with almost no time, space, or margin remaining</p></div>
+<div class="card-grid-item"><h3><a href="goran-ni-naru/">ご覧になる — honorific &quot;look&quot; and &quot;see&quot;</a></h3><p>Respectful expression for a socially superior person seeing or looking</p></div>
+<div class="card-grid-item"><h3><a href="haiken-suru/">拝見する — Humble verb meaning see or inspect</a></h3><p>Humble verb meaning see or inspect; lowers the speaker</p></div>
+<div class="card-grid-item"><h3><a href="igai-to/">意外と — Surprisingly or contrary to expectation</a></h3><p>Surprisingly or contrary to expectation.</p></div>
+<div class="card-grid-item"><h3><a href="iisashi-te/">言いさし-て — Trails off after the connective form</a></h3><p>Trails off after the connective form, leaving explanation or continuation implicit</p></div>
+<div class="card-grid-item"><h3><a href="ikeru/">いける — Be acceptable, workable, or surprisingly good</a></h3><p>Be acceptable, workable, or surprisingly good; casual evaluative expression</p></div>
+<div class="card-grid-item"><h3><a href="irassharu/">いらっしゃる — Honorific equivalent of いる and 来る</a></h3><p>Honorific equivalent of いる, 来る and 行く, and with で of だ/である; a respected person is present, comes, goes, or is in a stated condition.</p></div>
+<div class="card-grid-item"><h3><a href="itasu/">いたす — Humbly do</a></h3><p>Courteous (丁重語) equivalent of する; lowers the speaker&#x27;s own action to show deference to the listener.</p></div>
+<div class="card-grid-item"><h3><a href="katte-ni/">勝手に — Without permission or on one&#x27;s own initiative</a></h3><p>Without permission or on one&#x27;s own initiative; often disapproving</p></div>
+<div class="card-grid-item"><h3><a href="ki-ga-suru/">気がする — Feel that or have the impression that</a></h3><p>Feel that or have the impression that; subjective, tentative judgment</p></div>
+<div class="card-grid-item"><h3><a href="kirenai/">きれない — Cannot finish doing something completely</a></h3><p>Cannot finish doing something completely, often because quantity exceeds capacity</p></div>
+<div class="card-grid-item"><h3><a href="kke/">っけ — What was it again? Retrieves a forgotten fact from memory</a></h3><p>What was it again? Retrieves a forgotten fact from memory</p></div>
+<div class="card-grid-item"><h3><a href="koso/">こそ — Precisely or especially this time</a></h3><p>Precisely X; emphatic focus on the marked item.</p></div>
+<div class="card-grid-item"><h3><a href="koto-ni-shite-iru/">ことにしている — making a standing rule for oneself</a></h3><p>Maintain a personal rule or standing habit by conscious decision</p></div>
+<div class="card-grid-item"><h3><a href="mairu/">参る — Humble verb for go or come</a></h3><p>Humble verb for go or come; lowers the speaker&#x27;s movement</p></div>
+<div class="card-grid-item"><h3><a href="me/">〜目 — Marks ordinal position or sequence</a></h3><p>Marks ordinal position or sequence, such as first, second, or third</p></div>
+<div class="card-grid-item"><h3><a href="meshiagaru/">召し上がる — honorific &quot;eat&quot; and &quot;drink&quot;</a></h3><p>Respectful expression for a socially superior person eating or drinking</p></div>
+<div class="card-grid-item"><h3><a href="moushiwake-arimasen-ga/">申し訳ありませんが — I am sorry, but</a></h3><p>I am sorry, but...; formal apologetic preface.</p></div>
+<div class="card-grid-item"><h3><a href="nai-uchi-ni/">ないうちに — Before a state changes</a></h3><p>Before a state changes; do X while the current condition still holds</p></div>
+<div class="card-grid-item"><h3><a href="nakanaka-nai/">なかなか〜ない — Not readily</a></h3><p>Not readily; an expected action or change proves difficult to achieve</p></div>
+<div class="card-grid-item"><h3><a href="nanka/">なんか — Something like X, or a dismissive filler</a></h3><p>Something like X, or a dismissive filler; highly casual and context-sensitive</p></div>
+<div class="card-grid-item"><h3><a href="nante/">なんて — Something like X</a></h3><p>Something like X; highlights an unexpected or belittled example</p></div>
+<div class="card-grid-item"><h3><a href="nasaru/">なさる — Honorific verb for do</a></h3><p>Honorific verb for do; raises the person performing the action</p></div>
+<div class="card-grid-item"><h3><a href="nashi-ja/">なしじゃ — Without X, doing Y is impossible</a></h3><p>Without X, doing Y is impossible; casual conditional dependence</p></div>
+<div class="card-grid-item"><h3><a href="nen-no-tame/">念のため — Just in case</a></h3><p>Just in case; precaution taken despite low or uncertain risk</p></div>
+<div class="card-grid-item"><h3><a href="ni-chigai-nai/">に違いない — Must be</a></h3><p>Must be; expresses strong inference from available evidence</p></div>
+<div class="card-grid-item"><h3><a href="ni-yoru-to/">によると — According to X</a></h3><p>According to X; identifies the source of reported information</p></div>
+<div class="card-grid-item"><h3><a href="nitsuite/">について — Regarding X</a></h3><p>Regarding X; marks the topic or subject under discussion</p></div>
+<div class="card-grid-item"><h3><a href="nja-nai-q/">んじゃない？ — Isn&#x27;t it likely that? Casual tentative suggestion or inference</a></h3><p>Isn&#x27;t it likely that? Casual tentative suggestion or inference</p></div>
+<div class="card-grid-item"><h3><a href="no-uchi-ni/">のうちに — Within the available period</a></h3><p>Within the available period; before a current opportunity or interval ends</p></div>
+<div class="card-grid-item"><h3><a href="o-tokoro-wo/">お〜ところを — Although you were occupied with X</a></h3><p>Although you were occupied with X; formally acknowledges an imposition or circumstance</p></div>
+<div class="card-grid-item"><h3><a href="okage-de/">おかげで — Thanks to a favorable cause</a></h3><p>Thanks to a favorable cause; credits it for a positive result</p></div>
+<div class="card-grid-item"><h3><a href="oki-ni/">おきに — At regular intervals of a stated amount</a></h3><p>At intervals separated by the stated amount — 一日おきに is every OTHER day, 5分おきに every five minutes.</p></div>
+<div class="card-grid-item"><h3><a href="orimasu/">おります — humble おる — &quot;I am&quot;, &quot;I stay&quot;</a></h3><p>Humbly states that the speaker or their in-group exists or stays somewhere</p></div>
+<div class="card-grid-item"><h3><a href="ossharu/">おっしゃる — Honorific verb meaning say</a></h3><p>Honorific verb meaning say; used for the words of a respected person</p></div>
+<div class="card-grid-item"><h3><a href="ppoi/">っぽい — Prone to or having a noticeable tendency</a></h3><p>Prone to X, or having a noticeable X-ish quality or appearance; often mildly negative</p></div>
+<div class="card-grid-item"><h3><a href="sei-de/">せいで — Because of an unfavorable cause</a></h3><p>Because of an unfavorable cause; assigns blame for a negative result</p></div>
+<div class="card-grid-item"><h3><a href="sekkaku/">せっかく — after going to the trouble</a></h3><p>With special effort or a valuable opportunity; frames the situation as worth using or regrettable to waste.</p></div>
+<div class="card-grid-item"><h3><a href="sekkaku-n-da-kara/">せっかく〜んだから — Since the opportunity is special</a></h3><p>Since the opportunity is special; urges making full use of it</p></div>
+<div class="card-grid-item"><h3><a href="tabi-ni/">たびに — Whenever X happens</a></h3><p>Whenever X happens; the same result follows on every occasion</p></div>
+<div class="card-grid-item"><h3><a href="tame/">ため — Due to</a></h3><p>Due to; formal written expression of an objective cause</p></div>
+<div class="card-grid-item"><h3><a href="tameshi-ni/">試しに — As an experiment or trial</a></h3><p>As an experiment or trial; do something to see what happens</p></div>
+<div class="card-grid-item"><h3><a href="to-moushimasu/">と申します — My name is</a></h3><p>Courteous (丁重語) self-introduction: my name is X.</p></div>
+<div class="card-grid-item"><h3><a href="to-onaji-to-chigau/">と同じ-と違う — The same as X or different from X</a></h3><p>The same as X or different from X; compares identity or type</p></div>
+<div class="card-grid-item"><h3><a href="tokorode/">ところで — By the way</a></h3><p>By the way; shifts to a new, loosely related topic</p></div>
+<div class="card-grid-item"><h3><a href="toori-ni/">とおりに — In the same manner as instructed</a></h3><p>In the same manner as instructed, shown, or previously described</p></div>
+<div class="card-grid-item"><h3><a href="tte-kao-wo-sareru/">って顔をされる — Be given a look that says</a></h3><p>Be given a look that says...; quoted reaction plus adversity passive.</p></div>
+<div class="card-grid-item"><h3><a href="ukagau/">伺う — humble &quot;ask&quot;, &quot;hear&quot;, &quot;visit&quot;</a></h3><p>Humble expression for asking, hearing, or visiting someone socially superior</p></div>
+<div class="card-grid-item"><h3><a href="wake-da/">わけだ — that explains it, and わけがない</a></h3><p>There is no way; emphatically rejects a possibility as impossible</p></div>
+<div class="card-grid-item"><h3><a href="wake-de-wa-nai/">わけではない — Not necessarily or not entirely X</a></h3><p>Not necessarily or not entirely X; partially denies an assumed conclusion</p></div>
+<div class="card-grid-item"><h3><a href="wazawaza/">わざわざ — Deliberately taking extra trouble</a></h3><p>Deliberately taking extra trouble; emphasizes effort beyond what was necessary</p></div>
+<div class="card-grid-item"><h3><a href="zu-ni/">ずに — Without doing X</a></h3><p>Without doing X; a compact negative conjunctive equivalent of ないで, ordinary in speech (especially in set adverbials such as 忘れずに)</p></div>
+</div>
