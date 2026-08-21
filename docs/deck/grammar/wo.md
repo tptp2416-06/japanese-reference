@@ -2,6 +2,8 @@
      Prose belongs in content/deck/grammar/wo.md -->
 # を — leaving a place, and moving through one
 
+**See also:** [Transitivity](<transitivity.md> "Transitivity — transitive and intransitive verb pairs") — を on an intransitive verb marks a route or exit point and does not make the verb transitive
+
 ## を (departure) { #departure }
 
 Marks a point exited or departed from, such as a vehicle or doorway

@@ -2,6 +2,8 @@
      Prose belongs in content/deck/grammar/gurai.md -->
 # ぐらい — approximation, and the minimal "only about"
 
+**See also:** [まで](<made.md> "まで — up to, as far as, and even") — まで is a cap someone set; ぐらい is an estimate — easy to swap when the English is loose
+
 ## くらいで { #kurai-de }
 
 In about the stated amount of time; estimates duration until completion

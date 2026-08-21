@@ -4,6 +4,8 @@
 
 <span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
 
+**See also:** [Transitivity](<transitivity.md> "Transitivity — transitive and intransitive verb pairs") — the state a transitive verb leaves on purpose, against the plain intransitive ている state
+
 A deliberately created state remains; focuses on the prepared result
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")

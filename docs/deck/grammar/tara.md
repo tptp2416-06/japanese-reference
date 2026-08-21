@@ -2,6 +2,8 @@
      Prose belongs in content/deck/grammar/tara.md -->
 # たら — the tara-conditional: condition, discovery, time, and suggestion
 
+**See also:** [あっという間に](<atto-iu-ma-ni.md> "あっという間に — In what feels like no time") — 気づいたら is the neighbouring frame — the change noticed after the fact rather than watched
+
 ## たら (conditional) { #conditional }
 
 If or when a condition is met, the following result applies

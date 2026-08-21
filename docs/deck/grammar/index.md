@@ -84,7 +84,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="ku-naru/">くなる — Become a stated i-adjective quality</a></h3><p>Become a stated i-adjective quality; marks a change of state</p></div>
 <div class="card-grid-item"><h3><a href="kukei/">く形 — the adverbial form of い-adjectives</a></h3><p>The く form turns an i-adjective into an adverb: 早く early or quickly, 短く shortly</p></div>
 <div class="card-grid-item"><h3><a href="kute/">〜くて — Links an i-adjective to another description</a></h3><p>Links an i-adjective to another description, often implying cause or sequence</p></div>
-<div class="card-grid-item"><h3><a href="made/">まで — up to, as far as, and even</a></h3><p>Even someone or something surprising; extends inclusion to an unexpected extreme</p></div>
+<div class="card-grid-item"><h3><a href="made/">まで — up to, as far as, and even</a></h3><p>As far as or up to an extent.</p></div>
 <div class="card-grid-item"><h3><a href="mae-ni/">前に — A stated duration before another time or event</a></h3><p>A stated duration before another time or event</p></div>
 <div class="card-grid-item"><h3><a href="mae-wa/">前は — Previously or before</a></h3><p>Previously or before; contrasts an earlier situation with now</p></div>
 <div class="card-grid-item"><h3><a href="maiasa/">毎朝 — Every morning</a></h3><p>Every morning; habitual time expression for each day&#x27;s morning</p></div>

@@ -4,4 +4,6 @@
 
 <span class="card-tag">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">ability-possibility</span>
 
+**See also:** [可能形・ことができる](<kanoukei-koto-ga-dekiru.md> "可能形・ことができる — the two ways to say 'can'") — spontaneous perception, not potential: 見える is what 見られる cannot say
+
 Be visible or come into view naturally; not deliberate looking

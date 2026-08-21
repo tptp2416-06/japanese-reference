@@ -2,6 +2,9 @@
      Prose belongs in content/deck/grammar/rareru.md -->
 # られる・させる — passive, causative, and causative-passive
 
+**See also:** [可能形・ことができる](<kanoukei-koto-ga-dekiru.md> "可能形・ことができる — the two ways to say 'can'") — られる is potential, passive and honorific in one shape — this is the sense that shares it  
+[Transitivity](<transitivity.md> "Transitivity — transitive and intransitive verb pairs") — an English passive is usually a Japanese intransitive, not られる — the commonest substitution error
+
 ## させられる (caus.-passive) { #saserareru }
 
 Be made or forced to do something by another person

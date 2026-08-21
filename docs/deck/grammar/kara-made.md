@@ -4,6 +4,8 @@
 
 <span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
 
+**See also:** [まで](<made.md> "まで — up to, as far as, and even") — the paired form that fixes both ends of the same stretch
+
 ## から〜まで (range) { #range }
 
 Marks a range from its starting point through its endpoint

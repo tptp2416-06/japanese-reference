@@ -2,6 +2,22 @@
      Prose belongs in content/deck/grammar/nakereba-naranai.md -->
 # なければならない — must, have to, and don't have to
 
+!!! tip "At a glance"
+
+    Japanese has no word for "must". It says *if you don't, it won't do* — a
+    negative conditional followed by a bad outcome — and then shortens that.
+    Learn the two slots and the whole family falls out of them; the comparison
+    page ranks the results by register.
+
+    Build any of them from three pieces:
+
+    `[verb, negative] + [conditional: なければ ／ ないと ／ なくては] +
+    [bad outcome: ならない ／ いけない ／ だめ]`
+
+    行く → 行かなければならない "have to go", 行かないといけない, 行かなくてはだめ.
+    Every form on this page is a choice in one of those slots, or a piece dropped
+    off the end — which is why the list looks long and is really one construction.
+
 ## ないと (obligation) { #nai-to }
 
 Must do; casual obligation with the consequence left unstated
@@ -9,6 +25,20 @@ Must do; casual obligation with the consequence left unstated
 <span class="card-tag">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">style: colloquial</span>
 
 **From:** sense of [ないと (unless)](<nai-to.md#unless> "Unless X happens; the following outcome will not occur")
+
+**Form:** `V-ない + と` (consequence often omitted)
+
+- **Stopping after と is complete** — もう行かないと。 "I really have to
+  go…" says everything. The listener supplies the consequence, and leaving it
+  to them is *softer* than naming it, not lazier.
+- **When the consequence is stated, it grades the speech** — ないと困る "or
+  I'm in trouble" is neutral, ないとマズい is casual and a bit rueful, ないとヤバい
+  is younger and stronger. The obligation is identical; what changes is how
+  much trouble you are admitting to.
+- **Obligation grammar doing emotional work** — 手伝ってくれないと困る is "I
+  need your help", not a rule. Because the consequence slot is about the
+  speaker's trouble, this construction is one of the ordinary ways to say you
+  depend on someone.
 
 *Compare:* [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
 
@@ -19,6 +49,14 @@ Have to; casual contraction with the ending omitted.
 <span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">style: colloquial</span>
 
 **From:** truncation of [なきゃいけない](<nakereba-naranai.md#nakya-ikenai> "Have to do something; a casual expression of obligation")
+
+**Form:** `V-ない stem + なきゃ`
+
+- **Two things have happened at once** — なければ has contracted to なきゃ,
+  and the consequence has been dropped. That is why it feels twice as short as
+  the full form.
+- **Speech only** — it is written down in dialogue, messages and lyrics, and
+  nowhere that expects a careful register.
 
 *Compare:* [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
 
@@ -38,11 +76,26 @@ Must do; casual contraction often used in spontaneous speech
 
 <span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">style: colloquial</span>
 
+**Form:** `V-ない stem + なくちゃ`
+
+- **The other conditional, contracted** — なくては → なくちゃ, in the same way
+  なければ → なきゃ. The two are interchangeable in ordinary casual speech, and
+  which one a speaker reaches for is largely habit.
+
 ## なくてもいい { #nakute-mo-ii }
 
 Need not do; grants permission to omit an action
 
 <span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span>
+
+**Form:** `V-なくて + も + いい`
+
+- **Not part of the obligation skeleton at all** — this is the てもいい
+  permission pattern with a negative て-form. It lives on this page because it
+  answers the same question, not because it is built the same way.
+- **The いい slot takes substitutes** — なくても大丈夫 "you'll be fine
+  without it" is warmer, なくてもかまわない more formal and slightly grudging.
+  Same permission, three temperatures.
 
 *Compare:* [てもいい・なくてもいい・なければならない・てはいけない — the obligation–permission square](<../contrasts/te-mo-ii-nakute-mo-ii-nakereba-naranai-te-wa-ikenai.md> "the obligation–permission square")
 
@@ -71,5 +124,15 @@ Must do; full plain-form expression of strong necessity
 Must do; polite standard expression of necessity or obligation
 
 <span class="card-tag">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">polite-marked</span>
+
+**Form:** `V-ない stem + なければなりません`
+
+- **ならない and いけない are texture, not degree** — なければなりません leans
+  impersonal and rule-like, the way a policy is worded; ないといけません leans
+  toward this situation and this speaker. Neither is politer than the other,
+  and both are ordinary in polite speech.
+- **The full form earns its length in writing** — spelled out, all three slots
+  are audible, which is exactly what makes it too heavy for casual speech and
+  right for notices, instructions and anything read rather than heard.
 
 *Compare:* [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
