@@ -45,7 +45,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="ato-de/">あとで — Later</a></h3><p>Later; after the current or previously mentioned time or event</p></div>
 <div class="card-grid-item"><h3><a href="chotto/">ちょっと — Softens a request, refusal, or negative judgment</a></h3><p>Softens a request, refusal, or negative judgment.</p></div>
 <div class="card-grid-item"><h3><a href="counters/">Counters — counting with classifiers</a></h3><p>Japanese counts nouns with a classifier chosen by the kind of thing counted, and the reading often changes with the number.</p></div>
-<div class="card-grid-item"><h3><a href="dakara/">だから — So or therefore</a></h3><p>So or therefore; casual result connector.</p></div>
+<div class="card-grid-item"><h3><a href="da-kara/">だから — So or therefore</a></h3><p>So or therefore; casual result connector.</p></div>
 <div class="card-grid-item"><h3><a href="dake/">だけ — only, just</a></h3><p>Only or just; limits the statement to the marked item or amount</p></div>
 <div class="card-grid-item"><h3><a href="dare-no/">誰の — Whose? Asks which person owns or is associated with something</a></h3><p>Whose? Asks which person owns or is associated with something</p></div>
 <div class="card-grid-item"><h3><a href="darou/">だろう — Probably or presumably</a></h3><p>Probably or presumably; plain-form prediction with relatively strong confidence</p></div>
@@ -70,7 +70,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="ikoukei/">意向形 — the volitional: intention, invitation, and ましょう</a></h3><p>Let&#x27;s do...; polite volitional invitation.</p></div>
 <div class="card-grid-item"><h3><a href="iru-aru/">いる-ある — Indicates existence: animate beings use one form</a></h3><p>Indicates existence: animate beings use one form, inanimate things the other</p></div>
 <div class="card-grid-item"><h3><a href="issho-ni/">一緒に — Together with</a></h3><p>Together with.</p></div>
-<div class="card-grid-item"><h3><a href="itsumo/">いつも — Always or habitually</a></h3><p>Always or habitually; occurring on every relevant occasion</p></div>
+<div class="card-grid-item"><h3><a href="itsu-mo/">いつも — Always or habitually</a></h3><p>Always or habitually; occurring on every relevant occasion</p></div>
 <div class="card-grid-item"><h3><a href="ja-nai/">〜じゃない — na-adjective negative, and じゃなくて</a></h3><p>Makes a noun or na-adjective negative in casual speech</p></div>
 <div class="card-grid-item"><h3><a href="jikan-ni/">時間＋に — Marks the time at which an event occurs. Clock times</a></h3><p>Marks the time at which an event occurs. Clock times, days and dates take に; relative words like 今日 and 毎朝 do not.</p></div>
 <div class="card-grid-item"><h3><a href="ka/">か — Or</a></h3><p>Or; marks a choice between alternatives.</p></div>
@@ -80,7 +80,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="kara-made/">から〜まで — Marks a range from its starting point through its endpoint</a></h3><p>Marks a range from its starting point through its endpoint</p></div>
 <div class="card-grid-item"><h3><a href="kedo/">けど — But or though</a></h3><p>But or though; contrast or soft setup.</p></div>
 <div class="card-grid-item"><h3><a href="kikan-ni/">期間＋に — Per period</a></h3><p>Per period: a time span plus に states frequency or rate within each period (週に一回, 月に二回)</p></div>
-<div class="card-grid-item"><h3><a href="korekara/">これから — From now on</a></h3><p>From now on; beginning at the present moment and continuing forward</p></div>
+<div class="card-grid-item"><h3><a href="kore-kara/">これから — From now on</a></h3><p>From now on; beginning at the present moment and continuing forward</p></div>
 <div class="card-grid-item"><h3><a href="ku-naru/">くなる — Become a stated i-adjective quality</a></h3><p>Become a stated i-adjective quality; marks a change of state</p></div>
 <div class="card-grid-item"><h3><a href="kukei/">く形 — the adverbial form of い-adjectives</a></h3><p>The く form turns an i-adjective into an adverb: 早く early or quickly, 短く shortly</p></div>
 <div class="card-grid-item"><h3><a href="kute/">〜くて — Links an i-adjective to another description</a></h3><p>Links an i-adjective to another description, often implying cause or sequence</p></div>
@@ -96,12 +96,12 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="mou-chotto/">もうちょっと — A little more</a></h3><p>A little more.</p></div>
 <div class="card-grid-item"><h3><a href="mou-counter/">もう＋counter — One more unit of something</a></h3><p>One more unit of something; requests or adds an additional quantity</p></div>
 <div class="card-grid-item"><h3><a href="mou-mada/">もう・まだ — already, still, and not yet</a></h3><p>Still or not yet; state continues relative to expectations</p></div>
-<div class="card-grid-item"><h3><a href="mousugu/">もうすぐ — Soon or before long</a></h3><p>Soon or before long.</p></div>
+<div class="card-grid-item"><h3><a href="mou-sugu/">もうすぐ — Soon or before long</a></h3><p>Soon or before long.</p></div>
 <div class="card-grid-item"><h3><a href="n-da/">んだ — the explanatory のだ and its compounds</a></h3><p>Provides background, explanation, or emphasis in casual speech</p></div>
 <div class="card-grid-item"><h3><a href="nai-de-kudasai/">ないでください — Please do not do</a></h3><p>Please do not do.</p></div>
 <div class="card-grid-item"><h3><a href="nai-q/">ない？ — Won&#x27;t you...?</a></h3><p>Won&#x27;t you...?; casual invitation.</p></div>
 <div class="card-grid-item"><h3><a href="nakereba-naranai/">なければならない — must, have to, and don&#x27;t have to</a></h3><p>Must do; casual obligation with the consequence left unstated</p></div>
-<div class="card-grid-item"><h3><a href="nakunaru/">なくなる — no longer, ran out, and lost the ability</a></h3><p>Become unable to do; an ability is lost over time</p></div>
+<div class="card-grid-item"><h3><a href="naku-naru/">なくなる — no longer, ran out, and lost the ability</a></h3><p>Become unable to do; an ability is lost over time</p></div>
 <div class="card-grid-item"><h3><a href="naru/">なる — Become</a></h3><p>Become.</p></div>
 <div class="card-grid-item"><h3><a href="ne/">ね — agreement and soft assertion</a></h3><p>Sentence-final particle seeking agreement.</p></div>
 <div class="card-grid-item"><h3><a href="netsu-ga-aru/">熱がある — Have a fever</a></h3><p>Have a fever; common health-state expression with が</p></div>
@@ -130,7 +130,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="ta-hou-ga-ii/">たほうがいい — It is better to do something</a></h3><p>It is better to do something; offers advice or recommendation</p></div>
 <div class="card-grid-item"><h3><a href="ta-koto-ga-aru/">たことがある — have done something before</a></h3><p>Have done before; casual expression of past experience</p></div>
 <div class="card-grid-item"><h3><a href="tai/">〜たい — wanting to do something</a></h3><p>Want to do something; expresses the speaker&#x27;s own desire</p></div>
-<div class="card-grid-item"><h3><a href="tamani/">たまに — Occasionally</a></h3><p>Occasionally; happening at irregular and relatively infrequent times</p></div>
+<div class="card-grid-item"><h3><a href="tama-ni/">たまに — Occasionally</a></h3><p>Occasionally; happening at irregular and relatively infrequent times</p></div>
 <div class="card-grid-item"><h3><a href="tari-tari-suru/">たり〜たりする — Lists representative actions or states</a></h3><p>Lists representative actions or states, implying the list is not exhaustive</p></div>
 <div class="card-grid-item"><h3><a href="te-iru/">ている — progressive, resultant state, habit, and the てる contractions</a></h3><p>Was doing or used to do; past progressive or habitual state</p></div>
 <div class="card-grid-item"><h3><a href="te-kara/">てから — after doing, and ever since</a></h3><p>After completing one action, then perform the following action</p></div>
@@ -162,7 +162,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="aida/">間 — Throughout a period</a></h3><p>Throughout a period; state or action continues for the entire span</p></div>
 <div class="card-grid-item"><h3><a href="aida-ni/">間に — During a period</a></h3><p>During a period; another event occurs within that time window</p></div>
 <div class="card-grid-item"><h3><a href="amari/">あまり — not very, not much</a></h3><p>Not very or not much, used with a negative.</p></div>
-<div class="card-grid-item"><h3><a href="annani/">あんなに — To that great extent</a></h3><p>To that great extent; emphasizes a notably high degree</p></div>
+<div class="card-grid-item"><h3><a href="anna-ni/">あんなに — To that great extent</a></h3><p>To that great extent; emphasizes a notably high degree</p></div>
 <div class="card-grid-item"><h3><a href="ba/">ば — the ba-conditional, ばいい and ばよかった</a></h3><p>If X, then Y; presents X as the condition enabling Y</p></div>
 <div class="card-grid-item"><h3><a href="chanto/">ちゃんと — Properly, reliably, or as expected</a></h3><p>Properly, reliably, or as expected; emphasizes adequate care or completeness</p></div>
 <div class="card-grid-item"><h3><a href="choudo-ii/">ちょうどいい — Just right or exactly suitable</a></h3><p>Just right or exactly suitable.</p></div>
@@ -227,13 +227,13 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="rareru/">られる・させる — passive, causative, and causative-passive</a></h3><p>Be made or forced to do something by another person</p></div>
 <div class="card-grid-item"><h3><a href="ru-tokoro-da/">るところだ — Be just about to do</a></h3><p>Be just about to do; focuses on the immediate pre-action point</p></div>
 <div class="card-grid-item"><h3><a href="saikin/">最近 — Recently or lately</a></h3><p>Recently or lately.</p></div>
-<div class="card-grid-item"><h3><a href="sase-te-kudasai/">させてください — Please let me do something</a></h3><p>Please let me do something; requests permission for the speaker&#x27;s action</p></div>
+<div class="card-grid-item"><h3><a href="sasete-kudasai/">させてください — Please let me do something</a></h3><p>Please let me do something; requests permission for the speaker&#x27;s action</p></div>
 <div class="card-grid-item"><h3><a href="sasete-kureru/">させてくれる — Let someone do something for their benefit</a></h3><p>Let the speaker (or in-group) do something; permissive causative with the benefit flowing inward.</p></div>
 <div class="card-grid-item"><h3><a href="sasete-morau/">させてもらう — humbly getting permission to do something</a></h3><p>Be allowed to do something; highly deferential permission or self-presentation</p></div>
 <div class="card-grid-item"><h3><a href="shi/">し — listing reasons</a></h3><p>Lists one or more reasons, suggesting additional reasons may also exist</p></div>
 <div class="card-grid-item"><h3><a href="shibaraku/">しばらく — For a while</a></h3><p>For a while; an unspecified but meaningful span of time</p></div>
 <div class="card-grid-item"><h3><a href="shika-nai/">しか〜ない — Only or nothing but, used with a negative predicate</a></h3><p>Only or nothing but, used with a negative predicate.</p></div>
-<div class="card-grid-item"><h3><a href="sonnani/">そんなに — To that extent</a></h3><p>To that extent; often used to reject or downplay an excessive degree</p></div>
+<div class="card-grid-item"><h3><a href="sonna-ni/">そんなに — To that extent</a></h3><p>To that extent; often used to reject or downplay an excessive degree</p></div>
 <div class="card-grid-item"><h3><a href="sorosoro/">そろそろ — Soon, or about time to do something</a></h3><p>Soon, or about time to do something.</p></div>
 <div class="card-grid-item"><h3><a href="sou-da/">そうだ — looks like, seems, and about to</a></h3><p>Looks or seems likely based on direct visual evidence. Attaches to the verb stem or adjective stem.</p></div>
 <div class="card-grid-item"><h3><a href="sou-da-hearsay/">そうだ (hearsay) — I hear that, they say that</a></h3><p>Reportedly; conveys information learned from another source, not direct observation. Attaches to the plain form.</p></div>
@@ -263,7 +263,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="yokattara/">よかったら — If you like or if convenient</a></h3><p>If you like or if convenient; gentle invitation or offer</p></div>
 <div class="card-grid-item"><h3><a href="yotei-da/">予定だ — Plan to do</a></h3><p>Plan to do; states an intended future action</p></div>
 <div class="card-grid-item"><h3><a href="yotei-desu/">予定です — Polite expression of a planned future action or event</a></h3><p>Polite expression of a planned future action or event</p></div>
-<div class="card-grid-item"><h3><a href="youna/">ような — A kind of X or as if X</a></h3><p>A kind of X or as if X; modifies a following noun</p></div>
+<div class="card-grid-item"><h3><a href="you-na/">ような — A kind of X or as if X</a></h3><p>A kind of X or as if X; modifies a following noun</p></div>
 <div class="card-grid-item"><h3><a href="zenzen-nai/">全然〜ない — Not at all</a></h3><p>Not at all; strongly negates the following description or action</p></div>
 <div class="card-grid-item"><h3><a href="zutsu/">ずつ — Each by each</a></h3><p>Each by each; distributes equal amounts or handles items sequentially</p></div>
 </div>
@@ -274,10 +274,10 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="baai/">場合 — In the case of X</a></h3><p>In the case of X; states a condition or contingency</p></div>
 <div class="card-grid-item"><h3><a href="bakari/">ばかり — nothing but</a></h3><p>Mostly or only into X; focus particle restricts a destination or target</p></div>
 <div class="card-grid-item"><h3><a href="chuushi-ni-naru/">中止になる — Be canceled</a></h3><p>Be canceled; an event or plan changes into a canceled state</p></div>
-<div class="card-grid-item"><h3><a href="degozaimasu/">でございます — Highly formal copula equivalent to です</a></h3><p>Highly formal copula equivalent to です, common in service language</p></div>
+<div class="card-grid-item"><h3><a href="de-gozaimasu/">でございます — Highly formal copula equivalent to です</a></h3><p>Highly formal copula equivalent to です, common in service language</p></div>
 <div class="card-grid-item"><h3><a href="donna/">どんな — What kind of</a></h3><p>What kind of; asks for the type or qualities of a noun</p></div>
 <div class="card-grid-item"><h3><a href="dou-iu-imi/">どういう意味 — what does it mean?</a></h3><p>What does X mean? Fixed interrogative asking for the meaning of a word or phrase</p></div>
-<div class="card-grid-item"><h3><a href="doushite/">どうして — Why? Asks for the reason or cause of a situation</a></h3><p>Why? Asks for the reason or cause of a situation</p></div>
+<div class="card-grid-item"><h3><a href="dou-shite/">どうして — Why? Asks for the reason or cause of a situation</a></h3><p>Why? Asks for the reason or cause of a situation</p></div>
 <div class="card-grid-item"><h3><a href="ga/">が — Joins contrasting clauses as &#x27;but&#x27;</a></h3><p>Joins contrasting clauses as &#x27;but&#x27;, often more softly than a full objection</p></div>
 <div class="card-grid-item"><h3><a href="hazu/">はず — supposed to be, and はずがない / はずだった</a></h3><p>Should be or is expected to be; confident expectation from evidence</p></div>
 <div class="card-grid-item"><h3><a href="hitsuyou-ga-aru/">必要がある — need to, and 必要はない</a></h3><p>There is a need to do X; states objective necessity</p></div>
@@ -310,30 +310,30 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="o-rei-ni/">お礼に — In return or as thanks</a></h3><p>In return or as thanks; marks a reciprocal gesture</p></div>
 <div class="card-grid-item"><h3><a href="o-suru/">お〜する — Humbly perform an action for someone</a></h3><p>Humbly perform an action for someone; lowers the speaker&#x27;s action</p></div>
 <div class="card-grid-item"><h3><a href="owaru-tsuzukeru/">終わる-続ける — Finish or continue doing an action</a></h3><p>Finish or continue doing an action, attached after the verb stem</p></div>
-<div class="card-grid-item"><h3><a href="ra-reru/">（ら）れる — honorific passive-shaped form</a></h3><p>Honorific passive-shaped form; respectfully describes a higher-status person&#x27;s action</p></div>
 <div class="card-grid-item"><h3><a href="rashii/">らしい — hearsay, and &quot;typical of&quot;</a></h3><p>Apparently or reportedly; conveys information inferred or learned indirectly</p></div>
+<div class="card-grid-item"><h3><a href="reru-rareru/">（ら）れる — honorific passive-shaped form</a></h3><p>Honorific passive-shaped form; respectfully describes a higher-status person&#x27;s action</p></div>
 <div class="card-grid-item"><h3><a href="sa/">〜さ — turning an adjective into a noun</a></h3><p>Turns an adjective into a noun expressing degree or measurable quality</p></div>
 <div class="card-grid-item"><h3><a href="sakihodo/">先ほど — A short while ago</a></h3><p>A short while ago; formal or polite reference to recent past</p></div>
 <div class="card-grid-item"><h3><a href="senjitsu/">先日 — The other day or recently</a></h3><p>The other day or recently; polite reference to a past occasion</p></div>
 <div class="card-grid-item"><h3><a href="shikata-nai/">仕方ない — It cannot be helped</a></h3><p>It cannot be helped; accepts an unavoidable or unchangeable situation</p></div>
 <div class="card-grid-item"><h3><a href="shoujiki/">正直 — Honestly speaking</a></h3><p>Honestly speaking; signals a frank or unvarnished opinion</p></div>
-<div class="card-grid-item"><h3><a href="sorede/">それで — As a result</a></h3><p>As a result; introduces a consequence of the preceding situation</p></div>
-<div class="card-grid-item"><h3><a href="soreni/">それに — Moreover</a></h3><p>Moreover; adds another supporting point with greater argumentative weight</p></div>
+<div class="card-grid-item"><h3><a href="sore-de/">それで — As a result</a></h3><p>As a result; introduces a consequence of the preceding situation</p></div>
+<div class="card-grid-item"><h3><a href="sore-ni/">それに — Moreover</a></h3><p>Moreover; adds another supporting point with greater argumentative weight</p></div>
 <div class="card-grid-item"><h3><a href="suu-nin-de/">数＋人＋で — A group of a stated number performs an action together</a></h3><p>A group of a stated number performs an action together</p></div>
 <div class="card-grid-item"><h3><a href="ta-bakari/">たばかり — Have just done something</a></h3><p>Have just done something, with recency judged subjectively by the speaker</p></div>
 <div class="card-grid-item"><h3><a href="ta-mama/">たまま — Leave a state unchanged after an action</a></h3><p>Leave a state unchanged after an action; often contrary to expectations</p></div>
 <div class="card-grid-item"><h3><a href="tame-ni/">ために — In order to achieve a goal</a></h3><p>In order to achieve a goal; marks deliberate purpose</p></div>
 <div class="card-grid-item"><h3><a href="tari/">たり — listing representative actions or states</a></h3><p>Lists alternating adjective states or representative qualities without exhaustively naming all</p></div>
 <div class="card-grid-item"><h3><a href="tasukaru/">助かる — Be helpful or relieving</a></h3><p>Be helpful or relieving; someone&#x27;s help improves the situation</p></div>
-<div class="card-grid-item"><h3><a href="te-arigatougozaimashita/">て＋ありがとうございました — Thanks for having done X</a></h3><p>Thanks for having done X; formal past gratitude for a completed action</p></div>
+<div class="card-grid-item"><h3><a href="te-arigatou-gozaimashita/">て＋ありがとうございました — Thanks for having done X</a></h3><p>Thanks for having done X; formal past gratitude for a completed action</p></div>
 <div class="card-grid-item"><h3><a href="te-aru/">てある — A deliberately created state remains</a></h3><p>A deliberately created state remains; focuses on the prepared result</p></div>
 <div class="card-grid-item"><h3><a href="te-itara/">ていたら — If someone keeps doing X</a></h3><p>If, when, or while someone is doing X, a result follows; progressive host on たら, covering both the conditional and the past-discovery readings</p></div>
 <div class="card-grid-item"><h3><a href="te-miru/">てみる — trying something out</a></h3><p>Want to try doing something; combines desire with tentative experience</p></div>
 <div class="card-grid-item"><h3><a href="te-mitara/">てみたら — On trying X, found Y</a></h3><p>On trying X, found Y; or casually suggests trying X</p></div>
 <div class="card-grid-item"><h3><a href="te-orimasu/">ております — Humble equivalent of ています</a></h3><p>Courteous (丁重語) equivalent of ています; states an ongoing action or resulting state with deference to the listener.</p></div>
 <div class="card-grid-item"><h3><a href="te-shimaimashita/">てしまいました — Completed regrettably or entirely</a></h3><p>Completed regrettably or entirely; polite form often used for apology</p></div>
+<div class="card-grid-item"><h3><a href="to-iu/">という — Called or named</a></h3><p>Called or named; identifies the name or label of something</p></div>
 <div class="card-grid-item"><h3><a href="to-iu-imi/">という意味 — Means that</a></h3><p>Means that; explains the interpretation or definition of a quoted expression</p></div>
-<div class="card-grid-item"><h3><a href="toiu/">という — Called or named</a></h3><p>Called or named; identifies the name or label of something</p></div>
 <div class="card-grid-item"><h3><a href="tokoro/">ところ — just did, in the middle of, about to</a></h3><p>Have just finished doing; focuses on the immediate post-action point</p></div>
 <div class="card-grid-item"><h3><a href="tte/">って — the casual quote, topic marker, and だって</a></h3><p>I hear that; casual report of information learned from someone else</p></div>
 <div class="card-grid-item"><h3><a href="v-kata/">V方 — How to perform an action</a></h3><p>How to perform an action; turns a verb into a method noun</p></div>
@@ -387,8 +387,8 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="nashi-ja/">なしじゃ — Without X, doing Y is impossible</a></h3><p>Without X, doing Y is impossible; casual conditional dependence</p></div>
 <div class="card-grid-item"><h3><a href="nen-no-tame/">念のため — Just in case</a></h3><p>Just in case; precaution taken despite low or uncertain risk</p></div>
 <div class="card-grid-item"><h3><a href="ni-chigai-nai/">に違いない — Must be</a></h3><p>Must be; expresses strong inference from available evidence</p></div>
+<div class="card-grid-item"><h3><a href="ni-tsuite/">について — Regarding X</a></h3><p>Regarding X; marks the topic or subject under discussion</p></div>
 <div class="card-grid-item"><h3><a href="ni-yoru-to/">によると — According to X</a></h3><p>According to X; identifies the source of reported information</p></div>
-<div class="card-grid-item"><h3><a href="nitsuite/">について — Regarding X</a></h3><p>Regarding X; marks the topic or subject under discussion</p></div>
 <div class="card-grid-item"><h3><a href="nja-nai-q/">んじゃない？ — Isn&#x27;t it likely that? Casual tentative suggestion or inference</a></h3><p>Isn&#x27;t it likely that? Casual tentative suggestion or inference</p></div>
 <div class="card-grid-item"><h3><a href="no-uchi-ni/">のうちに — Within the available period</a></h3><p>Within the available period; before a current opportunity or interval ends</p></div>
 <div class="card-grid-item"><h3><a href="o-tokoro-wo/">お〜ところを — Although you were occupied with X</a></h3><p>Although you were occupied with X; formally acknowledges an imposition or circumstance</p></div>
@@ -405,7 +405,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="tameshi-ni/">試しに — As an experiment or trial</a></h3><p>As an experiment or trial; do something to see what happens</p></div>
 <div class="card-grid-item"><h3><a href="to-moushimasu/">と申します — My name is</a></h3><p>Courteous (丁重語) self-introduction: my name is X.</p></div>
 <div class="card-grid-item"><h3><a href="to-onaji-to-chigau/">と同じ-と違う — The same as X or different from X</a></h3><p>The same as X or different from X; compares identity or type</p></div>
-<div class="card-grid-item"><h3><a href="tokorode/">ところで — By the way</a></h3><p>By the way; shifts to a new, loosely related topic</p></div>
+<div class="card-grid-item"><h3><a href="tokoro-de/">ところで — By the way</a></h3><p>By the way; shifts to a new, loosely related topic</p></div>
 <div class="card-grid-item"><h3><a href="toori-ni/">とおりに — In the same manner as instructed</a></h3><p>In the same manner as instructed, shown, or previously described</p></div>
 <div class="card-grid-item"><h3><a href="tte-kao-wo-sareru/">って顔をされる — Be given a look that says</a></h3><p>Be given a look that says...; quoted reaction plus adversity passive.</p></div>
 <div class="card-grid-item"><h3><a href="ukagau/">伺う — humble &quot;ask&quot;, &quot;hear&quot;, &quot;visit&quot;</a></h3><p>Humble expression for asking, hearing, or visiting someone socially superior</p></div>

@@ -38,7 +38,7 @@ Must do; casual contraction often used in spontaneous speech
 
 <span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">style: colloquial</span>
 
-## なくてもいい { #naku-te-mo-ii }
+## なくてもいい { #nakute-mo-ii }
 
 Need not do; grants permission to omit an action
 

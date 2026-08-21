@@ -6,4 +6,4 @@
 
 Thanks for doing...; て-form action followed by ありがとう.
 
-**Inflections:** [て＋ありがとうございました](<te-arigatougozaimashita.md> "Thanks for having done X; formal past gratitude for a completed action")
+**Inflections:** [て＋ありがとうございました](<te-arigatou-gozaimashita.md> "Thanks for having done X; formal past gratitude for a completed action")

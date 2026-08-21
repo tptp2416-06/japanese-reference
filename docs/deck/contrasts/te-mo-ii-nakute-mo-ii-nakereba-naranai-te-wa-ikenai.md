@@ -5,7 +5,7 @@
 **[てもいい？](<../grammar/te-mo-ii.md#te-mo-ii-q> "May I do...?; casual permission question.")**
 :   Asks or grants permission — it is OK to do it: これ、食べてもいい？ (May I?)。The 'may' corner of the square; for 'no need to', switch to なくてもいい.
 
-**[なくてもいい](<../grammar/nakereba-naranai.md#naku-te-mo-ii> "Need not do; grants permission to omit an action")**
+**[なくてもいい](<../grammar/nakereba-naranai.md#nakute-mo-ii> "Need not do; grants permission to omit an action")**
 :   Permission NOT to do — the action can be skipped: 明日は来なくてもいい (you don't have to come)。'Need not' is not 'must not': prohibition is てはいけない.
 
 **[なければならない (full plain)](<../grammar/nakereba-naranai.md#full-plain> "Must do; full plain-form expression of strong necessity")**
