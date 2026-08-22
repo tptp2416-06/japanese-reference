@@ -38,7 +38,7 @@
   --acc-deep:    #D85E10;
   --acc-wash:    rgba(244, 113, 31, .09);
   --acc-on:      #FFF9F2;
-  --ruby:        #B06B2E;
+  --ruby:        #C84800;
   --shadow:      5px 5px 0 var(--ink);
   --shadow-sm:   3px 3px 0 var(--ink);
   --shadow-acc:  5px 5px 0 var(--acc-deep);
@@ -81,7 +81,7 @@ html { zoom: var(--ui-scale); }
   --acc-deep:    #F4711F;
   --acc-wash:    rgba(244, 113, 31, .12);
   --acc-on:      #171613;
-  --ruby:        #C89058;
+  --ruby:        #FB7742;
   --shadow:      none;
   --shadow-sm:   none;
   --shadow-acc:  none;
@@ -413,11 +413,22 @@ body,
   border-bottom: var(--line-w) solid var(--line);
   box-shadow: none;
 }
+/* R64. `日本語 Reference` is ONE text node from `site_name`, and its two
+   halves want two different pixel faces — Silkscreen for the Latin, which is
+   what Tim asked for, and DotGothic16 for the Japanese, which Silkscreen
+   cannot render at all: it is a Latin-only face, so a bare
+   `font-family: Silkscreen` drops 日本語 into whatever the browser picks.
+
+   No markup change is needed, because this is what a font STACK is for.
+   Silkscreen's unicode-range covers latin and latin-ext only, so the browser
+   uses it for `Reference` and falls through to DotGothic16 for 日本語 —
+   per character, automatically, in one declaration. */
 .md-header__title,
 .md-header__topic {
-  font-family: var(--font-pxjp);
+  font-family: var(--font-px), var(--font-pxjp), monospace;
   font-size: 18px;
   font-weight: 400;
+  letter-spacing: .04em;
   color: var(--acc);
 }
 .md-header__button { color: var(--ink); }
@@ -432,8 +443,8 @@ body,
 }
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
-  width: 30px;
-  height: 30px;
+  width: 40px;
+  height: 40px;
   border: var(--line-w) solid var(--line);
   border-radius: 8px;
   box-shadow: var(--shadow-sm);
@@ -448,7 +459,7 @@ body,
 }
 .md-tabs__link {
   font-family: var(--font-px);
-  font-size: 9.5px;
+  font-size: 11px;          /* R66, from Tim's canvas — 9.5px scanned badly */
   letter-spacing: .14em;
   opacity: 1;
   color: var(--muted);
@@ -567,7 +578,7 @@ body,
    recognition target */
 .md-nav__link .en {
   font-family: var(--font-px);
-  font-size: 8.5px;
+  font-size: 9.5px;         /* R66, from Tim's canvas */
   font-weight: 400;
   letter-spacing: .06em;
   text-transform: uppercase;
@@ -630,29 +641,11 @@ body,
 /* brand · tools · counter — injected into the primary sidebar */
 /* STICKY, WHERE THE MOCK HAD THEM IN FLOW — and the reason is the one thing
    the mock could not know. It showed five function groups; the real deck has
-   44. Left in flow, the brand scrolls off the top and the ふりがな / ENGLISH /
-   SHUFFLE block sits below 362 rows, which puts the sidebar's only controls
-   somewhere nobody will scroll to. Pinning them is the same design at the
-   real size. Flagged for Tim at the review halt as a deliberate deviation. */
-.deck-brand {
-  display: flex;
-  align-items: baseline;
-  gap: 8px;
-  margin: 0 6px 16px;
-  padding: 8px 0 8px;
-  position: sticky;
-  top: 0;
-  z-index: 2;
-  background: var(--bg);
-}
-.deck-brand .jp { font-family: var(--font-pxjp); font-size: 21px; color: var(--acc); }
-.deck-brand .en {
-  font-family: var(--font-px);
-  font-size: 10px;
-  letter-spacing: .22em;
-  color: var(--muted);
-}
-
+   44, so the ふりがな / ENGLISH / SHUFFLE block would sit below 362 rows,
+   which puts the sidebar's only controls somewhere nobody will scroll to.
+   Pinning them is the same design at the real size.
+   (The brand that used to be pinned at the TOP here is gone — the header
+   carries the branding now.) */
 .deck-tools {
   margin: 16px 4px 0;
   padding: 12px 4px 8px;
@@ -919,6 +912,135 @@ body,
 .md-typeset .card-grid-item p { color: var(--muted); font-size: 14px; }
 
 
+
+/* ──────────────────────────────────────────────────────────────
+   7a · CALLOUTS — the admonition family (Tim's palette, 2026-08-21)
+
+   THIS CHANGES A RATIFIED RULE, and it should be read as such.
+   PRESENTATION-SPEC §1 says "two colors only" and §5 calls the breakdown's
+   pattern segments "the page's only color coding". Colour-coded callouts
+   make both sentences false. Tim asked for it with his eyes open; the spec
+   needs the matching amendment, which is a directing-session act, not this
+   file's to make. Until it lands, THIS COMMENT is the record of the
+   divergence.
+
+   NINE admonition types are in use across the site — measured, not guessed:
+   success 195 · failure 191 · note 142 · warning 124 · example 91 · tip 86 ·
+   abstract 47 · info 32 · danger 1. Tim gave six colours, so two pairs share
+   one, and `tip` keeps the tangerine because it is not a callout — it is the
+   At-a-glance HERO card (PAGE-SPEC §4 reserves it for exactly that).
+
+     note              #6B818C  slate     the neutral aside
+     info · abstract   #07A0C3  cyan      informational; a summary is the
+                                          same job as a note-to-the-side
+     success           #4EA699  teal      this is right
+     failure · danger  #C23842  red       this is wrong — danger is the same
+                                          claim, louder, and has ONE use
+     warning           #AF7595  mauve     the judgement call: a Pitfall is a
+                                          caution, not an error, and it must
+                                          not read as `failure`. The palette
+                                          has no amber and tangerine is spoken
+                                          for, so mauve carries it.
+     example           #798071  sage      quiet and structural
+     tip               tangerine          unchanged — the hero card
+
+   TWO TOKENS PER TYPE, and the second one is not decoration. Tim's hexes are
+   used exactly as given for the BORDER and the title wash, where they read as
+   colour and only need 3:1. Five of the six fall between 2.7:1 and 3.9:1
+   against the cream card, which is under the 4.5:1 floor for small text — so
+   the TITLE gets an `-ink` variant, the same hue and chroma moved in OKLab
+   until it clears 4.5:1. Darkening by eye, or mixing toward black, drags the
+   hue; OKLab does not. Every value below is solved, not chosen.
+   ────────────────────────────────────────────────────────────── */
+
+.md-typeset .admonition.note,     .md-typeset details.note     { --cal: #6B818C; --cal-ink: #607580; }
+.md-typeset .admonition.info,     .md-typeset details.info,
+.md-typeset .admonition.abstract, .md-typeset details.abstract { --cal: #07A0C3; --cal-ink: #007C9E; }
+.md-typeset .admonition.success,  .md-typeset details.success  { --cal: #4EA699; --cal-ink: #207F73; }
+.md-typeset .admonition.failure,  .md-typeset details.failure,
+.md-typeset .admonition.danger,   .md-typeset details.danger   { --cal: #C23842; --cal-ink: #C23842; }
+.md-typeset .admonition.warning,  .md-typeset details.warning  { --cal: #AF7595; --cal-ink: #996181; }
+.md-typeset .admonition.example,  .md-typeset details.example  { --cal: #798071; --cal-ink: #6D7466; }
+
+/* Dark: the same six hues lifted in OKLab until each clears 4.5:1 on the
+   card, so the coding survives the mode change instead of going muddy.
+   Teal and cyan already cleared it and are left exactly as Tim gave them. */
+[data-md-color-scheme="slate"] .md-typeset .admonition.note,
+[data-md-color-scheme="slate"] .md-typeset details.note        { --cal: #748B96; --cal-ink: #748B96; }
+[data-md-color-scheme="slate"] .md-typeset .admonition.info,
+[data-md-color-scheme="slate"] .md-typeset details.info,
+[data-md-color-scheme="slate"] .md-typeset .admonition.abstract,
+[data-md-color-scheme="slate"] .md-typeset details.abstract    { --cal: #07A0C3; --cal-ink: #07A0C3; }
+[data-md-color-scheme="slate"] .md-typeset .admonition.success,
+[data-md-color-scheme="slate"] .md-typeset details.success     { --cal: #4EA699; --cal-ink: #4EA699; }
+[data-md-color-scheme="slate"] .md-typeset .admonition.failure,
+[data-md-color-scheme="slate"] .md-typeset details.failure,
+[data-md-color-scheme="slate"] .md-typeset .admonition.danger,
+[data-md-color-scheme="slate"] .md-typeset details.danger      { --cal: #E4585E; --cal-ink: #E4585E; }
+[data-md-color-scheme="slate"] .md-typeset .admonition.warning,
+[data-md-color-scheme="slate"] .md-typeset details.warning     { --cal: #B07696; --cal-ink: #B07696; }
+[data-md-color-scheme="slate"] .md-typeset .admonition.example,
+[data-md-color-scheme="slate"] .md-typeset details.example     { --cal: #828A7A; --cal-ink: #828A7A; }
+
+/* One treatment, driven by the two tokens. Everything structural — the card
+   shape, the outline weight, the hard offset shadow in light and the flat
+   bottom-accent in dark — is the identity's, unchanged; only the hue varies.
+   `tip` is excluded throughout: it is the hero card, styled above. */
+.md-typeset .admonition:not(.tip),
+.md-typeset details:not(.tip):not(.ex-bd) {
+  background: var(--card);
+  border: var(--line-w) solid var(--cal, var(--line));
+  border-left: var(--line-w) solid var(--cal, var(--line));
+  border-bottom: var(--btm-acc-cal, var(--line-w) solid var(--cal, var(--line)));
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  padding: 0 0 2px;
+  margin: 22px 0 20px;
+  font-size: 15.5px;
+  overflow: hidden;
+}
+[data-md-color-scheme="slate"] .md-typeset .admonition:not(.tip),
+[data-md-color-scheme="slate"] .md-typeset details:not(.tip):not(.ex-bd) {
+  border-bottom: 3px solid var(--cal, var(--line));
+}
+
+.md-typeset .admonition:not(.tip) > .admonition-title,
+.md-typeset details:not(.tip):not(.ex-bd) > summary {
+  background: color-mix(in srgb, var(--cal, var(--line)) 14%, var(--card));
+  border-bottom: 1px solid var(--cal, var(--line));
+  color: var(--cal-ink, var(--ink));
+  font-weight: 800;
+  font-size: 15px;
+  margin: 0;
+  padding: 10px 18px 10px 44px;
+  border-radius: 0;
+}
+.md-typeset .admonition:not(.tip) > .admonition-title::before,
+.md-typeset details:not(.tip):not(.ex-bd) > summary::before {
+  background-color: var(--cal-ink, var(--ink));
+  left: 16px;
+  top: 11px;
+}
+/* Material's own focus ring is a blue it inherits from the theme; the
+   callout's own hue is the only correct colour for it here. */
+.md-typeset details:not(.tip):not(.ex-bd) > summary:focus-visible {
+  outline: 2px solid var(--cal, var(--acc));
+  outline-offset: -3px;
+}
+.md-typeset .admonition:not(.tip) > :not(.admonition-title),
+.md-typeset details:not(.tip):not(.ex-bd) > :not(summary) {
+  margin-left: 18px;
+  margin-right: 18px;
+}
+.md-typeset .admonition:not(.tip) > p:last-child,
+.md-typeset details:not(.tip):not(.ex-bd) > p:last-child { margin-bottom: 14px; }
+
+/* The fold arrow Material draws on a <details> summary. */
+.md-typeset details:not(.tip):not(.ex-bd) > summary::after {
+  background-color: var(--cal-ink, var(--ink));
+  top: 11px;
+}
+
 /* ──────────────────────────────────────────────────────────────
    8 · THE EXAMPLE BLOCK — PRESENTATION-SPEC §5
    ────────────────────────────────────────────────────────────── */
@@ -1085,7 +1207,6 @@ body.deck-hide-english .md-typeset .ex-en:focus-within { filter: none; }
   .md-footer,
   .md-top,
   .deck-tools,
-  .deck-brand,
   .deck-count,
   .deck-dots,
   .deck-tick,

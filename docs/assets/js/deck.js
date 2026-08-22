@@ -124,14 +124,11 @@
     return b;
   }
 
+  /* No sidebar brand. It was the mock's, and it stopped earning its place the
+     moment the branding moved into the header (bigger logo tile, the wordmark
+     in pixel Latin) — two wordmarks one above the other is one too many.
+     Tim's call, after seeing both in the canvas. */
   function buildFurniture(host) {
-    var brand = el("div", "deck-brand");
-    var jp = el("span", "jp", "日本語");
-    jp.setAttribute("lang", "ja");
-    brand.appendChild(jp);
-    brand.appendChild(el("span", "en", "REFERENCE"));
-    host.insertBefore(brand, host.firstChild);
-
     var tools = el("div", "deck-tools");
     tools.appendChild(toolButton("ふりがな", KEY_FURIGANA, function () { toggleFurigana(); }));
     tools.appendChild(toolButton("ENGLISH", KEY_ENGLISH, function () { toggleEnglish(); }));
