@@ -5,37 +5,46 @@
 ## まだ { #mada }
 
 Still or not yet; state continues relative to expectations
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
 
 *Compare:* [まだ vs もう — still vs already](<../contrasts/mada-vs-mou.md> "still vs already")
+{: .compare }
 
 ## まだ〜ない { #mada-nai }
 
 Not yet; an expected action or state has still not come about
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
 
 ## まだ＋ている { #mada-te-iru }
 
 Still doing X; emphasizes continuation beyond an expected point
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 ## もう { #mou }
 
 Already, another, or no longer, depending on context.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">baseline</span>
 
 **Compounds:** [もう＋過去](<mou-mada.md#mou-kako> "Already did; もう with a past predicate.")
+{: .fam }
 
 *Compare:* [まだ vs もう — still vs already](<../contrasts/mada-vs-mou.md> "still vs already")
+{: .compare }
 
 ## もう＋過去 { #mou-kako }
 
 Already did; もう with a past predicate.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
 
 **From:** compound of [もう](<mou-mada.md#mou> "Already, another, or no longer, depending on context.")
+{: .fam }

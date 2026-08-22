@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/da-kara.md -->
 # だから — So or therefore
 
-<span class="card-tag">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
 
 So or therefore; casual result connector.
+{: .h1-gloss }

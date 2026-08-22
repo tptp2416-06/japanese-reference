@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/no-ato-de.md -->
 # の後で — After a noun or event
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">sequence</span>
 
 After a noun or event.
+{: .h1-gloss }

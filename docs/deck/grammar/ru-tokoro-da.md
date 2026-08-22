@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/ru-tokoro-da.md -->
 # るところだ — Be just about to do
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 ## るところだ (about to) { #about-to }
 
 Be just about to do; focuses on the immediate pre-action point
+{: .pt-gloss }

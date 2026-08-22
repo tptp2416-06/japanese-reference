@@ -13,13 +13,16 @@
 ## そうだ (appearance) { #appearance }
 
 Looks or seems likely based on direct visual evidence. Attaches to the verb stem or adjective stem.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">conjecture-inference</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">conjecture-inference</span>
 
 **Inflections:** [なさそう](<sou-da.md#nasasou> "Does not look or seem X; negative appearance judgment")  
 **Compounds:** [そうになる](<sou-da.md#sou-ni-naru> "Nearly reaches a state or comes close to an event occurring") · [そうに見える](<sou-da.md#sou-ni-mieru> "Appear to look X; explicitly frames an impression as visual")
+{: .fam }
 
 **Form:** `A-stem + そう` (美味しい → 美味しそう · 元気 → 元気そう)
+{: .form }
 
 - **Visual judgment, still a judgment** — you haven't tasted it yet, which
   is exactly what the form signals.
@@ -31,28 +34,34 @@ Looks or seems likely based on direct visual evidence. Attaches to the verb stem
     oddly noncommittal.
 
 *Compare:* [ようだ・そうだ・らしい・みたい — appearance, inference, hearsay](<../contrasts/you-da-sou-da-rashii-mitai.md> "appearance, inference, hearsay")
+{: .compare }
 
 ## そうだ (imminence) { #imminence }
 
 Looks just about to happen, based on an immediately visible situation
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">conjecture-inference</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">conjecture-inference</span>
 
 **Form:** `V-stem + そう` (落ちる → 落ちそう · 泣く → 泣きそう)
+{: .form }
 
 - **On the verge** — the evidence points at an event about to happen.
 - **Which reading you get follows from the attachment**: adjective →
   appearance, verb → imminence. Same そう, one machine.
 
 *Compare:* [ようだ・そうだ・らしい・みたい — appearance, inference, hearsay](<../contrasts/you-da-sou-da-rashii-mitai.md> "appearance, inference, hearsay")
+{: .compare }
 
 ## そうにない { #sou-ni-nai }
 
 Does not look likely to happen; negative judgment from present evidence
+{: .pt-gloss }
 
-<span class="card-tag">N3</span> <span class="card-tag">affix-construction</span> <span class="card-tag">conjecture-inference</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">affix-construction</span> <span class="card-tag">conjecture-inference</span>
 
 **Form:** `V-stem + そうにない`
+{: .form }
 
 - **The verb-side negative** — 終わりそうにない "no sign it's going to
   end". Stronger than a plain negative guess: there's visible evidence
@@ -62,12 +71,15 @@ Does not look likely to happen; negative judgment from present evidence
 ## そうになる { #sou-ni-naru }
 
 Nearly reaches a state or comes close to an event occurring
+{: .pt-gloss }
 
-<span class="card-tag">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 **From:** compound of [そうだ (appearance)](<sou-da.md#appearance> "Looks or seems likely based on direct visual evidence. Attaches to the verb stem or adjective stem.")
+{: .fam }
 
 **Form:** `V-stem + そうになる`, almost always past: そうになった
+{: .form }
 
 - **Came to the brink and didn't** — 転びそうになった "I nearly fell". The
   implicit non-occurrence is why the past tense dominates.
@@ -75,12 +87,15 @@ Nearly reaches a state or comes close to an event occurring
 ## そうに見える { #sou-ni-mieru }
 
 Appear to look X; explicitly frames an impression as visual
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">conjecture-inference</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">conjecture-inference</span>
 
 **From:** compound of [そうだ (appearance)](<sou-da.md#appearance> "Looks or seems likely based on direct visual evidence. Attaches to the verb stem or adjective stem.")
+{: .fam }
 
 **Form:** `A-stem + そうに見える`
+{: .form }
 
 - **The impression, explicitly visual** — 高そうに見える "it looks
   expensive". Plain そうだ already means "seems", so adding に見える
@@ -90,12 +105,15 @@ Appear to look X; explicitly frames an impression as visual
 ## なさそう { #nasasou }
 
 Does not look or seem X; negative appearance judgment
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">conjecture-inference</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">conjecture-inference</span>
 
 **From:** inflection of [そうだ (appearance)](<sou-da.md#appearance> "Looks or seems likely based on direct visual evidence. Attaches to the verb stem or adjective stem.")
+{: .fam }
 
 **Form:** `A-stem + なさそう` · `N + が + なさそう`
+{: .form }
 
 - **The adjective-side negative** — 美味しくなさそう "doesn't look tasty",
   問題なさそう "looks like no problem".

@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/tameshi-ni.md -->
 # 試しに — As an experiment or trial
 
-<span class="card-tag">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">purpose</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">purpose</span>
 
 As an experiment or trial; do something to see what happens
+{: .h1-gloss }

@@ -5,37 +5,46 @@
 ## に (arrival/entry) { #arrival-entry }
 
 Marks the destination reached or place entered by a movement
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
 
 *Compare:* [に vs で — where things happen](<../contrasts/ni-vs-de.md> "where things happen")
+{: .compare }
 
 ## に (destination) { #destination }
 
 Marks the destination of movement.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span> <span class="card-tag">baseline</span>
 
 *Compare:* [に vs で — where things happen](<../contrasts/ni-vs-de.md> "where things happen")
+{: .compare }
 
 ## に (occasion) { #occasion }
 
 Marks the occasion or capacity for which something is given or done.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">purpose</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">purpose</span>
 
 **From:** sense of [に (recipient)](<ni.md#recipient> "Marks the person who receives something or toward whom an action is directed")
+{: .fam }
 
 ## に (purpose) { #purpose }
 
 Marks the purpose for which time or effort is required.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">purpose</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">purpose</span> <span class="card-tag">baseline</span>
 
 ## に (recipient) { #recipient }
 
 Marks the person who receives something or toward whom an action is directed
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">give-receive-benefit</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">give-receive-benefit</span>
 
 **Senses:** [に (occasion)](<ni.md#occasion> "Marks the occasion or capacity for which something is given or done.")
+{: .fam }

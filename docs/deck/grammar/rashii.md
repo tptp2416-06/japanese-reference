@@ -5,15 +5,19 @@
 ## らしい (hearsay) { #hearsay }
 
 Apparently or reportedly; conveys information inferred or learned indirectly
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">evidentiality-hearsay</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">evidentiality-hearsay</span>
 
 *Compare:* [ようだ・そうだ・らしい・みたい — appearance, inference, hearsay](<../contrasts/you-da-sou-da-rashii-mitai.md> "appearance, inference, hearsay")
+{: .compare }
 
 ## らしい (typicality) { #typicality }
 
 Characteristically like someone or something, matching expected qualities
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">stance-evaluation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">stance-evaluation</span>
 
 *Compare:* [ようだ・そうだ・らしい・みたい — appearance, inference, hearsay](<../contrasts/you-da-sou-da-rashii-mitai.md> "appearance, inference, hearsay")
+{: .compare }

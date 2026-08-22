@@ -5,54 +5,67 @@
 ## ちゃう (contraction) { #chau }
 
 End up doing or do completely; contraction of てしまう.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span>
 
 **Builds on:** [てしまう (regret)](<te-shimau.md#regret> "Unfortunately do something, conveying regret, annoyance, or an unwanted outcome")  
 **From:** contraction of [てしまう (regret)](<te-shimau.md#regret> "Unfortunately do something, conveying regret, annoyance, or an unwanted outcome")  
 **Compounds:** [ちゃうかも](<te-shimau.md#chau-kamo> "Might end up doing; casual possibility involving an unintended or regrettable result")
+{: .fam }
 
 ## ちゃうかも { #chau-kamo }
 
 Might end up doing; casual possibility involving an unintended or regrettable result
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">style: colloquial</span>
 
 **Builds on:** [かも](<kamo.md> "Might; casual shortened expression showing an uncertain possibility")  
 **From:** compound of [ちゃう (contraction)](<te-shimau.md#chau> "End up doing or do completely; contraction of てしまう.")
+{: .fam }
 
 ## ちゃおう { #chaou }
 
 Expresses deciding to finish an action, often briskly or decisively
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">intention-volition</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">intention-volition</span> <span class="card-tag">style: colloquial</span>
 
 **Builds on:** [ちゃう (contraction)](<te-shimau.md#chau> "End up doing or do completely; contraction of てしまう.") · [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")
+{: .fam }
 
 ## ちゃった { #chatta }
 
 Ended up doing; past contraction of てしまった.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span>
 
 **Builds on:** [ちゃう (contraction)](<te-shimau.md#chau> "End up doing or do completely; contraction of てしまう.") · [過去形・辞書形 (plain statement)](<kakokei-jishokei.md#plain-statement> "States past or nonpast facts plainly, without polite marking")  
 **From:** contraction of [てしまう (regret)](<te-shimau.md#regret> "Unfortunately do something, conveying regret, annoyance, or an unwanted outcome")
+{: .fam }
 
 ## てしまう (completion) { #completion }
 
 Finish doing something completely, emphasizing completion rather than regret
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")
+{: .fam }
 
 *Compare:* [ておく・てある・ている・てしまう — prepared, resulting, finished](<../contrasts/te-oku-te-aru-te-iru-te-shimau.md> "prepared, resulting, finished")
+{: .compare }
 
 ## てしまう (regret) { #regret }
 
 Unfortunately do something, conveying regret, annoyance, or an unwanted outcome
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">affectedness-adversity</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">affectedness-adversity</span>
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")  
 **Contractions:** [ちゃう (contraction)](<te-shimau.md#chau> "End up doing or do completely; contraction of てしまう.") · [ちゃった](<te-shimau.md#chatta> "Ended up doing; past contraction of てしまった.")
+{: .fam }

@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ni-komaru.md -->
 # に困る — Have trouble with X
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">affectedness-adversity</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">affectedness-adversity</span>
 
 Have trouble with X; X creates a practical difficulty
+{: .h1-gloss }

@@ -5,15 +5,19 @@
 ## 〜じゃない (na-adj negative) { #na-adj-negative }
 
 Makes a noun or na-adjective negative in casual speech
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">copular-construction</span> <span class="card-tag">negation</span> <span class="card-tag">plain-marked</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">copular-construction</span> <span class="card-tag">negation</span> <span class="card-tag">plain-marked</span>
 
 **Inflections:** [じゃなくて](<ja-nai.md#ja-nakute> "Not X but Y; corrects or replaces the first alternative")
+{: .fam }
 
 ## じゃなくて { #ja-nakute }
 
 Not X but Y; corrects or replaces the first alternative
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">contrast</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">contrast</span> <span class="card-tag">style: colloquial</span>
 
 **From:** inflection of [〜じゃない (na-adj negative)](<ja-nai.md#na-adj-negative> "Makes a noun or na-adjective negative in casual speech")
+{: .fam }

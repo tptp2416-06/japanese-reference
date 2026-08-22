@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/nja-nai-q.md -->
 # んじゃない？ — Isn't it likely that? Casual tentative suggestion or inference
 
-<span class="card-tag">N3</span> <span class="card-tag">contraction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">contraction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">style: colloquial</span>
 
 Isn't it likely that? Casual tentative suggestion or inference
+{: .h1-gloss }

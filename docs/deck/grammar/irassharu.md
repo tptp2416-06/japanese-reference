@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/irassharu.md -->
 # いらっしゃる — Honorific equivalent of いる and 来る
 
-<span class="card-tag">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span>
 
 ## いらっしゃる (honorific いる/来る) { #honorific-iru-kuru }
 
 Honorific equivalent of いる, 来る and 行く, and with で of だ/である; a respected person is present, comes, goes, or is in a stated condition.
+{: .pt-gloss }

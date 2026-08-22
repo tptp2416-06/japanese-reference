@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/koto-ni-shite-iru.md -->
 # ことにしている — making a standing rule for oneself
 
-<span class="card-tag">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
 
 Maintain a personal rule or standing habit by conscious decision
+{: .h1-gloss }

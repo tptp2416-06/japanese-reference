@@ -3,28 +3,35 @@
 # ぐらい — approximation, and the minimal "only about"
 
 **See also:** [まで](<made.md> "まで — up to, as far as, and even") — まで is a cap someone set; ぐらい is an estimate — easy to swap when the English is loose
+{: .seealso }
 
 ## くらいで { #kurai-de }
 
 In about the stated amount of time; estimates duration until completion
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
 
 **From:** compound of [ぐらい (approximation)](<gurai.md#approximation> "About or approximately, with a quantity or a time.")
+{: .fam }
 
 ## ぐらい (approximation) { #approximation }
 
 About or approximately, with a quantity or a time.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
 
 **Compounds:** [くらいで](<gurai.md#kurai-de> "In about the stated amount of time; estimates duration until completion")  
 **Senses:** [ぐらい (minimal)](<gurai.md#minimal> "As little as or only about; presents an amount as notably small")
+{: .fam }
 
 ## ぐらい (minimal) { #minimal }
 
 As little as or only about; presents an amount as notably small
+{: .pt-gloss }
 
-<span class="card-tag">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
 
 **From:** sense of [ぐらい (approximation)](<gurai.md#approximation> "About or approximately, with a quantity or a time.")
+{: .fam }

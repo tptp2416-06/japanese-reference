@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/sorosoro.md -->
 # そろそろ — Soon, or about time to do something
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">baseline</span>
 
 Soon, or about time to do something.
+{: .h1-gloss }

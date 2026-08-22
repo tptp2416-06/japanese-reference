@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/oki-ni.md -->
 # おきに — At regular intervals of a stated amount
 
-<span class="card-tag">N3</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">frequency</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">frequency</span>
 
 At intervals separated by the stated amount — 一日おきに is every OTHER day, 5分おきに every five minutes.
+{: .h1-gloss }

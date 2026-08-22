@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ka-dou-ka.md -->
 # かどうか — Whether or not
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">interrogation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">interrogation</span>
 
 Whether or not; embeds a yes-no question inside a larger sentence
+{: .h1-gloss }

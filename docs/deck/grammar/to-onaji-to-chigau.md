@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/to-onaji-to-chigau.md -->
 # と同じ-と違う — The same as X or different from X
 
-<span class="card-tag">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
 
 ## と同じ／と違う { #to-onaji-to-chigau }
 
 The same as X or different from X; compares identity or type
+{: .pt-gloss }

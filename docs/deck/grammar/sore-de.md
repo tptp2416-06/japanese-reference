@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/sore-de.md -->
 # それで — As a result
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
 
 ## それで (consequence) { #consequence }
 
 As a result; introduces a consequence of the preceding situation
+{: .pt-gloss }

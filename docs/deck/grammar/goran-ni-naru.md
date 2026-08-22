@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/goran-ni-naru.md -->
 # ご覧になる — honorific "look" and "see"
 
-<span class="card-tag">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span>
 
 Respectful expression for a socially superior person seeing or looking
+{: .h1-gloss }

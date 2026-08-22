@@ -3,15 +3,19 @@
 # 〜たい — wanting to do something
 
 Want to do something; expresses the speaker's own desire
+{: .h1-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">desire</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">desire</span>
 
 **Compounds:** [たくなる](<tai.md#taku-naru> "Come to want to do something.")
+{: .fam }
 
 ## たくなる { #taku-naru }
 
 Come to want to do something.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">desire</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">desire</span>
 
 **From:** compound of [〜たい](<tai.md> "Want to do something; expresses the speaker's own desire")
+{: .fam }

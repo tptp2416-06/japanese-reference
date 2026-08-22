@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/zenzen-nai.md -->
 # 全然〜ない — Not at all
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">negation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">negation</span>
 
 Not at all; strongly negates the following description or action
+{: .h1-gloss }

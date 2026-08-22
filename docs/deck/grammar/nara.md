@@ -3,23 +3,29 @@
 # なら — the nara-conditional, topic, and advice
 
 If it is X; sets a contextual condition on what follows.
+{: .h1-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
 
 *Compare:* [たら・ば・と・なら — the conditional quartet](<../contrasts/tara-ba-to-nara.md> "the conditional quartet")
+{: .compare }
 
 ## なら (advice) { #advice }
 
 If that is the situation, then offers context-based advice or recommendation
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">suggestion-advice</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">suggestion-advice</span>
 
 **Builds on:** [なら (conditional)](<nara.md> "If it is X; sets a contextual condition on what follows.")
+{: .fam }
 
 ## なら (topic) { #topic }
 
 As for the stated topic, frames a comment specifically about it
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">topic-focus</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">topic-focus</span>
 
 **Builds on:** [なら (conditional)](<nara.md> "If it is X; sets a contextual condition on what follows.")
+{: .fam }

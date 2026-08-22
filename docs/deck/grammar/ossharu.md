@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ossharu.md -->
 # おっしゃる — Honorific verb meaning say
 
-<span class="card-tag">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span>
 
 Honorific verb meaning say; used for the words of a respected person
+{: .h1-gloss }

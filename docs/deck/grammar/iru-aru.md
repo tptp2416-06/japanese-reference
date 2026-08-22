@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/iru-aru.md -->
 # いる-ある — Indicates existence: animate beings use one form
 
-<span class="card-tag">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">existence</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">existence</span>
 
 ## いる／ある (existence) { #iru-aru }
 
 Indicates existence: animate beings use one form, inanimate things the other
+{: .pt-gloss }

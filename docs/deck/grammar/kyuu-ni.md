@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/kyuu-ni.md -->
 # 急に — Suddenly
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span>
 
 **See also:** [あっという間に](<atto-iu-ma-ni.md> "あっという間に — In what feels like no time") — 急に calls the event abrupt; あっという間に calls the interval short
+{: .seealso }
 
 Suddenly; change happens without warning or gradual lead-in
+{: .h1-gloss }

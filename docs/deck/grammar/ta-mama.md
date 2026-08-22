@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/ta-mama.md -->
 # たまま — Leave a state unchanged after an action
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 Leave a state unchanged after an action; often contrary to expectations
+{: .h1-gloss }
 
 **Builds on:** [過去形・辞書形 (plain statement)](<kakokei-jishokei.md#plain-statement> "States past or nonpast facts plainly, without polite marking")
+{: .fam }

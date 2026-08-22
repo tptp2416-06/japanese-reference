@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/sore-ni.md -->
 # それに — Moreover
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">listing-addition</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">listing-addition</span>
 
 ## それに (addition) { #addition }
 
 Moreover; adds another supporting point with greater argumentative weight
+{: .pt-gloss }

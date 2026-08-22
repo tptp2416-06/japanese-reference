@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/sa.md -->
 # 〜さ — turning an adjective into a noun
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">nominalization</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">nominalization</span>
 
 ## 〜さ (nominalizer) { #nominalizer }
 
 Turns an adjective into a noun expressing degree or measurable quality
+{: .pt-gloss }

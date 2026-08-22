@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/kukei.md -->
 # く形 — the adverbial form of い-adjectives
 
-<span class="card-tag">N5</span> <span class="card-tag">adjective-inflection</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adjective-inflection</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
 
 ## い形容詞＋く (adverbial) { #adverbial }
 
 The く form turns an i-adjective into an adverb: 早く early or quickly, 短く shortly
+{: .pt-gloss }

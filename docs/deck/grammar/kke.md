@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/kke.md -->
 # っけ — What was it again? Retrieves a forgotten fact from memory
 
-<span class="card-tag">N3</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">interrogation</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">interrogation</span> <span class="card-tag">style: colloquial</span>
 
 ## っけ (memory retrieval) { #memory-retrieval }
 
 What was it again? Retrieves a forgotten fact from memory
+{: .pt-gloss }

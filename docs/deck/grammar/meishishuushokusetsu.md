@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/meishishuushokusetsu.md -->
 # 名詞修飾節 — A modifying clause placed before a noun
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">clause-linking-construction</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">clause-linking-construction</span>
 
 A modifying clause placed before a noun, without a relative pronoun
+{: .h1-gloss }

@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/ku-naru.md -->
 # くなる — Become a stated i-adjective quality
 
-<span class="card-tag">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
 
 Become a stated i-adjective quality; marks a change of state
+{: .h1-gloss }
 
 *Compare:* [なる family — ways of expressing change](<../contrasts/naru-family.md> "ways of expressing change")
+{: .compare }

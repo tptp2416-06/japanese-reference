@@ -2,10 +2,13 @@
      Prose belongs in content/deck/grammar/you-ni-naru.md -->
 # ようになる — Come to do something or reach a new ability or habitual state
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
 
 **See also:** [可能形・ことができる](<kanoukei-koto-ga-dekiru.md> "可能形・ことができる — the two ways to say 'can'") — how an ability is said to have arrived: the potential form plus a change of state
+{: .seealso }
 
 Come to do something or reach a new ability or habitual state
+{: .h1-gloss }
 
 *Compare:* [なる family — ways of expressing change](<../contrasts/naru-family.md> "ways of expressing change") · [ことにする・ことになる・ようにする・ようになる — the する／なる decision square](<../contrasts/koto-ni-suru-koto-ni-naru-you-ni-suru-you-ni-naru.md> "the する／なる decision square")
+{: .compare }

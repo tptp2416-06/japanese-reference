@@ -3,17 +3,21 @@
 # させてもらう — humbly getting permission to do something
 
 Receive permission to do something; frames the action as granted
+{: .h1-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span>
 
 **Builds on:** [させる (causative)](<rareru.md#saseru> "Make or let someone do something, depending on context") · [てもらう (service)](<te-ageru-te-kureru-te-morau.md#te-morau> "Have someone perform a service for the speaker or beneficiary")  
 **Elaborations:** [させていただく](<sasete-morau.md#sasete-itadaku> "Be allowed to do something; highly deferential permission or self-presentation")
+{: .fam }
 
 ## させていただく { #sasete-itadaku }
 
 Be allowed to do something; highly deferential permission or self-presentation
+{: .pt-gloss }
 
-<span class="card-tag">N3</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span> <span class="card-tag">keigo: humble</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span> <span class="card-tag">keigo: humble</span>
 
 **Builds on:** [させてもらう](<sasete-morau.md> "Receive permission to do something; frames the action as granted")  
 **From:** elaboration of [させてもらう](<sasete-morau.md> "Receive permission to do something; frames the action as granted")
+{: .fam }

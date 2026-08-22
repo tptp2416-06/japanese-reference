@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/ka.md -->
 # か — Or
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span>
 
 ## か (choice) { #choice }
 
 Or; marks a choice between alternatives.
+{: .pt-gloss }

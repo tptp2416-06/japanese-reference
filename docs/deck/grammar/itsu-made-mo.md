@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/itsu-made-mo.md -->
 # いつまでも — Forever or indefinitely
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">duration</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">duration</span>
 
 Forever or indefinitely; continuing without a stated endpoint
+{: .h1-gloss }

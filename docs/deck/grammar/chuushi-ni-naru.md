@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/chuushi-ni-naru.md -->
 # 中止になる — Be canceled
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">lexical-item</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">lexical-item</span> <span class="card-tag">change-result</span>
 
 Be canceled; an event or plan changes into a canceled state
+{: .h1-gloss }
 
 **Builds on:** [になる](<ni-naru.md> "Become X; intransitive change into a noun or na-adjective state")
+{: .fam }

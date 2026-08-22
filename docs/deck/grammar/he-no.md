@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/he-no.md -->
 # への — For or toward X
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
 
 For or toward X; の-marked noun modifies a following noun
+{: .h1-gloss }

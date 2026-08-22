@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/ku-suru.md -->
 # 〜くする — Make something become an i-adjective state
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
 
 ## 〜くする (make it X) { #make-it-x }
 
 Make something become an i-adjective state, often by deliberate adjustment
+{: .pt-gloss }

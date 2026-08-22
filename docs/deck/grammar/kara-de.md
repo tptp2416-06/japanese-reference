@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/kara-de.md -->
 # から-で — the material something is made from
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">manner-means</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">manner-means</span>
 
 ## から／で (material) { #kara-de }
 
 Marks the raw material something is transformed from or made with
+{: .pt-gloss }

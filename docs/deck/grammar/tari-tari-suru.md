@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/tari-tari-suru.md -->
 # たり〜たりする — Lists representative actions or states
 
-<span class="card-tag">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">listing-addition</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">listing-addition</span>
 
 Lists representative actions or states, implying the list is not exhaustive
+{: .h1-gloss }

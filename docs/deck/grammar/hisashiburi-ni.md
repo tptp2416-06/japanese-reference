@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/hisashiburi-ni.md -->
 # 久しぶりに — For the first time in a long while
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
 
 For the first time in a long while; after an extended absence
+{: .h1-gloss }

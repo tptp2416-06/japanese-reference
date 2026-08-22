@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/inai.md -->
 # 以内 — within a limit
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">quantity-degree</span>
 
 Within a limit of X; no later, farther, or greater than it
+{: .h1-gloss }
 
 **From:** compound of [Counters](<counters.md> "Japanese counts nouns with a classifier chosen by the kind of thing counted, and the reading often changes with the number.")
+{: .fam }

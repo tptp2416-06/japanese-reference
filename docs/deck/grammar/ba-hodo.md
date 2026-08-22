@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/ba-hodo.md -->
 # ば〜ほど — The more X, the more Y
 
-<span class="card-tag">N3</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">comparison</span>
 
 The more X, the more Y; proportional change between two degrees
+{: .h1-gloss }
 
 **Builds on:** [ば (conditional)](<ba.md#conditional> "If X, then Y; presents X as the condition enabling Y")
+{: .fam }

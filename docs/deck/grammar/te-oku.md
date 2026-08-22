@@ -3,47 +3,58 @@
 # ておく — doing something in advance, with the とく contraction
 
 Do something in advance or leave it in a resulting state
+{: .h1-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")  
 **Contractions:** [とく (ておく contraction)](<te-oku.md#toku> "Casual contraction meaning do something in advance or leave it prepared")  
 **Inflections:** [ておいた](<te-oku.md#te-oita> "Did something in advance; past preparatory action for a later need") · [ておこう](<te-oku.md#te-okou> "Let's do it in advance or in preparation.")  
 **Compounds:** [ておく＋と (tip frame)](<te-oku.md#te-oku-to> "Doing X in advance leads to Y; conventional practical-tip frame")
+{: .fam }
 
 *Compare:* [ておく・てある・ている・てしまう — prepared, resulting, finished](<../contrasts/te-oku-te-aru-te-iru-te-shimau.md> "prepared, resulting, finished")
+{: .compare }
 
 ## ておいた { #te-oita }
 
 Did something in advance; past preparatory action for a later need
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 **Builds on:** [ておく](<te-oku.md> "Do something in advance or leave it in a resulting state")  
 **From:** inflection of [ておく](<te-oku.md> "Do something in advance or leave it in a resulting state")
+{: .fam }
 
 ## ておく＋と (tip frame) { #te-oku-to }
 
 Doing X in advance leads to Y; conventional practical-tip frame
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">condition</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">condition</span>
 
 **From:** compound of [ておく](<te-oku.md> "Do something in advance or leave it in a resulting state")
+{: .fam }
 
 ## ておこう { #te-okou }
 
 Let's do it in advance or in preparation.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">intention-volition</span> <span class="card-tag">plain-marked</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">intention-volition</span> <span class="card-tag">plain-marked</span>
 
 **Builds on:** [ておく](<te-oku.md> "Do something in advance or leave it in a resulting state") · [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")  
 **From:** inflection of [ておく](<te-oku.md> "Do something in advance or leave it in a resulting state")
+{: .fam }
 
 ## とく (ておく contraction) { #toku }
 
 Casual contraction meaning do something in advance or leave it prepared
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span>
 
 **Builds on:** [ておく](<te-oku.md> "Do something in advance or leave it in a resulting state")  
 **From:** contraction of [ておく](<te-oku.md> "Do something in advance or leave it in a resulting state")
+{: .fam }

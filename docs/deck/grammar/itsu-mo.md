@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/itsu-mo.md -->
 # いつも — Always or habitually
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">frequency</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">frequency</span>
 
 Always or habitually; occurring on every relevant occasion
+{: .h1-gloss }

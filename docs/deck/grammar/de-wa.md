@@ -5,15 +5,19 @@
 ## では (location) { #location }
 
 Within or at a place or institutional scope; で plus topic-contrastive は marks the place as the domain in which the statement holds
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
 
 **From:** compound of [は (contrast)](<wa.md#contrast> "As for this item specifically, contrasts it with another possibility")
+{: .fam }
 
 *Compare:* [に vs で — where things happen](<../contrasts/ni-vs-de.md> "where things happen")
+{: .compare }
 
 ## では (source) { #source }
 
 According to a named source or domain; frames where information comes from
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">reporting-quotation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">reporting-quotation</span>

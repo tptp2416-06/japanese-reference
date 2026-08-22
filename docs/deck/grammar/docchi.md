@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/docchi.md -->
 # どっち — Which one?
 
-<span class="card-tag">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">interrogation</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">interrogation</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
 
 Which one?; casual form of どちら.
+{: .h1-gloss }

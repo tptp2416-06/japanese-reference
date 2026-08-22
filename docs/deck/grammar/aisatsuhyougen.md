@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/aisatsuhyougen.md -->
 # 挨拶表現 — Set phrases for greeting
 
-<span class="card-tag">N5</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">addressee-stance</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">addressee-stance</span>
 
 Set phrases for greeting, introduction, thanks, apology, or leave-taking
+{: .h1-gloss }

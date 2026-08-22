@@ -2,7 +2,7 @@
      Prose belongs in content/deck/grammar/tame-ni.md -->
 # ために — In order to achieve a goal
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">purpose</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">purpose</span>
 
 !!! tip "At a glance"
 
@@ -13,8 +13,10 @@
 ## ために (purpose) { #purpose }
 
 In order to achieve a goal; marks deliberate purpose
+{: .pt-gloss }
 
 **Form:** `V-dict + ために` · `N + のために`
+{: .form }
 
 - **Deliberate aim** — the actor does A in order to achieve B:
   日本語を勉強するために、アプリを入れた。
@@ -37,3 +39,4 @@ In order to achieve a goal; marks deliberate purpose
     can't be the guide.
 
 *Compare:* [ために・ように・のに・Vstem＋に — the purpose family](<../contrasts/tame-ni-you-ni-noni-vstem-ni.md> "the purpose family")
+{: .compare }

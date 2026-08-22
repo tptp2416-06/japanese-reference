@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ichiban.md -->
 # 一番 — The most or number one
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">comparison</span>
 
 The most or number one.
+{: .h1-gloss }

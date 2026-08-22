@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/sugite.md -->
 # すぎて — Because something is excessively X
 
-<span class="card-tag">N5</span> <span class="card-tag">affix-construction</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">affix-construction</span> <span class="card-tag">cause-reason</span>
 
 Because something is excessively X; links an excessive degree to its consequence
+{: .h1-gloss }
 
 **Builds on:** [て形 (cause)](<tekei.md#cause> "Links a cause or reason to its result with the て-form.")
+{: .fam }

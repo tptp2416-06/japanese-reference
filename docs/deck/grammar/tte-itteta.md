@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/tte-itteta.md -->
 # って言ってた — Said that
 
-<span class="card-tag">N5</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">reporting-quotation</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">reporting-quotation</span> <span class="card-tag">style: colloquial</span>
 
 ## って言ってた (reported) { #reported }
 
 Said that; casually reports what someone previously said
+{: .pt-gloss }

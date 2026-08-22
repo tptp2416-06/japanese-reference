@@ -5,13 +5,16 @@
 ## の (possession, noun omitted) { #possession-noun-omitted }
 
 One belonging to someone; replaces an understood possessed noun
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">reference</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">reference</span>
 
 **Senses:** [の (explanatory)](<no-explanatory.md#explanatory> "Supplies background or asks for an explanation with の.") · [の (nominalizer)](<no.md#nominalizer> "Turns a clause into an activity or thing with の.") · [の (substitute)](<no-substitute.md#substitute> "Uses の in place of an understood noun or item.")
+{: .fam }
 
 ## の (relative-clause subject) { #relative-clause-subject }
 
 Marks the subject inside a relative clause, often replacing the usual subject marker
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span>

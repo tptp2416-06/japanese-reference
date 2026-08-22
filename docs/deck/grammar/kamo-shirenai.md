@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/kamo-shirenai.md -->
 # かもしれない — Might or may
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">conjecture-inference</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">conjecture-inference</span>
 
 Might or may; expresses a possibility the speaker considers uncertain
+{: .h1-gloss }
 
 *Compare:* [かもしれない・だろう・でしょう・はず — the certainty ladder](<../contrasts/kamo-shirenai-darou-deshou-hazu.md> "the certainty ladder")
+{: .compare }

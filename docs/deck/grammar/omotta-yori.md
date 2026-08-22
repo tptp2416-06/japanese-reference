@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/omotta-yori.md -->
 # 思ったより — More or less X than expected
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
 
 More or less X than expected; comparison against prior expectation
+{: .h1-gloss }

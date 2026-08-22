@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/muryou-de.md -->
 # 無料で — Free of charge
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span>
 
 Free of charge; no payment is required for the item or service
+{: .h1-gloss }
 
 **From:** compound of [で (instrument)](<de.md#instrument> "By means of a tool, method, language, or transport")
+{: .fam }

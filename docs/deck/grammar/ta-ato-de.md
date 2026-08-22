@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ta-ato-de.md -->
 # たあとで — After doing X
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">sequence</span>
 
 After doing X; places another event later in sequence
+{: .h1-gloss }

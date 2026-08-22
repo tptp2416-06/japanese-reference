@@ -5,34 +5,42 @@
 ## ば (conditional) { #conditional }
 
 If X, then Y; presents X as the condition enabling Y
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
 
 **Builds on:** [過去形・辞書形 (plain statement)](<kakokei-jishokei.md#plain-statement> "States past or nonpast facts plainly, without polite marking")  
 **Compounds:** [ばいい](<ba.md#ba-ii> "It would be good to do X; advice or tentative decision") · [ばよかった (regret)](<ba.md#ba-yokatta> "Should have done X; expresses regret about an unrealized past action")
+{: .fam }
 
 *Compare:* [たら・ば・と・なら — the conditional quartet](<../contrasts/tara-ba-to-nara.md> "the conditional quartet")
+{: .compare }
 
 ## ば (i-adjective) { #i-adjective }
 
 If it is a stated quality; conditional form used with i-adjectives
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
 
 ## ばいい { #ba-ii }
 
 It would be good to do X; advice or tentative decision
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">suggestion-advice</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">suggestion-advice</span>
 
 **Builds on:** [ば (conditional)](<ba.md#conditional> "If X, then Y; presents X as the condition enabling Y")  
 **From:** compound of [ば (conditional)](<ba.md#conditional> "If X, then Y; presents X as the condition enabling Y")
+{: .fam }
 
 ## ばよかった (regret) { #ba-yokatta }
 
 Should have done X; expresses regret about an unrealized past action
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">stance-evaluation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">stance-evaluation</span>
 
 **Builds on:** [ば (conditional)](<ba.md#conditional> "If X, then Y; presents X as the condition enabling Y")  
 **From:** compound of [ば (conditional)](<ba.md#conditional> "If X, then Y; presents X as the condition enabling Y")
+{: .fam }

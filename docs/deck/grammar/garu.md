@@ -5,11 +5,13 @@
 ## がる (emotion) { #emotion }
 
 Shows another person's observable emotion or desire through outward behavior
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">stance-evaluation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">stance-evaluation</span>
 
 ## たがる { #tagaru }
 
 Shows another person's apparent desire.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">desire</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">desire</span>

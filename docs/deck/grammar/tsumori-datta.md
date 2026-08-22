@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/tsumori-datta.md -->
 # つもりだった — Had intended to do
 
-<span class="card-tag">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
 
 Had intended to do; past plan later changed or unrealized
+{: .h1-gloss }

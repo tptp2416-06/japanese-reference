@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/kochira.md -->
 # こちら — This way or this one
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">reference</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">reference</span> <span class="card-tag">baseline</span>
 
 This way or this one; polite demonstrative.
+{: .h1-gloss }

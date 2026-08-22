@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/netsu-ga-aru.md -->
 # 熱がある — Have a fever
 
-<span class="card-tag">N5</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">existence</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">existence</span>
 
 Have a fever; common health-state expression with が
+{: .h1-gloss }

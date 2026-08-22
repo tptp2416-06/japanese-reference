@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/ga-suru.md -->
 # がする — a sound, smell, or sensation
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">existence</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">existence</span>
 
 ## がする (sensory) { #sensory }
 
 A sensory impression is perceived; used with smell, sound, taste, or feeling
+{: .pt-gloss }

@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/suuryou-mo-nai.md -->
 # 数量＋も〜ない — Not even the stated quantity
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
 
 Not even the stated quantity; with a negative predicate the amount is presented as surprisingly small
+{: .h1-gloss }

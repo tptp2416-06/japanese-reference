@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/kyoujuu-ni.md -->
 # 今日中に — By the end of today
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">sequence</span>
 
 By the end of today; deadline within the current day
+{: .h1-gloss }

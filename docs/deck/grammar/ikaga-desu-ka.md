@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ikaga-desu-ka.md -->
 # いかがですか — How about it? Polite way to offer, invite, or ask an opinion
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">invitation</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">invitation</span> <span class="card-tag">polite-marked</span>
 
 How about it? Polite way to offer, invite, or ask an opinion
+{: .h1-gloss }

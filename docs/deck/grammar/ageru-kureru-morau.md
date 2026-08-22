@@ -5,27 +5,33 @@
 ## あげる (main verb) { #ageru }
 
 Give something to another person, viewed from the giver's side
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">give-receive-benefit</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">give-receive-benefit</span>
 
 *Compare:* [あげる・くれる・もらう — giving and receiving](<../contrasts/ageru-kureru-morau.md> "giving and receiving")
+{: .compare }
 
 ## いただく (main verb) { #itadaku }
 
 Receive something from a respected person; humble counterpart of もらう
+{: .pt-gloss }
 
-<span class="card-tag">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: humble</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: humble</span>
 
 ## くださる { #kudasaru }
 
 A respected person gives something to the speaker or their in-group
+{: .pt-gloss }
 
-<span class="card-tag">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span>
 
 ## もらう (main verb) { #morau }
 
 Receive something from someone; neutral main-verb expression of receipt
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">give-receive-benefit</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">give-receive-benefit</span>
 
 *Compare:* [あげる・くれる・もらう — giving and receiving](<../contrasts/ageru-kureru-morau.md> "giving and receiving")
+{: .compare }

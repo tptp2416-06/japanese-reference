@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/itasu.md -->
 # いたす — Humbly do
 
-<span class="card-tag">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: courteous</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: courteous</span>
 
 Courteous (丁重語) equivalent of する; lowers the speaker's own action to show deference to the listener.
+{: .h1-gloss }

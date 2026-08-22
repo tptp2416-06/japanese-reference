@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/nai-de.md -->
 # ないで — Without doing one action, or while refraining from it
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">negation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">negation</span>
 
 Without doing one action, or while refraining from it; also, used sentence-finally, a casual negative request not to do it
+{: .h1-gloss }

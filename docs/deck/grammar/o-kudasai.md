@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/o-kudasai.md -->
 # お〜ください — Please do
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">request</span> <span class="card-tag">keigo: respectful</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">request</span> <span class="card-tag">keigo: respectful</span>
 
 Please do; respectful request built from an honorific verb form
+{: .h1-gloss }

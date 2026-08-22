@@ -5,44 +5,54 @@
 ## だと (conditional) { #da-to }
 
 Given X or if X is the case; sets a conditional frame
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
 
 **From:** compound of [と (natural consequence)](<to.md#natural-consequence> "Whenever X occurs, Y follows automatically or predictably")
+{: .fam }
 
 ## と (accompaniment) { #accompaniment }
 
 With; marks accompaniment.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
 
 ## と (conditional) { #conditional }
 
 When or if X happens, Y follows.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
 
 **From:** sense of [と (natural consequence)](<to.md#natural-consequence> "Whenever X occurs, Y follows automatically or predictably")
+{: .fam }
 
 *Compare:* [たら・ば・と・なら — the conditional quartet](<../contrasts/tara-ba-to-nara.md> "the conditional quartet")
+{: .compare }
 
 ## と (discovery) { #discovery }
 
 Upon doing X, find Y; an immediate, often unexpected discovery
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">sequence</span>
 
 ## と (listing) { #listing }
 
 And; exhaustively lists nouns.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span> <span class="card-tag">baseline</span>
 
 ## と (natural consequence) { #natural-consequence }
 
 Whenever X occurs, Y follows automatically or predictably
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
 
 **Compounds:** [だと (conditional)](<to.md#da-to> "Given X or if X is the case; sets a conditional frame")  
 **Senses:** [と (conditional)](<to.md#conditional> "When or if X happens, Y follows.")
+{: .fam }

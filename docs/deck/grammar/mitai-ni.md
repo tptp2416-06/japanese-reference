@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/mitai-ni.md -->
 # みたいに — Like or in the same way as
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">comparison</span>
 
 Like or in the same way as.
+{: .h1-gloss }
 
 **From:** inflection of [みたいだ (conjecture)](<mitai-da.md#conjecture> "Seems that; plain conjecture from indirect evidence or appearance")
+{: .fam }

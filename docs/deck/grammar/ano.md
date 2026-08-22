@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/ano.md -->
 # あの — That noun over there
 
-<span class="card-tag">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">reference</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">reference</span> <span class="card-tag">baseline</span>
 
 ## あの (demonstrative) { #demonstrative }
 
 That noun over there.
+{: .pt-gloss }

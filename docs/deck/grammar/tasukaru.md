@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/tasukaru.md -->
 # 助かる — Be helpful or relieving
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">lexical-item</span> <span class="card-tag">affectedness-adversity</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">lexical-item</span> <span class="card-tag">affectedness-adversity</span>
 
 Be helpful or relieving; someone's help improves the situation
+{: .h1-gloss }

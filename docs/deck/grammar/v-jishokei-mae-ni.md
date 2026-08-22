@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/v-jishokei-mae-ni.md -->
 # V辞書形＋前に — Before doing an action
 
-<span class="card-tag">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">sequence</span>
 
 Before doing an action; the action serves as the time reference
+{: .h1-gloss }

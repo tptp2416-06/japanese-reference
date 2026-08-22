@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/dono-kurai.md -->
 # どのくらい — How much, how long, or to what degree
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">interrogation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">interrogation</span>
 
 How much, how long, or to what degree; asks about extent
+{: .h1-gloss }

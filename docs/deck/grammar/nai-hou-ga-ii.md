@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/nai-hou-ga-ii.md -->
 # ないほうがいい — It is better not to do
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">suggestion-advice</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">suggestion-advice</span>
 
 It is better not to do; advice against an action
+{: .h1-gloss }

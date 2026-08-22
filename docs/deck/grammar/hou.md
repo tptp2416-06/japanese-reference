@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/hou.md -->
 # ほう — The one, side, or alternative selected from a contrast
 
-<span class="card-tag">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">comparison</span>
 
 The one, side, or alternative selected from a contrast
+{: .h1-gloss }

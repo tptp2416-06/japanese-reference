@@ -2,10 +2,12 @@
      Prose belongs in content/deck/grammar/no-substitute.md -->
 # の — the indefinite pronoun
 
-<span class="card-tag">N5</span> <span class="card-tag">nominalization</span> <span class="card-tag">reference</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">nominalization</span> <span class="card-tag">reference</span>
 
 ## の (substitute) { #substitute }
 
 Uses の in place of an understood noun or item.
+{: .pt-gloss }
 
 **From:** sense of [の (possession, noun omitted)](<no-modifier.md#possession-noun-omitted> "One belonging to someone; replaces an understood possessed noun")
+{: .fam }

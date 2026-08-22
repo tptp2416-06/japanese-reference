@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/yokattara.md -->
 # よかったら — If you like or if convenient
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">invitation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">invitation</span>
 
 If you like or if convenient; gentle invitation or offer
+{: .h1-gloss }

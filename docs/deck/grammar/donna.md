@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/donna.md -->
 # どんな — What kind of
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">lexical-item</span> <span class="card-tag">interrogation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">lexical-item</span> <span class="card-tag">interrogation</span>
 
 What kind of; asks for the type or qualities of a noun
+{: .h1-gloss }

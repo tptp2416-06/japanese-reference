@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/douri-de.md -->
 # どうりで — No wonder
 
-<span class="card-tag">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">explanation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">explanation</span>
 
 No wonder; recognizes that newly learned information explains the result
+{: .h1-gloss }

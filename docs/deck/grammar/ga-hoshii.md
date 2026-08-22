@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ga-hoshii.md -->
 # 〜がほしい — Want a particular thing
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">desire</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">desire</span>
 
 Want a particular thing; expresses the speaker's desire for a noun
+{: .h1-gloss }

@@ -5,28 +5,36 @@
 ## は (contrast) { #contrast }
 
 As for this item specifically, contrasts it with another possibility
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">contrast</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">contrast</span> <span class="card-tag">baseline</span>
 
 **Compounds:** [昔は〜今は](<mukashi-wa-ima-wa.md> "Previously X, but now Y; contrasts past and present states") · [前は](<mae-wa.md> "Previously or before; contrasts an earlier situation with now") · [では (location)](<de-wa.md#location> "Within or at a place or institutional scope; で plus topic-contrastive は marks the place as the domain in which the statement holds")  
 **Senses:** [は (scope)](<wa.md#scope> "Marks the scope to which a statement or prohibition applies.")
+{: .fam }
 
 *Compare:* [は — topic, contrast, scope](<../contrasts/wa.md> "topic, contrast, scope")
+{: .compare }
 
 ## は (scope) { #scope }
 
 Marks the scope to which a statement or prohibition applies.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">topic-focus</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">topic-focus</span>
 
 **From:** sense of [は (contrast)](<wa.md#contrast> "As for this item specifically, contrasts it with another possibility")
+{: .fam }
 
 *Compare:* [は — topic, contrast, scope](<../contrasts/wa.md> "topic, contrast, scope")
+{: .compare }
 
 ## は (topic) { #topic }
 
 Marks the sentence topic.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">topic-focus</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">topic-focus</span> <span class="card-tag">baseline</span>
 
 *Compare:* [は — topic, contrast, scope](<../contrasts/wa.md> "topic, contrast, scope")
+{: .compare }

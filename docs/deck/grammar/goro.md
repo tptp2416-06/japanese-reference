@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/goro.md -->
 # ごろ — Around a stated clock time or approximate point in time
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">time-point</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">time-point</span>
 
 ## ごろ (approx. time) { #approx-time }
 
 Around a stated clock time or approximate point in time
+{: .pt-gloss }

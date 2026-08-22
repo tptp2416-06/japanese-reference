@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/darou.md -->
 # だろう — Probably or presumably
 
-<span class="card-tag">N5</span> <span class="card-tag">copular-construction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">plain-marked</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">copular-construction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">plain-marked</span>
 
 Probably or presumably; plain-form prediction with relatively strong confidence
+{: .h1-gloss }
 
 *Compare:* [かもしれない・だろう・でしょう・はず — the certainty ladder](<../contrasts/kamo-shirenai-darou-deshou-hazu.md> "the certainty ladder")
+{: .compare }

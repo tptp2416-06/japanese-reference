@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ni-chigai-nai.md -->
 # に違いない — Must be
 
-<span class="card-tag">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">certainty-expectation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">certainty-expectation</span>
 
 Must be; expresses strong inference from available evidence
+{: .h1-gloss }

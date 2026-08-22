@@ -3,25 +3,31 @@
 # たことがある — have done something before
 
 Have done something before; expresses past experience, not a specific occasion
+{: .h1-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">experience</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">experience</span>
 
 **Builds on:** [過去形・辞書形 (plain statement)](<kakokei-jishokei.md#plain-statement> "States past or nonpast facts plainly, without polite marking")  
 **Contractions:** [たことある (casual)](<ta-koto-ga-aru.md#ta-koto-aru> "Have done before; casual expression of past experience")  
 **Truncations:** [たことない](<ta-koto-ga-aru.md#ta-koto-nai> "Have never done; states absence of prior experience")
+{: .fam }
 
 ## たことある (casual) { #ta-koto-aru }
 
 Have done before; casual expression of past experience
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">experience</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">experience</span> <span class="card-tag">style: colloquial</span>
 
 **From:** contraction of [たことがある](<ta-koto-ga-aru.md> "Have done something before; expresses past experience, not a specific occasion")
+{: .fam }
 
 ## たことない { #ta-koto-nai }
 
 Have never done; states absence of prior experience
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">experience</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">experience</span> <span class="card-tag">style: colloquial</span>
 
 **From:** truncation of [たことがある](<ta-koto-ga-aru.md> "Have done something before; expresses past experience, not a specific occasion")
+{: .fam }

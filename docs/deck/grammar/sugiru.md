@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/sugiru.md -->
 # すぎる — Do too much, or be excessively a stated quality
 
-<span class="card-tag">N5</span> <span class="card-tag">affix-construction</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">affix-construction</span> <span class="card-tag">quantity-degree</span>
 
 Do too much, or be excessively a stated quality
+{: .h1-gloss }

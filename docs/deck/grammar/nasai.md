@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/nasai.md -->
 # なさい — Do it
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">plain-marked</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">plain-marked</span>
 
 Do it; firm but not necessarily rude command.
+{: .h1-gloss }

@@ -17,14 +17,17 @@
 **See also:** [られる](<rareru.md> "られる・させる — passive, causative, and causative-passive") — an English passive is usually a Japanese intransitive, not られる — the commonest substitution error  
 [てある](<te-aru.md> "てある — A deliberately created state remains") — the state a transitive verb leaves on purpose, against the plain intransitive ている state  
 [を](<wo.md> "を — leaving a place, and moving through one") — を on an intransitive verb marks a route or exit point and does not make the verb transitive
+{: .seealso }
 
 ## Intransitive { #intransitive }
 
 A verb that takes no direct object; often the self-happening half of a transitive/intransitive pair.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">lexical-item</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">lexical-item</span>
 
 **Form:** `N が V-intrans`
+{: .form }
 
 - **The unmarked way to report that something happened** — ドアが開いた
   "the door opened", 電気が消えた, 会議が始まった. No agent is named, and often
@@ -48,10 +51,12 @@ A verb that takes no direct object; often the self-happening half of a transitiv
 ## Transitive { #transitive }
 
 A verb describing an action someone performs on a direct object.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">lexical-item</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">lexical-item</span>
 
 **Form:** `N を V-trans`
+{: .form }
 
 - **Naming an agent is a claim, not a default** — 電気を消した asserts that
   someone did it. Where English would say "the light went off" and mean

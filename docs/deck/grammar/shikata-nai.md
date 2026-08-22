@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/shikata-nai.md -->
 # 仕方ない — It cannot be helped
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">stance-evaluation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">stance-evaluation</span>
 
 It cannot be helped; accepts an unavoidable or unchangeable situation
+{: .h1-gloss }

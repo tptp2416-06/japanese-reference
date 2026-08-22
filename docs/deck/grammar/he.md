@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/he.md -->
 # へ — Toward
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span> <span class="card-tag">baseline</span>
 
 ## へ (direction) { #direction }
 
 Toward; marks the direction of movement.
+{: .pt-gloss }

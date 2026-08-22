@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/gimonshi-ba-ii.md -->
 # 疑問詞＋ばいい — what should I do?
 
-<span class="card-tag">N3</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">interrogation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">interrogation</span>
 
 What should one do? Combines an open question with advice-seeking
+{: .h1-gloss }

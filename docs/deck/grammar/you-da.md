@@ -2,10 +2,12 @@
      Prose belongs in content/deck/grammar/you-da.md -->
 # ようだ — It appears that
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">conjecture-inference</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">conjecture-inference</span>
 
 ## ようだ (conjecture) { #conjecture }
 
 It appears that; formal-sounding conjecture based on signs or reasoning
+{: .pt-gloss }
 
 *Compare:* [ようだ・そうだ・らしい・みたい — appearance, inference, hearsay](<../contrasts/you-da-sou-da-rashii-mitai.md> "appearance, inference, hearsay")
+{: .compare }

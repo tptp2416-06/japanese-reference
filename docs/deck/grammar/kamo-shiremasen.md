@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/kamo-shiremasen.md -->
 # かもしれません — Polite might or may
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">polite-marked</span>
 
 ## かもしれません (polite) { #polite }
 
 Polite might or may; softens an uncertain assessment
+{: .pt-gloss }

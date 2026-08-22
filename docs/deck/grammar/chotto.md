@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/chotto.md -->
 # ちょっと — Softens a request, refusal, or negative judgment
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">baseline</span>
 
 ## ちょっと (softener) { #softener }
 
 Softens a request, refusal, or negative judgment.
+{: .pt-gloss }

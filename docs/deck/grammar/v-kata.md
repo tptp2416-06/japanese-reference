@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/v-kata.md -->
 # V方 — How to perform an action
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">manner-means</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">manner-means</span>
 
 ## V方 (way of doing) { #way-of-doing }
 
 How to perform an action; turns a verb into a method noun
+{: .pt-gloss }

@@ -2,12 +2,16 @@
      Prose belongs in content/deck/grammar/te-aru.md -->
 # てある — A deliberately created state remains
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 **See also:** [Transitivity](<transitivity.md> "Transitivity — transitive and intransitive verb pairs") — the state a transitive verb leaves on purpose, against the plain intransitive ている state
+{: .seealso }
 
 A deliberately created state remains; focuses on the prepared result
+{: .h1-gloss }
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")
+{: .fam }
 
 *Compare:* [ておく・てある・ている・てしまう — prepared, resulting, finished](<../contrasts/te-oku-te-aru-te-iru-te-shimau.md> "prepared, resulting, finished")
+{: .compare }

@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/iisashi-te.md -->
 # 言いさし-て — Trails off after the connective form
 
-<span class="card-tag">N3</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">addressee-stance</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">addressee-stance</span>
 
 ## 言いさし て (trailing off) { #iisashi-te }
 
 Trails off after the connective form, leaving explanation or continuation implicit
+{: .pt-gloss }

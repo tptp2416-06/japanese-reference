@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/meireikei.md -->
 # 命令形 — Plain imperative commands; forceful direct orders requiring careful social use (走れ, 諦めろ)
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">verb-inflection-imperative</span> <span class="card-tag">request</span> <span class="card-tag">plain-marked</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-imperative</span> <span class="card-tag">request</span> <span class="card-tag">plain-marked</span>
 
 Plain imperative commands; forceful direct orders requiring careful social use (走れ, 諦めろ)
+{: .h1-gloss }

@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ikeru.md -->
 # いける — Be acceptable, workable, or surprisingly good
 
-<span class="card-tag">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">stance-evaluation</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">stance-evaluation</span> <span class="card-tag">style: colloquial</span>
 
 Be acceptable, workable, or surprisingly good; casual evaluative expression
+{: .h1-gloss }

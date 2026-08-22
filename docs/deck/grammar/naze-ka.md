@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/naze-ka.md -->
 # なぜか — For some unknown reason
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">adverb</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">adverb</span> <span class="card-tag">cause-reason</span>
 
 For some unknown reason; speaker cannot explain the cause
+{: .h1-gloss }

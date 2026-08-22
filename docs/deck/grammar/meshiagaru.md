@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/meshiagaru.md -->
 # 召し上がる — honorific "eat" and "drink"
 
-<span class="card-tag">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span>
 
 ## 召し上がる (honorific) { #honorific }
 
 Respectful expression for a socially superior person eating or drinking
+{: .pt-gloss }

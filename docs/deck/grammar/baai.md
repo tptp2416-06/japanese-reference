@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/baai.md -->
 # 場合 — In the case of X
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">condition</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">condition</span>
 
 ## 場合 (in case of) { #in-case-of }
 
 In the case of X; states a condition or contingency
+{: .pt-gloss }

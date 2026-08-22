@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/dochira-ga-suki.md -->
 # どちらが好き — Asks which of two alternatives the listener prefers
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">interrogation</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">interrogation</span>
 
 ## どちらが好き (comparison Q) { #comparison-q }
 
 Asks which of two alternatives the listener prefers
+{: .pt-gloss }

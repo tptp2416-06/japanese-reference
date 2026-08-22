@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/yo.md -->
 # よ — Sentence-final particle that supplies information or emphasis
 
-<span class="card-tag">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">baseline</span>
 
 Sentence-final particle that supplies information or emphasis.
+{: .h1-gloss }

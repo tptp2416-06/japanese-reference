@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/no-uchi-ni.md -->
 # のうちに — Within the available period
 
-<span class="card-tag">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">sequence</span>
 
 Within the available period; before a current opportunity or interval ends
+{: .h1-gloss }
 
 *Compare:* [間・間に・ながら・ないうちに・のうちに — during and while](<../contrasts/during-and-while.md> "during and while")
+{: .compare }

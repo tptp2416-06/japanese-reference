@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/moushiwake-arimasen-ga.md -->
 # 申し訳ありませんが — I am sorry, but
 
-<span class="card-tag">N3</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">polite-marked</span> <span class="card-tag">style: written-formal</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">polite-marked</span> <span class="card-tag">style: written-formal</span> <span class="card-tag">baseline</span>
 
 I am sorry, but...; formal apologetic preface.
+{: .h1-gloss }

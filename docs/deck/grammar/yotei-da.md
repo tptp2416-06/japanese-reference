@@ -2,10 +2,12 @@
      Prose belongs in content/deck/grammar/yotei-da.md -->
 # 予定だ — Plan to do
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
 
 ## 予定だ (plan) { #plan }
 
 Plan to do; states an intended future action
+{: .pt-gloss }
 
 **Inflections:** [予定です](<yotei-desu.md> "Polite expression of a planned future action or event")
+{: .fam }

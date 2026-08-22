@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ga-suki.md -->
 # が好き — Like or prefer something, with the liked item marked by が
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">stance-evaluation</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">stance-evaluation</span> <span class="card-tag">baseline</span>
 
 Like or prefer something, with the liked item marked by が.
+{: .h1-gloss }

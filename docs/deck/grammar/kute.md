@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/kute.md -->
 # 〜くて — Links an i-adjective to another description
 
-<span class="card-tag">N5</span> <span class="card-tag">adjective-inflection</span> <span class="card-tag">listing-addition</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adjective-inflection</span> <span class="card-tag">listing-addition</span>
 
 ## 〜くて (i-adj linking) { #i-adj-linking }
 
 Links an i-adjective to another description, often implying cause or sequence
+{: .pt-gloss }

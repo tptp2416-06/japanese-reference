@@ -3,15 +3,19 @@
 # あまり — not very, not much
 
 Not very or not much, used with a negative.
+{: .h1-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span>
 
 **Contractions:** [あんまり〜ない](<amari.md#anmari-nai> "Not very; casual counterpart of あまり〜ない, used with a negative predicate")
+{: .fam }
 
 ## あんまり〜ない { #anmari-nai }
 
 Not very; casual counterpart of あまり〜ない, used with a negative predicate
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
 
 **From:** contraction of [あまり](<amari.md> "Not very or not much, used with a negative.")
+{: .fam }

@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/ni-suru-na-adj.md -->
 # 〜にする — making something into a state
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">change-result</span>
 
 ## 〜にする (na-adj) { #na-adj }
 
 Make something become a na-adjective state through deliberate action
+{: .pt-gloss }

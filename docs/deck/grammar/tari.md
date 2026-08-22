@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/tari.md -->
 # たり — listing representative actions or states
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">listing-addition</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">listing-addition</span>
 
 ## たり (adjectives) { #adjectives }
 
 Lists alternating adjective states or representative qualities without exhaustively naming all
+{: .pt-gloss }

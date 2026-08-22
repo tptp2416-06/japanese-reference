@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/you-na.md -->
 # ような — A kind of X or as if X
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">comparison</span>
 
 ## ような (as if) { #as-if }
 
 A kind of X or as if X; modifies a following noun
+{: .pt-gloss }

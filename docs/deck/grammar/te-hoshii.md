@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/te-hoshii.md -->
 # てほしい — Want another person to do something
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">desire</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">desire</span>
 
 Want another person to do something; expresses the speaker's desired action
+{: .h1-gloss }

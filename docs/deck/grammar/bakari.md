@@ -3,25 +3,32 @@
 # ばかり — nothing but
 
 Nothing but X or disproportionately X; restrictive focus often implies criticism
+{: .h1-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">restriction-limitation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">restriction-limitation</span>
 
 **Compounds:** [にばかり](<bakari.md#ni-bakari> "Mostly or only into X; focus particle restricts a destination or target") · [ばかりしている](<bakari.md#bakari-shite-iru> "Keep doing almost nothing but X; repeated behavior viewed critically")
+{: .fam }
 
 *Compare:* [だけ・しか〜ない・ばかり — only and just](<../contrasts/dake-shika-nai-bakari.md> "only and just")
+{: .compare }
 
 ## にばかり { #ni-bakari }
 
 Mostly or only into X; focus particle restricts a destination or target
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">restriction-limitation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">restriction-limitation</span>
 
 **From:** compound of [ばかり](<bakari.md> "Nothing but X or disproportionately X; restrictive focus often implies criticism")
+{: .fam }
 
 ## ばかりしている { #bakari-shite-iru }
 
 Keep doing almost nothing but X; repeated behavior viewed critically
+{: .pt-gloss }
 
-<span class="card-tag">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">restriction-limitation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">restriction-limitation</span>
 
 **From:** compound of [ばかり](<bakari.md> "Nothing but X or disproportionately X; restrictive focus often implies criticism")
+{: .fam }

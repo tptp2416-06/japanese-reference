@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ki-ni-iru.md -->
 # 気に入る — Come to like or find something pleasing after experiencing it
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">stance-evaluation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">stance-evaluation</span>
 
 Come to like or find something pleasing after experiencing it
+{: .h1-gloss }

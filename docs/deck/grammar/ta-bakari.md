@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ta-bakari.md -->
 # たばかり — Have just done something
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">phase-recency</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">phase-recency</span>
 
 Have just done something, with recency judged subjectively by the speaker
+{: .h1-gloss }

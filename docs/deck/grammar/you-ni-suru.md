@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/you-ni-suru.md -->
 # ようにする — Make a deliberate effort or arrangement to achieve a behavior
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
 
 Make a deliberate effort or arrangement to achieve a behavior
+{: .h1-gloss }
 
 *Compare:* [ことにする・ことになる・ようにする・ようになる — the する／なる decision square](<../contrasts/koto-ni-suru-koto-ni-naru-you-ni-suru-you-ni-naru.md> "the する／なる decision square")
+{: .compare }

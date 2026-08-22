@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/wasureru.md -->
 # 忘れる — Fail to complete a compound action through forgetting
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">compound-verb</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">compound-verb</span> <span class="card-tag">aspect-event-phase</span>
 
 ## 忘れる (compound) { #compound }
 
 Fail to complete a compound action through forgetting
+{: .pt-gloss }

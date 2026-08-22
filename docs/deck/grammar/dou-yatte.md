@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/dou-yatte.md -->
 # どうやって — How or by what method
 
-<span class="card-tag">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">interrogation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">interrogation</span>
 
 How or by what method; asks about procedure or means
+{: .h1-gloss }

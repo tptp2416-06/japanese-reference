@@ -11,14 +11,17 @@
 
 **See also:** [ぐらい](<gurai.md> "ぐらい — approximation, and the minimal 'only about'") — まで is a cap someone set; ぐらい is an estimate — easy to swap when the English is loose  
 [から〜まで](<kara-made.md> "から〜まで — Marks a range from its starting point through its endpoint") — the paired form that fixes both ends of the same stretch
+{: .seealso }
 
 ## まで (extent) { #extent }
 
 As far as or up to an extent.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
 
 **Form:** `N + まで` · `V-dict + まで`
+{: .form }
 
 - **The limit is inside the stretch** — 5時まで働く is work through five
   o'clock, and 駅まで歩く gets you to the station. Whatever まで names is
@@ -40,14 +43,17 @@ As far as or up to an extent.
     two are easy to swap when the English is loose.
 
 *Compare:* [まで vs までに — extent vs deadline](<../contrasts/made-vs-made-ni.md> "extent vs deadline")
+{: .compare }
 
 ## まで (even) { #even }
 
 Even someone or something surprising; extends inclusion to an unexpected extreme
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span>
 
 **Form:** `N + まで`
+{: .form }
 
 - **Surprise at how far the range got** — 子供まで知っている is not a remark
   about children; it is a remark about the news, which has travelled to the

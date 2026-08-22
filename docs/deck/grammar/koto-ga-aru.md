@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/koto-ga-aru.md -->
 # ことがある — Sometimes or occasionally does something
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">frequency</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">frequency</span>
 
 Sometimes or occasionally does something.
+{: .h1-gloss }

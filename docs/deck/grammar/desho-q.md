@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/desho-q.md -->
 # でしょ？ — right? — casual confirmation
 
-<span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">style: colloquial</span>
 
 ## でしょ？ (confirmation) { #confirmation }
 
 Right? Casual confirmation seeking agreement about shared information
+{: .pt-gloss }

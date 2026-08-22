@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/nashi.md -->
 # 〜なし — Without or with none of something
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">negation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">negation</span>
 
 Without or with none of something.
+{: .h1-gloss }

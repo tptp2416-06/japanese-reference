@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/yatsu.md -->
 # やつ — Casual noun substitute for a thing
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">lexical-item</span> <span class="card-tag">reference</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">lexical-item</span> <span class="card-tag">reference</span> <span class="card-tag">style: colloquial</span>
 
 ## やつ (casual substitute) { #casual-substitute }
 
 Casual noun substitute for a thing, person, or previously mentioned item
+{: .pt-gloss }

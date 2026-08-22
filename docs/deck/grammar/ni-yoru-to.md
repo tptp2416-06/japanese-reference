@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ni-yoru-to.md -->
 # によると — According to X
 
-<span class="card-tag">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">reporting-quotation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">reporting-quotation</span>
 
 According to X; identifies the source of reported information
+{: .h1-gloss }

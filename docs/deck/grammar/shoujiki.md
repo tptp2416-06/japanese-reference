@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/shoujiki.md -->
 # 正直 — Honestly speaking
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">adverb</span> <span class="card-tag">stance-evaluation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">adverb</span> <span class="card-tag">stance-evaluation</span>
 
 Honestly speaking; signals a frank or unvarnished opinion
+{: .h1-gloss }

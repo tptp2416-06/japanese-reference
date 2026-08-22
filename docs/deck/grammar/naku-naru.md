@@ -5,22 +5,27 @@
 ## なくなる (ability loss) { #ability-loss }
 
 Become unable to do; an ability is lost over time
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
 
 **Builds on:** [可能形 (potential)](<kanoukei-koto-ga-dekiru.md#kanoukei> "Can do something; expresses ability or situational possibility")  
 **From:** sense of [なくなる (stop doing)](<naku-naru.md#stop-doing> "Stop doing or no longer do; change in habitual behavior")
+{: .fam }
 
 ## なくなる (disappearance) { #disappearance }
 
 Something ceases to exist or is no longer there.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
 
 ## なくなる (stop doing) { #stop-doing }
 
 Stop doing or no longer do; change in habitual behavior
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
 
 **Senses:** [なくなる (ability loss)](<naku-naru.md#ability-loss> "Become unable to do; an ability is lost over time")
+{: .fam }

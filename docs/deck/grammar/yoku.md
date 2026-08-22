@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/yoku.md -->
 # よく — Often or well
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">frequency</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">frequency</span> <span class="card-tag">baseline</span>
 
 Often or well.
+{: .h1-gloss }

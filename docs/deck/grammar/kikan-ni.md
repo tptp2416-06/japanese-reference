@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/kikan-ni.md -->
 # 期間＋に — Per period
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
 
 Per period: a time span plus に states frequency or rate within each period (週に一回, 月に二回)
+{: .h1-gloss }

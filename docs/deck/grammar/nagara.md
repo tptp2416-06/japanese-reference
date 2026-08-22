@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/nagara.md -->
 # ながら — Do two actions simultaneously
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">duration</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">duration</span>
 
 Do two actions simultaneously, with the later action as primary
+{: .h1-gloss }
 
 *Compare:* [間・間に・ながら・ないうちに・のうちに — during and while](<../contrasts/during-and-while.md> "during and while")
+{: .compare }

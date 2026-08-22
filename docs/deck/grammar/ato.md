@@ -5,11 +5,13 @@
 ## あと (additive) { #additive }
 
 Also; adds another item or request after what was just mentioned
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">listing-addition</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">listing-addition</span>
 
 ## あと (remaining) { #remaining }
 
 A stated amount still remaining before something happens
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span>

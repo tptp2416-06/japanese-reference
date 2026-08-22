@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/you-ni-shite-iru.md -->
 # ようにしている — Make an ongoing habit or effort to do something regularly
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
 
 Make an ongoing habit or effort to do something regularly
+{: .h1-gloss }

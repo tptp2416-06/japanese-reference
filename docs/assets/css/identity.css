@@ -1,0 +1,1121 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Silkscreen:wght@400;700&family=DotGothic16&display=swap');
+
+/* ============================================================
+   identity.css — the retro-handbook identity
+   PRESENTATION-SPEC.md §1–§8, ratified 2026-08-21 (`#227`/`#228`,
+   R48 revised + R49 + R50 + R51). The approved visual is
+   jp-deck/reference-site/mock_reference-page-v3.html and it WINS
+   over spec prose on any visual detail.
+
+   LOADED LAST, ON PURPOSE. custom.css and japanese-reference.css
+   still carry the site's older layer; this file supersedes the
+   parts of it that carry IDENTITY and leaves the parts that carry
+   MEANING alone (see "the --ref-* bridge" below).
+
+   Two colors only: a warm ink and tangerine. Pixel type is CHROME
+   ONLY — never on a heading, an example sentence, or body prose.
+   A recognition target is always in the clean Japanese face.
+   ============================================================ */
+
+
+/* ──────────────────────────────────────────────────────────────
+   1 · TOKENS — PRESENTATION-SPEC §2, exactly
+   Light is the bare :root. Dark redefines the SAME names under
+   Material's slate scheme; never a color defined in one mode only.
+   ────────────────────────────────────────────────────────────── */
+
+:root {
+  --bg:          #F0EDE4;
+  --card:        #FAF8F1;
+  --card-2:      #F5F2E9;
+  --ink:         #26231C;
+  --ink-2:       #57503F;
+  --muted:       #8A8272;
+  --faint:       #ABA492;
+  --line:        #26231C;
+  --line-w:      2px;
+  --acc:         #F4711F;
+  --acc-deep:    #D85E10;
+  --acc-wash:    rgba(244, 113, 31, .09);
+  --acc-on:      #FFF9F2;
+  --ruby:        #B06B2E;
+  --shadow:      5px 5px 0 var(--ink);
+  --shadow-sm:   3px 3px 0 var(--ink);
+  --shadow-acc:  5px 5px 0 var(--acc-deep);
+  --btm-acc:     none;
+  --dots:        transparent;
+
+  --font-ui:   "Nunito", "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-jp:   "Hiragino Sans", "Noto Sans JP", "Yu Gothic", sans-serif;
+  --font-px:   "Silkscreen", monospace;    /* Latin pixel — CHROME ONLY */
+  --font-pxjp: "DotGothic16", monospace;   /* JP pixel — BRAND ONLY */
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --measure:   720px;                      /* ~34 JP chars ≈ 65 Latin */
+
+  /* GLOBAL UI SCALE (Tim, 2026-08-21): the site should read as though the
+     browser were at 120%. One knob, applied to the root below. */
+  --ui-scale:  1.2;
+}
+
+/* Why `zoom` and not a root font-size bump: this stylesheet, Material's own
+   chrome and the two legacy stylesheets all size in a mixture of px, em and
+   rem, and only `zoom` scales all three the way the browser's own zoom does —
+   a `font-size: 150%` on <html> would leave every px value behind and change
+   the proportions rather than the size. `zoom` is supported in Chrome, Safari
+   and Firefox 126+; where it is not, the page renders at 100% and is entirely
+   usable, which is the right failure. */
+html { zoom: var(--ui-scale); }
+
+[data-md-color-scheme="slate"] {
+  --bg:          #171613;
+  --card:        #22211B;
+  --card-2:      #2A2820;
+  --ink:         #EDEAE0;
+  --ink-2:       #C4BEB0;
+  --muted:       #948D7D;
+  --faint:       #6B6557;
+  --line:        #3B392F;
+  --line-w:      1px;
+  --acc:         #F4711F;
+  --acc-deep:    #F4711F;
+  --acc-wash:    rgba(244, 113, 31, .12);
+  --acc-on:      #171613;
+  --ruby:        #C89058;
+  --shadow:      none;
+  --shadow-sm:   none;
+  --shadow-acc:  none;
+  --btm-acc:     3px solid var(--acc);
+  --dots:        rgba(237, 234, 224, .10);
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   2 · THE MATERIAL BRIDGE
+   Material draws its whole chrome from its own variables. Setting
+   THEM, rather than chasing each element with a rule, is what
+   makes legacy pages inherit the identity for free.
+   ────────────────────────────────────────────────────────────── */
+
+:root,
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color:            var(--bg);
+  --md-default-fg-color:            var(--ink);
+  --md-default-fg-color--light:     var(--ink-2);
+  --md-default-fg-color--lighter:   var(--muted);
+  --md-default-fg-color--lightest:  var(--faint);
+  --md-typeset-color:               var(--ink);
+  --md-typeset-a-color:             var(--acc);
+  --md-primary-fg-color:            var(--acc);
+  --md-primary-fg-color--light:     var(--acc);
+  --md-primary-fg-color--dark:      var(--acc-deep);
+  --md-primary-bg-color:            var(--acc-on);
+  --md-accent-fg-color:             var(--acc-deep);
+  --md-accent-bg-color:             var(--acc-on);
+  --md-code-fg-color:               var(--ink);
+  --md-code-bg-color:               var(--card-2);
+  --md-typeset-mark-color:          var(--acc-wash);
+  --md-typeset-del-color:           var(--acc-wash);
+  --md-typeset-ins-color:           var(--acc-wash);
+  --md-footer-bg-color:             var(--card-2);
+  --md-footer-bg-color--dark:       var(--card-2);
+  --md-footer-fg-color:             var(--ink);
+  --md-footer-fg-color--light:      var(--muted);
+  --md-footer-fg-color--lighter:    var(--faint);
+  --md-shadow-z1: none;
+  --md-shadow-z2: none;
+  --md-shadow-z3: none;
+}
+
+/* THE --ref-* BRIDGE — the WHOLE palette, not half of it (Tim, R53).
+
+   `japanese-reference.css` styles the ~50 LEGACY pages, whose HTML is shared
+   with the Anki cards. It carries a ten-hue palette — blue, green, purple,
+   red, coral, gold, pink, plus three badge colours — and the first cut of this
+   file remapped only the canvas and left those alone, on the argument that the
+   hues carried MEANING and flattening them would delete a distinction.
+
+   Tim ruled the other way, and reading the legacy CSS says he is right: every
+   one of those hues colours a label that ALREADY CARRIES ITS OWN WORDS —
+   `.label`, `.nat-eng`, `.shift-label`, `.register-label.casual`,
+   `.anchor-label`, `.tone-label`, `.tag`. Even the four register-block
+   border-lefts sit beside a `.register-label` spelling out casual / polite /
+   formal / humble. The colour is redundant with the text in every case, so
+   nothing is lost — and it is exactly how the new identity's own register
+   strip already works: pixel labels, one accent, no colour coding.
+
+   The mapping is by ROLE, and there are only three:
+     structure and category  -> ink / ink-2 / line / card-2
+     the thing being taught  -> accent, accent wash, accent border
+     quiet metadata          -> muted / faint
+   `.bd-seg.hit` in the generated tree is the one place colour still codes
+   anything, and PRESENTATION-SPEC §5 names it as the page's only colour
+   coding. */
+:root,
+[data-md-color-scheme="default"],
+[data-md-color-scheme="slate"] {
+  /* canvas and ink */
+  --ref-bg:             var(--bg);
+  --ref-bg-subtle:      var(--card);
+  --ref-bg-inset:       var(--card-2);
+  --ref-border:         var(--line);
+  --ref-border-strong:  var(--ink-2);
+  --ref-text-primary:   var(--ink);
+  --ref-text-secondary: var(--ink-2);
+  --ref-text-muted:     var(--muted);
+  --ref-text-faint:     var(--faint);
+  --ref-ruby:           var(--ruby);
+  --ref-font-jp:        var(--font-jp);
+  --ref-font-ui:        var(--font-ui);
+
+  /* structure and category — headings, section chips, label words */
+  --ref-blue:           var(--ink);
+  --ref-blue-subtle:    var(--card-2);
+  --ref-blue-border:    var(--line);
+  --ref-green:          var(--ink-2);
+  --ref-green-subtle:   var(--card-2);
+  --ref-purple:         var(--ink-2);
+  --ref-purple-subtle:  var(--card-2);
+  --ref-gold:           var(--ink-2);
+  --ref-gold-bg:        var(--card-2);
+  --ref-gold-border:    var(--line);
+
+  /* the thing being taught — one accent, doing every accent job */
+  --ref-orange:         var(--acc);
+  --ref-orange-subtle:  var(--acc-wash);
+  --ref-orange-border:  var(--acc);
+  --ref-coral:          var(--acc);
+  --ref-pink:           var(--acc);
+  --ref-red:            var(--acc-deep);
+  --ref-red-subtle:     var(--acc-wash);
+  --ref-tag-text:       var(--acc);
+  --ref-tag-border:     var(--acc);
+  --ref-tag-bg:         var(--acc-wash);
+  --ref-badge-text:     var(--acc-on);
+  --ref-badge-bg:       var(--acc);
+  --ref-anchor-text:    var(--acc);
+  --ref-anchor-border:  var(--acc);
+  --ref-anchor-bg:      var(--acc-wash);
+
+  /* quiet metadata */
+  --ref-tone-text:      var(--muted);
+  --ref-tone-border:    var(--line);
+  --ref-tone-bg:        var(--card-2);
+}
+
+/* The legacy tree's own furniture, brought onto the identity's shapes: the
+   two stylesheets disagree about borders and shadows, and the tokens above
+   cannot express that on their own. */
+.md-typeset .sb-wrap {
+  max-width: none;          /* its own children hold the measure */
+  border: 0;
+  padding: 0 0 32px;
+}
+.md-typeset .sb-wrap > * { max-width: var(--measure); }
+.md-typeset .sb-wrap > table,
+.md-typeset .sb-wrap > .md-typeset__scrollwrap { max-width: none; }
+.md-typeset .sb-wrap h1 { border-bottom: var(--line-w) solid var(--line); }
+.md-typeset .sb-wrap h4 {
+  font-family: var(--font-px) !important;
+  font-size: 9.5px;
+  font-variant: normal;
+  letter-spacing: .14em;
+  color: var(--acc-on);
+  background: var(--acc);
+  border-color: var(--acc-deep);
+  border-radius: 999px;
+}
+.md-typeset .sb-wrap .register-block { border-left-width: 3px; }
+.md-typeset .sb-wrap .register-label { font-family: var(--font-px); letter-spacing: .1em; }
+
+
+/* ──────────────────────────────────────────────────────────────
+   3 · TYPE — PRESENTATION-SPEC §3
+   custom.css sets the UI face with `!important`; matching it is
+   the only way to put the Japanese face on a Japanese heading.
+   ────────────────────────────────────────────────────────────── */
+
+body,
+.md-typeset,
+.md-content,
+.md-content__inner {
+  font-family: var(--font-ui) !important;
+  background-color: var(--bg);
+  color: var(--ink);
+}
+
+.md-typeset {
+  font-size: 17px;
+  line-height: 1.75;
+  letter-spacing: 0;
+}
+
+[lang="ja"],
+.md-typeset [lang="ja"] {
+  font-family: var(--font-jp) !important;
+}
+
+/* NO ITALIC, EVER (§3). Emphasis is weight or accent, not slant — a slanted
+   Japanese glyph is a synthesised distortion of a face that has no italic. */
+.md-typeset em,
+.md-typeset i {
+  font-style: normal;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: var(--font-jp) !important;
+  color: var(--ink);
+  border: 0;
+  padding: 0;
+  text-wrap: balance;
+}
+
+.md-typeset h1 {
+  font-size: 34px;
+  font-weight: 700;
+  line-height: 1.35;
+  margin: 0 0 2px;
+  letter-spacing: 0;
+  word-break: auto-phrase;
+}
+
+.md-typeset h2 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: 0 0 2px;
+  word-break: auto-phrase;
+}
+
+.md-typeset h3 { font-size: 19px; font-weight: 700; margin: 24px 0 6px; }
+
+/* Display sizes are set for a 720px measure. In a phone column they are not
+   display sizes any more — at 120% a 34px bilingual H1 took FIVE lines on a
+   375px screen. Stepped down where the column is narrow; the ratios between
+   the levels are kept. */
+@media screen and (max-width: 44.9375em) {
+  .md-typeset h1 { font-size: 26px; }
+  .md-typeset h2 { font-size: 21px; }
+  .md-typeset h3 { font-size: 17px; }
+  .md-typeset .ex-jp { font-size: 20px; }
+  .md-typeset { font-size: 16px; }
+}
+.md-typeset h4 { font-size: 17px; font-weight: 700; color: var(--ink-2); }
+.md-typeset h5,
+.md-typeset h6 { font-size: 15px; font-weight: 700; color: var(--muted); }
+
+/* custom.css gives every heading a DIFFERENT colour in dark mode, behind a
+   `[data-md-color-scheme="slate"]` prefix that outranks a bare `.md-typeset
+   h1`. Left alone, every H1 on the site rendered pale blue (#B4DEED) in dark
+   mode while light mode was correct ink — which is exactly the kind of defect
+   that survives a review done in one theme. Matched prefix for prefix. */
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset h3 {
+  color: var(--ink);
+  border-bottom-color: var(--line);
+}
+[data-md-color-scheme="slate"] .md-typeset h4 { color: var(--ink-2); }
+[data-md-color-scheme="slate"] .md-typeset h5,
+[data-md-color-scheme="slate"] .md-typeset h6 { color: var(--muted); }
+[data-md-color-scheme="slate"] .md-typeset .card-tag {
+  background: var(--card);
+  color: var(--ink-2);
+  border-color: var(--line);
+}
+[data-md-color-scheme="slate"] .md-typeset .card-tag.lv {
+  background: var(--acc);
+  border-color: var(--acc-deep);
+  color: var(--acc-on);
+}
+[data-md-color-scheme="slate"] .md-typeset .card-grid-item { border-color: var(--line); }
+[data-md-color-scheme="slate"] .md-typeset .card-grid-item:hover { border-color: var(--acc); }
+[data-md-color-scheme="slate"] .md-typeset .card-grid-item p { color: var(--muted); }
+
+.md-typeset code,
+.md-typeset pre {
+  font-family: var(--font-mono);
+  font-size: 13.5px;
+  background: var(--card-2);
+  color: var(--ink);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+}
+
+.md-typeset code [lang="ja"] { font-size: 14.5px; }
+.md-typeset table { font-variant-numeric: tabular-nums; }
+
+/* Ruby. The line box reserves the furigana's height WHETHER OR NOT the ruby
+   is present, so a toggled-off reading does not reflow the paragraph and a
+   sentence with no kanji sits on the same baseline as one with. */
+.md-typeset ruby { ruby-align: center; }
+.md-typeset rt {
+  font-family: var(--font-jp);
+  font-size: 10px;
+  font-weight: 500;
+  color: var(--ruby);
+  letter-spacing: 0;
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   4 · THE TWO AFFORDANCES — PRESENTATION-SPEC §4
+   Tangerine text = go somewhere.  Dotted underline = meaning here.
+   Nothing else is underlined and there is no third hover behaviour.
+   ────────────────────────────────────────────────────────────── */
+
+.md-typeset a {
+  color: var(--acc);
+  text-decoration: none;
+}
+.md-typeset a:hover { text-decoration: underline; }
+.md-typeset a:focus-visible {
+  outline: 2px solid var(--acc);
+  outline-offset: 2px;
+  border-radius: 3px;
+}
+
+/* Meaning here. `abbr` is the site's already-enabled glossing mechanism
+   (`content.tooltips` + the abbr extension) — it gets the dotted underline
+   and Material's own popover card, restyled to the identity. */
+.md-typeset abbr,
+.md-typeset abbr[title] {
+  border-bottom: 2px dotted var(--muted);
+  text-decoration: none;
+  cursor: help;
+}
+.md-tooltip {
+  background: var(--card);
+  color: var(--ink);
+  border: var(--line-w) solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow-sm);
+  font-family: var(--font-ui);
+  font-size: 13px;
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   5 · CHROME — header, tabs, search, footer
+   ────────────────────────────────────────────────────────────── */
+
+.md-header {
+  background: var(--card);
+  color: var(--ink);
+  border-bottom: var(--line-w) solid var(--line);
+  box-shadow: none;
+}
+.md-header__title,
+.md-header__topic {
+  font-family: var(--font-pxjp);
+  font-size: 18px;
+  font-weight: 400;
+  color: var(--acc);
+}
+.md-header__button { color: var(--ink); }
+
+.md-tabs {
+  background: var(--card);
+  color: var(--ink-2);
+  border-bottom: var(--line-w) solid var(--line);
+}
+.md-tabs__link {
+  font-family: var(--font-px);
+  font-size: 9.5px;
+  letter-spacing: .14em;
+  opacity: 1;
+  color: var(--muted);
+}
+.md-tabs__link--active,
+.md-tabs__link:hover { color: var(--acc); }
+
+.md-search__form {
+  background: var(--card);
+  border: var(--line-w) solid var(--line);
+  border-radius: 10px;
+  box-shadow: var(--shadow-sm);
+  color: var(--ink);
+}
+.md-search__form:hover { background: var(--card); }
+.md-search__input { color: var(--ink); }
+.md-search__input::placeholder { color: var(--faint); }
+.md-search__icon { color: var(--muted); }
+.md-search__output,
+.md-search__scrollwrap { background: var(--bg); }
+.md-search-result__meta,
+.md-search-result__article { color: var(--ink); font-family: var(--font-ui); }
+.md-search-result__link:focus,
+.md-search-result__link:hover { background: var(--acc-wash); }
+
+.md-footer,
+.md-footer-meta { background: var(--card-2); color: var(--ink); }
+.md-footer__title,
+.md-footer__direction { color: var(--ink-2); }
+.md-copyright { color: var(--muted); }
+
+.md-top {
+  background: var(--acc);
+  color: var(--acc-on);
+  border: var(--line-w) solid var(--line);
+  box-shadow: var(--shadow-sm);
+}
+
+.md-typeset ::selection { background: var(--acc-wash); }
+
+
+/* ──────────────────────────────────────────────────────────────
+   6 · THE SIDEBAR — PRESENTATION-SPEC §7
+   268px, the deck's function groups, brand + tools + counter.
+   Everything below the nav itself is injected by deck.js; with JS
+   off the nav is a plain, working list of links.
+   ────────────────────────────────────────────────────────────── */
+
+/* 268px IS A DESKTOP WIDTH AND ONLY A DESKTOP WIDTH. On narrow screens the
+   primary sidebar is Material's slide-in drawer, closed by
+   `transform: translateX(-100%)` — a percentage of ITS OWN width. Widening it
+   unconditionally left 26px of the closed drawer permanently on screen, over
+   the content. Measured: left -242px on a 268px box. */
+.md-sidebar--primary { background: var(--bg); }
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary {
+    width: 268px;
+    border-right: var(--line-w) solid var(--line);
+  }
+}
+.md-sidebar__scrollwrap { scrollbar-color: var(--faint) transparent; }
+
+.md-nav {
+  font-size: 14.5px;
+  line-height: 1.5;
+  color: var(--ink-2);
+}
+.md-nav__title {
+  font-family: var(--font-px);
+  font-size: 9.5px;
+  letter-spacing: .16em;
+  font-variant: normal;
+  color: var(--muted);
+  background: var(--bg);
+  box-shadow: none;
+}
+/* A group heading: Japanese label, weight 800, the English sub-label after it
+   in pixel type. `.md-nav__link` is both a group toggle and a page link, so
+   the two are separated by nesting depth, not by a class. */
+.md-nav--primary .md-nav__item--nested > .md-nav__link {
+  font-weight: 800;
+  font-size: 13.5px;
+  font-family: var(--font-jp);
+  color: var(--ink);
+  border-radius: 8px;
+  padding: 6px 9px;
+}
+.md-nav--primary .md-nav__item--nested > .md-nav__link:hover { background: var(--card-2); }
+.md-nav__link {
+  font-family: var(--font-jp);
+  color: var(--ink-2);
+  border-radius: 7px;
+  padding: 4px 9px;
+  transition: none;
+}
+.md-nav__link:hover { background: var(--card-2); color: var(--ink); }
+.md-nav__link:focus-visible { outline: 2px solid var(--acc); outline-offset: 1px; }
+
+/* The current page is a card, not a colour change — the mock's one
+   accent-outlined row, so the eye finds it without reading. */
+.md-nav__link--active,
+.md-nav__item .md-nav__link--active {
+  background: var(--card);
+  border: var(--line-w) solid var(--acc);
+  border-bottom: var(--btm-acc, var(--line-w) solid var(--acc));
+  border-radius: 8px;
+  color: var(--acc);
+  font-weight: 500;
+  box-shadow: var(--shadow-sm);
+}
+
+/* The JLPT chip on a nav row, and the read tick. Both are written by deck.js
+   from the build-time index; with JS off neither exists and the row is a
+   plain link, which is the whole degradation contract. */
+/* the group heading's English sub-label — pixel type, chrome, never a
+   recognition target */
+.md-nav__link .en {
+  font-family: var(--font-px);
+  font-size: 8.5px;
+  font-weight: 400;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-left: 7px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.md-nav--primary .md-nav__item--nested > .md-nav__link > .md-ellipsis { flex: 0 0 auto; }
+
+.md-nav__link .deck-lv {
+  margin-left: auto;
+  font-family: var(--font-px);
+  font-size: 8px;
+  color: var(--faint);
+  padding-left: 8px;
+  flex: none;
+}
+/* The tick sits BESIDE the link, never inside it: a checkbox nested in an
+   anchor is interactive content inside interactive content — it steals the
+   link's click and cannot be reached by keyboard as itself. */
+.deck-rowline { display: flex; align-items: center; }
+.deck-rowline > .md-nav__link {
+  flex: 1 1 auto;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  margin: 0;
+}
+.deck-rowline > .md-nav__link > span:first-child {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.deck-tick {
+  width: 14px;
+  height: 14px;
+  margin-right: 8px;
+  border: 2px solid var(--faint);
+  border-radius: 4px;
+  flex: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 9px;
+  line-height: 1;
+  color: transparent;
+  cursor: pointer;
+  background: transparent;
+  padding: 0;
+}
+.deck-tick.on {
+  background: var(--acc);
+  border-color: var(--acc-deep);
+  color: var(--acc-on);
+}
+.deck-tick:focus-visible { outline: 2px solid var(--acc); outline-offset: 2px; }
+
+/* brand · tools · counter — injected into the primary sidebar */
+/* STICKY, WHERE THE MOCK HAD THEM IN FLOW — and the reason is the one thing
+   the mock could not know. It showed five function groups; the real deck has
+   44. Left in flow, the brand scrolls off the top and the ふりがな / ENGLISH /
+   SHUFFLE block sits below 362 rows, which puts the sidebar's only controls
+   somewhere nobody will scroll to. Pinning them is the same design at the
+   real size. Flagged for Tim at the review halt as a deliberate deviation. */
+.deck-brand {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin: 0 6px 16px;
+  padding: 8px 0 8px;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+  background: var(--bg);
+}
+.deck-brand .jp { font-family: var(--font-pxjp); font-size: 21px; color: var(--acc); }
+.deck-brand .en {
+  font-family: var(--font-px);
+  font-size: 10px;
+  letter-spacing: .22em;
+  color: var(--muted);
+}
+
+.deck-tools {
+  margin: 16px 4px 0;
+  padding: 12px 4px 8px;
+  border-top: var(--line-w) solid var(--line);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  position: sticky;
+  bottom: 34px;
+  z-index: 2;
+  background: var(--bg);
+}
+.deck-tools button {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: var(--font-px);
+  font-size: 9.5px;
+  letter-spacing: .1em;
+  color: var(--ink-2);
+  background: var(--card);
+  border: var(--line-w) solid var(--line);
+  border-radius: 8px;
+  padding: 6px 10px;
+  box-shadow: var(--shadow-sm);
+}
+.deck-tools button:hover { color: var(--acc); }
+.deck-tools button:active { transform: translate(2px, 2px); box-shadow: none; }
+.deck-tools button:focus-visible { outline: 2px solid var(--acc); outline-offset: 2px; }
+.deck-tools .st { color: var(--acc); margin-left: auto; }
+
+.deck-count {
+  position: sticky;
+  bottom: 0;
+  z-index: 2;
+  background: var(--bg);
+  padding: 6px 0 10px;
+  margin: 0 8px;
+  color: var(--muted);
+  font-family: var(--font-px);
+  font-size: 9px;
+  letter-spacing: .08em;
+}
+.deck-count b { color: var(--acc); font-weight: 400; }
+
+/* The dot-texture band at the sidebar's foot — dark mode only, because
+   --dots is transparent in light. */
+.deck-dots {
+  height: 84px;
+  margin: 18px 0 0;
+  background-image: radial-gradient(var(--dots) 1.5px, transparent 1.5px);
+  background-size: 11px 11px;
+  pointer-events: none;
+}
+
+/* The right-hand rail: ON THIS PAGE, Japanese anchors, current in accent. */
+.md-sidebar--secondary .md-nav__title { font-size: 9px; letter-spacing: .16em; }
+.md-sidebar--secondary .md-nav__link {
+  font-family: var(--font-jp);
+  font-size: 13px;
+  color: var(--muted);
+  border-left: 2px solid var(--line);
+  border-radius: 0;
+  padding: 3px 0 3px 11px;
+}
+.md-sidebar--secondary .md-nav__link:hover { color: var(--acc); background: none; }
+.md-sidebar--secondary .md-nav__link--active {
+  color: var(--acc);
+  border: 0;
+  border-left: 3px solid var(--acc);
+  border-radius: 0;
+  background: none;
+  box-shadow: none;
+  font-weight: 500;
+}
+
+/* Breadcrumbs (navigation.path) in pixel type — the mock's DECK ▸ group. */
+.md-path {
+  font-family: var(--font-px);
+  font-size: 10px;
+  letter-spacing: .18em;
+  color: var(--muted);
+}
+.md-path__link { color: var(--muted); }
+.md-path__link:hover { color: var(--acc); }
+
+
+/* ──────────────────────────────────────────────────────────────
+   7 · PAGE ANATOMY — PRESENTATION-SPEC §6
+   ────────────────────────────────────────────────────────────── */
+
+/* THE MEASURE APPLIES TO PROSE, NOT TO EVERYTHING. 720px is a reading
+   measure — ~34 full-width Japanese characters — and it is right for a
+   paragraph and wrong for a five-column comparison table. Tables, the card
+   grid and the breakdown row are allowed the full content column and scroll
+   horizontally inside it; the page body never scrolls sideways.
+   Caught on a LEGACY page, whose tables were clipped at 720px with their last
+   column cut in half. */
+.md-content__inner { max-width: 100%; padding: 0 clamp(16px, 3vw, 40px); }
+.md-typeset > * { max-width: var(--measure); }
+.md-typeset > .md-typeset__scrollwrap,
+.md-typeset > .card-grid,
+.md-typeset .sb-wrap > .md-typeset__scrollwrap,
+.md-typeset .sb-wrap table { max-width: none; }
+.md-typeset .md-typeset__scrollwrap { overflow-x: auto; }
+
+/* the H1's English half, and a section's gloss line */
+.md-typeset p.h1-gloss,
+.md-typeset p.pt-gloss {
+  color: var(--muted);
+  margin: 0 0 12px;
+}
+.md-typeset p.h1-gloss { font-size: 16px; margin-bottom: 14px; }
+.md-typeset p.pt-gloss { font-size: 15px; }
+
+/* chips — outlined pills; the JLPT chip is the filled one */
+.md-typeset .card-tag {
+  display: inline-block;
+  font-family: var(--font-ui);
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: .06em;
+  color: var(--ink-2);
+  background: var(--card);
+  border: var(--line-w) solid var(--line);
+  border-radius: 999px;
+  padding: 1px 10px;
+  margin: 2px 3px 2px 0;
+}
+.md-typeset .card-tag.lv {
+  background: var(--acc);
+  border-color: var(--acc-deep);
+  color: var(--acc-on);
+}
+
+/* At a glance — the hero card. `!!! tip "At a glance"` is the only tip
+   admonition the generator emits, and PAGE-SPEC §4 reserves it for exactly
+   this, so the treatment can be unconditional. */
+.md-typeset .admonition.tip,
+.md-typeset details.tip {
+  background: var(--card);
+  border: var(--line-w) solid var(--acc);
+  border-bottom: var(--btm-acc, var(--line-w) solid var(--acc));
+  border-left: var(--line-w) solid var(--acc);
+  border-radius: 14px;
+  box-shadow: var(--shadow-acc);
+  padding: 18px 22px 4px;
+  margin: 22px 0 16px;
+  font-size: 15.5px;
+  position: relative;
+  overflow: visible;
+}
+.md-typeset .admonition.tip > .admonition-title,
+.md-typeset details.tip > summary {
+  position: absolute;
+  top: -12px;
+  left: 18px;
+  margin: 0;
+  padding: 3px 12px;
+  font-family: var(--font-px);
+  font-size: 9.5px;
+  letter-spacing: .14em;
+  color: var(--acc-on);
+  background: var(--acc);
+  border-radius: 999px;
+  text-transform: uppercase;
+}
+.md-typeset .admonition.tip > .admonition-title::before,
+.md-typeset .admonition.tip > .admonition-title::after { display: none; }
+.md-typeset .admonition.tip > p { margin: 8px 0; line-height: 1.65; color: var(--ink-2); }
+
+/* the formation skeleton inside the hero card */
+.md-typeset .admonition.tip code {
+  display: block;
+  white-space: pre-wrap;
+  background: var(--card-2);
+  padding: 8px 12px;
+  color: var(--ink);
+}
+
+/* See also — page-level lateral links (`#221`) */
+.md-typeset p.seealso {
+  font-size: 14.5px;
+  color: var(--muted);
+  line-height: 1.9;
+  margin: 0 0 30px;
+}
+.md-typeset p.seealso strong:first-child {
+  font-family: var(--font-px);
+  font-weight: 400;
+  font-size: 9.5px;
+  letter-spacing: .14em;
+  color: var(--ink-2);
+  margin-right: 8px;
+  text-transform: uppercase;
+}
+
+/* the family block, and the Compare line */
+.md-typeset p.fam { font-size: 13.5px; color: var(--faint); margin: 0 0 12px; }
+.md-typeset p.fam strong { font-weight: 700; color: var(--muted); }
+.md-typeset p.compare { font-size: 14px; margin: 2px 0 10px; }
+.md-typeset p.compare em {
+  font-family: var(--font-px);
+  font-weight: 400;
+  font-style: normal;
+  font-size: 9px;
+  letter-spacing: .14em;
+  color: var(--muted);
+  margin-right: 8px;
+  text-transform: uppercase;
+}
+
+/* the FORM pill */
+.md-typeset p.form {
+  font-family: var(--font-mono);
+  font-size: 13.5px;
+  color: var(--ink-2);
+  background: var(--card-2);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 7px 12px;
+  display: inline-block;
+  margin: 0 0 14px;
+  max-width: 100%;
+  overflow-x: auto;
+}
+.md-typeset p.form strong:first-child {
+  font-family: var(--font-px);
+  font-weight: 400;
+  font-size: 9px;
+  letter-spacing: .1em;
+  color: var(--acc);
+  margin-right: 4px;
+  text-transform: uppercase;
+}
+.md-typeset p.form code {
+  background: none;
+  border: 0;
+  padding: 0;
+  font-size: 13.5px;
+}
+
+/* keyword-led bullets — the lead is what the eye scans */
+.md-typeset ul li { margin-bottom: 8px; font-size: 16px; color: var(--ink-2); }
+.md-typeset ul li::marker { color: var(--acc); }
+.md-typeset ul li > strong:first-child { color: var(--ink); }
+
+/* section rule — PRESENTATION-SPEC §6's H2 sits under a hairline */
+.md-typeset h2 { padding-top: 28px; border-top: var(--line-w) solid var(--line); }
+.md-typeset h1 + p.h1-gloss + p .card-tag { margin-top: 4px; }
+
+/* the index grid */
+.md-typeset .card-grid-item {
+  background: var(--card);
+  border: var(--line-w) solid var(--line);
+  border-radius: 14px;
+  box-shadow: var(--shadow-sm);
+  padding: 16px;
+  transition: none;
+}
+.md-typeset .card-grid-item:hover { border-color: var(--acc); box-shadow: var(--shadow-sm); }
+.md-typeset .card-grid-item h3 { font-size: 19px; margin: 0 0 6px; }
+.md-typeset .card-grid-item p { color: var(--muted); font-size: 14px; }
+
+
+/* ──────────────────────────────────────────────────────────────
+   8 · THE EXAMPLE BLOCK — PRESENTATION-SPEC §5
+   ────────────────────────────────────────────────────────────── */
+
+.md-typeset .ex {
+  background: var(--card);
+  border: var(--line-w) solid var(--line);
+  border-bottom: var(--btm-acc, var(--line-w) solid var(--line));
+  border-radius: 14px;
+  box-shadow: var(--shadow);
+  padding: 16px 20px 13px;
+  margin: 6px 0 20px;
+}
+.md-typeset .ex-jp {
+  font-family: var(--font-jp);
+  font-size: 22px;
+  line-height: 2.1;      /* ruby space reserved whether or not ruby is present */
+  color: var(--ink);
+  word-break: auto-phrase;
+}
+.md-typeset .ex-jp .pat { color: var(--acc); font-weight: 700; }
+.md-typeset .ex-en { font-size: 15px; color: var(--muted); margin-top: 2px; line-height: 1.6; }
+.md-typeset .ex-en .lit { color: var(--faint); }
+.md-typeset .ex-note { font-size: 13.5px; color: var(--faint); margin-top: 6px; }
+
+/* 分解 BREAKDOWN — a <details>, so it opens with JS off and the print sheet
+   opens it with one rule. Styled as the mock's button. */
+.md-typeset details.ex-bd {
+  margin: 10px 0 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: none;
+  box-shadow: none;
+  font-size: inherit;
+}
+.md-typeset details.ex-bd > summary {
+  display: inline-flex;
+  align-items: center;
+  font-family: var(--font-px);
+  font-size: 9px;
+  letter-spacing: .1em;
+  color: var(--ink-2);
+  background: var(--card-2);
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  padding: 4px 10px;
+  margin: 0;
+  cursor: pointer;
+  list-style: none;
+  background-image: none;
+}
+.md-typeset details.ex-bd > summary::before,
+.md-typeset details.ex-bd > summary::after { display: none; }
+.md-typeset details.ex-bd > summary::-webkit-details-marker { display: none; }
+.md-typeset details.ex-bd > summary:hover { color: var(--acc); border-color: var(--acc); }
+.md-typeset details.ex-bd > summary:active { transform: translate(1px, 1px); }
+.md-typeset details.ex-bd > summary:focus-visible { outline: 2px solid var(--acc); outline-offset: 2px; }
+
+.md-typeset .breakdown {
+  margin-top: 13px;
+  border-top: 2px dotted var(--faint);
+  padding-top: 13px;
+  overflow-x: auto;
+}
+.md-typeset .bd-row { display: flex; gap: 7px; min-width: min-content; }
+.md-typeset .bd-seg {
+  background: var(--card-2);
+  border: 1px solid var(--line);
+  border-radius: 9px;
+  padding: 7px 12px 8px;
+  text-align: center;
+  flex: none;
+  box-shadow: var(--shadow-sm);
+}
+.md-typeset .bd-seg .j { font-family: var(--font-jp); font-size: 18px; line-height: 1.5; display: block; }
+.md-typeset .bd-seg .j rt { display: none; }   /* the reading is its own row */
+.md-typeset .bd-seg .r { font-size: 11px; color: var(--ruby); display: block; }
+.md-typeset .bd-seg .g { font-size: 12px; color: var(--muted); display: block; margin-top: 2px; max-width: 110px; }
+.md-typeset .bd-seg.hit { border: var(--line-w) solid var(--acc); background: var(--acc-wash); }
+.md-typeset .bd-seg.hit .j { color: var(--acc); font-weight: 700; }
+.md-typeset .bd-key {
+  font-family: var(--font-px);
+  font-size: 8.5px;
+  letter-spacing: .1em;
+  color: var(--faint);
+  margin-top: 9px;
+  text-transform: uppercase;
+}
+.md-typeset .bd-key [lang="ja"] { font-family: var(--font-jp); letter-spacing: 0; font-size: 11px; }
+.md-typeset .bd-key .sw {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 3px;
+  background: var(--acc-wash);
+  border: 1.5px solid var(--acc);
+  vertical-align: -1px;
+  margin-right: 5px;
+}
+
+/* the register strip */
+.md-typeset .reg {
+  display: flex;
+  margin: 6px 0 20px;
+  background: var(--card);
+  border: var(--line-w) solid var(--line);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--shadow-sm);
+}
+.md-typeset .reg > div { flex: 1 1 0; padding: 10px 16px; min-width: 0; }
+.md-typeset .reg > div + div { border-left: 1px solid var(--line); }
+.md-typeset .reg .rlbl {
+  font-family: var(--font-px);
+  font-size: 8.5px;
+  letter-spacing: .14em;
+  color: var(--acc);
+  margin-bottom: 2px;
+  text-transform: uppercase;
+}
+.md-typeset .reg [lang="ja"] { font-size: 18px; line-height: 1.8; }
+@media (max-width: 640px) {
+  .md-typeset .reg { flex-direction: column; }
+  .md-typeset .reg > div + div { border-left: 0; border-top: 1px solid var(--line); }
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   9 · THE TOGGLES' EFFECTS — PRESENTATION-SPEC §8
+   The classes go on <body>; deck.js only flips them, so with JS
+   off nothing is hidden and nothing is blurred.
+   ────────────────────────────────────────────────────────────── */
+
+body.deck-hide-furigana .md-typeset rt { visibility: hidden; }
+body.deck-hide-english .md-typeset .ex-en {
+  filter: blur(5px);
+  cursor: pointer;
+  user-select: none;
+}
+body.deck-hide-english .md-typeset .ex-en:hover,
+body.deck-hide-english .md-typeset .ex-en:focus-within { filter: none; }
+
+
+/* ──────────────────────────────────────────────────────────────
+   10 · REDUCED MOTION, and PRINT — §8
+   ────────────────────────────────────────────────────────────── */
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@media print {
+  /* chrome hidden, breakdowns open, colours flattened to ink on white */
+  .md-header,
+  .md-tabs,
+  .md-sidebar,
+  .md-footer,
+  .md-top,
+  .deck-tools,
+  .deck-brand,
+  .deck-count,
+  .deck-dots,
+  .deck-tick,
+  .md-typeset details.ex-bd > summary { display: none !important; }
+
+  :root,
+  [data-md-color-scheme="slate"] {
+    --bg: #fff;
+    --card: #fff;
+    --card-2: #fff;
+    --ink: #000;
+    --ink-2: #222;
+    --muted: #444;
+    --faint: #666;
+    --line: #000;
+    --line-w: 1px;
+    --acc: #000;
+    --acc-deep: #000;
+    --acc-wash: transparent;
+    --acc-on: #fff;
+    --ruby: #444;
+    --shadow: none;
+    --shadow-sm: none;
+    --shadow-acc: none;
+    --btm-acc: none;
+    --dots: transparent;
+  }
+
+  /* OPEN EVERY BREAKDOWN. Two mechanisms, because one is not enough:
+     Chrome now hides a closed <details> through `::details-content`'s
+     content-visibility rather than through the child's `display`, so the
+     display override alone printed the cards folded — seen, not assumed.
+     deck.js also sets `open` on beforeprint, which is what actually carries
+     browsers that support neither. */
+  .md-typeset details.ex-bd > .breakdown,
+  .md-typeset details.ex-bd[open] > .breakdown { display: block !important; }
+  .md-typeset details.ex-bd::details-content {
+    content-visibility: visible !important;
+    block-size: auto !important;
+  }
+  .md-typeset .ex,
+  .md-typeset .reg,
+  .md-typeset .admonition.tip { page-break-inside: avoid; break-inside: avoid; }
+  .md-typeset .ex-jp .pat { font-weight: 700; text-decoration: underline; }
+  .md-typeset .breakdown { overflow: visible; }
+  .md-main,
+  .md-content,
+  .md-content__inner,
+  .md-grid { margin: 0 !important; padding: 0 !important; max-width: 100% !important; }
+  body.deck-hide-furigana .md-typeset rt,
+  body.deck-hide-english .md-typeset .ex-en { visibility: visible; filter: none; }
+}

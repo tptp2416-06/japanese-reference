@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/nai-de-kudasai.md -->
 # ないでください — Please do not do
 
-<span class="card-tag">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span>
 
 Please do not do.
+{: .h1-gloss }

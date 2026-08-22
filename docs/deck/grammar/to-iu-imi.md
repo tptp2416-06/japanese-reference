@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/to-iu-imi.md -->
 # という意味 — Means that
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">explanation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">explanation</span>
 
 Means that; explains the interpretation or definition of a quoted expression
+{: .h1-gloss }

@@ -3,13 +3,16 @@
 # ように言う — telling someone to do something
 
 Tell someone to do or avoid X; reports an indirect command
+{: .h1-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">reporting-quotation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">reporting-quotation</span>
 
 ## ように言われる { #you-ni-iwareru }
 
 Be told to do or avoid X; passive report of an instruction
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">reporting-quotation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">reporting-quotation</span>
 
 **Builds on:** [られる (neutral passive)](<rareru.md#neutral-passive> "The subject receives an action, without implying harm or inconvenience")
+{: .fam }

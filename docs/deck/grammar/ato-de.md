@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ato-de.md -->
 # あとで — Later
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">sequence</span>
 
 Later; after the current or previously mentioned time or event
+{: .h1-gloss }

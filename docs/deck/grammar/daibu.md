@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/daibu.md -->
 # だいぶ — Considerably or quite a lot
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span> <span class="card-tag">baseline</span>
 
 Considerably or quite a lot.
+{: .h1-gloss }

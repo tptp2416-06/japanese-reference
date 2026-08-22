@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/tsurete-iku.md -->
 # 連れて行く — Take or accompany someone away to another location
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">spatial-relation-movement</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">spatial-relation-movement</span>
 
 Take or accompany someone away to another location
+{: .h1-gloss }

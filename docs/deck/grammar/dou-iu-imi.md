@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/dou-iu-imi.md -->
 # どういう意味 — what does it mean?
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">interrogation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">interrogation</span>
 
 What does X mean? Fixed interrogative asking for the meaning of a word or phrase
+{: .h1-gloss }

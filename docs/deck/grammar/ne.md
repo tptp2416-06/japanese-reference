@@ -5,24 +5,30 @@
 ## ね (agreement) { #agreement }
 
 Sentence-final particle seeking agreement.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">baseline</span>
 
 **Compounds:** [よね](<ne.md#yo-ne> "Right? Softly seeks shared recognition or confirms mutual understanding")  
 **Senses:** [ね (soft assertion)](<ne.md#soft-assertion> "Softens an announcement of the speaker's own intention or action.")
+{: .fam }
 
 ## ね (soft assertion) { #soft-assertion }
 
 Softens an announcement of the speaker's own intention or action.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">addressee-stance</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">addressee-stance</span>
 
 **From:** sense of [ね (agreement)](<ne.md#agreement> "Sentence-final particle seeking agreement.")
+{: .fam }
 
 ## よね { #yo-ne }
 
 Right? Softly seeks shared recognition or confirms mutual understanding
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">addressee-stance</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">addressee-stance</span>
 
 **From:** compound of [ね (agreement)](<ne.md#agreement> "Sentence-final particle seeking agreement.")
+{: .fam }

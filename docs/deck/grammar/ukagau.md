@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/ukagau.md -->
 # 伺う — humble "ask", "hear", "visit"
 
-<span class="card-tag">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: humble</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: humble</span>
 
 ## 伺う (humble) { #humble }
 
 Humble expression for asking, hearing, or visiting someone socially superior
+{: .pt-gloss }

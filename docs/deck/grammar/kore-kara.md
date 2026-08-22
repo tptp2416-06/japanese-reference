@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/kore-kara.md -->
 # これから — From now on
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
 
 From now on; beginning at the present moment and continuing forward
+{: .h1-gloss }

@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/senjitsu.md -->
 # 先日 — The other day or recently
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">style: written-formal</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">style: written-formal</span>
 
 The other day or recently; polite reference to a past occasion
+{: .h1-gloss }

@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/sekkaku-n-da-kara.md -->
 # せっかく〜んだから — Since the opportunity is special
 
-<span class="card-tag">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
 
 Since the opportunity is special; urges making full use of it
+{: .h1-gloss }

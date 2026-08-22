@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/na-prohibition.md -->
 # な (prohibition) — Sentence-final な after the dictionary form forbids the action outright (諦めるな)
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">prohibition</span> <span class="card-tag">plain-marked</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">prohibition</span> <span class="card-tag">plain-marked</span>
 
 Sentence-final な after the dictionary form forbids the action outright (諦めるな)
+{: .h1-gloss }

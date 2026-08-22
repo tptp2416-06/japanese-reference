@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/te-kaeru.md -->
 # て帰る — Do something and return afterward
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">spatial-relation-movement</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">spatial-relation-movement</span>
 
 Do something and return afterward; action occurs before coming back
+{: .h1-gloss }
 
 **From:** compound of [て形 (linking)](<tekei.md#linking> "Links clauses or predicates with the て-form.")
+{: .fam }

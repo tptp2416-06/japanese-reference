@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/mata.md -->
 # また — Again, later, or another time
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">frequency</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">frequency</span>
 
 Again, later, or another time; indicates repetition or return
+{: .h1-gloss }

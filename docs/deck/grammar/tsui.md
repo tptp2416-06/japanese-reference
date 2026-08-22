@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/tsui.md -->
 # つい — Unintentionally or despite oneself
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
 
 Unintentionally or despite oneself.
+{: .h1-gloss }

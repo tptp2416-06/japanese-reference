@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/kakokei-jishokei.md -->
 # 過去形・辞書形 — States past or nonpast facts plainly, without polite marking
 
-<span class="card-tag">N5</span> <span class="card-tag">verb-inflection-plain-paradigm</span> <span class="card-tag">plain-marked</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">verb-inflection-plain-paradigm</span> <span class="card-tag">plain-marked</span>
 
 ## 過去形・辞書形 (plain statement) { #plain-statement }
 
 States past or nonpast facts plainly, without polite marking
+{: .pt-gloss }

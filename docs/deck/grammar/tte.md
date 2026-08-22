@@ -5,21 +5,26 @@
 ## だって { #datte }
 
 I hear that; casual report of information learned from someone else
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">evidentiality-hearsay</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">evidentiality-hearsay</span> <span class="card-tag">style: colloquial</span>
 
 **From:** compound of [って (quote)](<tte.md#quote> "Casually quotes speech, thought, or information reported by others")
+{: .fam }
 
 ## って (quote) { #quote }
 
 Casually quotes speech, thought, or information reported by others
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">reporting-quotation</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">reporting-quotation</span> <span class="card-tag">style: colloquial</span>
 
 **Compounds:** [だって](<tte.md#datte> "I hear that; casual report of information learned from someone else")
+{: .fam }
 
 ## って (topic marker) { #topic-marker }
 
 As for X; casual topic marker highlighting a quoted or nominal phrase
+{: .pt-gloss }
 
-<span class="card-tag">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">topic-focus</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">topic-focus</span> <span class="card-tag">style: colloquial</span>

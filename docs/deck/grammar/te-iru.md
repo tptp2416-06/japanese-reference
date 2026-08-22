@@ -5,89 +5,110 @@
 ## ていた { #te-ita }
 
 Was doing or used to do; past progressive or habitual state
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 **Builds on:** [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")  
 **From:** inflection of [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")
+{: .fam }
 
 ## ています { #te-imasu }
 
 Polite ongoing, habitual, or resultant state; exact sense depends on the verb
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">polite-marked</span>
 
 **Builds on:** [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")  
 **From:** inflection of [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")
+{: .fam }
 
 ## ている (habit) { #habit }
 
 Describes a regular habit or repeated ongoing practice
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 *Compare:* [ている — progressive, habit, result, status](<../contrasts/te-iru.md> "progressive, habit, result, status")
+{: .compare }
 
 ## ている (progressive) { #progressive }
 
 Describes an action happening right now or around the reference time
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")  
 **Contractions:** [てた (ていた contraction)](<te-iru.md#teta> "Was doing; casual contraction of the past progressive or habitual form") · [てて (ていて contraction)](<te-iru.md#tete> "Keep doing or stay in a state; contracted ていて.") · [てる (contraction)](<te-iru.md#teru> "Casual contraction of ている for an ongoing or resultant state.")  
 **Inflections:** [ていた](<te-iru.md#te-ita> "Was doing or used to do; past progressive or habitual state") · [ています](<te-iru.md#te-imasu> "Polite ongoing, habitual, or resultant state; exact sense depends on the verb")  
 **Compounds:** [できている](<te-iru.md#dekite-iru> "Be made or constructed from something; describes the resulting composition")
+{: .fam }
 
 *Compare:* [ている — progressive, habit, result, status](<../contrasts/te-iru.md> "progressive, habit, result, status")
+{: .compare }
 
 ## ている (record／status) { #record-status }
 
 Describes a continuing personal fact, record, or social status
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 *Compare:* [ている — progressive, habit, result, status](<../contrasts/te-iru.md> "progressive, habit, result, status")
+{: .compare }
 
 ## ている (resultant state) { #resultant-state }
 
 Describes the state resulting from a completed change or arrival
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 *Compare:* [ている — progressive, habit, result, status](<../contrasts/te-iru.md> "progressive, habit, result, status") · [ておく・てある・ている・てしまう — prepared, resulting, finished](<../contrasts/te-oku-te-aru-te-iru-te-shimau.md> "prepared, resulting, finished")
+{: .compare }
 
 ## てた (ていた contraction) { #teta }
 
 Was doing; casual contraction of the past progressive or habitual form
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
 
 **Builds on:** [ていた](<te-iru.md#te-ita> "Was doing or used to do; past progressive or habitual state")  
 **From:** contraction of [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")
+{: .fam }
 
 ## てて (ていて contraction) { #tete }
 
 Keep doing or stay in a state; contracted ていて.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
 
 **Builds on:** [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")  
 **From:** contraction of [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")
+{: .fam }
 
 ## てる (contraction) { #teru }
 
 Casual contraction of ている for an ongoing or resultant state.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
 
 **Builds on:** [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")  
 **From:** contraction of [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")
+{: .fam }
 
 ## できている { #dekite-iru }
 
 Be made or constructed from something; describes the resulting composition
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 **From:** compound of [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")
+{: .fam }

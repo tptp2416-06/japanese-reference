@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/sonna-ni.md -->
 # そんなに — To that extent
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span>
 
 To that extent; often used to reject or downplay an excessive degree
+{: .h1-gloss }

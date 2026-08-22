@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/me-ni.md -->
 # 〜めに — Deliberately a bit more than usual
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">quantity-degree</span>
 
 Deliberately a bit more than usual: adjective stem plus め(に) errs toward the quality (多めに, 早めに)
+{: .h1-gloss }

@@ -14,14 +14,17 @@
 [見える](<mieru.md> "見える — Be visible or come into view naturally") — spontaneous perception, not potential: 見える is what 見られる cannot say  
 [られる](<rareru.md> "られる・させる — passive, causative, and causative-passive") — られる is potential, passive and honorific in one shape — this is the sense that shares it  
 [ようになる](<you-ni-naru.md> "ようになる — Come to do something or reach a new ability or habitual state") — how an ability is said to have arrived: the potential form plus a change of state
+{: .seealso }
 
 ## ことができる { #koto-ga-dekiru }
 
 Can do; formal, nominalized expression of ability or permission
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">ability-possibility</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">ability-possibility</span>
 
 **Form:** `V-dict + ことができる`
+{: .form }
 
 - **Read it literally and the range of meaning follows** — こと makes the verb
   into a thing, が marks that thing as the subject, できる says it exists or is
@@ -40,10 +43,12 @@ Can do; formal, nominalized expression of ability or permission
 ## 可能形 (potential) { #kanoukei }
 
 Can do something; expresses ability or situational possibility
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">verb-inflection-potential</span> <span class="card-tag">ability-possibility</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-potential</span> <span class="card-tag">ability-possibility</span>
 
 **Form:** `godan: -u → -eru` (読む → 読める) · `ichidan: -る → -られる`
+{: .form }
 (食べる → 食べられる) · `する → できる` · `来る → 来られる`
 
 - **Ability and circumstance are one form** — 泳げる is a skill you have;
@@ -80,12 +85,15 @@ Can do something; expresses ability or situational possibility
 ## 可能形＋が (を→が shift) { #kanoukei-ga }
 
 Potential form commonly marks the object with が instead of を
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">verb-inflection-potential</span> <span class="card-tag">ability-possibility</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-potential</span> <span class="card-tag">ability-possibility</span>
 
 **Builds on:** [可能形 (potential)](<kanoukei-koto-ga-dekiru.md#kanoukei> "Can do something; expresses ability or situational possibility")
+{: .fam }
 
 **Form:** `N が V-potential`
+{: .form }
 
 - **The object is re-marked because the sentence is now about a state** —
   日本語が話せる "can speak Japanese", 漢字が読める. が marks what the ability

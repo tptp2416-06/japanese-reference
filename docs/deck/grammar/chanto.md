@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/chanto.md -->
 # ちゃんと — Properly, reliably, or as expected
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span>
 
 Properly, reliably, or as expected; emphasizes adequate care or completeness
+{: .h1-gloss }

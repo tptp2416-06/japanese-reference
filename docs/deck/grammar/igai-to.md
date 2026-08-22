@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/igai-to.md -->
 # 意外と — Surprisingly or contrary to expectation
 
-<span class="card-tag">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">stance-evaluation</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">stance-evaluation</span> <span class="card-tag">baseline</span>
 
 Surprisingly or contrary to expectation.
+{: .h1-gloss }

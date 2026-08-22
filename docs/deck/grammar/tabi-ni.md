@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/tabi-ni.md -->
 # たびに — Whenever X happens
 
-<span class="card-tag">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">frequency</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">frequency</span>
 
 Whenever X happens; the same result follows on every occasion
+{: .h1-gloss }

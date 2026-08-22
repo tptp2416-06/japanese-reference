@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/hodo.md -->
 # ほど — About or approximately an amount
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
 
 ## ほど (approximation) { #approximation }
 
 About or approximately an amount.
+{: .pt-gloss }

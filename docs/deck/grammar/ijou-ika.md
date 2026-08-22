@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/ijou-ika.md -->
 # 以上-以下 — At least or at most
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">quantity-degree</span>
 
 ## 以上／以下 { #ijou-ika }
 
 At least or at most; sets inclusive numerical limits
+{: .pt-gloss }

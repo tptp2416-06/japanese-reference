@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/kakaru.md -->
 # かかる — States the time or money required for something
 
-<span class="card-tag">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">quantity-degree</span>
 
 ## かかる (time/cost) { #time-cost }
 
 States the time or money required for something
+{: .pt-gloss }

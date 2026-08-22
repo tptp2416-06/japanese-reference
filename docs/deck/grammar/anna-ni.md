@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/anna-ni.md -->
 # あんなに — To that great extent
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span>
 
 To that great extent; emphasizes a notably high degree
+{: .h1-gloss }

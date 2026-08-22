@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/maiasa.md -->
 # 毎朝 — Every morning
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">frequency</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">frequency</span>
 
 Every morning; habitual time expression for each day's morning
+{: .h1-gloss }

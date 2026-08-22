@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/no-hou-ga.md -->
 # のほうが — the one that is more
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
 
 The marked option is more or better when comparing alternatives
+{: .h1-gloss }

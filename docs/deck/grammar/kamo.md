@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/kamo.md -->
 # かも — Might
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">style: colloquial</span>
 
 Might; casual shortened expression showing an uncertain possibility
+{: .h1-gloss }

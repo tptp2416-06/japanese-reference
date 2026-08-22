@@ -5,25 +5,30 @@
 ## から (postposed) { #postposed }
 
 Because, placed after the main clause as an added justification.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
 
 ## から (reason) { #reason }
 
 Because; gives a reason.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span> <span class="card-tag">baseline</span>
 
 *Compare:* [から・ので・し — reason connectives](<../contrasts/kara-node-shi.md> "reason connectives")
+{: .compare }
 
 ## から (source) { #source }
 
 From; marks a source or origin.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span> <span class="card-tag">baseline</span>
 
 ## から (temporal since) { #temporal-since }
 
 Since; marks a starting point in time.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">time-point</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">time-point</span> <span class="card-tag">baseline</span>

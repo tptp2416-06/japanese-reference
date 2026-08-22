@@ -5,19 +5,23 @@
 ## のに (even though) { #even-though }
 
 Even though; the outcome defies the stated situation, often with surprise or frustration — takes any plain clause, dictionary form included.
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">concession</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">concession</span>
 
 ## のに (purpose 'for doing') { #purpose-for-doing }
 
 For doing something; nominalizes an action as a purpose or use. The tell is the matrix predicate — use/need/cost words (便利・使う・かかる・必要) follow purpose のに.
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">purpose</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">purpose</span>
 
 *Compare:* [ために・ように・のに・Vstem＋に — the purpose family](<../contrasts/tame-ni-you-ni-noni-vstem-ni.md> "the purpose family")
+{: .compare }
 
 ## のに (sentence-final) { #sentence-final }
 
 Although...; trails off, expressing disappointment, complaint, or an unspoken contrary wish
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">concession</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">concession</span>

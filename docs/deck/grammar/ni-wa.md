@@ -2,10 +2,12 @@
      Prose belongs in content/deck/grammar/ni-wa.md -->
 # には — At or for X, with は adding contrast or emphasis
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">time-point</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">time-point</span>
 
 ## には (time) { #time }
 
 At or for X, with は adding contrast or emphasis.
+{: .pt-gloss }
 
 **From:** compound of [時間＋に](<jikan-ni.md> "Marks the time at which an event occurs. Clock times, days and dates take に; relative words like 今日 and 毎朝 do not.")
+{: .fam }

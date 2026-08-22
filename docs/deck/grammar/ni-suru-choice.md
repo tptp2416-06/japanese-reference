@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/ni-suru-choice.md -->
 # にする — Choose X from available options
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">intention-volition</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">intention-volition</span>
 
 ## にする (choice) { #choice }
 
 Choose X from available options; make it the selected outcome
+{: .pt-gloss }

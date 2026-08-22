@@ -21,36 +21,41 @@
 ## ないと (obligation) { #nai-to }
 
 Must do; casual obligation with the consequence left unstated
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">style: colloquial</span>
 
 **From:** sense of [ないと (unless)](<nai-to.md#unless> "Unless X happens; the following outcome will not occur")
+{: .fam }
 
 **Form:** `V-ない + と` (consequence often omitted)
+{: .form }
 
-- **Stopping after と is complete** — もう行かないと。 "I really have to
-  go…" says everything. The listener supplies the consequence, and leaving it
-  to them is *softer* than naming it, not lazier.
+- **Stopping after と is complete** — the listener supplies the consequence,
+  and leaving it to them is *softer* than naming it, not lazier.
 - **When the consequence is stated, it grades the speech** — ないと困る "or
   I'm in trouble" is neutral, ないとマズい is casual and a bit rueful, ないとヤバい
   is younger and stronger. The obligation is identical; what changes is how
   much trouble you are admitting to.
-- **Obligation grammar doing emotional work** — 手伝ってくれないと困る is "I
-  need your help", not a rule. Because the consequence slot is about the
-  speaker's trouble, this construction is one of the ordinary ways to say you
-  depend on someone.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>手伝<rt>てつだ</rt></ruby>って<span class="pat">くれないと</span><ruby>困<rt>こま</rt></ruby>る。</div><div class="ex-en">&ldquo;I need your help.&rdquo; <span class="lit">&mdash; lit. if you don&#x27;t help me, I&#x27;m in trouble</span></div><div class="ex-note">Obligation grammar doing emotional work: the consequence slot is about the speaker&#x27;s trouble, so this is an ordinary way to say you depend on someone.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="r">てつだって</span><span class="j" lang="ja"><ruby>手伝<rt>てつだ</rt></ruby>って</span><span class="g">help, て-form</span></div><div class="bd-seg hit"><span class="r">&nbsp;</span><span class="j" lang="ja">くれない</span><span class="g">won&#x27;t do for me</span></div><div class="bd-seg hit"><span class="r">&nbsp;</span><span class="j" lang="ja">と</span><span class="g">if (conditional)</span></div><div class="bd-seg"><span class="r">こまる</span><span class="j" lang="ja"><ruby>困<rt>こま</rt></ruby>る</span><span class="g">I&#x27;m in trouble</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">negative + と, consequence stated</span></div></div></details></div><div class="reg"><div><div class="rlbl">casual</div><span lang="ja">もう行かないと。</span></div><div><div class="rlbl">polite</div><span lang="ja">もう行かないといけません。</span></div></div>
+
 
 *Compare:* [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
+{: .compare }
 
 ## なきゃ (truncated) { #nakya }
 
 Have to; casual contraction with the ending omitted.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">style: colloquial</span>
 
 **From:** truncation of [なきゃいけない](<nakereba-naranai.md#nakya-ikenai> "Have to do something; a casual expression of obligation")
+{: .fam }
 
 **Form:** `V-ない stem + なきゃ`
+{: .form }
 
 - **Two things have happened at once** — なければ has contracted to なきゃ,
   and the consequence has been dropped. That is why it feels twice as short as
@@ -58,25 +63,34 @@ Have to; casual contraction with the ending omitted.
 - **Speech only** — it is written down in dialogue, messages and lyrics, and
   nowhere that expects a careful register.
 
+<div class="ex"><div class="ex-jp" lang="ja">もう<ruby>帰<rt>かえ</rt></ruby>ら<span class="pat">なきゃ</span>。</div><div class="ex-en">&ldquo;I&#x27;ve gotta head home.&rdquo;</div></div>
+
+
 *Compare:* [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
+{: .compare }
 
 ## なきゃいけない { #nakya-ikenai }
 
 Have to do something; a casual expression of obligation
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">style: colloquial</span>
 
 **Truncations:** [なきゃ (truncated)](<nakereba-naranai.md#nakya> "Have to; casual contraction with the ending omitted.")
+{: .fam }
 
 *Compare:* [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
+{: .compare }
 
 ## なくちゃ { #naku-cha }
 
 Must do; casual contraction often used in spontaneous speech
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">style: colloquial</span>
 
 **Form:** `V-ない stem + なくちゃ`
+{: .form }
 
 - **The other conditional, contracted** — なくては → なくちゃ, in the same way
   なければ → なきゃ. The two are interchangeable in ordinary casual speech, and
@@ -85,10 +99,12 @@ Must do; casual contraction often used in spontaneous speech
 ## なくてもいい { #nakute-mo-ii }
 
 Need not do; grants permission to omit an action
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span>
 
 **Form:** `V-なくて + も + いい`
+{: .form }
 
 - **Not part of the obligation skeleton at all** — this is the てもいい
   permission pattern with a negative て-form. It lives on this page because it
@@ -97,35 +113,47 @@ Need not do; grants permission to omit an action
   without it" is warmer, なくてもかまわない more formal and slightly grudging.
   Same permission, three temperatures.
 
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>は<ruby>来<rt>こ</rt></ruby><span class="pat">なくてもいい</span>よ。</div><div class="ex-en">&ldquo;You don&#x27;t have to come tomorrow.&rdquo;</div></div>
+
+
 *Compare:* [てもいい・なくてもいい・なければならない・てはいけない — the obligation–permission square](<../contrasts/te-mo-ii-nakute-mo-ii-nakereba-naranai-te-wa-ikenai.md> "the obligation–permission square")
+{: .compare }
 
 ## なければ (truncated) { #nakereba }
 
 Have to; obligation with the ending omitted.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">obligation-necessity</span>
 
 **From:** truncation of [なければならない (full plain)](<nakereba-naranai.md#full-plain> "Must do; full plain-form expression of strong necessity")
+{: .fam }
 
 *Compare:* [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
+{: .compare }
 
 ## なければならない (full plain) { #full-plain }
 
 Must do; full plain-form expression of strong necessity
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">obligation-necessity</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">obligation-necessity</span>
 
 **Truncations:** [なければ (truncated)](<nakereba-naranai.md#nakereba> "Have to; obligation with the ending omitted.")
+{: .fam }
 
 *Compare:* [てもいい・なくてもいい・なければならない・てはいけない — the obligation–permission square](<../contrasts/te-mo-ii-nakute-mo-ii-nakereba-naranai-te-wa-ikenai.md> "the obligation–permission square") · [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
+{: .compare }
 
 ## なければなりません (polite) { #nakereba-narimasen }
 
 Must do; polite standard expression of necessity or obligation
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">obligation-necessity</span> <span class="card-tag">polite-marked</span>
 
 **Form:** `V-ない stem + なければなりません`
+{: .form }
 
 - **ならない and いけない are texture, not degree** — なければなりません leans
   impersonal and rule-like, the way a policy is worded; ないといけません leans
@@ -136,3 +164,4 @@ Must do; polite standard expression of necessity or obligation
   right for notices, instructions and anything read rather than heard.
 
 *Compare:* [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
+{: .compare }

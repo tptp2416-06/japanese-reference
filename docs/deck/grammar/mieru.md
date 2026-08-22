@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/mieru.md -->
 # 見える — Be visible or come into view naturally
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">ability-possibility</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">ability-possibility</span>
 
 **See also:** [可能形・ことができる](<kanoukei-koto-ga-dekiru.md> "可能形・ことができる — the two ways to say 'can'") — spontaneous perception, not potential: 見える is what 見られる cannot say
+{: .seealso }
 
 Be visible or come into view naturally; not deliberate looking
+{: .h1-gloss }

@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/betsu-ni.md -->
 # 別に — Not particularly
 
-<span class="card-tag">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">negation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">negation</span>
 
 Not particularly; often softens a negative or denies special motivation
+{: .h1-gloss }

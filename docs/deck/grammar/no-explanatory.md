@@ -5,13 +5,16 @@
 ## の (explanatory) { #explanatory }
 
 Supplies background or asks for an explanation with の.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">explanation</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">explanation</span> <span class="card-tag">style: colloquial</span>
 
 **From:** sense of [んだ (explanatory)](<n-da.md#explanatory> "Provides background, explanation, or emphasis in casual speech")
+{: .fam }
 
 ## の？ (explanatory question) { #no-q }
 
 Asks for an explanation or confirmation, with a casual conversational tone
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">explanation</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">explanation</span> <span class="card-tag">style: colloquial</span>

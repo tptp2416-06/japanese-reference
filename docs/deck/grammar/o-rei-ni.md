@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/o-rei-ni.md -->
 # お礼に — In return or as thanks
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">give-receive-benefit</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">give-receive-benefit</span>
 
 In return or as thanks; marks a reciprocal gesture
+{: .h1-gloss }

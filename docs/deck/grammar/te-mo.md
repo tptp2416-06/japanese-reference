@@ -5,11 +5,13 @@
 ## ても (even if) { #even-if }
 
 Even if something happens or holds, the result remains unchanged
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">concession</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">concession</span>
 
 ## 疑問詞＋ても (concessive) { #question-word-temo }
 
 No matter how much or what: question word plus ても; the outcome stays unchanged (いくら〜ても, どんなに〜ても)
+{: .pt-gloss }
 
-<span class="card-tag">N3</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">concession</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">concession</span>

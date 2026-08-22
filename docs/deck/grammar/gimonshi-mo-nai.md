@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/gimonshi-mo-nai.md -->
 # 疑問詞＋も〜ない — Question word plus も with a negative predicate denies every case
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">negation</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">negation</span>
 
 Question word plus も with a negative predicate denies every case: 何も nothing at all, どこにも nowhere
+{: .h1-gloss }

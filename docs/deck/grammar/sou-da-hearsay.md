@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/sou-da-hearsay.md -->
 # そうだ (hearsay) — I hear that, they say that
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">evidentiality-hearsay</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">evidentiality-hearsay</span>
 
 Reportedly; conveys information learned from another source, not direct observation. Attaches to the plain form.
+{: .h1-gloss }
 
 *Compare:* [ようだ・そうだ・らしい・みたい — appearance, inference, hearsay](<../contrasts/you-da-sou-da-rashii-mitai.md> "appearance, inference, hearsay")
+{: .compare }

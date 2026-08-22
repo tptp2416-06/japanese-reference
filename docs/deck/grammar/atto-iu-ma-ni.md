@@ -2,7 +2,7 @@
      Prose belongs in content/deck/grammar/atto-iu-ma-ni.md -->
 # あっという間に — In what feels like no time
 
-<span class="card-tag">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">duration</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">duration</span>
 
 !!! tip "At a glance"
 
@@ -12,10 +12,13 @@
 
 **See also:** [急に](<kyuu-ni.md> "急に — Suddenly") — 急に calls the event abrupt; あっという間に calls the interval short  
 [たら](<tara.md> "たら — the tara-conditional: condition, discovery, time, and suggestion") — 気づいたら is the neighbouring frame — the change noticed after the fact rather than watched
+{: .seealso }
 
 In what feels like no time; emphasizes surprisingly quick completion
+{: .h1-gloss }
 
 **Form:** `あっという間に + past-tense clause`
+{: .form }
 
 - **The literal frame is the meaning** — あっ (a startled breath) + という
   (called) + 間 (an interval) + に (within). It is fixed: the 間 slot takes no

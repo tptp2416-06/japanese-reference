@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/mo.md -->
 # も — Also or too
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span> <span class="card-tag">baseline</span>
 
 ## も (also) { #also }
 
 Also or too.
+{: .pt-gloss }

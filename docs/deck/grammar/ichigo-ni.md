@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/ichigo-ni.md -->
 # 位置語＋に — Marks a position such as above or below with に
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span> <span class="card-tag">baseline</span>
 
 ## 位置語＋に (上・下) { #ue-shita }
 
 Marks a position such as above or below with に.
+{: .pt-gloss }

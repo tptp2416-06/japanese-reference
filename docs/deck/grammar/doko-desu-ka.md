@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/doko-desu-ka.md -->
 # どこ＋ですか — Asks where someone or something is in a polite sentence
 
-<span class="card-tag">N5</span> <span class="card-tag">copular-construction</span> <span class="card-tag">interrogation</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">copular-construction</span> <span class="card-tag">interrogation</span> <span class="card-tag">polite-marked</span>
 
 ## どこ＋ですか (question word) { #question-word }
 
 Asks where someone or something is in a polite sentence
+{: .pt-gloss }

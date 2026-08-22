@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/te-shimaimashita.md -->
 # てしまいました — Completed regrettably or entirely
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">polite-marked</span>
 
 ## てしまいました (polite) { #polite }
 
 Completed regrettably or entirely; polite form often used for apology
+{: .pt-gloss }

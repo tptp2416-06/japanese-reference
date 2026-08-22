@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/yoko.md -->
 # 横 — Beside or next to something
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">lexical-item</span> <span class="card-tag">spatial-relation-movement</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">lexical-item</span> <span class="card-tag">spatial-relation-movement</span>
 
 ## 横 (position word) { #position-word }
 
 Beside or next to something; horizontal position relative to it
+{: .pt-gloss }

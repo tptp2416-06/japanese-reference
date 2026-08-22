@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/o-saki-ni.md -->
 # お先に — Before others
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">sequence</span>
 
 Before others; polite phrase used when leaving or acting first
+{: .h1-gloss }

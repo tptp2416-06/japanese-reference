@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/mae-wa.md -->
 # 前は — Previously or before
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
 
 Previously or before; contrasts an earlier situation with now
+{: .h1-gloss }
 
 **From:** compound of [は (contrast)](<wa.md#contrast> "As for this item specifically, contrasts it with another possibility")
+{: .fam }

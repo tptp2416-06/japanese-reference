@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/no-mama.md -->
 # のまま — Keeping the noun's state unchanged
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 Keeping the noun's state unchanged; without changing clothes or condition
+{: .h1-gloss }

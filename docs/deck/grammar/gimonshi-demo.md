@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/gimonshi-demo.md -->
 # 疑問詞＋でも — Anything or whatever
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">reference</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">reference</span>
 
 ## 疑問詞＋でも (何でも) { #nan-demo }
 
 Anything or whatever; question word plus でも.
+{: .pt-gloss }

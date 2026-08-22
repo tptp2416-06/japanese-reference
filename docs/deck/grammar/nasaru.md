@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/nasaru.md -->
 # なさる — Honorific verb for do
 
-<span class="card-tag">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span>
 
 Honorific verb for do; raises the person performing the action
+{: .h1-gloss }

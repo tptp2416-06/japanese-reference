@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/you-to-suru.md -->
 # ようとする — Be about to do
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 ## ようとする (about to) { #about-to }
 
 Be about to do; an attempted action is just beginning
+{: .pt-gloss }

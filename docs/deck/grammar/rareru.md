@@ -4,58 +4,72 @@
 
 **See also:** [可能形・ことができる](<kanoukei-koto-ga-dekiru.md> "可能形・ことができる — the two ways to say 'can'") — られる is potential, passive and honorific in one shape — this is the sense that shares it  
 [Transitivity](<transitivity.md> "Transitivity — transitive and intransitive verb pairs") — an English passive is usually a Japanese intransitive, not られる — the commonest substitution error
+{: .seealso }
 
 ## させられる (caus.-passive) { #saserareru }
 
 Be made or forced to do something by another person
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">verb-inflection-causative-passive</span> <span class="card-tag">affectedness-adversity</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-causative-passive</span> <span class="card-tag">affectedness-adversity</span>
 
 **Builds on:** [させる (causative)](<rareru.md#saseru> "Make or let someone do something, depending on context") · [られる (neutral passive)](<rareru.md#neutral-passive> "The subject receives an action, without implying harm or inconvenience")
+{: .fam }
 
 ## させる (causative) { #saseru }
 
 Make or let someone do something, depending on context
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">verb-inflection-causative</span> <span class="card-tag">causation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-causative</span> <span class="card-tag">causation</span>
 
 ## される (contracted caus.-passive) { #sareru }
 
 Contracted spoken form meaning be made or forced to do something
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">affectedness-adversity</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">affectedness-adversity</span>
 
 **Builds on:** [させられる (caus.-passive)](<rareru.md#saserareru> "Be made or forced to do something by another person")
+{: .fam }
 
 ## られる (adversity passive) { #adversity-passive }
 
 Someone's action affects the subject negatively or inconveniently
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">verb-inflection-passive</span> <span class="card-tag">affectedness-adversity</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-passive</span> <span class="card-tag">affectedness-adversity</span>
 
 **Builds on:** [られる (neutral passive)](<rareru.md#neutral-passive> "The subject receives an action, without implying harm or inconvenience")
+{: .fam }
 
 ## られる (intransitive adversity) { #intransitive-adversity }
 
 An intransitive event indirectly causes the subject trouble or harm
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">verb-inflection-passive</span> <span class="card-tag">affectedness-adversity</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-passive</span> <span class="card-tag">affectedness-adversity</span>
 
 **Builds on:** [られる (adversity passive)](<rareru.md#adversity-passive> "Someone's action affects the subject negatively or inconveniently")
+{: .fam }
 
 ## られる (neutral passive) { #neutral-passive }
 
 The subject receives an action, without implying harm or inconvenience
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">verb-inflection-passive</span> <span class="card-tag">affectedness-adversity</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-passive</span> <span class="card-tag">affectedness-adversity</span>
 
 **Compounds:** [言われた (passive quote)](<rareru.md#iwareta> "Was told that...; passive reported-speech form.")
+{: .fam }
 
 ## 言われた (passive quote) { #iwareta }
 
 Was told that...; passive reported-speech form.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">verb-inflection-passive</span> <span class="card-tag">reporting-quotation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">verb-inflection-passive</span> <span class="card-tag">reporting-quotation</span>
 
 **Builds on:** [られる (neutral passive)](<rareru.md#neutral-passive> "The subject receives an action, without implying harm or inconvenience")  
 **From:** compound of [られる (neutral passive)](<rareru.md#neutral-passive> "The subject receives an action, without implying harm or inconvenience")
+{: .fam }

@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/girigiri.md -->
 # ぎりぎり — Just barely
 
-<span class="card-tag">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span>
 
 Just barely; with almost no time, space, or margin remaining
+{: .h1-gloss }

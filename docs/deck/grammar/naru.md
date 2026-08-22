@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/naru.md -->
 # なる — Become
 
-<span class="card-tag">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">change-result</span>
 
 Become.
+{: .h1-gloss }
 
 *Compare:* [なる family — ways of expressing change](<../contrasts/naru-family.md> "ways of expressing change")
+{: .compare }

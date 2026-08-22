@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/yappari.md -->
 # やっぱり — As expected or after reconsideration
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">stance-evaluation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">stance-evaluation</span>
 
 As expected or after reconsideration; returns to a prior judgment
+{: .h1-gloss }

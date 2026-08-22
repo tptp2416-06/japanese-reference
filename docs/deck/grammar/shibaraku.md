@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/shibaraku.md -->
 # しばらく — For a while
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">duration</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">duration</span>
 
 For a while; an unspecified but meaningful span of time
+{: .h1-gloss }

@@ -3,44 +3,55 @@
 # たら — the tara-conditional: condition, discovery, time, and suggestion
 
 **See also:** [あっという間に](<atto-iu-ma-ni.md> "あっという間に — In what feels like no time") — 気づいたら is the neighbouring frame — the change noticed after the fact rather than watched
+{: .seealso }
 
 ## たら (conditional) { #conditional }
 
 If or when a condition is met, the following result applies
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
 
 **Builds on:** [過去形・辞書形 (plain statement)](<kakokei-jishokei.md#plain-statement> "States past or nonpast facts plainly, without polite marking")
+{: .fam }
 
 *Compare:* [たら・ば・と・なら — the conditional quartet](<../contrasts/tara-ba-to-nara.md> "the conditional quartet")
+{: .compare }
 
 ## たら (discovery) { #discovery }
 
 On doing X, discovered Y; a one-off past finding
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">sequence</span>
 
 **Builds on:** [過去形・辞書形 (plain statement)](<kakokei-jishokei.md#plain-statement> "States past or nonpast facts plainly, without polite marking")
+{: .fam }
 
 ## たら (temporal) { #temporal }
 
 When or after something happens.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">sequence</span>
 
 **Builds on:** [過去形・辞書形 (plain statement)](<kakokei-jishokei.md#plain-statement> "States past or nonpast facts plainly, without polite marking")  
 **Compounds:** [気づいたら](<tara.md#kizuitara> "Before one realizes it; sudden awareness of an already changed situation")
+{: .fam }
 
 ## たら？ (suggestion) { #tara-q }
 
 Why don't you...?; casual suggestion.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">suggestion-advice</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">suggestion-advice</span> <span class="card-tag">style: colloquial</span>
 
 ## 気づいたら { #kizuitara }
 
 Before one realizes it; sudden awareness of an already changed situation
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">sequence</span>
 
 **From:** compound of [たら (temporal)](<tara.md#temporal> "When or after something happens.")
+{: .fam }

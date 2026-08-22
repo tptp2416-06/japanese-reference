@@ -2,10 +2,12 @@
      Prose belongs in content/deck/grammar/nai-to.md -->
 # ないと — unless
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
 
 ## ないと (unless) { #unless }
 
 Unless X happens; the following outcome will not occur
+{: .pt-gloss }
 
 **Senses:** [ないと (obligation)](<nakereba-naranai.md#nai-to> "Must do; casual obligation with the consequence left unstated")
+{: .fam }

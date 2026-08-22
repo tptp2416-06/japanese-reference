@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/te-itara.md -->
 # ていたら — If someone keeps doing X
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">condition</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">condition</span>
 
 ## ていたら (progressive cond.) { #progressive-cond }
 
 If, when, or while someone is doing X, a result follows; progressive host on たら, covering both the conditional and the past-discovery readings
+{: .pt-gloss }

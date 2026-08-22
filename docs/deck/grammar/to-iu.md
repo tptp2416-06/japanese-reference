@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/to-iu.md -->
 # という — Called or named
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">reference</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">reference</span>
 
 ## という (naming) { #naming }
 
 Called or named; identifies the name or label of something
+{: .pt-gloss }

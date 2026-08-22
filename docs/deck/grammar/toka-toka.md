@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/toka-toka.md -->
 # とか〜とか — Gives representative examples such as X and Y
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span>
 
 Gives representative examples such as X and Y, without exhausting the list
+{: .h1-gloss }

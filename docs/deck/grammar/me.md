@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/me.md -->
 # 〜目 — Marks ordinal position or sequence
 
-<span class="card-tag">N3</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">sequence</span>
 
 ## 〜目 (ordinal) { #ordinal }
 
 Marks ordinal position or sequence, such as first, second, or third
+{: .pt-gloss }

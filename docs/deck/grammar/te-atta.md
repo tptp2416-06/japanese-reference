@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/te-atta.md -->
 # てあった — A deliberately created state existed in the past
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 ## てあった (past resultative) { #past-resultative }
 
 A deliberately created state existed in the past; result remained in place
+{: .pt-gloss }

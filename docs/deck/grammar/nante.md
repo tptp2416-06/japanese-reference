@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/nante.md -->
 # なんて — Something like X
 
-<span class="card-tag">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">stance-evaluation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">stance-evaluation</span>
 
 Something like X; highlights an unexpected or belittled example
+{: .h1-gloss }

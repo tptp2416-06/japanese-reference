@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/sakihodo.md -->
 # 先ほど — A short while ago
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">style: written-formal</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">style: written-formal</span>
 
 A short while ago; formal or polite reference to recent past
+{: .h1-gloss }

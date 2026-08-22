@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/tte-kao-wo-sareru.md -->
 # って顔をされる — Be given a look that says
 
-<span class="card-tag">N3</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">affectedness-adversity</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">affectedness-adversity</span> <span class="card-tag">style: colloquial</span>
 
 Be given a look that says...; quoted reaction plus adversity passive.
+{: .h1-gloss }
 
 **Builds on:** [られる (adversity passive)](<rareru.md#adversity-passive> "Someone's action affects the subject negatively or inconveniently")
+{: .fam }

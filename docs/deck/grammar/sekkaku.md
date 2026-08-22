@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/sekkaku.md -->
 # せっかく — after going to the trouble
 
-<span class="card-tag">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">stance-evaluation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">stance-evaluation</span>
 
 With special effort or a valuable opportunity; frames the situation as worth using or regrettable to waste.
+{: .h1-gloss }

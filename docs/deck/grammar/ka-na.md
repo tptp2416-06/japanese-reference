@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ka-na.md -->
 # かな — I wonder
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">style: colloquial</span>
 
 I wonder; softens a tentative thought or question.
+{: .h1-gloss }

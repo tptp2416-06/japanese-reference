@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/jaa.md -->
 # じゃあ — Then
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">cause-reason</span>
 
 ## じゃあ (conclusion) { #conclusion }
 
 Then; draws a practical conclusion from the preceding information
+{: .pt-gloss }

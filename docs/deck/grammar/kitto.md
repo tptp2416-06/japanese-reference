@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/kitto.md -->
 # きっと — Surely or certainly
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">certainty-expectation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">certainty-expectation</span>
 
 Surely or certainly; expresses strong confidence in a prediction or belief
+{: .h1-gloss }

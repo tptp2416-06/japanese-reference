@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/te-arigatou-gozaimashita.md -->
 # て＋ありがとうございました — Thanks for having done X
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">polite-marked</span>
 
 Thanks for having done X; formal past gratitude for a completed action
+{: .h1-gloss }
 
 **From:** inflection of [て＋ありがとう](<te-arigatou.md> "Thanks for doing...; て-form action followed by ありがとう.")
+{: .fam }

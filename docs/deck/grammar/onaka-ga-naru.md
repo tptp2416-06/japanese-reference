@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/onaka-ga-naru.md -->
 # お腹が鳴る — Have one's stomach rumble audibly, usually from hunger
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">fixed-expression</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">fixed-expression</span>
 
 Have one's stomach rumble audibly, usually from hunger
+{: .h1-gloss }

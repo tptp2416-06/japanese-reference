@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/sugu.md -->
 # すぐ — Immediately or right away
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">baseline</span>
 
 Immediately or right away.
+{: .h1-gloss }

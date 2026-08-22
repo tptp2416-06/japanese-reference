@@ -2,10 +2,12 @@
      Prose belongs in content/deck/grammar/no-tame-ni.md -->
 # のために — For a noun's purpose or benefit
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">purpose</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">purpose</span>
 
 ## のために (noun purpose) { #noun-purpose }
 
 For a noun's purpose or benefit; marks what preparation serves
+{: .pt-gloss }
 
 *Compare:* [ために・ように・のに・Vstem＋に — the purpose family](<../contrasts/tame-ni-you-ni-noni-vstem-ni.md> "the purpose family")
+{: .compare }

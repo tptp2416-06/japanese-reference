@@ -5,24 +5,30 @@
 ## どの〜より { #dono-yori }
 
 More than any X; compares one item against an entire set
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
 
 **From:** compound of [より (comparison)](<yori.md#comparison> "Than; marks the comparison baseline against which something differs")
+{: .fam }
 
 ## より (comparison) { #comparison }
 
 Than; marks the comparison baseline against which something differs
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
 
 **Compounds:** [どの〜より](<yori.md#dono-yori> "More than any X; compares one item against an entire set") · [より＋のほうが](<yori.md#yori-no-hou-ga> "X is more than Y; standard two-part comparative construction")
+{: .fam }
 
 ## より＋のほうが { #yori-no-hou-ga }
 
 X is more than Y; standard two-part comparative construction
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
 
 **Builds on:** [ほう](<hou.md> "The one, side, or alternative selected from a contrast")  
 **From:** compound of [より (comparison)](<yori.md#comparison> "Than; marks the comparison baseline against which something differs")
+{: .fam }

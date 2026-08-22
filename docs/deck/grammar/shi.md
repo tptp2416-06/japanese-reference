@@ -5,26 +5,33 @@
 ## し (reason listing) { #reason-listing }
 
 Lists one or more reasons, suggesting additional reasons may also exist
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
 
 **Senses:** [し (trailing)](<shi.md#trailing> "Sentence-final し trails off after giving a reason.")
+{: .fam }
 
 *Compare:* [から・ので・し — reason connectives](<../contrasts/kara-node-shi.md> "reason connectives")
+{: .compare }
 
 ## し (trailing) { #trailing }
 
 Sentence-final し trails off after giving a reason.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
 
 **From:** sense of [し (reason listing)](<shi.md#reason-listing> "Lists one or more reasons, suggesting additional reasons may also exist")  
 **Compounds:** [し〜し](<shi.md#shi-shi> "Lists multiple reasons with し repeated.")
+{: .fam }
 
 ## し〜し { #shi-shi }
 
 Lists multiple reasons with し repeated.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
 
 **From:** compound of [し (trailing)](<shi.md#trailing> "Sentence-final し trails off after giving a reason.")
+{: .fam }

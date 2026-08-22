@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/tsumori.md -->
 # つもり — Intend to do something
 
-<span class="card-tag">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
 
 Intend to do something; expresses a considered personal plan
+{: .h1-gloss }

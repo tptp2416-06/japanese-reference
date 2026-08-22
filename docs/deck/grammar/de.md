@@ -5,27 +5,33 @@
 ## で (action location) { #action-location }
 
 Marks the place where an action occurs.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span> <span class="card-tag">baseline</span>
 
 *Compare:* [に vs で — where things happen](<../contrasts/ni-vs-de.md> "where things happen")
+{: .compare }
 
 ## で (cause) { #cause }
 
 Because of a circumstance or event; marks the cause
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">cause-reason</span>
 
 ## で (instrument) { #instrument }
 
 By means of a tool, method, language, or transport
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
 
 **Compounds:** [無料で](<muryou-de.md> "Free of charge; no payment is required for the item or service")
+{: .fam }
 
 ## で (time limit) { #time-limit }
 
 In or within a stated duration, indicating how long completion takes
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">duration</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">duration</span>

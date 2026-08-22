@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/no-kaeri-ni.md -->
 # の帰りに — On the way home from X
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">duration</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">duration</span>
 
 On the way home from X; time or event during return
+{: .h1-gloss }

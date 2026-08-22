@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/koto-ga-ooi.md -->
 # ことが多い — Often do or experience something
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">frequency</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">frequency</span>
 
 Often do or experience something; describes a frequent tendency
+{: .h1-gloss }

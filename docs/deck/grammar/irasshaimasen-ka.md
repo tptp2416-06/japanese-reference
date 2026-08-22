@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/irasshaimasen-ka.md -->
 # いらっしゃいませんか — respectful "won't you come?"
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">invitation</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: respectful</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">invitation</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: respectful</span>
 
 Would you honor us by visiting? Respectful negative-question invitation
+{: .h1-gloss }

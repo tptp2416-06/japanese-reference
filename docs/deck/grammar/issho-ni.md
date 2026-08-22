@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/issho-ni.md -->
 # 一緒に — Together with
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
 
 Together with.
+{: .h1-gloss }

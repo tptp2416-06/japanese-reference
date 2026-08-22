@@ -2,10 +2,13 @@
      Prose belongs in content/deck/grammar/ni-naru.md -->
 # になる — Become X
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">change-result</span>
 
 Become X; intransitive change into a noun or na-adjective state
+{: .h1-gloss }
 
 **Builds on:** [なる](<naru.md> "Become.")
+{: .fam }
 
 *Compare:* [なる family — ways of expressing change](<../contrasts/naru-family.md> "ways of expressing change")
+{: .compare }

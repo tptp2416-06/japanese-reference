@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/nakanaka-nai.md -->
 # なかなか〜ない — Not readily
 
-<span class="card-tag">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">ability-possibility</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">ability-possibility</span>
 
 Not readily; an expected action or change proves difficult to achieve
+{: .h1-gloss }

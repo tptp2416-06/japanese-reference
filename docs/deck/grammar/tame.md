@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/tame.md -->
 # ため — Due to
 
-<span class="card-tag">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span> <span class="card-tag">style: written-formal</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span> <span class="card-tag">style: written-formal</span>
 
 ## ため (formal cause) { #formal-cause }
 
 Due to; formal written expression of an objective cause
+{: .pt-gloss }

@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/kedo.md -->
 # けど — But or though
 
-<span class="card-tag">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">contrast</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">contrast</span> <span class="card-tag">baseline</span>
 
 But or though; contrast or soft setup.
+{: .h1-gloss }

@@ -5,17 +5,21 @@
 ## ましょうか (offer) { #offer }
 
 Shall I do X? Polite offer to act on the listener's behalf
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">give-receive-benefit</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">give-receive-benefit</span> <span class="card-tag">polite-marked</span>
 
 **Builds on:** [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")  
 **From:** sense of [ましょうか (proposal)](<mashou-ka.md#proposal> "Shall we do X? Polite proposal inviting joint action")
+{: .fam }
 
 ## ましょうか (proposal) { #proposal }
 
 Shall we do X? Polite proposal inviting joint action
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">invitation</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">invitation</span> <span class="card-tag">polite-marked</span>
 
 **Builds on:** [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")  
 **Senses:** [ましょうか (offer)](<mashou-ka.md#offer> "Shall I do X? Polite offer to act on the listener's behalf")
+{: .fam }

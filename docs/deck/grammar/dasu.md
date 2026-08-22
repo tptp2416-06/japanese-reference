@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/dasu.md -->
 # 出す — Begin suddenly
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">compound-verb</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">compound-verb</span> <span class="card-tag">aspect-event-phase</span>
 
 ## 出す (sudden onset) { #sudden-onset }
 
 Begin suddenly; action starts abruptly or becomes noticeable
+{: .pt-gloss }

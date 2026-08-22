@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/to-omou.md -->
 # と思う — Think that something is true
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">stance-evaluation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">stance-evaluation</span>
 
 Think that something is true, or express an opinion or intention
+{: .h1-gloss }

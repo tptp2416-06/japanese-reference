@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/dare-no.md -->
 # 誰の — Whose? Asks which person owns or is associated with something
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">interrogation</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">interrogation</span>
 
 Whose? Asks which person owns or is associated with something
+{: .h1-gloss }

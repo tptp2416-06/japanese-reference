@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/mukashi-wa-ima-wa.md -->
 # 昔は〜今は — Previously X, but now Y
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">contrast</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">contrast</span>
 
 Previously X, but now Y; contrasts past and present states
+{: .h1-gloss }
 
 **From:** compound of [は (contrast)](<wa.md#contrast> "As for this item specifically, contrasts it with another possibility")
+{: .fam }

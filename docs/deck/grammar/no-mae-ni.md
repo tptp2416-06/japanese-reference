@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/no-mae-ni.md -->
 # の前に — Before a noun or event
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">sequence</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">sequence</span> <span class="card-tag">baseline</span>
 
 ## の前に (noun) { #noun }
 
 Before a noun or event.
+{: .pt-gloss }

@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/no-wa.md -->
 # のは — Nominalizes a clause and presents it as the sentence topic
 
-<span class="card-tag">N5</span> <span class="card-tag">nominalization</span> <span class="card-tag">topic-focus</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">nominalization</span> <span class="card-tag">topic-focus</span>
 
 ## のは (nominalized topic) { #nominalized-topic }
 
 Nominalizes a clause and presents it as the sentence topic
+{: .pt-gloss }

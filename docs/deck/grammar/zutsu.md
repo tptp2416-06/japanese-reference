@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/zutsu.md -->
 # ずつ — Each by each
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
 
 Each by each; distributes equal amounts or handles items sequentially
+{: .h1-gloss }

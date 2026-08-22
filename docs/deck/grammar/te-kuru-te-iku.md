@@ -5,33 +5,41 @@
 ## ていく (change forward) { #change-forward }
 
 Continue changing from now onward; development proceeds away from the present
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">change-result</span>
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")
+{: .fam }
 
 ## てくる (directional) { #directional }
 
 Motion or arrival toward the speaker or the deictic centre.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">spatial-relation-movement</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">spatial-relation-movement</span>
 
 **From:** sense of [てくる (gradual change)](<te-kuru-te-iku.md#gradual-change> "Change develops toward the present or becomes noticeable over time")  
 **Compounds:** [行ってくる](<te-kuru-te-iku.md#itte-kuru> "Go somewhere and return; a round trip viewed as a single unit")
+{: .fam }
 
 ## てくる (gradual change) { #gradual-change }
 
 Change develops toward the present or becomes noticeable over time
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">change-result</span>
 
 **Compounds:** [てくる (directional)](<te-kuru-te-iku.md#directional> "Motion or arrival toward the speaker or the deictic centre.")  
 **Senses:** [てくる (directional)](<te-kuru-te-iku.md#directional> "Motion or arrival toward the speaker or the deictic centre.")
+{: .fam }
 
 ## 行ってくる { #itte-kuru }
 
 Go somewhere and return; a round trip viewed as a single unit
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">spatial-relation-movement</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">spatial-relation-movement</span>
 
 **From:** compound of [てくる (directional)](<te-kuru-te-iku.md#directional> "Motion or arrival toward the speaker or the deictic centre.")
+{: .fam }

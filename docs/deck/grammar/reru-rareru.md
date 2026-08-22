@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/reru-rareru.md -->
 # （ら）れる — honorific passive-shaped form
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">verb-inflection-passive</span> <span class="card-tag">keigo: respectful</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-passive</span> <span class="card-tag">keigo: respectful</span>
 
 Honorific passive-shaped form; respectfully describes a higher-status person's action
+{: .h1-gloss }
 
 **Builds on:** [られる (neutral passive)](<rareru.md#neutral-passive> "The subject receives an action, without implying harm or inconvenience")
+{: .fam }

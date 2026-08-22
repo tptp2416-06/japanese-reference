@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ichido-mo-nai.md -->
 # 一度も〜ない — Not even once
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">negation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">negation</span>
 
 Not even once; combines with a negative predicate for zero occurrences
+{: .h1-gloss }

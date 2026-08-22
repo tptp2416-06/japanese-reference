@@ -3,31 +3,38 @@
 # てはいけない — must not, with the ちゃだめ contractions
 
 Must not do something; states prohibition or unacceptability
+{: .h1-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">prohibition</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">prohibition</span>
 
 *Compare:* [てもいい・なくてもいい・なければならない・てはいけない — the obligation–permission square](<../contrasts/te-mo-ii-nakute-mo-ii-nakereba-naranai-te-wa-ikenai.md> "the obligation–permission square")
+{: .compare }
 
 ## ちゃいけない (contraction) { #cha-ikenai }
 
 Must not do; casual contraction of てはいけない.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">prohibition</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">prohibition</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
 
 **Builds on:** [てはいけない](<te-wa-ikenai.md> "Must not do something; states prohibition or unacceptability")  
 **Senses:** [ちゃだめ](<te-wa-ikenai.md#cha-dame> "Must not do; casual prohibition often directed at another person")
+{: .fam }
 
 ## ちゃだめ { #cha-dame }
 
 Must not do; casual prohibition often directed at another person
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">prohibition</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">prohibition</span> <span class="card-tag">style: colloquial</span>
 
 **Builds on:** [てはいけない](<te-wa-ikenai.md> "Must not do something; states prohibition or unacceptability")  
 **From:** sense of [ちゃいけない (contraction)](<te-wa-ikenai.md#cha-ikenai> "Must not do; casual contraction of てはいけない.")
+{: .fam }
 
 ## てはいけません (polite) { #te-wa-ikemasen }
 
 Must not do; formal or polite prohibition against an action
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">prohibition</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">prohibition</span> <span class="card-tag">polite-marked</span>

@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/wake-de-wa-nai.md -->
 # わけではない — Not necessarily or not entirely X
 
-<span class="card-tag">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">negation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">negation</span>
 
 Not necessarily or not entirely X; partially denies an assumed conclusion
+{: .h1-gloss }

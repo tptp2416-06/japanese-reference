@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/nen-no-tame.md -->
 # 念のため — Just in case
 
-<span class="card-tag">N3</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">purpose</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">purpose</span>
 
 Just in case; precaution taken despite low or uncertain risk
+{: .h1-gloss }

@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/moshi.md -->
 # もし — If
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">condition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">condition</span>
 
 If; optional adverb introducing a condition.
+{: .h1-gloss }

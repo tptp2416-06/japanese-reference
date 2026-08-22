@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/sei-de.md -->
 # せいで — Because of an unfavorable cause
 
-<span class="card-tag">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
 
 Because of an unfavorable cause; assigns blame for a negative result
+{: .h1-gloss }

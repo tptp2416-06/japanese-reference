@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/sasete-kudasai.md -->
 # させてください — Please let me do something
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span>
 
 Please let me do something; requests permission for the speaker's action
+{: .h1-gloss }
 
 **Builds on:** [させる (causative)](<rareru.md#saseru> "Make or let someone do something, depending on context")
+{: .fam }

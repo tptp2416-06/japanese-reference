@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/nonbiri.md -->
 # のんびり — Relax at an unhurried pace
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span>
 
 Relax at an unhurried pace; leisurely and without pressure
+{: .h1-gloss }

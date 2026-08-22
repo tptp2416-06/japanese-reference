@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/totemo.md -->
 # とても — Very
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span> <span class="card-tag">baseline</span>
 
 Very.
+{: .h1-gloss }

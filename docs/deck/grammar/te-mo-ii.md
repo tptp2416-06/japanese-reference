@@ -5,26 +5,33 @@
 ## てもいい？ { #te-mo-ii-q }
 
 May I do...?; casual permission question.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span> <span class="card-tag">style: colloquial</span>
 
 **Elaborations:** [てもよろしいでしょうか](<te-mo-ii.md#te-mo-yoroshii-deshou-ka> "May I do...?; formal softened permission request.") · [てもよろしいですか](<te-mo-ii.md#te-mo-yoroshii-desu-ka> "May I do this? Highly polite request for permission")
+{: .fam }
 
 *Compare:* [てもいい・なくてもいい・なければならない・てはいけない — the obligation–permission square](<../contrasts/te-mo-ii-nakute-mo-ii-nakereba-naranai-te-wa-ikenai.md> "the obligation–permission square")
+{: .compare }
 
 ## てもよろしいでしょうか { #te-mo-yoroshii-deshou-ka }
 
 May I do...?; formal softened permission request.
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span> <span class="card-tag">polite-marked</span> <span class="card-tag">style: written-formal</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span> <span class="card-tag">polite-marked</span> <span class="card-tag">style: written-formal</span>
 
 **From:** elaboration of [てもいい？](<te-mo-ii.md#te-mo-ii-q> "May I do...?; casual permission question.")  
 **Inflections:** [てもよろしいですか](<te-mo-ii.md#te-mo-yoroshii-desu-ka> "May I do this? Highly polite request for permission")
+{: .fam }
 
 ## てもよろしいですか { #te-mo-yoroshii-desu-ka }
 
 May I do this? Highly polite request for permission
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span> <span class="card-tag">polite-marked</span>
 
 **From:** inflection of [てもよろしいでしょうか](<te-mo-ii.md#te-mo-yoroshii-deshou-ka> "May I do...?; formal softened permission request.")
+{: .fam }

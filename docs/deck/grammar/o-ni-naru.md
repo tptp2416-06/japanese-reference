@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/o-ni-naru.md -->
 # お〜になる — the honorific お〜になる
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">keigo: respectful</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">keigo: respectful</span>
 
 ## お〜になる (honorific) { #honorific }
 
 Respectfully describes an action performed by a socially superior person
+{: .pt-gloss }

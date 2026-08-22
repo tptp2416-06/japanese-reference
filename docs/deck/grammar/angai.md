@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/angai.md -->
 # 案外 — Unexpectedly or contrary to assumption
 
-<span class="card-tag">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">stance-evaluation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">stance-evaluation</span>
 
 Unexpectedly or contrary to assumption; outcome differs from expectation
+{: .h1-gloss }

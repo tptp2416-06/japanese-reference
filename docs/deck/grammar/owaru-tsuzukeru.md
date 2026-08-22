@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/owaru-tsuzukeru.md -->
 # 終わる-続ける — Finish or continue doing an action
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">compound-verb</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">compound-verb</span> <span class="card-tag">aspect-event-phase</span>
 
 ## 終わる／続ける { #owaru-tsuzukeru }
 
 Finish or continue doing an action, attached after the verb stem
+{: .pt-gloss }

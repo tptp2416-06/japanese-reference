@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/naosu.md -->
 # 直す — Do the action again or correctly
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">compound-verb</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">compound-verb</span> <span class="card-tag">aspect-event-phase</span>
 
 Do the action again or correctly; productive compound-verb suffix
+{: .h1-gloss }

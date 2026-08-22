@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/mae-ni.md -->
 # 前に — A stated duration before another time or event
 
-<span class="card-tag">N5</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">sequence</span>
 
 ## 前に (duration) { #duration }
 
 A stated duration before another time or event
+{: .pt-gloss }

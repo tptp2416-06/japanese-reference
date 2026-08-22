@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/katte-ni.md -->
 # 勝手に — Without permission or on one's own initiative
 
-<span class="card-tag">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span>
 
 Without permission or on one's own initiative; often disapproving
+{: .h1-gloss }

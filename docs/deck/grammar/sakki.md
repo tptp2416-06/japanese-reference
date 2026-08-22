@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/sakki.md -->
 # さっき — A short while ago
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
 
 A short while ago; earlier in the same general period
+{: .h1-gloss }

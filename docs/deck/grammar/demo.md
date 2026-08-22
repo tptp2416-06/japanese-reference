@@ -5,17 +5,20 @@
 ## でも (concessive) { #concessive }
 
 Even if X; concessive condition whose result remains unchanged
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">concession</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">concession</span>
 
 ## でも (sentence-initial contrast) { #sentence-initial-contrast }
 
 But or however; begins a sentence that contrasts with the previous one
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">contrast</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">contrast</span>
 
 ## でも (suggestion) { #suggestion }
 
 Something like X; offers a low-pressure example or suggestion
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">suggestion-advice</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">suggestion-advice</span>

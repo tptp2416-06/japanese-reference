@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/koto.md -->
 # こと — Nominalizes a clause as a fact, matter, or thing
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">nominalization</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">nominalization</span>
 
 Nominalizes a clause as a fact, matter, or thing.
+{: .h1-gloss }
 
 *Compare:* [こと vs の — the nominalizers](<../contrasts/koto-vs-no.md> "the nominalizers")
+{: .compare }

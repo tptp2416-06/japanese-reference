@@ -5,11 +5,13 @@
 ## 疑問詞＋か (embedded question) { #embedded-question }
 
 Embeds a content question inside a larger statement or question
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">interrogation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">interrogation</span>
 
 ## 疑問詞＋か (indefinite) { #indefinite }
 
 Question word plus か makes an indefinite: 何か something, どこか somewhere, 誰か someone, いつか someday
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">reference</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">reference</span>

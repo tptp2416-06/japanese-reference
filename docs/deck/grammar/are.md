@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/are.md -->
 # あれ — That one over there
 
-<span class="card-tag">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">reference</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">reference</span>
 
 That one over there, or an interjection noticing something unexpected
+{: .h1-gloss }

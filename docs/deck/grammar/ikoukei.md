@@ -3,52 +3,64 @@
 # 意向形 — the volitional: intention, invitation, and ましょう
 
 Let's do something, or I will do it; expresses volition or suggestion
+{: .h1-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">intention-volition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">intention-volition</span>
 
 **Inflections:** [ましょう](<ikoukei.md#mashou> "Let's do...; polite volitional invitation.")  
 **Compounds:** [意向形＋か](<ikoukei.md#ikoukei-ka> "Shall I or shall we? Casual proposal formed with the volitional") · [意向形＋と思っている](<ikoukei.md#ikoukei-to-omotte-iru> "Be thinking of doing; volitional form plus と思っている.") · [意向形＋よ](<ikoukei.md#ikoukei-yo> "Let's do X; volitional plus emphatic particle encourages joint action")
+{: .fam }
 
 ## ましょう { #mashou }
 
 Let's do...; polite volitional invitation.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">invitation</span> <span class="card-tag">polite-marked</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">invitation</span> <span class="card-tag">polite-marked</span> <span class="card-tag">baseline</span>
 
 **Builds on:** [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")  
 **From:** inflection of [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")
+{: .fam }
 
 ## 意向形＋か { #ikoukei-ka }
 
 Shall I or shall we? Casual proposal formed with the volitional
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">invitation</span> <span class="card-tag">plain-marked</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">invitation</span> <span class="card-tag">plain-marked</span>
 
 **Builds on:** [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")  
 **From:** compound of [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")
+{: .fam }
 
 ## 意向形＋と思っていた { #ikoukei-to-omotte-ita }
 
 Had been thinking of doing X; earlier intention viewed retrospectively
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
 
 **Builds on:** [意向形＋と思っている](<ikoukei.md#ikoukei-to-omotte-iru> "Be thinking of doing; volitional form plus と思っている.")
+{: .fam }
 
 ## 意向形＋と思っている { #ikoukei-to-omotte-iru }
 
 Be thinking of doing; volitional form plus と思っている.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
 
 **Builds on:** [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")  
 **From:** compound of [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")
+{: .fam }
 
 ## 意向形＋よ { #ikoukei-yo }
 
 Let's do X; volitional plus emphatic particle encourages joint action
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">invitation</span> <span class="card-tag">plain-marked</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">invitation</span> <span class="card-tag">plain-marked</span>
 
 **Builds on:** [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")  
 **From:** compound of [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")
+{: .fam }

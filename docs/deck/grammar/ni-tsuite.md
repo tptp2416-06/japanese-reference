@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ni-tsuite.md -->
 # について — Regarding X
 
-<span class="card-tag">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">topic-focus</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">topic-focus</span>
 
 Regarding X; marks the topic or subject under discussion
+{: .h1-gloss }

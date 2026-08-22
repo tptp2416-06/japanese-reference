@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/suu-nin-de.md -->
 # 数＋人＋で — A group of a stated number performs an action together
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">manner-means</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">manner-means</span>
 
 ## 数＋人＋で (group) { #group }
 
 A group of a stated number performs an action together
+{: .pt-gloss }

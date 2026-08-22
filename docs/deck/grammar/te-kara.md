@@ -5,13 +5,16 @@
 ## てから (after doing) { #after-doing }
 
 After completing one action, then perform the following action
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">sequence</span>
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")
+{: .fam }
 
 ## てから (durative) { #durative }
 
 The time elapsed since an action or event began
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">duration</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">duration</span>

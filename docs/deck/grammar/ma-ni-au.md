@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ma-ni-au.md -->
 # 間に合う — Be in time or make a deadline
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">lexical-item</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">lexical-item</span> <span class="card-tag">sequence</span>
 
 Be in time or make a deadline; arrive before it is too late
+{: .h1-gloss }

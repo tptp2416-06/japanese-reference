@@ -3,11 +3,13 @@
 # 必要がある — need to, and 必要はない
 
 There is a need to do X; states objective necessity
+{: .h1-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">obligation-necessity</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">obligation-necessity</span>
 
 ## 必要はない { #hitsuyou-wa-nai }
 
 There is no need to do X; denies necessity
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">obligation-necessity</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">obligation-necessity</span>

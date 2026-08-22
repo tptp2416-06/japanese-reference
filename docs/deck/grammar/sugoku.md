@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/sugoku.md -->
 # すごく — Very or really
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span> <span class="card-tag">baseline</span>
 
 Very or really; casual intensifier.
+{: .h1-gloss }

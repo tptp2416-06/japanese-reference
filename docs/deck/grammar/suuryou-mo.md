@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/suuryou-mo.md -->
 # 数量＋も — As many or much as the stated quantity, expressing surprise
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
 
 ## 数量＋も (surprise) { #surprise }
 
 As many or much as the stated quantity, expressing surprise
+{: .pt-gloss }

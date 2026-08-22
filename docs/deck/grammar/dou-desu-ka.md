@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/dou-desu-ka.md -->
 # どうですか — How about it? Asks an opinion
 
-<span class="card-tag">N5</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">invitation</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">invitation</span> <span class="card-tag">polite-marked</span>
 
 How about it? Asks an opinion, makes an offer, or proposes an activity
+{: .h1-gloss }

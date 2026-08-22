@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/nai-q.md -->
 # ない？ — Won't you...?
 
-<span class="card-tag">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">invitation</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">invitation</span> <span class="card-tag">style: colloquial</span>
 
 ## ない？ (invitation) { #invitation }
 
 Won't you...?; casual invitation.
+{: .pt-gloss }

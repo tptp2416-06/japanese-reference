@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/naa.md -->
 # なあ — Sentence-final reflection or emotion
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">stance-evaluation</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">stance-evaluation</span> <span class="card-tag">style: colloquial</span>
 
 Sentence-final reflection or emotion, often sounding wistful, impressed, or self-directed
+{: .h1-gloss }

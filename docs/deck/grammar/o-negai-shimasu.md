@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/o-negai-shimasu.md -->
 # お願いします — Please
 
-<span class="card-tag">N5</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">request</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">request</span> <span class="card-tag">polite-marked</span>
 
 Please; standard polite formula for making requests or entrusting something
+{: .h1-gloss }

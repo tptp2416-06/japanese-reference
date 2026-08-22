@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/nanbai-mo.md -->
 # 何倍も — Many times as much
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">comparison</span>
 
 Many times as much; emphatically compares a multiple in degree
+{: .h1-gloss }
 
 **From:** compound of [Counters](<counters.md> "Japanese counts nouns with a classifier chosen by the kind of thing counted, and the reading often changes with the number.")
+{: .fam }

@@ -2,10 +2,12 @@
      Prose belongs in content/deck/grammar/deshou.md -->
 # でしょう — Probably will
 
-<span class="card-tag">N5</span> <span class="card-tag">copular-construction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">copular-construction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">polite-marked</span>
 
 ## でしょう (prediction) { #prediction }
 
 Probably will; polite prediction based on expectation or reasoning
+{: .pt-gloss }
 
 *Compare:* [かもしれない・だろう・でしょう・はず — the certainty ladder](<../contrasts/kamo-shirenai-darou-deshou-hazu.md> "the certainty ladder")
+{: .compare }

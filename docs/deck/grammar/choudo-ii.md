@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/choudo-ii.md -->
 # ちょうどいい — Just right or exactly suitable
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">stance-evaluation</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">stance-evaluation</span> <span class="card-tag">baseline</span>
 
 Just right or exactly suitable.
+{: .h1-gloss }

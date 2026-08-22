@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/enryo-naku.md -->
 # 遠慮なく — Without hesitation or reserve
 
-<span class="card-tag">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
 
 Without hesitation or reserve.
+{: .h1-gloss }

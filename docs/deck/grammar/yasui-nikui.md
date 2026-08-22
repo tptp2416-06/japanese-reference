@@ -5,11 +5,13 @@
 ## にくい { #nikui }
 
 Difficult to do because the action itself is hard
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">ability-possibility</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">ability-possibility</span>
 
 ## やすい { #yasui }
 
 Easy to do because the action itself is readily performed
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">ability-possibility</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">ability-possibility</span>

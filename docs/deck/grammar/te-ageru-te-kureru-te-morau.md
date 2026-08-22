@@ -5,124 +5,153 @@
 ## てあげたら { #te-agetara }
 
 If or when you do something for someone; also a casual suggestion — 手伝ってあげたら？ (why not help them?).
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span>
 
 ## てあげる { #te-ageru }
 
 Do something for someone else as a favor from the giver's viewpoint
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span>
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")
+{: .fam }
 
 *Compare:* [あげる・くれる・もらう — giving and receiving](<../contrasts/ageru-kureru-morau.md> "giving and receiving")
+{: .compare }
 
 ## ていただく (auxiliary) { #te-itadaku }
 
 Receive someone's action respectfully; humble auxiliary for benefactive service
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span> <span class="card-tag">keigo: humble</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span> <span class="card-tag">keigo: humble</span>
 
 **Builds on:** [てもらう (service)](<te-ageru-te-kureru-te-morau.md#te-morau> "Have someone perform a service for the speaker or beneficiary")  
 **Elaborations:** [ていただけないでしょうか](<te-ageru-te-kureru-te-morau.md#te-itadakenai-deshou-ka> "Could you possibly do this for me? A highly deferential request") · [ていただけますか](<te-ageru-te-kureru-te-morau.md#te-itadakemasu-ka> "Could you do this for me? A polite, deferential request") · [ていただけませんか](<te-ageru-te-kureru-te-morau.md#te-itadakemasen-ka> "Could you please do this? Very polite, indirect request")
+{: .fam }
 
 ## ていただけないでしょうか { #te-itadakenai-deshou-ka }
 
 Could you possibly do this for me? A highly deferential request
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: humble</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: humble</span>
 
 **Builds on:** [ていただく (auxiliary)](<te-ageru-te-kureru-te-morau.md#te-itadaku> "Receive someone's action respectfully; humble auxiliary for benefactive service")  
 **From:** elaboration of [ていただく (auxiliary)](<te-ageru-te-kureru-te-morau.md#te-itadaku> "Receive someone's action respectfully; humble auxiliary for benefactive service")
+{: .fam }
 
 ## ていただけますか { #te-itadakemasu-ka }
 
 Could you do this for me? A polite, deferential request
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: humble</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: humble</span>
 
 **Builds on:** [ていただく (auxiliary)](<te-ageru-te-kureru-te-morau.md#te-itadaku> "Receive someone's action respectfully; humble auxiliary for benefactive service")  
 **From:** elaboration of [ていただく (auxiliary)](<te-ageru-te-kureru-te-morau.md#te-itadaku> "Receive someone's action respectfully; humble auxiliary for benefactive service")
+{: .fam }
 
 ## ていただけませんか { #te-itadakemasen-ka }
 
 Could you please do this? Very polite, indirect request
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: humble</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: humble</span>
 
 **Builds on:** [ていただく (auxiliary)](<te-ageru-te-kureru-te-morau.md#te-itadaku> "Receive someone's action respectfully; humble auxiliary for benefactive service")  
 **From:** elaboration of [ていただく (auxiliary)](<te-ageru-te-kureru-te-morau.md#te-itadaku> "Receive someone's action respectfully; humble auxiliary for benefactive service")
+{: .fam }
 
 ## てくださる (auxiliary) { #te-kudasaru }
 
 A respected person kindly does something for the speaker or in-group
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span> <span class="card-tag">keigo: respectful</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span> <span class="card-tag">keigo: respectful</span>
 
 ## てくれない (negative benefactive) { #te-kurenai }
 
 Someone does not do something for the speaker, often with mild complaint.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span>
 
 **Builds on:** [てくれる](<te-ageru-te-kureru-te-morau.md#te-kureru> "Someone does something benefiting the speaker or their in-group")  
 **From:** inflection of [てくれる](<te-ageru-te-kureru-te-morau.md#te-kureru> "Someone does something benefiting the speaker or their in-group")
+{: .fam }
 
 ## てくれない？ { #te-kurenai-q }
 
 Won't you do this for me? Casual negative-question request
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">style: colloquial</span>
 
 **Builds on:** [てくれる](<te-ageru-te-kureru-te-morau.md#te-kureru> "Someone does something benefiting the speaker or their in-group")  
 **From:** inflection of [てくれる](<te-ageru-te-kureru-te-morau.md#te-kureru> "Someone does something benefiting the speaker or their in-group")
+{: .fam }
 
 ## てくれる { #te-kureru }
 
 Someone does something benefiting the speaker or their in-group
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span>
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")  
 **Inflections:** [てくれない (negative benefactive)](<te-ageru-te-kureru-te-morau.md#te-kurenai> "Someone does not do something for the speaker, often with mild complaint.") · [てくれない？](<te-ageru-te-kureru-te-morau.md#te-kurenai-q> "Won't you do this for me? Casual negative-question request")
+{: .fam }
 
 *Compare:* [あげる・くれる・もらう — giving and receiving](<../contrasts/ageru-kureru-morau.md> "giving and receiving")
+{: .compare }
 
 ## てくれる？ (casual request) { #te-kureru-q }
 
 Will you do this for me? A casual request expecting goodwill
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">style: colloquial</span>
 
 **Builds on:** [てくれる](<te-ageru-te-kureru-te-morau.md#te-kureru> "Someone does something benefiting the speaker or their in-group")
+{: .fam }
 
 ## てもらう (service) { #te-morau }
 
 Have someone perform a service for the speaker or beneficiary
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span>
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")  
 **Inflections:** [てもらえない？](<te-ageru-te-kureru-te-morau.md#te-moraenai-q> "Could you do it for me?; casual negative favor request.")  
 **Elaborations:** [てもらえますか](<te-ageru-te-kureru-te-morau.md#te-moraemasu-ka> "Could you do this for me? Polite request for a service")
+{: .fam }
 
 *Compare:* [あげる・くれる・もらう — giving and receiving](<../contrasts/ageru-kureru-morau.md> "giving and receiving")
+{: .compare }
 
 ## てもらえない？ { #te-moraenai-q }
 
 Could you do it for me?; casual negative favor request.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">style: colloquial</span>
 
 **Builds on:** [てもらう (service)](<te-ageru-te-kureru-te-morau.md#te-morau> "Have someone perform a service for the speaker or beneficiary")  
 **From:** inflection of [てもらう (service)](<te-ageru-te-kureru-te-morau.md#te-morau> "Have someone perform a service for the speaker or beneficiary")
+{: .fam }
 
 ## てもらえますか { #te-moraemasu-ka }
 
 Could you do this for me? Polite request for a service
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span> <span class="card-tag">polite-marked</span>
 
 **Builds on:** [てもらう (service)](<te-ageru-te-kureru-te-morau.md#te-morau> "Have someone perform a service for the speaker or beneficiary")  
 **From:** elaboration of [てもらう (service)](<te-ageru-te-kureru-te-morau.md#te-morau> "Have someone perform a service for the speaker or beneficiary")
+{: .fam }

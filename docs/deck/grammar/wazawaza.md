@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/wazawaza.md -->
 # わざわざ — Deliberately taking extra trouble
 
-<span class="card-tag">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">adverb</span> <span class="card-tag">manner-means</span>
 
 Deliberately taking extra trouble; emphasizes effort beyond what was necessary
+{: .h1-gloss }

@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/kikoeru.md -->
 # 聞こえる — Can be heard
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">ability-possibility</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">ability-possibility</span>
 
 **See also:** [可能形・ことができる](<kanoukei-koto-ga-dekiru.md> "可能形・ことができる — the two ways to say 'can'") — spontaneous perception, not potential: 聞こえる is what 聞ける cannot say
+{: .seealso }
 
 Can be heard; describes natural audibility rather than deliberate listening
+{: .h1-gloss }

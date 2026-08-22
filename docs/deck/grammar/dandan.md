@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/dandan.md -->
 # だんだん — Gradually
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">change-result</span>
 
 Gradually; change proceeds step by step over time
+{: .h1-gloss }

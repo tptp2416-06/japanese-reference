@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/nanka.md -->
 # なんか — Something like X, or a dismissive filler
 
-<span class="card-tag">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">stance-evaluation</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">stance-evaluation</span> <span class="card-tag">style: colloquial</span>
 
 Something like X, or a dismissive filler; highly casual and context-sensitive
+{: .h1-gloss }

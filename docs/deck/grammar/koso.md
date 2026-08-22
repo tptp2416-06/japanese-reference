@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/koso.md -->
 # こそ — Precisely or especially this time
 
-<span class="card-tag">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">topic-focus</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">topic-focus</span>
 
 Precisely X; emphatic focus on the marked item.
+{: .h1-gloss }

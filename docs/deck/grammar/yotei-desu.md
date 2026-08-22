@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/yotei-desu.md -->
 # 予定です — Polite expression of a planned future action or event
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span> <span class="card-tag">polite-marked</span>
 
 Polite expression of a planned future action or event
+{: .h1-gloss }
 
 **From:** inflection of [予定だ (plan)](<yotei-da.md#plan> "Plan to do; states an intended future action")
+{: .fam }

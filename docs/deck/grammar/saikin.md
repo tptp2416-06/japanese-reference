@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/saikin.md -->
 # 最近 — Recently or lately
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">baseline</span>
 
 Recently or lately.
+{: .h1-gloss }

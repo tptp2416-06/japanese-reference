@@ -3,13 +3,16 @@
 # だけ — only, just
 
 Only or just; limits the statement to the marked item or amount
+{: .h1-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">restriction-limitation</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">restriction-limitation</span>
 
 *Compare:* [だけ・しか〜ない・ばかり — only and just](<../contrasts/dake-shika-nai-bakari.md> "only and just")
+{: .compare }
 
 ## だけで { #dake-de }
 
 Simply by doing X; the stated condition alone is sufficient
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">restriction-limitation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">restriction-limitation</span>

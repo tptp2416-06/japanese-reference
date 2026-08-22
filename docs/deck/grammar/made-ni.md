@@ -10,12 +10,15 @@
     completion to place before the line.
 
 By a deadline; the action must occur no later than that time
+{: .h1-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">sequence</span>
 
 **Compounds:** [までには](<made-ni.md#made-ni-wa> "No later than the stated deadline, with emphasis — by X at the latest.")
+{: .fam }
 
 **Form:** `N + までに` · `V-dict + までに`
+{: .form }
 
 - **A ceiling, not a stretch** — 5時までに帰る is home by five: four o'clock
   satisfies it, five o'clock still satisfies it, and the hours before it are
@@ -31,16 +34,20 @@ By a deadline; the action must occur no later than that time
   around it.
 
 *Compare:* [まで vs までに — extent vs deadline](<../contrasts/made-vs-made-ni.md> "extent vs deadline")
+{: .compare }
 
 ## までには { #made-ni-wa }
 
 No later than the stated deadline, with emphasis — by X at the latest.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">sequence</span>
 
 **From:** compound of [までに](<made-ni.md> "By a deadline; the action must occur no later than that time")
+{: .fam }
 
 **Form:** `N + までには`
+{: .form }
 
 - **The は makes the deadline the topic, and topics contrast** —
   金曜までには終わります reads as "by Friday at the latest", implicitly

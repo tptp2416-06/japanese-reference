@@ -3,19 +3,23 @@
 # はず — supposed to be, and はずがない / はずだった
 
 Should be or is expected to be; confident expectation from evidence
+{: .h1-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">certainty-expectation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">certainty-expectation</span>
 
 *Compare:* [かもしれない・だろう・でしょう・はず — the certainty ladder](<../contrasts/kamo-shirenai-darou-deshou-hazu.md> "the certainty ladder")
+{: .compare }
 
 ## はずがない { #hazu-ga-nai }
 
 Cannot possibly be; rejects an expectation as logically impossible
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">certainty-expectation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">certainty-expectation</span>
 
 ## はずだった { #hazu-datta }
 
 Was supposed or expected to happen, but circumstances changed
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">certainty-expectation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">certainty-expectation</span>

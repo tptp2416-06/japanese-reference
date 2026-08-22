@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/yatto.md -->
 # やっと — Finally, after delay or effort
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">aspect-event-phase</span>
 
 Finally, after delay or effort; desired result is eventually reached
+{: .h1-gloss }

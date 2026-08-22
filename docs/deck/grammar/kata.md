@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/kata.md -->
 # 方 — Polite noun meaning person
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: respectful</span> <span class="card-tag">baseline</span>
 
 ## 方 (polite person) { #polite-person }
 
 Polite noun meaning person.
+{: .pt-gloss }

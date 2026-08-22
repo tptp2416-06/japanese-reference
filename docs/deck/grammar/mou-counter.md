@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/mou-counter.md -->
 # もう＋counter — One more unit of something
 
-<span class="card-tag">N5</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">quantity-degree</span>
 
 ## もう＋counter (one more) { #one-more }
 
 One more unit of something; requests or adds an additional quantity
+{: .pt-gloss }

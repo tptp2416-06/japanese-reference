@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/tokoro-de.md -->
 # ところで — By the way
 
-<span class="card-tag">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">topic-focus</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">topic-focus</span>
 
 ## ところで (topic shift) { #topic-shift }
 
 By the way; shifts to a new, loosely related topic
+{: .pt-gloss }

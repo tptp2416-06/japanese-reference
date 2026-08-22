@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/dou-shite.md -->
 # どうして — Why? Asks for the reason or cause of a situation
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">adverb</span> <span class="card-tag">interrogation</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">adverb</span> <span class="card-tag">interrogation</span>
 
 Why? Asks for the reason or cause of a situation
+{: .h1-gloss }

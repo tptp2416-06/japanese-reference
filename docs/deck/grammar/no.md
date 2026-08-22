@@ -5,34 +5,43 @@
 ## の (nominalizer) { #nominalizer }
 
 Turns a clause into an activity or thing with の.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">nominalization</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">nominalization</span>
 
 **From:** sense of [の (possession, noun omitted)](<no-modifier.md#possession-noun-omitted> "One belonging to someone; replaces an understood possessed noun")  
 **Compounds:** [のが](<no.md#no-ga> "Nominalizes a clause before subject or focus particle が") · [のが好き](<no.md#no-ga-suki> "Like doing X; nominalizes the preferred activity as the subject") · [のを忘れる](<no.md#no-wo-wasureru> "Forget to do X; omits the nominalized action unintentionally")
+{: .fam }
 
 *Compare:* [こと vs の — the nominalizers](<../contrasts/koto-vs-no.md> "the nominalizers")
+{: .compare }
 
 ## のが { #no-ga }
 
 Nominalizes a clause before subject or focus particle が
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">nominalization</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">nominalization</span>
 
 **From:** compound of [の (nominalizer)](<no.md#nominalizer> "Turns a clause into an activity or thing with の.")
+{: .fam }
 
 ## のが好き { #no-ga-suki }
 
 Like doing X; nominalizes the preferred activity as the subject
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">nominalization</span> <span class="card-tag">stance-evaluation</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">nominalization</span> <span class="card-tag">stance-evaluation</span>
 
 **From:** compound of [の (nominalizer)](<no.md#nominalizer> "Turns a clause into an activity or thing with の.")
+{: .fam }
 
 ## のを忘れる { #no-wo-wasureru }
 
 Forget to do X; omits the nominalized action unintentionally
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">nominalization</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">nominalization</span>
 
 **From:** compound of [の (nominalizer)](<no.md#nominalizer> "Turns a clause into an activity or thing with の.")
+{: .fam }

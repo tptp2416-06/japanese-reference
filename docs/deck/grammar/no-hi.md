@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/no-hi.md -->
 # の日 — The day designated for X
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">reference</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">reference</span>
 
 The day designated for X; noun modifier identifying a scheduled category
+{: .h1-gloss }

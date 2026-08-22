@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/de-gozaimasu.md -->
 # でございます — Highly formal copula equivalent to です
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">copular-construction</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: courteous</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">copular-construction</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: courteous</span>
 
 Highly formal copula equivalent to です, common in service language
+{: .h1-gloss }

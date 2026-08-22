@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/te-ne.md -->
 # てね — Do this
 
-<span class="card-tag">N5</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">request</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">request</span> <span class="card-tag">style: colloquial</span>
 
 Do this, okay? Soft casual request seeking cooperative follow-through
+{: .h1-gloss }
 
 **From:** compound of [て形 (request)](<tekei.md#request> "Makes a casual request with the bare て-form.")
+{: .fam }

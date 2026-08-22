@@ -2,12 +2,15 @@
      Prose belongs in content/deck/grammar/mitai-da.md -->
 # みたいだ — Seems that
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">conjecture-inference</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">conjecture-inference</span>
 
 ## みたいだ (conjecture) { #conjecture }
 
 Seems that; plain conjecture from indirect evidence or appearance
+{: .pt-gloss }
 
 **Inflections:** [みたいに](<mitai-ni.md> "Like or in the same way as.")
+{: .fam }
 
 *Compare:* [ようだ・そうだ・らしい・みたい — appearance, inference, hearsay](<../contrasts/you-da-sou-da-rashii-mitai.md> "appearance, inference, hearsay")
+{: .compare }

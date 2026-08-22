@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/zutto.md -->
 # ずっと — Continuously, all along, or by far
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">duration</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">duration</span> <span class="card-tag">baseline</span>
 
 Continuously, the whole time; an unbroken state or action over a span.
+{: .h1-gloss }

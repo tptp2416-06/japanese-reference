@@ -2,10 +2,12 @@
      Prose belongs in content/deck/grammar/aida.md -->
 # 間 — Throughout a period
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">duration</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">duration</span>
 
 ## 間 (throughout) { #throughout }
 
 Throughout a period; state or action continues for the entire span
+{: .pt-gloss }
 
 *Compare:* [間・間に・ながら・ないうちに・のうちに — during and while](<../contrasts/during-and-while.md> "during and while")
+{: .compare }

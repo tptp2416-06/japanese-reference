@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/deshou-ka.md -->
 # でしょうか — Softened polite question: could it be...? or would it be...?
 
-<span class="card-tag">N5</span> <span class="card-tag">copular-construction</span> <span class="card-tag">interrogation</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">copular-construction</span> <span class="card-tag">interrogation</span> <span class="card-tag">polite-marked</span>
 
 Softened polite question: could it be...? or would it be...?
+{: .h1-gloss }

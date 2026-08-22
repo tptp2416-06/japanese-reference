@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/te-mitara.md -->
 # てみたら — On trying X, found Y
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">sequence</span>
 
 On trying X, found Y; or casually suggests trying X
+{: .h1-gloss }

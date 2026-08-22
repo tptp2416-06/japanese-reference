@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/jibun-kara.md -->
 # 自分から — Voluntarily or on one's own initiative, without being prompted
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">manner-means</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">manner-means</span>
 
 Voluntarily or on one's own initiative, without being prompted
+{: .h1-gloss }

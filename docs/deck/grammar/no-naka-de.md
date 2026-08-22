@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/no-naka-de.md -->
 # の中で — Within or among a group or place
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span> <span class="card-tag">baseline</span>
 
 Within or among a group or place.
+{: .h1-gloss }

@@ -3,13 +3,16 @@
 # ことになる — it has been decided that
 
 Come to be decided or arranged; outcome is not solely speaker-controlled
+{: .h1-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">change-result</span>
 
 *Compare:* [なる family — ways of expressing change](<../contrasts/naru-family.md> "ways of expressing change") · [ことにする・ことになる・ようにする・ようになる — the する／なる decision square](<../contrasts/koto-ni-suru-koto-ni-naru-you-ni-suru-you-ni-naru.md> "the する／なる decision square")
+{: .compare }
 
 ## ことになっている { #koto-ni-natte-iru }
 
 Be established as a rule or arrangement, independent of personal choice
+{: .pt-gloss }
 
-<span class="card-tag">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">obligation-necessity</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">obligation-necessity</span>

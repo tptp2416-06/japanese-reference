@@ -5,24 +5,30 @@
 ## たところだ (just did) { #ta-tokoro-da }
 
 Have just finished doing; focuses on the immediate post-action point
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 **Builds on:** [過去形・辞書形 (plain statement)](<kakokei-jishokei.md#plain-statement> "States past or nonpast facts plainly, without polite marking")
+{: .fam }
 
 ## ているところ { #te-iru-tokoro }
 
 In the middle of doing right now; the uncontracted in-progress frame.
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 **From:** contraction of [ているところだ (in the middle)](<tokoro.md#te-iru-tokoro-da> "Be in the middle of doing; emphasizes the current action phase")
+{: .fam }
 
 ## ているところだ (in the middle) { #te-iru-tokoro-da }
 
 Be in the middle of doing; emphasizes the current action phase
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">aspect-event-phase</span>
 
 **Builds on:** [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")  
 **Contractions:** [ているところ](<tokoro.md#te-iru-tokoro> "In the middle of doing right now; the uncontracted in-progress frame.")
+{: .fam }

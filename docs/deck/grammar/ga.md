@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/ga.md -->
 # が — Joins contrasting clauses as 'but'
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">contrast</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">contrast</span>
 
 ## が (conjunctive but) { #conjunctive-but }
 
 Joins contrasting clauses as 'but', often more softly than a full objection
+{: .pt-gloss }

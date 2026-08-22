@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/hodo-nai.md -->
 # ほど〜ない — Not as X as Y
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
 
 Not as X as Y; comparison denying an equivalent degree
+{: .h1-gloss }

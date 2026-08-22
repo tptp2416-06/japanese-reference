@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/toori-ni.md -->
 # とおりに — In the same manner as instructed
 
-<span class="card-tag">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">manner-means</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">manner-means</span>
 
 In the same manner as instructed, shown, or previously described
+{: .h1-gloss }

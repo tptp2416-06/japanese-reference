@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/a-mo-b-mo.md -->
 # AもBも — Both A and B
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span>
 
 Both A and B; includes each item equally
+{: .h1-gloss }

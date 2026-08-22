@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/mou-sugu.md -->
 # もうすぐ — Soon or before long
 
-<span class="card-tag">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span> <span class="card-tag">baseline</span>
 
 Soon or before long.
+{: .h1-gloss }

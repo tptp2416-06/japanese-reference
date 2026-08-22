@@ -5,48 +5,60 @@
 ## んだ (explanatory) { #explanatory }
 
 Provides background, explanation, or emphasis in casual speech
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">explanation</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">explanation</span> <span class="card-tag">style: colloquial</span>
 
 **Compounds:** [んだから](<n-da.md#n-da-kara> "Given that X is true; strongly presents it as explanatory background") · [んだけど](<n-da.md#n-da-kedo> "Provides background or softens a request, explanation, or topic introduction") · [んだって](<n-da.md#n-datte> "I heard that...; casual hearsay.") · [んだよね](<n-da.md#n-da-yo-ne> "You know...; explanatory statement seeking shared agreement.") · [んですか](<n-da.md#n-desu-ka> "Asks for explanation with contextual interest; polite explanatory question")  
 **Senses:** [の (explanatory)](<no-explanatory.md#explanatory> "Supplies background or asks for an explanation with の.")
+{: .fam }
 
 ## んだから { #n-da-kara }
 
 Given that X is true; strongly presents it as explanatory background
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">cause-reason</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">cause-reason</span> <span class="card-tag">style: colloquial</span>
 
 **From:** compound of [んだ (explanatory)](<n-da.md#explanatory> "Provides background, explanation, or emphasis in casual speech")
+{: .fam }
 
 ## んだけど { #n-da-kedo }
 
 Provides background or softens a request, explanation, or topic introduction
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">style: colloquial</span>
 
 **From:** compound of [んだ (explanatory)](<n-da.md#explanatory> "Provides background, explanation, or emphasis in casual speech")
+{: .fam }
 
 ## んだって { #n-datte }
 
 I heard that...; casual hearsay.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">evidentiality-hearsay</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">evidentiality-hearsay</span> <span class="card-tag">style: colloquial</span>
 
 **From:** compound of [んだ (explanatory)](<n-da.md#explanatory> "Provides background, explanation, or emphasis in casual speech")
+{: .fam }
 
 ## んだよね { #n-da-yo-ne }
 
 You know...; explanatory statement seeking shared agreement.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">style: colloquial</span>
 
 **From:** compound of [んだ (explanatory)](<n-da.md#explanatory> "Provides background, explanation, or emphasis in casual speech")
+{: .fam }
 
 ## んですか { #n-desu-ka }
 
 Asks for explanation with contextual interest; polite explanatory question
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">explanation</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">explanation</span> <span class="card-tag">polite-marked</span>
 
 **From:** compound of [んだ (explanatory)](<n-da.md#explanatory> "Provides background, explanation, or emphasis in casual speech")
+{: .fam }

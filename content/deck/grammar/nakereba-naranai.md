@@ -18,17 +18,24 @@ off the end — which is why the list looks long and is really one construction.
 
 **Form:** `V-ない + と` (consequence often omitted)
 
-- **Stopping after と is complete** — もう行かないと。 "I really have to
-  go…" says everything. The listener supplies the consequence, and leaving it
-  to them is *softer* than naming it, not lazier.
+- **Stopping after と is complete** — the listener supplies the consequence,
+  and leaving it to them is *softer* than naming it, not lazier.
 - **When the consequence is stated, it grades the speech** — ないと困る "or
   I'm in trouble" is neutral, ないとマズい is casual and a bit rueful, ないとヤバい
   is younger and stronger. The obligation is identical; what changes is how
   much trouble you are admitting to.
-- **Obligation grammar doing emotional work** — 手伝ってくれないと困る is "I
-  need your help", not a rule. Because the consequence slot is about the
-  speaker's trouble, this construction is one of the ordinary ways to say you
-  depend on someone.
+
+```ex
+手伝[てつだ]ってくれないと困[こま]る。
+en: I need your help.
+lit: if you don't help me, I'm in trouble
+note: Obligation grammar doing emotional work: the consequence slot is about
+  the speaker's trouble, so this is an ordinary way to say you depend on
+  someone.
+bd: 手伝って|help, て-form / くれない*|won't do for me / と*|if (conditional) / 困る|I'm in trouble
+pat: negative + と, consequence stated
+reg: casual|もう行かないと。 / polite|もう行かないといけません。
+```
 
 @@ nakya
 
@@ -39,6 +46,11 @@ off the end — which is why the list looks long and is really one construction.
   the full form.
 - **Speech only** — it is written down in dialogue, messages and lyrics, and
   nowhere that expects a careful register.
+
+```ex
+もう帰[かえ]らなきゃ。
+en: I've gotta head home.
+```
 
 @@ naku-cha
 
@@ -58,6 +70,11 @@ off the end — which is why the list looks long and is really one construction.
 - **The いい slot takes substitutes** — なくても大丈夫 "you'll be fine
   without it" is warmer, なくてもかまわない more formal and slightly grudging.
   Same permission, three temperatures.
+
+```ex
+明日[あした]は来[こ]なくてもいいよ。
+en: You don't have to come tomorrow.
+```
 
 @@ nakereba-narimasen
 

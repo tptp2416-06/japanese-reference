@@ -5,11 +5,13 @@
 ## わけがない { #wake-ga-nai }
 
 There is no way; emphatically rejects a possibility as impossible
+{: .pt-gloss }
 
-<span class="card-tag">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">certainty-expectation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">certainty-expectation</span>
 
 ## わけだ (conclusion) { #conclusion }
 
 That explains it; conclusion drawn logically from known facts
+{: .pt-gloss }
 
-<span class="card-tag">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">explanation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">explanation</span>

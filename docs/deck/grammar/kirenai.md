@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/kirenai.md -->
 # きれない — Cannot finish doing something completely
 
-<span class="card-tag">N3</span> <span class="card-tag">compound-verb</span> <span class="card-tag">ability-possibility</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">compound-verb</span> <span class="card-tag">ability-possibility</span>
 
 Cannot finish doing something completely, often because quantity exceeds capacity
+{: .h1-gloss }

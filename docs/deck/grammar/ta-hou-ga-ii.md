@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/ta-hou-ga-ii.md -->
 # たほうがいい — It is better to do something
 
-<span class="card-tag">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">suggestion-advice</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">suggestion-advice</span>
 
 It is better to do something; offers advice or recommendation
+{: .h1-gloss }
 
 **Builds on:** [過去形・辞書形 (plain statement)](<kakokei-jishokei.md#plain-statement> "States past or nonpast facts plainly, without polite marking")
+{: .fam }

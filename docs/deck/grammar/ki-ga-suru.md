@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ki-ga-suru.md -->
 # 気がする — Feel that or have the impression that
 
-<span class="card-tag">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">conjecture-inference</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">conjecture-inference</span>
 
 Feel that or have the impression that; subjective, tentative judgment
+{: .h1-gloss }

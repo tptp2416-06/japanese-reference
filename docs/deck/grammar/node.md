@@ -2,10 +2,12 @@
      Prose belongs in content/deck/grammar/node.md -->
 # ので — Because or since
 
-<span class="card-tag">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
 
 ## ので (reason) { #reason }
 
 Because or since; gives a softer, more explanatory reason
+{: .pt-gloss }
 
 *Compare:* [から・ので・し — reason connectives](<../contrasts/kara-node-shi.md> "reason connectives")
+{: .compare }

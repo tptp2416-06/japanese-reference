@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/o-suru.md -->
 # お〜する — Humbly perform an action for someone
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">keigo: humble</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">affix-construction</span> <span class="card-tag">keigo: humble</span>
 
 ## お〜する (humble) { #humble }
 
 Humbly perform an action for someone; lowers the speaker's action
+{: .pt-gloss }

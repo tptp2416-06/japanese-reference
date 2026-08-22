@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/no-naka-de-ichiban.md -->
 # の中で一番 — The most X within a defined group
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">comparison</span>
 
 ## の中で一番 (superlative) { #superlative }
 
 The most X within a defined group; superlative comparison
+{: .pt-gloss }

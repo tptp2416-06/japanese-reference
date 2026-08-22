@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/ppoi.md -->
 # っぽい — Prone to or having a noticeable tendency
 
-<span class="card-tag">N3</span> <span class="card-tag">affix-construction</span> <span class="card-tag">stance-evaluation</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">affix-construction</span> <span class="card-tag">stance-evaluation</span>
 
 Prone to X, or having a noticeable X-ish quality or appearance; often mildly negative
+{: .h1-gloss }

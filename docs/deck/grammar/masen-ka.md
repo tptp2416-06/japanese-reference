@@ -2,8 +2,9 @@
      Prose belongs in content/deck/grammar/masen-ka.md -->
 # 〜ませんか — Would you like to do something together? A polite invitation
 
-<span class="card-tag">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">invitation</span> <span class="card-tag">polite-marked</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">invitation</span> <span class="card-tag">polite-marked</span>
 
 ## 〜ませんか (invitation) { #invitation }
 
 Would you like to do something together? A polite invitation
+{: .pt-gloss }

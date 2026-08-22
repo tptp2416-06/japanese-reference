@@ -3,139 +3,163 @@
 # Counters — counting with classifiers
 
 Japanese counts nouns with a classifier chosen by the kind of thing counted, and the reading often changes with the number.
+{: .h1-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter-quantifier-construction</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter-quantifier-construction</span>
 
 **Compounds:** [以内](<inai.md> "Within a limit of X; no later, farther, or greater than it") · [何倍も](<nanbai-mo.md> "Many times as much; emphatically compares a multiple in degree")
+{: .fam }
 
 ## 〜つ (native counter) { #native-counter }
 
 Native all-purpose counter to ten — ひとつ・ふたつ・みっつ…とお; the fallback when no specific counter comes to mind.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜個 (small objects) { #small-objects }
 
 Counts small discrete objects: こ — いっこ・ろっこ・じゅっこ geminate.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜人 (people) { #people }
 
 Counts people: にん — ひとり and ふたり are irregular, 四人 is よにん; otherwise regular from さんにん.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜本 (long objects) { #long-objects }
 
 Counts long thin objects (pens, bottles, umbrellas): ほん／ぽん／ぼん — いっぽん・さんぼん・ろっぽん.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜枚 (flat objects) { #flat-objects }
 
 Counts flat thin objects (paper, shirts, tickets): まい, fully regular.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜匹 (small animals) { #small-animals }
 
 Counts small animals: ひき／ぴき／びき — いっぴき・さんびき・ろっぴき.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜台 (machines) { #machines }
 
 Counts machines and vehicles: だい, regular.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜冊 (books) { #books }
 
 Counts bound volumes: さつ — いっさつ・はっさつ geminate.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜歳 (age) { #age }
 
 Years of age: さい — いっさい・はっさい geminate; はたち (20) irregular.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜時 (o'clock) { #oclock }
 
 Clock hours: じ — よじ (4) and くじ (9), never よんじ・きゅうじ.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜分 (minutes) { #minutes }
 
 Minutes: ふん／ぷん — いっぷん・さんぷん・よんぷん・じゅっぷん.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜回 (times) { #times }
 
 Counts occurrences: かい — いっかい・ろっかい geminate.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜度 (degrees) { #degrees }
 
 Temperature and angle degrees, and formal occurrence counting (一度 いちど): ど — overlaps 〜回 for times.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜日 (days) { #days }
 
 Days of the month and day-counts: ふつか…とおか double as both, ようか／よっか and はつか trap; 'one day' is いちにち — ついたち is only the 1st. The most irregular counter in the language.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜円 (yen) { #yen }
 
 Yen amounts: えん — 四円 is よえん, not よんえん.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜杯 (cupfuls) { #cupfuls }
 
 Cups, glasses and bowlfuls: はい／ぱい／ばい — いっぱい・さんばい; いっぱい also lexicalised as "full".
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜階 (floors) { #floors }
 
 Building floors: かい — さんがい voices; homophonous with 〜回 except where the voicing separates them (さんがい vs さんかい).
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜時間 (hours) { #hours }
 
 Duration in hours: じかん — the span, where 〜時 is the clock point.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜週間 (weeks) { #weeks }
 
 Duration in weeks: しゅうかん — いっしゅうかん geminates.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜か月 (months) { #months }
 
 Duration in months: かげつ — いっかげつ・ろっかげつ geminate; distinct from 〜月 (がつ) month names.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜年 (years) { #years }
 
 Years and year-counts: ねん — よねん (4), never よんねん.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜羽 (birds) { #birds }
 
 Counts birds and rabbits: わ — さんば・ろっぱ, among the language's most irregular voicing sets.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>

@@ -2,10 +2,12 @@
      Prose belongs in content/deck/grammar/vstem-ni.md -->
 # Vstem＋に — Go somewhere in order to do an action
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">purpose</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">purpose</span>
 
 ## Vstem＋に (purpose) { #purpose }
 
 In order to do; Vstem＋に pairs with a motion verb such as 行く, 来る or 帰る, and marks the movement's purpose
+{: .pt-gloss }
 
 *Compare:* [ために・ように・のに・Vstem＋に — the purpose family](<../contrasts/tame-ni-you-ni-noni-vstem-ni.md> "the purpose family")
+{: .compare }

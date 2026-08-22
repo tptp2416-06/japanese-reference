@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/to-moushimasu.md -->
 # と申します — My name is
 
-<span class="card-tag">N3</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: courteous</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: courteous</span>
 
 Courteous (丁重語) self-introduction: my name is X.
+{: .h1-gloss }

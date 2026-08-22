@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/shika-nai.md -->
 # しか〜ない — Only or nothing but, used with a negative predicate
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">restriction-limitation</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">restriction-limitation</span>
 
 Only or nothing but, used with a negative predicate.
+{: .h1-gloss }
 
 *Compare:* [だけ・しか〜ない・ばかり — only and just](<../contrasts/dake-shika-nai-bakari.md> "only and just")
+{: .compare }

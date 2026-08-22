@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/hajimeru.md -->
 # 始める — Begin doing an action
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">compound-verb</span> <span class="card-tag">aspect-event-phase</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">compound-verb</span> <span class="card-tag">aspect-event-phase</span>
 
 Begin doing an action; attaches to a verb stem
+{: .h1-gloss }

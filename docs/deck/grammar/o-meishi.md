@@ -5,11 +5,13 @@
 ## お＋名詞 (beautification) { #beautification }
 
 Adds polite or beautifying お to certain nouns; not inherently honorific
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">keigo: refined</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">keigo: refined</span>
 
 ## お＋名詞 (honorific) { #honorific }
 
 Honorific お on a noun associated with the addressee or another respected person.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">keigo: respectful</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">keigo: respectful</span>

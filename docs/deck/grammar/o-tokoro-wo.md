@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/o-tokoro-wo.md -->
 # お〜ところを — Although you were occupied with X
 
-<span class="card-tag">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">concession</span> <span class="card-tag">style: written-formal</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">concession</span> <span class="card-tag">style: written-formal</span>
 
 Although you were occupied with X; formally acknowledges an imposition or circumstance
+{: .h1-gloss }

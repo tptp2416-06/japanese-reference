@@ -3,15 +3,18 @@
 # を — leaving a place, and moving through one
 
 **See also:** [Transitivity](<transitivity.md> "Transitivity — transitive and intransitive verb pairs") — を on an intransitive verb marks a route or exit point and does not make the verb transitive
+{: .seealso }
 
 ## を (departure) { #departure }
 
 Marks a point exited or departed from, such as a vehicle or doorway
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
 
 ## を (traversal) { #traversal }
 
 Marks a route, space, or area traversed by movement
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>

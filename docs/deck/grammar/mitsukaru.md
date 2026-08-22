@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/mitsukaru.md -->
 # 見つかる — Be found or turn up
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">change-result</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">change-result</span>
 
 Be found or turn up; intransitive result rather than deliberate search
+{: .h1-gloss }

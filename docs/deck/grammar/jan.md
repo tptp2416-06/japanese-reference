@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/jan.md -->
 # じゃん — You know
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">style: colloquial</span>
 
 You know, isn't it obvious? Casual challenge or emphatic confirmation
+{: .h1-gloss }

@@ -2,10 +2,12 @@
      Prose belongs in content/deck/grammar/sasete-kureru.md -->
 # させてくれる — Let someone do something for their benefit
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">permission</span>
 
 ## させてくれる (permissive) { #permissive }
 
 Let the speaker (or in-group) do something; permissive causative with the benefit flowing inward.
+{: .pt-gloss }
 
 **Builds on:** [させる (causative)](<rareru.md#saseru> "Make or let someone do something, depending on context") · [てくれる](<te-ageru-te-kureru-te-morau.md#te-kureru> "Someone does something benefiting the speaker or their in-group")
+{: .fam }

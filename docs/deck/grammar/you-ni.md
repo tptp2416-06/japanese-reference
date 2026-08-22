@@ -5,26 +5,33 @@
 ## ないように { #nai-you-ni }
 
 Take care that X does not happen; expresses preventive purpose
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">purpose</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">purpose</span>
 
 **From:** inflection of [ように (so that)](<you-ni.md#so-that> "So that X can happen; marks an intended result or capability")
+{: .fam }
 
 ## ように (so that) { #so-that }
 
 So that X can happen; marks an intended result or capability
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">purpose</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">purpose</span>
 
 **Inflections:** [ないように](<you-ni.md#nai-you-ni> "Take care that X does not happen; expresses preventive purpose")  
 **Compounds:** [ように気をつける](<you-ni.md#you-ni-ki-wo-tsukeru> "Take care to do or avoid X; sustained preventive attention")
+{: .fam }
 
 *Compare:* [ために・ように・のに・Vstem＋に — the purpose family](<../contrasts/tame-ni-you-ni-noni-vstem-ni.md> "the purpose family")
+{: .compare }
 
 ## ように気をつける { #you-ni-ki-wo-tsukeru }
 
 Take care to do or avoid X; sustained preventive attention
+{: .pt-gloss }
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">purpose</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">purpose</span>
 
 **From:** compound of [ように (so that)](<you-ni.md#so-that> "So that X can happen; marks an intended result or capability")
+{: .fam }

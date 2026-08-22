@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/nashi-ja.md -->
 # なしじゃ — Without X, doing Y is impossible
 
-<span class="card-tag">N3</span> <span class="card-tag">contraction</span> <span class="card-tag">condition</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">contraction</span> <span class="card-tag">condition</span> <span class="card-tag">style: colloquial</span>
 
 Without X, doing Y is impossible; casual conditional dependence
+{: .h1-gloss }

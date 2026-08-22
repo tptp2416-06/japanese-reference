@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/narubeku.md -->
 # なるべく — As much as possible
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span>
 
 As much as possible; seeks the greatest practical degree
+{: .h1-gloss }

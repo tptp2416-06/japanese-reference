@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/tariru.md -->
 # 足りる — Be sufficient or enough
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">quantity-degree</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">lexical-item</span> <span class="card-tag">quantity-degree</span>
 
 Be sufficient or enough; required amount is met
+{: .h1-gloss }

@@ -2,10 +2,12 @@
      Prose belongs in content/deck/grammar/aida-ni.md -->
 # 間に — During a period
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">duration</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">duration</span>
 
 ## 間に (during) { #during }
 
 During a period; another event occurs within that time window
+{: .pt-gloss }
 
 *Compare:* [間・間に・ながら・ないうちに・のうちに — during and while](<../contrasts/during-and-while.md> "during and while")
+{: .compare }

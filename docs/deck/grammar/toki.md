@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/toki.md -->
 # とき — When or at the time that
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">sequence</span>
 
 When or at the time that.
+{: .h1-gloss }

@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/yoroshikereba.md -->
 # よろしければ — If it is agreeable
 
-<span class="card-tag">N4-upper</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">invitation</span> <span class="card-tag">style: written-formal</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">invitation</span> <span class="card-tag">style: written-formal</span>
 
 If it is agreeable; formal respectful condition introducing an offer
+{: .h1-gloss }

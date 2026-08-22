@@ -2,6 +2,7 @@
      Prose belongs in content/deck/grammar/tsurete-kuru.md -->
 # 連れてくる — bringing a person with you
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">spatial-relation-movement</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">spatial-relation-movement</span>
 
 Bring or accompany someone toward the speaker's current location
+{: .h1-gloss }

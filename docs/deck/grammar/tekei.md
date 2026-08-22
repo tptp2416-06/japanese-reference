@@ -5,45 +5,55 @@
 ## て形 (cause) { #cause }
 
 Links a cause or reason to its result with the て-form.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">cause-reason</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">cause-reason</span>
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")  
 **From:** sense of [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")
+{: .fam }
 
 ## て形 (linking) { #linking }
 
 Links clauses or predicates with the て-form.
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">listing-addition</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">listing-addition</span>
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")  
 **From:** sense of [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")  
 **Compounds:** [て帰る](<te-kaeru.md> "Do something and return afterward; action occurs before coming back")
+{: .fam }
 
 ## て形 (request) { #request }
 
 Makes a casual request with the bare て-form.
+{: .pt-gloss }
 
-<span class="card-tag">N4-lower</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">request</span> <span class="card-tag">style: colloquial</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">request</span> <span class="card-tag">style: colloquial</span>
 
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")  
 **From:** sense of [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")  
 **Compounds:** [てね](<te-ne.md> "Do this, okay? Soft casual request seeking cooperative follow-through")
+{: .fam }
 
 ## て形 (sequencing) { #sequencing }
 
 Do one action and then another, linking events in sequence
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">sequence</span>
 
 **Compounds:** [て形 (means/manner)](<tekei.md#means-manner> "The て-form marking means or manner: 歩いて by walking, 間違えて by mistake")  
 **Senses:** [て形 (cause)](<tekei.md#cause> "Links a cause or reason to its result with the て-form.") · [て形 (linking)](<tekei.md#linking> "Links clauses or predicates with the て-form.") · [て形 (request)](<tekei.md#request> "Makes a casual request with the bare て-form.")
+{: .fam }
 
 ## て形 (means/manner) { #means-manner }
 
 The て-form marking means or manner: 歩いて by walking, 間違えて by mistake
+{: .pt-gloss }
 
-<span class="card-tag">N5</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">manner-means</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">manner-means</span>
 
 **From:** compound of [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")
+{: .fam }

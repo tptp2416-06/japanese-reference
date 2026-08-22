@@ -2,8 +2,10 @@
      Prose belongs in content/deck/grammar/nai-uchi-ni.md -->
 # ないうちに — Before a state changes
 
-<span class="card-tag">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">sequence</span>
+<span class="card-tag lv">N3</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">sequence</span>
 
 Before a state changes; do X while the current condition still holds
+{: .h1-gloss }
 
 *Compare:* [間・間に・ながら・ないうちに・のうちに — during and while](<../contrasts/during-and-while.md> "during and while")
+{: .compare }
