@@ -1390,15 +1390,23 @@ body.deck-hide-english .md-typeset .ex-en:focus-within { filter: none; }
    Bold now carries WEIGHT, not colour, and inherits its context. */
 .md-typeset strong { color: inherit; }
 
-/* …except inside a callout, where it takes THAT callout's own ink.
-   The alternative was tangerine, and tangerine is spoken for: §4's
-   two-affordance rule makes it mean "go somewhere" (`#227`/`#228`).
-   A callout's hue already carries meaning inside its own box (§5b),
-   so emphasis there costs no new colour and breaks no rule. */
+/* …except inside a callout, where it takes TANGERINE — Tim's ruling,
+   2026-08-22 (`#240`), overriding the `--cal-ink` default this batch
+   first shipped. The trade was named and accepted: inside a callout,
+   bold shares the link colour (the §4 affordance), and links stay
+   tellable apart by their hover underline. Same token as links, so
+   the two can never drift apart. */
 .md-typeset .admonition:not(.tip) > :not(.admonition-title) strong,
 .md-typeset .admonition:not(.tip) li strong,
 .md-typeset details > :not(summary) strong,
-.md-typeset details li strong { color: var(--cal-ink, inherit); }
+.md-typeset details li strong { color: var(--acc); }
+
+/* Bullet LEADS inside a callout stay ink (§5b): a lead is the scan
+   layer, not an emphasis. Explicit here because the tangerine rule
+   above outranks the global lead rule inside .admonition but not
+   inside details — this pins both kinds to the ratified sentence. */
+.md-typeset .admonition:not(.tip) li > strong:first-child,
+.md-typeset details li > strong:first-child { color: var(--ink); }
 
 /* 9.2 · h3 WRAPPED EARLY. `text-wrap: balance` splits a heading into
    even lines instead of filling the first — right for the two-word h4
