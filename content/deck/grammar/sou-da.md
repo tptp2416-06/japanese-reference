@@ -33,7 +33,7 @@ is a different pattern and not this page.
 
 - **The verb-side negative** — 終わりそうにない "no sign it's going to
   end". Stronger than a plain negative guess: there's visible evidence
-  *against*.
+  against.
 - Not the mirror of なさそう, which negates appearance, not likelihood.
 
 @@ sou-ni-naru
@@ -58,4 +58,4 @@ is a different pattern and not this page.
 
 - **The adjective-side negative** — 美味しくなさそう "doesn't look tasty",
   問題なさそう "looks like no problem".
-- Compare そうにない above for denying that an *event* looks likely.
+- Compare そうにない above for denying that an event looks likely.

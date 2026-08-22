@@ -47,7 +47,7 @@ continuing up to the endpoint.
 That is a distinction between the two situations being described. It is not
 always a permanent property of the dictionary verb.
 
-**The question to ask** is what the predicate describes *in this sentence*: a
+**The question to ask** is what the predicate describes in this sentence: a
 result or occurrence that has to be reached by the deadline, or an activity or
 state that continues up to it.
 
@@ -63,7 +63,7 @@ state that continues up to it.
     non-event. 30<span class="cite-jp">歳まで結婚しない</span> "I won't get married until I'm thirty" takes
     plain <span class="cite-jp">まで</span>, not <span class="cite-jp">までに</span>.
 
-    <span class="cite-jp">結婚する</span> is normally point-like, but *not being married* is a state, and it
+    <span class="cite-jp">結婚する</span> is normally point-like, but not being married is a state, and it
     is the state that runs up to thirty. The rule is about the situation the
     sentence describes, never about the verb as it sits in a dictionary.
 

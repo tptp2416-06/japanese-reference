@@ -1,8 +1,8 @@
 A Japanese sentence often works in two layers. One element is lifted out and set
-at the front as the frame — *this is what we are talking about now* — and
+at the front as the frame — this is what we are talking about now — and
 everything after it is read inside that frame until something replaces it.
 
-は is the particle that does the lifting. It is written は and pronounced *wa*
+は is the particle that does the lifting. It is written は and pronounced "wa"
 when it is doing this job, which is the one piece of this page you simply have
 to be told.
 

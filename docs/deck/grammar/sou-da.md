@@ -65,7 +65,7 @@ Does not look likely to happen; negative judgment from present evidence
 
 - **The verb-side negative** — <span class="cite-jp">終わりそうにない</span> "no sign it's going to
   end". Stronger than a plain negative guess: there's visible evidence
-  *against*.
+  against.
 - Not the mirror of <span class="cite-jp">なさそう</span>, which negates appearance, not likelihood.
 
 ## そうになる { #sou-ni-naru }
@@ -117,4 +117,4 @@ Does not look or seem X; negative appearance judgment
 
 - **The adjective-side negative** — <span class="cite-jp">美味しくなさそう</span> "doesn't look tasty",
   <span class="cite-jp">問題なさそう</span> "looks like no problem".
-- Compare <span class="cite-jp">そうにない</span> above for denying that an *event* looks likely.
+- Compare <span class="cite-jp">そうにない</span> above for denying that an event looks likely.

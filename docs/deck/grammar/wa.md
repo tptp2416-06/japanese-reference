@@ -9,10 +9,10 @@
     the sentence's subject, object, time, place or something broader still.
 
 A Japanese sentence often works in two layers. One element is lifted out and set
-at the front as the frame — *this is what we are talking about now* — and
+at the front as the frame — this is what we are talking about now — and
 everything after it is read inside that frame until something replaces it.
 
-<span class="cite-jp">は</span> is the particle that does the lifting. It is written <span class="cite-jp">は</span> and pronounced *wa*
+<span class="cite-jp">は</span> is the particle that does the lifting. It is written <span class="cite-jp">は</span> and pronounced "wa"
 when it is doing this job, which is the one piece of this page you simply have
 to be told.
 
