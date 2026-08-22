@@ -67,6 +67,13 @@ theme:
   # every build.
   favicon: assets/images/favicon-light.png
 
+  # The HEADER LOGO, same artwork and the same swap. Replaces Material's
+  # default book glyph, which was drawing as a white tile on the cream
+  # header. Deliberately the SAME 64px file as the favicon rather than a
+  # third derivative: Material renders it at ~24px, so 64 is already
+  # generous at 2x, and one asset with two roles beats two identical files.
+  logo: assets/images/favicon-light.png
+
   font:
     text: Nunito
     code: JetBrains Mono

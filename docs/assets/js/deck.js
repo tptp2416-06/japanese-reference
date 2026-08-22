@@ -313,11 +313,18 @@
   };
 
   function syncFavicon() {
-    var link = document.querySelector('link[rel~="icon"]');
-    if (!link) { return; }
     var dark = document.body.getAttribute("data-md-color-scheme") === "slate";
     var href = new URL(ICONS[dark ? "dark" : "light"], baseUrl()).href;
-    if (link.getAttribute("href") !== href) { link.setAttribute("href", href); }
+    var link = document.querySelector('link[rel~="icon"]');
+    if (link && link.getAttribute("href") !== href) {
+      link.setAttribute("href", href);
+    }
+    /* The header logo is the same artwork and follows the same switch, so
+       the tab and the header never disagree about which mode you are in. */
+    var logo = document.querySelector('[data-md-component="logo"] img');
+    if (logo && logo.getAttribute("src") !== href) {
+      logo.setAttribute("src", href);
+    }
   }
 
   /* --------------------------------------------------------- init */

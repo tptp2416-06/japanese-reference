@@ -422,6 +422,25 @@ body,
 }
 .md-header__button { color: var(--ink); }
 
+/* The logo is a square artwork, not a glyph: give it the card treatment so
+   it reads as a deliberate tile rather than a floating image, and drop
+   Material's opacity, which was written for a monochrome icon. */
+.md-header__button.md-logo {
+  padding: 0;
+  margin-right: 10px;
+  opacity: 1;
+}
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  width: 30px;
+  height: 30px;
+  border: var(--line-w) solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow-sm);
+  display: block;
+}
+.md-header__button.md-logo:focus-visible img { outline: 2px solid var(--acc); outline-offset: 2px; }
+
 .md-tabs {
   background: var(--card);
   color: var(--ink-2);
