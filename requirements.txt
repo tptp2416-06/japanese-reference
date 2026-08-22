@@ -28,22 +28,16 @@ mkdocs-awesome-pages-plugin==2.10.1
 mkdocs-git-revision-date-localized-plugin==1.5.1
 mkdocs-glightbox==0.5.2
 mkdocs-minify-plugin==0.8.0
-mkdocs-section-index==0.3.12
 
 # Markdown extensions referenced by mkdocs.yml (pymdownx.*)
 pymdown-extensions==10.21.2
 
-# Transitive, and pinned for the same reason as everything above.
-#
-# mkdocs-section-index has migrated its dependency to ProperDocs — the MkDocs
-# 1.x community fork, started by a former MkDocs maintainer after the original
-# owner stopped maintaining 1.x. So this arrives whether or not it is asked for,
-# and unpinned it would drift silently.
-#
-# It is NOT what builds the site: `mkdocs build` still runs MkDocs 1.6.1. This
-# line only stops a transitive dependency moving underneath a pinned build.
-#
-# Note for whoever reads `pip show properdocs`: the Author-email field says Tom
-# Christie because it was inherited from the package it forked. He is not
-# involved in ProperDocs. It is not an endorsement.
-properdocs==1.6.7
+# REMOVED 2026-08-21 (jp-deck #226/#227, Tim's R47): mkdocs-section-index and
+# its transitive dependency properdocs (the ProperDocs MkDocs-1.x fork).
+# The plugin duplicated Material's built-in `navigation.indexes` feature and
+# pulled fork code that injects a promotional banner into every build
+# (properdocs.replacement_warning, imported by the plugin) and ships a full
+# mkdocs->properdocs import rewire (properdocs.replacement — armed only under
+# the `properdocs` executable, which must never be run). Build parity was
+# proven at removal. If a section-index behaviour is ever missed, reach for
+# Material's navigation.indexes, not this plugin.

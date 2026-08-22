@@ -83,7 +83,6 @@ plugins:
   - minify:
       minify_html: true
   - awesome-pages
-  - section-index
 
 markdown_extensions:
   - abbr
