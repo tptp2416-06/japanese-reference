@@ -4,10 +4,10 @@
 
 !!! tip "At a glance"
 
-    まで marks a limit and includes it. Two readings share that one idea: the far
-    end of a stretch you cover (駅まで歩く "walk to the station", 5時まで働く),
-    and the far end of a range that surprises you (子供まで知っている "even the
-    kids"). The deadline cousin までに is a separate point.
+    <span class="cite-jp">まで</span> marks a limit and includes it. Two readings share that one idea: the far
+    end of a stretch you cover (<span class="cite-jp">駅まで歩く</span> "walk to the station", 5<span class="cite-jp">時まで働く</span>),
+    and the far end of a range that surprises you (<span class="cite-jp">子供まで知っている</span> "even the
+    kids"). The deadline cousin <span class="cite-jp">までに</span> is a separate point.
 
 **See also:** [ぐらい](<gurai.md> "ぐらい — approximation, and the minimal 'only about'") — まで is a cap someone set; ぐらい is an estimate — easy to swap when the English is loose  
 [から〜まで](<kara-made.md> "から〜まで — Marks a range from its starting point through its endpoint") — the paired form that fixes both ends of the same stretch
@@ -23,23 +23,23 @@ As far as or up to an extent.
 **Form:** `N + まで` · `V-dict + まで`
 {: .form }
 
-- **The limit is inside the stretch** — 5時まで働く is work through five
-  o'clock, and 駅まで歩く gets you to the station. Whatever まで names is
+- **The limit is inside the stretch** — 5<span class="cite-jp">時まで働く</span> is work through five
+  o'clock, and <span class="cite-jp">駅まで歩く</span> gets you to the station. Whatever <span class="cite-jp">まで</span> names is
   reached, not merely approached.
-- **The verb has to be able to last** — 待つ, 歩く, 働く, 話す. まで gives a
+- **The verb has to be able to last** — <span class="cite-jp">待つ</span>, <span class="cite-jp">歩く</span>, <span class="cite-jp">働く</span>, <span class="cite-jp">話す</span>. <span class="cite-jp">まで</span> gives a
   verb somewhere to run to, so a verb with no duration has nothing to do with
   it.
-- **"To the point of", with a clause** — a dictionary-form verb before まで
-  marks a degree rather than a place: 声が出なくなるまで歌った "sang until my
+- **"To the point of", with a clause** — a dictionary-form verb before <span class="cite-jp">まで</span>
+  marks a degree rather than a place: <span class="cite-jp">声が出なくなるまで歌った</span> "sang until my
   voice gave out". The limit is still a limit; the scale is effort instead of
   distance.
-- **Stacked particles narrow it** — までは sets the stretch against what comes
-  after it (ここまでは分かる "I follow it this far"), までも concedes it. The
+- **Stacked particles narrow it** — <span class="cite-jp">までは</span> sets the stretch against what comes
+  after it (<span class="cite-jp">ここまでは分かる</span> "I follow it this far"), <span class="cite-jp">までも</span> concedes it. The
   base reading does not change; the second particle does its usual work.
 
 !!! warning "Pitfall"
-    まで is a ceiling, not an estimate. 10人まで means up to ten and no more —
-    a cap someone has set. For "about ten people" you want 10人ぐらい, and the
+    <span class="cite-jp">まで</span> is a ceiling, not an estimate. 10<span class="cite-jp">人まで</span> means up to ten and no more —
+    a cap someone has set. For "about ten people" you want 10<span class="cite-jp">人ぐらい</span>, and the
     two are easy to swap when the English is loose.
 
 *Compare:* [まで vs までに — extent vs deadline](<../contrasts/made-vs-made-ni.md> "extent vs deadline")
@@ -55,18 +55,18 @@ Even someone or something surprising; extends inclusion to an unexpected extreme
 **Form:** `N + まで`
 {: .form }
 
-- **Surprise at how far the range got** — 子供まで知っている is not a remark
+- **Surprise at how far the range got** — <span class="cite-jp">子供まで知っている</span> is not a remark
   about children; it is a remark about the news, which has travelled to the
   edge of who could plausibly know. The unexpected member is evidence about
   the whole spread.
 - **It is the extent reading, on a social scale** — the range runs from the
-  obvious cases out to this one, and まで marks where it stopped. Same
+  obvious cases out to this one, and <span class="cite-jp">まで</span> marks where it stopped. Same
   particle, same idea.
-- **Not さえ, though both come out as "even"** — さえ names a minimum
-  sufficient case: 子供さえ知っている says the thing is easy enough that even
+- **Not <span class="cite-jp">さえ</span>, though both come out as "even"** — <span class="cite-jp">さえ</span> names a minimum
+  sufficient case: <span class="cite-jp">子供さえ知っている</span> says the thing is easy enough that even
   children clear the bar. So conditional "if even X, then we're fine" takes
-  さえ — ハルさえ来れば大丈夫 — where まで would be strange. まで looks up at a
-  surprising far edge; さえ looks down at a floor.
+  <span class="cite-jp">さえ</span> — <span class="cite-jp">ハルさえ来れば大丈夫</span> — where <span class="cite-jp">まで</span> would be strange. <span class="cite-jp">まで</span> looks up at a
+  surprising far edge; <span class="cite-jp">さえ</span> looks down at a floor.
 - **It carries feeling, and that can misfire** — the surprise reads as warmth
-  or as dismay depending on who is being included, so まで about a person can
-  land as "even *them*". さえ is the flatter, more analytical of the two.
+  or as dismay depending on who is being included, so <span class="cite-jp">まで</span> about a person can
+  land as "even *them*". <span class="cite-jp">さえ</span> is the flatter, more analytical of the two.

@@ -4,8 +4,8 @@
 
 !!! tip "At a glance"
 
-    Japanese usually has two verbs where English has one: 開く for the door
-    opening and 開ける for someone opening it. English picks between them with
+    Japanese usually has two verbs where English has one: <span class="cite-jp">開く</span> for the door
+    opening and <span class="cite-jp">開ける</span> for someone opening it. English picks between them with
     word order, so translating from English is where the errors come from. Ask
     instead whether you are reporting an event or claiming an agent.
 
@@ -29,20 +29,20 @@ A verb that takes no direct object; often the self-happening half of a transitiv
 **Form:** `N が V-intrans`
 {: .form }
 
-- **The unmarked way to report that something happened** — ドアが開いた
-  "the door opened", 電気が消えた, 会議が始まった. No agent is named, and often
+- **The unmarked way to report that something happened** — <span class="cite-jp">ドアが開いた</span>
+  "the door opened", <span class="cite-jp">電気が消えた</span>, <span class="cite-jp">会議が始まった</span>. No agent is named, and often
   none is implied; the event is the whole of what is being said.
-- **States are this verb plus ている** — 窓が壊れている is "the window is
-  broken". The ている on an intransitive names the state left behind by the
+- **States are this verb plus <span class="cite-jp">ている</span>** — <span class="cite-jp">窓が壊れている</span> is "the window is
+  broken". The <span class="cite-jp">ている</span> on an intransitive names the state left behind by the
   event, which is what an English adjective of state is usually doing.
-- **を on an intransitive verb is not transitivity** — 公園を歩く "walk
-  through the park", 家を出る "leave the house". Here を marks the ground
+- **<span class="cite-jp">を</span> on an intransitive verb is not transitivity** — <span class="cite-jp">公園を歩く</span> "walk
+  through the park", <span class="cite-jp">家を出る</span> "leave the house". Here <span class="cite-jp">を</span> marks the ground
   crossed or the point left, not something acted on, and the verb stays
   intransitive throughout.
 
 !!! warning "Pitfall"
     An English passive is usually a Japanese intransitive, not a Japanese
-    passive. "The door was opened" is ドアが開いた. ドアが開けられた is
+    passive. "The door was opened" is <span class="cite-jp">ドアが開いた</span>. <span class="cite-jp">ドアが開けられた</span> is
     grammatical, but it puts an unnamed someone on stage and reads as a report
     about that person — closer to "the door had been opened *by someone*",
     with the suggestion that this matters. English uses the passive to avoid
@@ -58,15 +58,15 @@ A verb describing an action someone performs on a direct object.
 **Form:** `N を V-trans`
 {: .form }
 
-- **Naming an agent is a claim, not a default** — 電気を消した asserts that
+- **Naming an agent is a claim, not a default** — <span class="cite-jp">電気を消した</span> asserts that
   someone did it. Where English would say "the light went off" and mean
   nothing by it, choosing the transitive here answers a question nobody asked.
-- **てある marks a state someone left on purpose** — 窓が開けてある is "the
+- **<span class="cite-jp">てある</span> marks a state someone left on purpose** — <span class="cite-jp">窓が開けてある</span> is "the
   window has been opened and left open", with the intention preserved;
-  窓が開いている merely reports that it is open. The transitive verb is what
+  <span class="cite-jp">窓が開いている</span> merely reports that it is open. The transitive verb is what
   makes the intention available.
 - **The shapes are guessable, one pair at a time** — pairs fall into recurring
-  patterns (閉まる／閉める "shut / shut something", 出る／出す, 落ちる／落とす),
+  patterns (<span class="cite-jp">閉まる</span>／<span class="cite-jp">閉める</span> "shut / shut something", <span class="cite-jp">出る</span>／<span class="cite-jp">出す</span>, <span class="cite-jp">落ちる</span>／<span class="cite-jp">落とす</span>),
   so a new pair is often predictable from a familiar one. Predictable, not
   derivable: the pairing is a fact about each verb, and some verbs have no
   partner at all.

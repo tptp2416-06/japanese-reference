@@ -11,10 +11,10 @@
 
     Build any of them from three pieces:
 
-    `[verb, negative] + [conditional: なければ ／ ないと ／ なくては] +
-    [bad outcome: ならない ／ いけない ／ だめ]`
+    `[verb, negative] + [conditional: <span class="cite-jp">なければ</span> ／ <span class="cite-jp">ないと</span> ／ <span class="cite-jp">なくては</span>] +
+    [bad outcome: <span class="cite-jp">ならない</span> ／ <span class="cite-jp">いけない</span> ／ <span class="cite-jp">だめ</span>]`
 
-    行く → 行かなければならない "have to go", 行かないといけない, 行かなくてはだめ.
+    <span class="cite-jp">行く</span> → <span class="cite-jp">行かなければならない</span> "have to go", <span class="cite-jp">行かないといけない</span>, <span class="cite-jp">行かなくてはだめ</span>.
     Every form on this page is a choice in one of those slots, or a piece dropped
     off the end — which is why the list looks long and is really one construction.
 
@@ -31,10 +31,10 @@ Must do; casual obligation with the consequence left unstated
 **Form:** `V-ない + と` (consequence often omitted)
 {: .form }
 
-- **Stopping after と is complete** — the listener supplies the consequence,
+- **Stopping after <span class="cite-jp">と</span> is complete** — the listener supplies the consequence,
   and leaving it to them is *softer* than naming it, not lazier.
-- **When the consequence is stated, it grades the speech** — ないと困る "or
-  I'm in trouble" is neutral, ないとマズい is casual and a bit rueful, ないとヤバい
+- **When the consequence is stated, it grades the speech** — <span class="cite-jp">ないと困る</span> "or
+  I'm in trouble" is neutral, <span class="cite-jp">ないとマズい</span> is casual and a bit rueful, <span class="cite-jp">ないとヤバい</span>
   is younger and stronger. The obligation is identical; what changes is how
   much trouble you are admitting to.
 
@@ -57,7 +57,7 @@ Have to; casual contraction with the ending omitted.
 **Form:** `V-ない stem + なきゃ`
 {: .form }
 
-- **Two things have happened at once** — なければ has contracted to なきゃ,
+- **Two things have happened at once** — <span class="cite-jp">なければ</span> has contracted to <span class="cite-jp">なきゃ</span>,
   and the consequence has been dropped. That is why it feels twice as short as
   the full form.
 - **Speech only** — it is written down in dialogue, messages and lyrics, and
@@ -92,8 +92,8 @@ Must do; casual contraction often used in spontaneous speech
 **Form:** `V-ない stem + なくちゃ`
 {: .form }
 
-- **The other conditional, contracted** — なくては → なくちゃ, in the same way
-  なければ → なきゃ. The two are interchangeable in ordinary casual speech, and
+- **The other conditional, contracted** — <span class="cite-jp">なくては</span> → <span class="cite-jp">なくちゃ</span>, in the same way
+  <span class="cite-jp">なければ</span> → <span class="cite-jp">なきゃ</span>. The two are interchangeable in ordinary casual speech, and
   which one a speaker reaches for is largely habit.
 
 ## なくてもいい { #nakute-mo-ii }
@@ -106,11 +106,11 @@ Need not do; grants permission to omit an action
 **Form:** `V-なくて + も + いい`
 {: .form }
 
-- **Not part of the obligation skeleton at all** — this is the てもいい
-  permission pattern with a negative て-form. It lives on this page because it
+- **Not part of the obligation skeleton at all** — this is the <span class="cite-jp">てもいい</span>
+  permission pattern with a negative <span class="cite-jp">て</span>-form. It lives on this page because it
   answers the same question, not because it is built the same way.
-- **The いい slot takes substitutes** — なくても大丈夫 "you'll be fine
-  without it" is warmer, なくてもかまわない more formal and slightly grudging.
+- **The <span class="cite-jp">いい</span> slot takes substitutes** — <span class="cite-jp">なくても大丈夫</span> "you'll be fine
+  without it" is warmer, <span class="cite-jp">なくてもかまわない</span> more formal and slightly grudging.
   Same permission, three temperatures.
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>は<ruby>来<rt>こ</rt></ruby><span class="pat">なくてもいい</span>よ。</div><div class="ex-en">&ldquo;You don&#x27;t have to come tomorrow.&rdquo;</div></div>
@@ -155,8 +155,8 @@ Must do; polite standard expression of necessity or obligation
 **Form:** `V-ない stem + なければなりません`
 {: .form }
 
-- **ならない and いけない are texture, not degree** — なければなりません leans
-  impersonal and rule-like, the way a policy is worded; ないといけません leans
+- **<span class="cite-jp">ならない</span> and <span class="cite-jp">いけない</span> are texture, not degree** — <span class="cite-jp">なければなりません</span> leans
+  impersonal and rule-like, the way a policy is worded; <span class="cite-jp">ないといけません</span> leans
   toward this situation and this speaker. Neither is politer than the other,
   and both are ordinary in polite speech.
 - **The full form earns its length in writing** — spelled out, all three slots

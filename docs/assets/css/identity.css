@@ -1370,3 +1370,103 @@ body.deck-hide-english .md-typeset .ex-en:focus-within { filter: none; }
   body.deck-hide-furigana .md-typeset rt,
   body.deck-hide-english .md-typeset .ex-en { visibility: visible; filter: none; }
 }
+
+
+/* ──────────────────────────────────────────────────────────────
+   9 · BATCH-2A CORRECTIONS (Tim, 2026-08-22)
+   Two of these are v3 punch-list MISSES rather than new design:
+   `strong` and the h3 wrap were still wearing pre-v3 behaviour.
+   ────────────────────────────────────────────────────────────── */
+
+/* 9.1 · BOLD WAS STILL ON THE OLD PALETTE — the bug behind "why is
+   'stative' pink". japanese-reference.css:1288 paints EVERY `strong`
+   coral (#C0624A) in light and lilac (#EAC4F2) in dark, and its dark
+   rule is keyed to `prefers-color-scheme`, not to Material's scheme —
+   so toggling to light on a dark OS put pink bold on a cream page.
+   identity.css had only ever overridden `strong` in named contexts
+   (p.form, p.fam, p.seealso, the bullet lead), so bold in ordinary
+   prose and inside every callout site-wide kept the old colour.
+
+   Bold now carries WEIGHT, not colour, and inherits its context. */
+.md-typeset strong { color: inherit; }
+
+/* …except inside a callout, where it takes THAT callout's own ink.
+   The alternative was tangerine, and tangerine is spoken for: §4's
+   two-affordance rule makes it mean "go somewhere" (`#227`/`#228`).
+   A callout's hue already carries meaning inside its own box (§5b),
+   so emphasis there costs no new colour and breaks no rule. */
+.md-typeset .admonition:not(.tip) > :not(.admonition-title) strong,
+.md-typeset .admonition:not(.tip) li strong,
+.md-typeset details > :not(summary) strong,
+.md-typeset details li strong { color: var(--cal-ink, inherit); }
+
+/* 9.2 · h3 WRAPPED EARLY. `text-wrap: balance` splits a heading into
+   even lines instead of filling the first — right for the two-word h4
+   headings that existed when it was written, wrong for the `###`
+   QUESTION headings the `#237` voice introduced, which are full
+   sentences and read as though they stop halfway. `pretty` keeps the
+   orphan protection and drops the even-splitting. */
+.md-typeset h3 { text-wrap: pretty; }
+
+/* 9.3 · SEE ALSO — its own colour, and its own line.
+   A red-brown deep enough to sit clearly apart from the tangerine it
+   is printed next to: 6.45:1 on the cream ground, 2.6:1 against the
+   accent, so it never reads as a link. Dark takes the lifted twin at
+   6.67:1. The ENTRIES stay tangerine — they are links, and the
+   two-affordance rule is exactly what says so. */
+:root                            { --seealso: #8C3B2E; }
+[data-md-color-scheme="slate"]   { --seealso: #D98878; }
+
+.md-typeset p.seealso strong:first-child {
+  display: block;
+  color: var(--seealso);
+  margin: 0 0 2px;
+}
+
+/* 9.4 · A BARE TABLE IS A CARD. Conjugation and form-spectrum tables
+   are display objects, not prose, and they now wear the card the rest
+   of the page wears: 2px outline + hard offset shadow in light, 1px
+   border + flat bottom-accent in dark, 14px radius (§5b, unchanged).
+   Scoped to tables with no class of their own, so the sidebar-wrapped
+   legacy tables and the card grid are untouched. */
+.md-typeset__scrollwrap > .md-typeset__table > table:not([class]),
+.md-typeset > table:not([class]) {
+  background: var(--card);
+  border: var(--line-w) solid var(--line);
+  border-bottom: var(--btm-acc, var(--line-w) solid var(--line));
+  border-radius: 14px;
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  margin: 4px 0 22px;
+}
+.md-typeset table:not([class]) th {
+  background: var(--card-2);
+  font-family: var(--font-ui);
+  font-weight: 700;
+  color: var(--ink-2);
+  border-bottom: 1px solid var(--line);
+}
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th { border-top: 0; padding: 11px 14px; }
+.md-typeset table:not([class]) tr:not(:last-child) td {
+  border-bottom: 1px solid var(--faint);
+}
+
+/* 9.5 · CITED JAPANESE IN PROSE — R6 option (a), Tim 2026-08-22.
+   Japanese quoted inside a paragraph reads as one texture with the English
+   around it. WEIGHT is the whole treatment: a third COLOR would break §4's
+   two-affordance rule, which reserves tangerine for "go somewhere" and the
+   dotted underline for "meaning here" (`#227`/`#228`/`#231`). The span is
+   supplied by build_site.wrap_jp, per prose line, on script alone.
+   Named `cite-jp` and not `jp`: the legacy sheets already carry .jp-quote,
+   .jp-line and .jp-heading, and a one-character difference between a live
+   class and three dead ones is how the next reader loses an afternoon.
+
+   600 and not 700, so a cited form never outweighs the bold keyword lead that
+   §4 makes the scan layer — the two have to stack, not compete. Where an
+   author has ALSO bolded a citation (the potential column of a conjugation
+   table), 700 wins and the citation is the strongest thing in its cell,
+   which is the point of bolding it. */
+.md-typeset .cite-jp { font-weight: 600; }
+.md-typeset strong .cite-jp,
+.md-typeset .cite-jp strong { font-weight: 700; }

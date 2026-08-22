@@ -7,7 +7,7 @@
 !!! tip "At a glance"
 
     Not "quickly" — "I was there the whole time and it still felt like nothing".
-    あっという間 is the space of one surprised あっ, and に puts an event inside it.
+    <span class="cite-jp">あっという間</span> is the space of one surprised <span class="cite-jp">あっ</span>, and <span class="cite-jp">に</span> puts an event inside it.
     The judgment is made afterwards, so the verb is almost always past.
 
 **See also:** [急に](<kyuu-ni.md> "急に — Suddenly") — 急に calls the event abrupt; あっという間に calls the interval short  
@@ -20,24 +20,24 @@ In what feels like no time; emphasizes surprisingly quick completion
 **Form:** `あっという間に + past-tense clause`
 {: .form }
 
-- **The literal frame is the meaning** — あっ (a startled breath) + という
-  (called) + 間 (an interval) + に (within). It is fixed: the 間 slot takes no
-  other modifier, so there is no 長いという間に to build by analogy.
+- **The literal frame is the meaning** — <span class="cite-jp">あっ</span> (a startled breath) + <span class="cite-jp">という</span>
+  (called) + <span class="cite-jp">間</span> (an interval) + <span class="cite-jp">に</span> (within). It is fixed: the <span class="cite-jp">間</span> slot takes no
+  other modifier, so there is no <span class="cite-jp">長いという間に</span> to build by analogy.
 - **The speaker was watching** — attention was on the thing, and the stretch
-  still compressed: 夏休みがあっという間に終わった "the summer holiday was over
-  in no time". That is what separates it from いつの間にか, where you were not
+  still compressed: <span class="cite-jp">夏休みがあっという間に終わった</span> "the summer holiday was over
+  in no time". That is what separates it from <span class="cite-jp">いつの間にか</span>, where you were not
   tracking at all and look up into an already-changed world — and why that one
-  leans so heavily on ていた while this one takes た or てしまう.
-- **It describes the duration, not the event** — 急に and 突然 say the event
-  arrived without warning. あっという間に says the interval felt short.
-  急に雨が降ってきた "it suddenly started raining" and あっという間に雨が上がった
+  leans so heavily on <span class="cite-jp">ていた</span> while this one takes <span class="cite-jp">た</span> or <span class="cite-jp">てしまう</span>.
+- **It describes the duration, not the event** — <span class="cite-jp">急に</span> and <span class="cite-jp">突然</span> say the event
+  arrived without warning. <span class="cite-jp">あっという間に</span> says the interval felt short.
+  <span class="cite-jp">急に雨が降ってきた</span> "it suddenly started raining" and <span class="cite-jp">あっという間に雨が上がった</span>
   "the rain stopped in no time" are doing different jobs.
 - **The feeling is usually rueful, and not only that** — most often something
   good ended too soon, but the compression can be unwelcome and the phrase
-  stays ordinary: あっという間に貯金がなくなった "the savings vanished in no
+  stays ordinary: <span class="cite-jp">あっという間に貯金がなくなった</span> "the savings vanished in no
   time".
 
-??? note "あっという間 without に"
-    Drop the に and the phrase modifies a noun with の: あっという間の出来事,
+??? note "<span class="cite-jp">あっという間</span> without <span class="cite-jp">に</span>"
+    Drop the <span class="cite-jp">に</span> and the phrase modifies a noun with <span class="cite-jp">の</span>: <span class="cite-jp">あっという間の出来事</span>,
     "a matter of moments". Same interval, used as a measure rather than as a
     frame for an event.

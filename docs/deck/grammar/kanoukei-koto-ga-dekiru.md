@@ -4,41 +4,31 @@
 
 !!! tip "At a glance"
 
-    Two ways to say "can": inflect the verb (読める) or nominalise it and say the
-    thing is available (読むことができる). The inflected potential is the everyday
-    choice; ことができる is heavier and belongs to writing, rules and notices. A
-    potential verb describes a state, which is why its object is usually re-marked
-    が.
+    Two ways to say someone can do something: inflect the verb — <span class="cite-jp">読める</span> — or
+    nominalise the action and say that it is possible — <span class="cite-jp">読むことができる</span>. The
+    inflected potential is the everyday choice; <span class="cite-jp">ことができる</span> is the explicit one, at
+    home in notices, rules and writing.
+
+English packs several different ideas into one word. Being able to swim is a
+skill; being allowed to swim here is permission, or a fact about the water; a
+room that can be booked online is access.
+
+Japanese normally does not sort these out in the verb. The potential form makes
+one claim — the action is available as a possibility — and leaves the sentence
+around it to say where that possibility came from.
+
+A good deal of learning this form is learning to stop asking the ending which
+kind of "can" it is.
+
+**One especially important split involves ordinary seeing and hearing**, which
+take <span class="cite-jp">見える</span> and <span class="cite-jp">聞こえる</span> rather than the potential forms. That is the Pitfall
+below, and it catches English speakers reliably.
 
 **See also:** [聞こえる](<kikoeru.md> "聞こえる — Can be heard") — spontaneous perception, not potential: 聞こえる is what 聞ける cannot say  
 [見える](<mieru.md> "見える — Be visible or come into view naturally") — spontaneous perception, not potential: 見える is what 見られる cannot say  
 [られる](<rareru.md> "られる・させる — passive, causative, and causative-passive") — られる is potential, passive and honorific in one shape — this is the sense that shares it  
 [ようになる](<you-ni-naru.md> "ようになる — Come to do something or reach a new ability or habitual state") — how an ability is said to have arrived: the potential form plus a change of state
 {: .seealso }
-
-## ことができる { #koto-ga-dekiru }
-
-Can do; formal, nominalized expression of ability or permission
-{: .pt-gloss }
-
-<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">ability-possibility</span>
-
-**Form:** `V-dict + ことができる`
-{: .form }
-
-- **Read it literally and the range of meaning follows** — こと makes the verb
-  into a thing, が marks that thing as the subject, できる says it exists or is
-  available. Ability and permission are the same statement seen from two
-  sides.
-- **The weight is the point** — signs, rules, announcements and formal
-  writing: ここでチケットを買うことができます "tickets may be purchased here".
-  In conversation the inflected potential is the usual choice, and ことができる
-  can sound like you are quoting a regulation.
-- **する verbs go straight to できる** — 運転できる "can drive" rather than
-  運転することができる, which is the same words twice.
-- **It sidesteps られる's ambiguity** — 見ることができる can only be ability,
-  where 見られる might be passive or honorific. In writing, where ら抜き is not
-  available to disambiguate, that is a real reason to choose it.
 
 ## 可能形 (potential) { #kanoukei }
 
@@ -47,40 +37,91 @@ Can do something; expresses ability or situational possibility
 
 <span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-potential</span> <span class="card-tag">ability-possibility</span>
 
-**Form:** `godan: -u → -eru` (読む → 読める) · `ichidan: -る → -られる`
-(食べる → 食べられる) · `する → できる` · `来る → 来られる`
+**Form:** `godan: -u → -eru` · `ichidan: -る → -られる` · `する → できる` ·
+`来る → 来られる`
 {: .form }
 
-- **Ability and circumstance are one form** — 泳げる is a skill you have;
-  この川で泳げる is a fact about the river. Nothing in the form distinguishes
-  them, and context always does.
-- **Potential verbs are stative** — they report a standing condition rather
-  than an event, which is why they resist the progressive and why the object
-  shifts to が.
-- **ら抜き言葉 — 食べれる, 見れる, 来れる** — the ichidan and 来る potential
-  with the ら dropped. It is ordinary in casual speech over much of Japan and
-  common in broadcast dialogue; it is not used in formal writing and is marked
-  wrong on tests. Expect to hear it; write 食べられる.
-- **It also disambiguates** — 食べられる is potential, passive or honorific,
-  while 食べれる can only be potential. Part of why ら抜き spread is that it
-  does a job the standard form cannot.
+| class | the change | dictionary → potential |
+|---|---|---|
+| godan | final `-u` sound becomes the matching `-eru` sound | <span class="cite-jp">読む</span> → **<span class="cite-jp">読める</span>** · <span class="cite-jp">書く</span> → **<span class="cite-jp">書ける</span>** · <span class="cite-jp">話す</span> → **<span class="cite-jp">話せる</span>** |
+| ichidan | `る` → `られる` | <span class="cite-jp">食べる</span> → **<span class="cite-jp">食べられる</span>** · <span class="cite-jp">見る</span> → **<span class="cite-jp">見られる</span>** |
+| <span class="cite-jp">する</span> | replaced outright by <span class="cite-jp">できる</span> | <span class="cite-jp">運転する</span> → **<span class="cite-jp">運転できる</span>** |
+| <span class="cite-jp">来る</span> | irregular | <span class="cite-jp">来る</span> → **<span class="cite-jp">来られる</span>** |
+
+A potential verb makes one claim and then stops: the action is available. It
+does not say what made it available.
+
+- **Skill and circumstance take the same shape** — <span class="cite-jp">ハルは泳げる</span> "Haru can swim"
+  is a fact about Haru; <span class="cite-jp">この川では泳げる</span> "you can swim in this river" is a fact
+  about the river, which hands nobody a swimming ability.
+- **Nothing in the form separates them** — the verb is identical in both, and
+  everything that distinguishes them sits elsewhere in the sentence.
+- **A useful underlying model is "possible"** — even though natural English
+  will often still say "can" or "be able to". Permission, access, an
+  opportunity, a workable set of circumstances and a trained skill all arrive
+  in this one form.
+
+<div class="ex"><div class="ex-jp" lang="ja">この<ruby>川<rt>かわ</rt></ruby>では<span class="pat"><ruby>泳<rt>およ</rt></ruby>げる</span>。</div><div class="ex-en">&ldquo;You can swim in this river.&rdquo; <span class="lit">&mdash; lit. at this river, swimming is possible</span></div><div class="ex-note">The sentence most naturally presents the river as the condition that makes swimming possible. It does not by itself tell us who has the necessary skill.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="r">このかわ</span><span class="j" lang="ja">この<ruby>川<rt>かわ</rt></ruby></span><span class="g">this river</span></div><div class="bd-seg"><span class="r">&nbsp;</span><span class="j" lang="ja">では</span><span class="g">as for here</span></div><div class="bd-seg hit"><span class="r">およげる</span><span class="j" lang="ja"><ruby>泳<rt>およ</rt></ruby>げる</span><span class="g">swimming is possible</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">circumstance, not skill</span></div></div></details></div>
+
+### Where does the possibility come from?
+
+From the rest of the sentence, and often from the topic. <span class="cite-jp">泳げる</span> puts swimming on
+the table; what put it there is something the sentence has to say.
+
+It can say it through the topic, through a scope phrase like <span class="cite-jp">この川では</span>, or
+through nothing at all, because the situation has already made it obvious.
+
+!!! note "Ability and circumstantial possibility"
+    Descriptions of Japanese usually divide potential meaning into **ability**
+    and **circumstantial** (or situational) **possibility**. The division is
+    real and worth having — it is simply not one the verb ending makes.
+    Context resolves it.
+
+### Why do you hear <span class="cite-jp">食べれる</span> rather than <span class="cite-jp">食べられる</span>?
+
+- **<span class="cite-jp">ら抜き言葉</span> — the <span class="cite-jp">ら</span> drops out** — <span class="cite-jp">食べられる</span> → <span class="cite-jp">食べれる</span>, <span class="cite-jp">見られる</span> → <span class="cite-jp">見れる</span>,
+  <span class="cite-jp">来られる</span> → <span class="cite-jp">来れる</span>.
+- **Common in casual speech, with real variation** — how common depends on the
+  speaker, the region, the verb and the setting.
+- **Still nonstandard where it counts** — these forms are avoided in careful
+  writing and normally marked wrong on tests. Expect to hear them; write the
+  full form when the register is careful.
+- **The short form buys something** — <span class="cite-jp">食べられる</span> can be potential, passive or
+  honorific; <span class="cite-jp">食べれる</span> can only be potential. Dropping <span class="cite-jp">ら</span> removes an ambiguity the
+  standard form cannot, which may be one reason it spread.
 
 !!! warning "Pitfall"
-    見られる and 聞ける are not how you say "I can see it" or "I can hear it".
-    Perception with no effort, skill or equipment behind it takes the
-    spontaneous verbs 見える and 聞こえる — 黒板が見える "the blackboard is
-    visible", 音が聞こえる "a sound is audible". The potential forms mean
-    access or permission: 聞ける is "I get the chance to hear it", 見られる
-    "I am allowed or able to view it". 眼鏡をかければ黒板が見える "put glasses
-    on and the blackboard is visible" stays spontaneous, because glasses
-    restore ordinary sight rather than adding a capability.
+    <span class="cite-jp">見える</span> and <span class="cite-jp">聞こえる</span> describe what is visible or audible to someone — often
+    without any deliberate act of looking or listening.
 
-??? note "Which られる is this?"
-    Three points share the form, and the sentence normally settles it. An
-    agent marked に, and the subject undergoing something: passive. A subject
-    you would defer to, no agent anywhere, and a neutral report: honorific.
-    Otherwise potential — and in speech, ら抜き resolves it outright, because
-    passive and honorific never drop the ら.
+    <span class="cite-jp">見られる</span> and <span class="cite-jp">聞ける</span> are the potential forms of <span class="cite-jp">見る</span> and <span class="cite-jp">聞く</span>. They usually
+    concern being able to carry out the deliberate act: having the opportunity,
+    access or circumstances to watch or listen.
+
+    - <span class="cite-jp">山が見える。</span> "the mountain is visible"
+    - <span class="cite-jp">この映画は今日見られる。</span> "I can watch this film today"
+    - <span class="cite-jp">音が聞こえる。</span> "I can hear a sound"
+    - <span class="cite-jp">この番組はアプリで聞ける。</span> "I can listen to this program in the app"
+
+    Glasses are the edge case worth holding on to. <span class="cite-jp">眼鏡をかければ黒板が見える</span>
+    "with my glasses on, the blackboard is visible" keeps <span class="cite-jp">見える</span> — glasses
+    restore ordinary sight rather than making seeing deliberate.
+
+??? note "Which <span class="cite-jp">られる</span> is this — potential, passive, or honorific?"
+    Three separate points share the ichidan potential's shape, and the sentence
+    normally settles which one you are looking at. Ask, in order:
+
+    - **Can someone do it?** <span class="cite-jp">魚が食べられる</span> "I can eat fish" — potential.
+    - **Did something happen to the subject?** <span class="cite-jp">魚が猫に食べられた</span> "the fish was
+      eaten by the cat" — passive. An agent marked <span class="cite-jp">に</span> is a strong clue, though
+      passive sentences often leave the agent out.
+    - **Is someone's action being described respectfully?**
+      <span class="cite-jp">先生はもう帰られました</span> "the teacher has already left" — honorific. Nothing
+      happened to the teacher, and nobody is reporting that leaving was
+      possible.
+
+    In speech the question often does not arise, because a <span class="cite-jp">ら抜き</span> form is
+    potential and nothing else: the passive and the honorific never drop the <span class="cite-jp">ら</span>.
 
 ## 可能形＋が (を→が shift) { #kanoukei-ga }
 
@@ -92,16 +133,97 @@ Potential form commonly marks the object with が instead of を
 **Builds on:** [可能形 (potential)](<kanoukei-koto-ga-dekiru.md#kanoukei> "Can do something; expresses ability or situational possibility")
 {: .fam }
 
-**Form:** `N が V-potential`
+**Form:** `N が + V-potential`
 {: .form }
 
-- **The object is re-marked because the sentence is now about a state** —
-  日本語が話せる "can speak Japanese", 漢字が読める. が marks what the ability
-  is about, the way it marks what 好きだ or 分かる is about.
-- **を is common in speech and is not an error** — 日本語を話せる is heard
-  constantly, and it leans on the activity rather than the ability. が is the
-  written standard and the tested answer; both are Japanese, and treating を
-  as a mistake will mislead you about what you hear.
-- **ことができる keeps を** — 日本語を話すことができる. The inner clause is an
-  ordinary transitive one and nothing has been re-marked, which is a useful
-  check on what the shift is actually about.
+- **The centre of the sentence moves** — the potential form shifts a sentence's
+  centre away from simply performing the action and toward whether that action
+  is possible.
+- **<span class="cite-jp">が</span> marks what the possibility covers** — <span class="cite-jp">日本語を読む</span> presents reading as an
+  act someone performs; <span class="cite-jp">日本語が読める</span> presents Japanese as something that falls
+  inside what is possible for the speaker. It is the same <span class="cite-jp">が</span> that <span class="cite-jp">好きだ</span>, <span class="cite-jp">分かる</span>
+  and <span class="cite-jp">上手だ</span> take.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>日本語<rt>にほんご</rt></ruby><span class="pat">が<ruby>読<rt>よ</rt></ruby>める</span>。</div><div class="ex-en">&ldquo;I can read Japanese.&rdquo; <span class="lit">&mdash; lit. Japanese is readable to me</span></div><div class="ex-note">The focus has moved off the act of reading and onto the standing possibility, and が marks what that possibility covers.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="r">にほんご</span><span class="j" lang="ja"><ruby>日本語<rt>にほんご</rt></ruby></span><span class="g">Japanese</span></div><div class="bd-seg hit"><span class="r">&nbsp;</span><span class="j" lang="ja">が</span><span class="g">marks what is possible</span></div><div class="bd-seg hit"><span class="r">よめる</span><span class="j" lang="ja"><ruby>読<rt>よ</rt></ruby>める</span><span class="g">is readable</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">N が + potential verb</span></div></div></details></div>
+
+### Is <span class="cite-jp">を</span> wrong, then?
+
+No. <span class="cite-jp">日本語を話せる</span> "I can speak Japanese" is said and written often, and it
+keeps rather more of <span class="cite-jp">話す</span>'s ordinary relationship to its object.
+
+It sits closer to "I'm able to perform the action of speaking Japanese" than to
+"Japanese falls within what I can do". <span class="cite-jp">が</span> is the safer default and the answer a
+test expects, but treating <span class="cite-jp">を</span> as an error will mislead you about what you hear.
+
+- **<span class="cite-jp">ことができる</span> keeps <span class="cite-jp">を</span>** — <span class="cite-jp">日本語を話すことができる</span>. Nothing has been
+  re-marked here: the inner clause is an ordinary transitive one, and <span class="cite-jp">こと</span>,
+  not <span class="cite-jp">日本語</span>, is what <span class="cite-jp">できる</span> reports on.
+
+!!! note "Why a potential verb is often called state-like"
+    Potential verbs are often analysed as state-like, because they describe an
+    available ability or possibility rather than the performance of the action
+    itself: <span class="cite-jp">本を読む</span> is an act of reading, <span class="cite-jp">本が読める</span> a fact about what is
+    possible.
+
+    This helps motivate the traditional use of <span class="cite-jp">が</span>, but it does not by itself
+    predict every modern use of <span class="cite-jp">が</span> and <span class="cite-jp">を</span>.
+
+??? note "<span class="cite-jp">が</span> or <span class="cite-jp">を</span> — what actually differs"
+    Both occur naturally, and the difference is usually framing rather than
+    meaning.
+
+    <span class="cite-jp">が</span> sits especially well where the potential is being presented as a
+    capability or a state: <span class="cite-jp">ピアノが弾ける</span> "I can play the piano",
+    <span class="cite-jp">この漢字が読める</span> "I can read this kanji".
+
+    <span class="cite-jp">を</span> becomes easy when the speaker has a particular act in mind, which
+    happens once the verb is embedded in a longer sentence:
+    <span class="cite-jp">この本を一日で読めると思う</span> "I think I can read this book in a day",
+    <span class="cite-jp">明日ならその仕事を終えられる</span> "if it's tomorrow, I can finish that job".
+
+    Both of those are about carrying something out under particular conditions
+    rather than about a standing ability. The overlap is substantial, and
+    neither version is the odd one.
+
+## ことができる { #koto-ga-dekiru }
+
+Can do; explicit, nominalized expression of ability or possibility
+{: .pt-gloss }
+
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">ability-possibility</span>
+
+**Form:** `V-dict + こと + が + できる`
+{: .form }
+
+- **Read it literally once and its range falls out** — <span class="cite-jp">こと</span> turns the verb into
+  a thing, <span class="cite-jp">が</span> marks that thing, <span class="cite-jp">できる</span> says it is possible. Underneath,
+  <span class="cite-jp">日本語を話すことができる</span> is "the speaking of Japanese is possible".
+- **The literal reading is a tool, not a translation** — you would never render
+  it that way in English. It is useful because it shows why the expression
+  states permissions and procedures as comfortably as it states abilities.
+- **Explicit first, formal second** — because the construction states the
+  possibility explicitly, it fits styles that favour explicit wording: notices,
+  rules, instructions, formal explanations.
+- **That is where the reputation comes from** — the formality is a consequence
+  of the explicitness, not a property of the words.
+
+<div class="ex"><div class="ex-jp" lang="ja">このカードで<ruby>支払<rt>しはら</rt></ruby>う<span class="pat">ことができます</span>。</div><div class="ex-en">&ldquo;You can pay with this card.&rdquo;</div><div class="ex-note">Not a remark about anyone&#x27;s ability to pay — the sentence states that an option is available, which is the work ことができる does most naturally.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="r">&nbsp;</span><span class="j" lang="ja">このカードで</span><span class="g">with this card</span></div><div class="bd-seg"><span class="r">しはらう</span><span class="j" lang="ja"><ruby>支払<rt>しはら</rt></ruby>う</span><span class="g">pay</span></div><div class="bd-seg hit"><span class="r">&nbsp;</span><span class="j" lang="ja">こと</span><span class="g">the act of</span></div><div class="bd-seg hit"><span class="r">&nbsp;</span><span class="j" lang="ja">が</span><span class="g">marks it</span></div><div class="bd-seg hit"><span class="r">&nbsp;</span><span class="j" lang="ja">できます</span><span class="g">is possible</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-dict + こと + が + できる</span></div></div></details></div>
+
+### When would I reach for it instead of the potential form?
+
+Not often in ordinary conversation. <span class="cite-jp">日本語が話せる</span> is shorter and more natural
+than <span class="cite-jp">日本語を話すことができる</span>, and in a simple casual exchange the long form can
+sound unnecessarily formal — at times as though you were quoting a regulation.
+
+It earns its length where the sentence's job is to state that something is
+possible as a matter of rules, procedure or available options: signs, terms,
+announcements, instructions.
+
+- **With many <span class="cite-jp">する</span>-verbs, N＋<span class="cite-jp">できる</span> is shorter and usually more natural** —
+  <span class="cite-jp">運転できる</span>, for example. <span class="cite-jp">運転することができる</span> is also grammatical, though, and
+  is common where the full action is stated explicitly, especially in formal
+  writing.
+- **It sidesteps <span class="cite-jp">られる</span>'s ambiguity** — <span class="cite-jp">見ることができる</span> is unambiguously about
+  possibility, while <span class="cite-jp">見られる</span> can be potential, passive or honorific depending
+  on context. In writing, where <span class="cite-jp">ら抜き</span> is normally avoided, that is a real
+  reason to choose it.

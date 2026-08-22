@@ -5,9 +5,9 @@
 !!! tip "At a glance"
 
     Read the evidence in front of you and say what it looks like: adjective stem
-    + そう for how something seems (美味しそう), verb stem + そう for what's
-    about to happen (落ちそう). Negatives split by side — なさそう for
-    appearance, そうにない for events. Hearsay そうだ (plain clause + そうだ)
+    + <span class="cite-jp">そう</span> for how something seems (<span class="cite-jp">美味しそう</span>), verb stem + <span class="cite-jp">そう</span> for what's
+    about to happen (<span class="cite-jp">落ちそう</span>). Negatives split by side — <span class="cite-jp">なさそう</span> for
+    appearance, <span class="cite-jp">そうにない</span> for events. Hearsay <span class="cite-jp">そうだ</span> (plain clause + <span class="cite-jp">そうだ</span>)
     is a different pattern and not this page.
 
 ## そうだ (appearance) { #appearance }
@@ -21,16 +21,16 @@ Looks or seems likely based on direct visual evidence. Attaches to the verb stem
 **Compounds:** [そうになる](<sou-da.md#sou-ni-naru> "Nearly reaches a state or comes close to an event occurring") · [そうに見える](<sou-da.md#sou-ni-mieru> "Appear to look X; explicitly frames an impression as visual")
 {: .fam }
 
-**Form:** `A-stem + そう` (美味しい → 美味しそう · 元気 → 元気そう)
+**Form:** `A-stem + そう` (<span class="cite-jp">美味しい</span> → <span class="cite-jp">美味しそう</span> · <span class="cite-jp">元気</span> → <span class="cite-jp">元気そう</span>)
 {: .form }
 
 - **Visual judgment, still a judgment** — you haven't tasted it yet, which
   is exactly what the form signals.
-- **Irregular** — いい → よさそう; ない → なさそう.
+- **Irregular** — <span class="cite-jp">いい</span> → <span class="cite-jp">よさそう</span>; <span class="cite-jp">ない</span> → <span class="cite-jp">なさそう</span>.
 
 !!! warning "Pitfall"
-    Not for things you've confirmed. Once you've tasted it, it's 美味しい,
-    not 美味しそう — keeping そう where you have direct knowledge reads as
+    Not for things you've confirmed. Once you've tasted it, it's <span class="cite-jp">美味しい</span>,
+    not <span class="cite-jp">美味しそう</span> — keeping <span class="cite-jp">そう</span> where you have direct knowledge reads as
     oddly noncommittal.
 
 *Compare:* [ようだ・そうだ・らしい・みたい — appearance, inference, hearsay](<../contrasts/you-da-sou-da-rashii-mitai.md> "appearance, inference, hearsay")
@@ -43,12 +43,12 @@ Looks just about to happen, based on an immediately visible situation
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">conjecture-inference</span>
 
-**Form:** `V-stem + そう` (落ちる → 落ちそう · 泣く → 泣きそう)
+**Form:** `V-stem + そう` (<span class="cite-jp">落ちる</span> → <span class="cite-jp">落ちそう</span> · <span class="cite-jp">泣く</span> → <span class="cite-jp">泣きそう</span>)
 {: .form }
 
 - **On the verge** — the evidence points at an event about to happen.
 - **Which reading you get follows from the attachment**: adjective →
-  appearance, verb → imminence. Same そう, one machine.
+  appearance, verb → imminence. Same <span class="cite-jp">そう</span>, one machine.
 
 *Compare:* [ようだ・そうだ・らしい・みたい — appearance, inference, hearsay](<../contrasts/you-da-sou-da-rashii-mitai.md> "appearance, inference, hearsay")
 {: .compare }
@@ -63,10 +63,10 @@ Does not look likely to happen; negative judgment from present evidence
 **Form:** `V-stem + そうにない`
 {: .form }
 
-- **The verb-side negative** — 終わりそうにない "no sign it's going to
+- **The verb-side negative** — <span class="cite-jp">終わりそうにない</span> "no sign it's going to
   end". Stronger than a plain negative guess: there's visible evidence
   *against*.
-- Not the mirror of なさそう, which negates appearance, not likelihood.
+- Not the mirror of <span class="cite-jp">なさそう</span>, which negates appearance, not likelihood.
 
 ## そうになる { #sou-ni-naru }
 
@@ -78,10 +78,10 @@ Nearly reaches a state or comes close to an event occurring
 **From:** compound of [そうだ (appearance)](<sou-da.md#appearance> "Looks or seems likely based on direct visual evidence. Attaches to the verb stem or adjective stem.")
 {: .fam }
 
-**Form:** `V-stem + そうになる`, almost always past: そうになった
+**Form:** `V-stem + そうになる`, almost always past: <span class="cite-jp">そうになった</span>
 {: .form }
 
-- **Came to the brink and didn't** — 転びそうになった "I nearly fell". The
+- **Came to the brink and didn't** — <span class="cite-jp">転びそうになった</span> "I nearly fell". The
   implicit non-occurrence is why the past tense dominates.
 
 ## そうに見える { #sou-ni-mieru }
@@ -97,8 +97,8 @@ Appear to look X; explicitly frames an impression as visual
 **Form:** `A-stem + そうに見える`
 {: .form }
 
-- **The impression, explicitly visual** — 高そうに見える "it looks
-  expensive". Plain そうだ already means "seems", so adding に見える
+- **The impression, explicitly visual** — <span class="cite-jp">高そうに見える</span> "it looks
+  expensive". Plain <span class="cite-jp">そうだ</span> already means "seems", so adding <span class="cite-jp">に見える</span>
   foregrounds the at-a-glance nature, often with a faint hedge that looks
   may deceive.
 
@@ -115,6 +115,6 @@ Does not look or seem X; negative appearance judgment
 **Form:** `A-stem + なさそう` · `N + が + なさそう`
 {: .form }
 
-- **The adjective-side negative** — 美味しくなさそう "doesn't look tasty",
-  問題なさそう "looks like no problem".
-- Compare そうにない above for denying that an *event* looks likely.
+- **The adjective-side negative** — <span class="cite-jp">美味しくなさそう</span> "doesn't look tasty",
+  <span class="cite-jp">問題なさそう</span> "looks like no problem".
+- Compare <span class="cite-jp">そうにない</span> above for denying that an *event* looks likely.

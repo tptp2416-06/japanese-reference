@@ -147,7 +147,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="tte-itteta/">って言ってた — Said that</a></h3><p>Said that; casually reports what someone previously said</p></div>
 <div class="card-grid-item"><h3><a href="v-jishokei-mae-ni/">V辞書形＋前に — Before doing an action</a></h3><p>Before doing an action; the action serves as the time reference</p></div>
 <div class="card-grid-item"><h3><a href="vstem-ni/">Vstem＋に — Go somewhere in order to do an action</a></h3><p>In order to do; Vstem＋に pairs with a motion verb such as 行く, 来る or 帰る, and marks the movement&#x27;s purpose</p></div>
-<div class="card-grid-item"><h3><a href="wa/">は — topic, contrast, and scope</a></h3><p>As for this item specifically, contrasts it with another possibility</p></div>
+<div class="card-grid-item"><h3><a href="wa/">は — topic, contrast, and scope</a></h3><p>Marks the sentence topic.</p></div>
 <div class="card-grid-item"><h3><a href="wo/">を — leaving a place, and moving through one</a></h3><p>Marks a point exited or departed from, such as a vehicle or doorway</p></div>
 <div class="card-grid-item"><h3><a href="ya-nado/">や・など — listing examples, not exhaustively</a></h3><p>Lists examples such as A and B without exhausting all possibilities</p></div>
 <div class="card-grid-item"><h3><a href="yo/">よ — Sentence-final particle that supplies information or emphasis</a></h3><p>Sentence-final particle that supplies information or emphasis.</p></div>
@@ -287,7 +287,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="jaa/">じゃあ — Then</a></h3><p>Then; draws a practical conclusion from the preceding information</p></div>
 <div class="card-grid-item"><h3><a href="jibun-kara/">自分から — Voluntarily or on one&#x27;s own initiative, without being prompted</a></h3><p>Voluntarily or on one&#x27;s own initiative, without being prompted</p></div>
 <div class="card-grid-item"><h3><a href="ka-dou-ka/">かどうか — Whether or not</a></h3><p>Whether or not; embeds a yes-no question inside a larger sentence</p></div>
-<div class="card-grid-item"><h3><a href="kanoukei-koto-ga-dekiru/">可能形・ことができる — the two ways to say &quot;can&quot;</a></h3><p>Can do; formal, nominalized expression of ability or permission</p></div>
+<div class="card-grid-item"><h3><a href="kanoukei-koto-ga-dekiru/">可能形・ことができる — the two ways to say &quot;can&quot;</a></h3><p>Can do something; expresses ability or situational possibility</p></div>
 <div class="card-grid-item"><h3><a href="kara-de/">から-で — the material something is made from</a></h3><p>Marks the raw material something is transformed from or made with</p></div>
 <div class="card-grid-item"><h3><a href="koto-ga-ooi/">ことが多い — Often do or experience something</a></h3><p>Often do or experience something; describes a frequent tendency</p></div>
 <div class="card-grid-item"><h3><a href="koto-ni-naru/">ことになる — it has been decided that</a></h3><p>Be established as a rule or arrangement, independent of personal choice</p></div>

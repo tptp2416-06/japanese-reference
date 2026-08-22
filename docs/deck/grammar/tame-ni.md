@@ -6,9 +6,9 @@
 
 !!! tip "At a glance"
 
-    Deliberate purpose: "in order to". Dictionary-form verb or noun + の in
+    Deliberate purpose: "in order to". Dictionary-form verb or noun + <span class="cite-jp">の</span> in
     front; the same subject controls both halves. If the goal isn't something
-    you can just decide to do, you want ように instead.
+    you can just decide to do, you want <span class="cite-jp">ように</span> instead.
 
 ## ために (purpose) { #purpose }
 
@@ -19,23 +19,23 @@ In order to achieve a goal; marks deliberate purpose
 {: .form }
 
 - **Deliberate aim** — the actor does A in order to achieve B:
-  日本語を勉強するために、アプリを入れた。
-- **Benefit reading with nouns** — 家族のために働いてる is "for my family's
+  <span class="cite-jp">日本語を勉強するために、アプリを入れた。</span>
+- **Benefit reading with nouns** — <span class="cite-jp">家族のために働いてる</span> is "for my family's
   sake", not a plan. Context decides, and the readings sit close enough that
   this rarely causes trouble.
-- **Casual clip** — the に often drops: 何のため？ — "what for?"
+- **Casual clip** — the <span class="cite-jp">に</span> often drops: <span class="cite-jp">何のため？</span> — "what for?"
 
 !!! warning "Pitfall"
-    ために wants a goal the subject can pursue directly. For outcomes you
+    <span class="cite-jp">ために</span> wants a goal the subject can pursue directly. For outcomes you
     can't simply will — not forgetting, becoming able to — Japanese reaches
-    for ように: 忘れないようにメモした。
+    for <span class="cite-jp">ように</span>: <span class="cite-jp">忘れないようにメモした。</span>
 
-??? note "ために vs ように, the fuller picture"
-    The line is control. 合格するために勉強する (studying is your deliberate
-    means) vs 聞こえるように大きい声で話す (being audible is an outcome you
+??? note "<span class="cite-jp">ために</span> vs <span class="cite-jp">ように</span>, the fuller picture"
+    The line is control. <span class="cite-jp">合格するために勉強する</span> (studying is your deliberate
+    means) vs <span class="cite-jp">聞こえるように大きい声で話す</span> (being audible is an outcome you
     aim speech at, not an act you perform). Verbs of ability and negatives
-    lean ように almost without exception; volitional action verbs lean
-    ために. Both translate "so that / in order to", which is why English
+    lean <span class="cite-jp">ように</span> almost without exception; volitional action verbs lean
+    <span class="cite-jp">ために</span>. Both translate "so that / in order to", which is why English
     can't be the guide.
 
 *Compare:* [ために・ように・のに・Vstem＋に — the purpose family](<../contrasts/tame-ni-you-ni-noni-vstem-ni.md> "the purpose family")

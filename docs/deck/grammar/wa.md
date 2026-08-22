@@ -2,6 +2,107 @@
      Prose belongs in content/deck/grammar/wa.md -->
 # は — topic, contrast, and scope
 
+!!! tip "At a glance"
+
+    <span class="cite-jp">は</span> is not itself a subject-case marker. It tells the listener to take the
+    preceding phrase as the topic or frame — and that topic may also correspond to
+    the sentence's subject, object, time, place or something broader still.
+
+A Japanese sentence often works in two layers. One element is lifted out and set
+at the front as the frame — *this is what we are talking about now* — and
+everything after it is read inside that frame until something replaces it.
+
+<span class="cite-jp">は</span> is the particle that does the lifting. It is written <span class="cite-jp">は</span> and pronounced *wa*
+when it is doing this job, which is the one piece of this page you simply have
+to be told.
+
+A useful unifying intuition is that <span class="cite-jp">は</span> singles something out as the frame against
+which the rest is understood. Sometimes that frame is a neutral topic; sometimes
+the alternatives become prominent and the result is contrast.
+
+When <span class="cite-jp">は</span> follows another particle, the same framing can limit the scope of the
+statement. Three sections, one act, weighted differently each time.
+
+## は (topic) { #topic }
+
+Marks the sentence topic.
+{: .pt-gloss }
+
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">topic-focus</span> <span class="card-tag">baseline</span>
+
+**Form:** `N + は` · a phrase that would ordinarily take <span class="cite-jp">が</span> or <span class="cite-jp">を</span> normally drops
+it: <span class="cite-jp">私が</span> → <span class="cite-jp">私は</span> · <span class="cite-jp">本を</span> → <span class="cite-jp">本は</span>
+{: .form }
+
+- **The topic can be almost any part of the sentence:**
+    - <span class="cite-jp">私は学生です</span> "I'm a student" — the topic is also the subject.
+    - <span class="cite-jp">この店はコーヒーがおいしい</span> "the coffee at this place is good" — a topic,
+      and a separate <span class="cite-jp">が</span>-marked subject.
+    - <span class="cite-jp">今日は忙しい</span> "today, I'm busy" — the topic is a time.
+- **What <span class="cite-jp">は</span> fixes is the frame, not the grammar** — it tells you what the comment
+  is about. English has no particle for that and has to smuggle the frame into a
+  possessive or a prepositional phrase.
+- **Once a topic is established, it usually goes unsaid** — Japanese leaves it
+  out of later sentences for as long as the intended topic stays clear. It comes
+  back when the conversation needs to reorient the listener.
+
+<div class="ex"><div class="ex-jp" lang="ja">この<ruby>店<rt>みせ</rt></ruby><span class="pat">は</span>コーヒーがおいしい。</div><div class="ex-en">&ldquo;The coffee at this place is good.&rdquo; <span class="lit">&mdash; lit. as for this place, the coffee is good</span></div><div class="ex-note">The sentence needs both particles and they are not competing: この店 says what is under discussion, コーヒー is what is good.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="r">このみせ</span><span class="j" lang="ja">この<ruby>店<rt>みせ</rt></ruby></span><span class="g">this place</span></div><div class="bd-seg hit"><span class="r">&nbsp;</span><span class="j" lang="ja">は</span><span class="g">as for</span></div><div class="bd-seg"><span class="r">&nbsp;</span><span class="j" lang="ja">コーヒー</span><span class="g">coffee</span></div><div class="bd-seg"><span class="r">&nbsp;</span><span class="j" lang="ja">が</span><span class="g">(subject)</span></div><div class="bd-seg"><span class="r">&nbsp;</span><span class="j" lang="ja">おいしい</span><span class="g">is good</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">topic は over a separate が-subject</span></div></div></details></div>
+
+### If <span class="cite-jp">は</span> is not the subject marker, what is <span class="cite-jp">が</span> doing?
+
+<span class="cite-jp">が</span> often identifies the clause's subject, while <span class="cite-jp">は</span> identifies the discourse
+frame. A question and its answer make the difference audible.
+
+<span class="cite-jp">誰が来た？</span> "who came?" is answered <span class="cite-jp">ハルが来た</span> "Haru came" — here the requested
+subject is also the sentence's focus, which is what <span class="cite-jp">が</span> supplies.
+
+<span class="cite-jp">ハルは来た</span> is a grammatical sentence, but it answers a different question,
+something closer to "what about Haru?".
+
+This is also why stories open one way and continue another.
+<span class="cite-jp">昔々、おじいさんがいました</span> "once upon a time there was an old man" puts him into
+the conversation with <span class="cite-jp">が</span>.
+
+<span class="cite-jp">おじいさんは山へ行きました</span> "the old man went to the mountains" then talks about
+him with <span class="cite-jp">は</span>. Without a special contrastive or focusing context, reversing them
+would sound marked.
+
+!!! note "Subject and topic are different jobs"
+    **Subject** is a grammatical relation inside the clause. **Topic** is the
+    frame the speaker chooses for organising the message.
+
+    The same noun may serve both — <span class="cite-jp">私は学生です</span> — or the sentence may carry a
+    topic and a separate <span class="cite-jp">が</span>-marked subject: <span class="cite-jp">この店はコーヒーがおいしい</span>.
+
+    In the formal vocabulary, <span class="cite-jp">が</span> is a case particle while <span class="cite-jp">は</span> sits above the case
+    system. That is what lets <span class="cite-jp">は</span> attach after other particles in the scope
+    section, and why a topic can be a time or a place as easily as a subject.
+
+!!! warning "Pitfall"
+    When the question word itself is the unknown subject, use <span class="cite-jp">が</span>: <span class="cite-jp">誰が来た？</span>, not
+    <span class="cite-jp">誰は来た？</span>.
+
+    In the answer too, <span class="cite-jp">ハルが作った</span> is the neutral one. <span class="cite-jp">ハルは作った</span> shifts the
+    meaning toward "Haru made it, at least — as opposed to someone else", and
+    can leave open what the other candidates did. The English "Haru did" hides
+    the distinction completely.
+
+### What happens to <span class="cite-jp">は</span> inside a longer sentence?
+
+An ordinary sentence topic normally does not survive as <span class="cite-jp">は</span> inside a
+noun-modifying (relative) clause. The subject there is usually marked with <span class="cite-jp">が</span> —
+and sometimes with <span class="cite-jp">の</span>.
+
+<span class="cite-jp">ハルが作ったケーキ</span> and <span class="cite-jp">ハルの作ったケーキ</span> are both "the cake Haru made"; <span class="cite-jp">ハルは</span>
+in that slot is not how the clause is built.
+
+A contrastive <span class="cite-jp">は</span> can appear inside a noun-modifying clause where a genuine local
+contrast is intended, so treat this as a strong default rather than an absolute
+ban. It is still a useful check when a sentence has run long and lost its shape.
+
+*Compare:* [は — topic, contrast, scope](<../contrasts/wa.md> "topic, contrast, scope")
+{: .compare }
+
 ## は (contrast) { #contrast }
 
 As for this item specifically, contrasts it with another possibility
@@ -12,6 +113,47 @@ As for this item specifically, contrasts it with another possibility
 **Compounds:** [昔は〜今は](<mukashi-wa-ima-wa.md> "Previously X, but now Y; contrasts past and present states") · [前は](<mae-wa.md> "Previously or before; contrasts an earlier situation with now") · [では (location)](<de-wa.md#location> "Within or at a place or institutional scope; で plus topic-contrastive は marks the place as the domain in which the statement holds")  
 **Senses:** [は (scope)](<wa.md#scope> "Marks the scope to which a statement or prohibition applies.")
 {: .fam }
+
+**Form:** `X は …、Y は …` · a single `N は` carrying stress
+{: .form }
+
+- **Topic and contrast use the same particle and shade into one another** — a
+  neutral topic establishes a frame; contrastive <span class="cite-jp">は</span> makes the alternatives,
+  stated or unstated, matter to the message.
+- **A neutral topic need not invite comparison** — <span class="cite-jp">象は鼻が長い</span> "an elephant's
+  nose is long" is not particularly a remark about other animals. Contrast is
+  what happens when the alternatives are made to count.
+- **The minimal pair is the clearest demonstration** — <span class="cite-jp">お酒を飲まない</span> "I don't
+  drink alcohol" is neutral object marking. <span class="cite-jp">お酒は飲まない</span> "alcohol, I don't
+  drink" selects alcohol against the alternatives.
+- **The unsaid half can do the work** — <span class="cite-jp">犬は好き。猫はちょっと</span>…… "I like dogs.
+  Cats, though…" sets the two against each other with <span class="cite-jp">は</span> and lets the sentence
+  stop before the negative arrives.
+
+<div class="ex"><div class="ex-jp" lang="ja">お<ruby>酒<rt>さけ</rt></ruby><span class="pat">は</span><ruby>飲<rt>の</rt></ruby>まない。</div><div class="ex-en">&ldquo;Alcohol, I don&#x27;t drink.&rdquo; <span class="lit">&mdash; lit. as for alcohol, at least, don&#x27;t drink</span></div><div class="ex-note">An object would ordinarily take を. Swapping in は is what selects alcohol against whatever else the speaker might drink, and nothing in the conversation has to have raised it first.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="r">おさけ</span><span class="j" lang="ja">お<ruby>酒<rt>さけ</rt></ruby></span><span class="g">alcohol</span></div><div class="bd-seg hit"><span class="r">&nbsp;</span><span class="j" lang="ja">は</span><span class="g">as for, at least</span></div><div class="bd-seg"><span class="r">のまない</span><span class="j" lang="ja"><ruby>飲<rt>の</rt></ruby>まない</span><span class="g">don&#x27;t drink</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">contrastive は displacing を</span></div></div></details></div>
+
+### Why do negatives attract <span class="cite-jp">は</span> so often?
+
+Denying one thing all but names the things you are not denying, so negation and
+contrast sit together comfortably. <span class="cite-jp">お酒は飲まない</span> leaves the door open on
+everything else in the fridge.
+
+Add <span class="cite-jp">コーヒーは飲む</span> "I do drink coffee" and the pair becomes explicit.
+
+Treat a negative as a **clue** rather than a decision, though. It raises the odds
+that a <span class="cite-jp">は</span> is contrastive; it does not settle the reading on its own.
+
+### Topic or contrast — how do I tell?
+
+Most of the time you do not have to. The reading sits on a slope rather than in
+two boxes, and the same written sentence can be heard either way depending on how
+much weight the speaker puts on the <span class="cite-jp">は</span>.
+
+Four things push it toward contrast: a second <span class="cite-jp">は</span> in the sentence, audible stress,
+a negative verb, and a conversation that has already put the alternative on the
+table.
+
+With none of the four present, read it as a neutral topic.
 
 *Compare:* [は — topic, contrast, scope](<../contrasts/wa.md> "topic, contrast, scope")
 {: .compare }
@@ -26,15 +168,50 @@ Marks the scope to which a statement or prohibition applies.
 **From:** sense of [は (contrast)](<wa.md#contrast> "As for this item specifically, contrasts it with another possibility")
 {: .fam }
 
-*Compare:* [は — topic, contrast, scope](<../contrasts/wa.md> "topic, contrast, scope")
-{: .compare }
+**Form:** `particle + は` — <span class="cite-jp">では</span> · <span class="cite-jp">には</span> · <span class="cite-jp">へは</span> · <span class="cite-jp">からは</span> · <span class="cite-jp">までは</span> · <span class="cite-jp">とは</span>
+{: .form }
 
-## は (topic) { #topic }
+- **The first particle stays and goes on doing its own work** — with <span class="cite-jp">で</span>, <span class="cite-jp">に</span>, <span class="cite-jp">へ</span>,
+  <span class="cite-jp">から</span>, <span class="cite-jp">まで</span> and <span class="cite-jp">と</span>, <span class="cite-jp">は</span> attaches after the complete phrase and marks that whole
+  phrase as the topic or contrastive frame.
+- **What that most often produces is a limit** — here, for this person, from
+  today onward, up to this point. It is a frequent pragmatic effect rather than
+  something the grammar entails.
+- **Naming the frame invites the comparison** — <span class="cite-jp">ここでは吸えません</span> "you can't
+  smoke here" makes this place the frame of the rule, and can set it against
+  other places.
+- **On a scale, the frame is a point rather than a place** — <span class="cite-jp">ここまでは分かる</span> "I
+  follow it this far" and <span class="cite-jp">今日からは</span> "from today on" fence off what lies on the
+  other side.
 
-Marks the sentence topic.
-{: .pt-gloss }
+<div class="ex"><div class="ex-jp" lang="ja">ここ<span class="pat">では</span><ruby>吸<rt>す</rt></ruby>えません。</div><div class="ex-en">&ldquo;You can&#x27;t smoke here.&rdquo; <span class="lit">&mdash; lit. at this place, smoking isn&#x27;t possible</span></div><div class="ex-note">The は makes this location the frame of the rule and can contrast it with other locations. On a notice, a contextual impossibility of this kind is normally understood as a prohibition rather than a report.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="r">&nbsp;</span><span class="j" lang="ja">ここ</span><span class="g">here</span></div><div class="bd-seg hit"><span class="r">&nbsp;</span><span class="j" lang="ja">では</span><span class="g">at this place</span></div><div class="bd-seg"><span class="r">すえません</span><span class="j" lang="ja"><ruby>吸<rt>す</rt></ruby>えません</span><span class="g">can&#x27;t smoke</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">particle + は, framing the rule</span></div></div></details></div>
 
-<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">topic-focus</span> <span class="card-tag">baseline</span>
+### Common combinations
+
+Not an exhaustive list — these are the ones you meet constantly.
+
+| particle | with <span class="cite-jp">は</span> | what happens |
+|---|---|---|
+| <span class="cite-jp">が</span> | 〜<span class="cite-jp">は</span> | normally absent when the phrase is topicalised |
+| <span class="cite-jp">を</span> | 〜<span class="cite-jp">は</span> | normally absent when the phrase is topicalised |
+| <span class="cite-jp">に</span> | <span class="cite-jp">には</span> | remains before <span class="cite-jp">は</span> |
+| <span class="cite-jp">へ</span> | <span class="cite-jp">へは</span> | remains before <span class="cite-jp">は</span> |
+| <span class="cite-jp">で</span> | <span class="cite-jp">では</span> | remains before <span class="cite-jp">は</span> |
+| <span class="cite-jp">と</span> | <span class="cite-jp">とは</span> | remains before <span class="cite-jp">は</span> |
+| <span class="cite-jp">から</span> | <span class="cite-jp">からは</span> | remains before <span class="cite-jp">は</span> |
+| <span class="cite-jp">まで</span> | <span class="cite-jp">までは</span> | remains before <span class="cite-jp">は</span> |
+
+<span class="cite-jp">が</span> and <span class="cite-jp">を</span> are the two that go unpronounced. The rest keep expressing their normal
+relationship, and <span class="cite-jp">は</span> is added on top of the finished phrase.
+
+!!! note "<span class="cite-jp">ではない</span>, and where <span class="cite-jp">じゃ</span> comes from"
+    In the negative copular construction, <span class="cite-jp">ではない</span> routinely shortens to <span class="cite-jp">じゃない</span>
+    in speech — that is where the everyday <span class="cite-jp">じゃない</span> comes from, and it is the
+    same <span class="cite-jp">では</span>.
+
+    <span class="cite-jp">じゃあ</span>, <span class="cite-jp">それじゃ</span> and <span class="cite-jp">じゃまた</span> are related conversational developments from
+    <span class="cite-jp">では</span> and <span class="cite-jp">それでは</span>. They come from the same contraction, but they are
+    discourse markers rather than instances of the scope reading above.
 
 *Compare:* [は — topic, contrast, scope](<../contrasts/wa.md> "topic, contrast, scope")
 {: .compare }
