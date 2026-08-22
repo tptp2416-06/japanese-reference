@@ -48,8 +48,8 @@ Can do something; expresses ability or situational possibility
 <span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-potential</span> <span class="card-tag">ability-possibility</span>
 
 **Form:** `godan: -u → -eru` (読む → 読める) · `ichidan: -る → -られる`
-{: .form }
 (食べる → 食べられる) · `する → できる` · `来る → 来られる`
+{: .form }
 
 - **Ability and circumstance are one form** — 泳げる is a skill you have;
   この川で泳げる is a fact about the river. Nothing in the form distinguishes

@@ -402,6 +402,69 @@ body,
   font-size: 13px;
 }
 
+/* THE POPOVER, POSITIONED IN CSS — the mock's `.gl .pop`, and now the whole
+   mechanism (`#233` P3). Material's `content.tooltips` placed its card from
+   JS-measured coordinates written back into `top`/`left`; under the root
+   `zoom` of §1 those two coordinate spaces differ by --ui-scale, so the card
+   landed a fifth of the page below its term and worse the further down you
+   read. Measured on /deck/grammar/kanoukei-koto-ga-dekiru/: 見える sat at
+   document y 726, its card at 900.
+
+   Nothing here measures anything. The card is an absolutely positioned
+   SIBLING of the term inside a relative wrapper, so the browser places it
+   from the term's own box in the term's own coordinate space — correct at
+   any zoom, and correct with no zoom at all, which is what jp-deck `#234`
+   is heading for. deck.js builds the wrapper; with JS off the `title`
+   survives and the browser draws its own tooltip.
+
+   Note the affordance line (§4): the wrapper carries POSITION and nothing
+   else. A link keeps tangerine and no underline; an <abbr> keeps its own
+   dotted underline. The popover never adds a second mark to a link. */
+.deck-pop-host { position: relative; }
+.md-typeset .deck-pop {
+  position: absolute;
+  left: 50%;
+  bottom: calc(100% + 9px);
+  /* --nudge is a PERCENTAGE OF THE CARD'S OWN WIDTH, set by deck.js when a
+     centred card would run off the screen — see the note there. A percentage
+     is the one length that means the same thing at every zoom, which is why
+     the clamp is expressed in one. */
+  transform: translateX(calc(-50% + var(--nudge, 0%)));
+  z-index: 6;
+  width: max-content;
+  max-width: 320px;
+  padding: 6px 12px;
+  background: var(--card);
+  color: var(--ink);
+  border: var(--line-w) solid var(--line);
+  border-radius: 8px;
+  box-shadow: var(--shadow-sm);
+  font-family: var(--font-ui);
+  font-size: 13px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  text-transform: none;
+  white-space: normal;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity .12s;
+}
+.deck-pop-host:hover > .deck-pop,
+.deck-pop-host:focus-within > .deck-pop { opacity: 1; }
+/* Narrow screens: the content column is ~286px in the page's own units at
+   375px, so a 320px card would hang off it. No vw units here on purpose —
+   under `zoom` a viewport unit is multiplied by the scale and stops meaning
+   the viewport. */
+@media screen and (max-width: 45em) {
+  .md-typeset .deck-pop { max-width: 200px; font-size: 12.5px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .md-typeset .deck-pop { transition: none; }
+}
+
 
 /* ──────────────────────────────────────────────────────────────
    5 · CHROME — header, tabs, search, footer
@@ -653,9 +716,6 @@ body,
   display: flex;
   flex-direction: column;
   gap: 8px;
-  position: sticky;
-  bottom: 34px;
-  z-index: 2;
   background: var(--bg);
 }
 .deck-tools button {
@@ -679,9 +739,6 @@ body,
 .deck-tools .st { color: var(--acc); margin-left: auto; }
 
 .deck-count {
-  position: sticky;
-  bottom: 0;
-  z-index: 2;
   background: var(--bg);
   padding: 6px 0 10px;
   margin: 0 8px;
@@ -691,6 +748,51 @@ body,
   letter-spacing: .08em;
 }
 .deck-count b { color: var(--acc); font-weight: 400; }
+
+/* THE PINNING IS DESKTOP-ONLY, AND THE DRAWER GETS A LAYOUT (`#233` P4).
+
+   Below 76.25em the primary sidebar is not a column beside the page — it is
+   Material's slide-in drawer, and a sticky box inside it does not pin to the
+   foot of a tall list. It floated over the drawer's own content: the tools sat
+   on top of the READ counter and the first group rows on a phone.
+
+   DROPPING THE STICKY IS NOT ENOUGH, and this is the part that had to be
+   measured rather than reasoned. Material's drawer gives `.md-nav--primary`
+   `position: absolute` at the full size of the scrollwrap, so `__inner` has no
+   height of its own and everything appended after that nav sits UNDERNEATH it.
+   `position: static` alone did not move the tools to the top of the drawer —
+   it took them off the phone entirely (measured: `.deck-tools` at y 19,
+   height 144, behind a nav painted over all 812px).
+
+   So the drawer is given the layout it never had: `__inner` becomes the flex
+   column, the nav returns to flow as the growing child, and the tools and
+   counter follow it as fixed-height children — the foot of the drawer, in
+   flow, with the list scrolling above them. That is the desktop design
+   arriving at mobile without being re-specified. The nested group navs stay
+   absolute INSIDE `.md-nav--primary`, which is still a positioned ancestor,
+   so the slide-in is untouched. The dot band goes: 84px of texture is a
+   sidebar-foot flourish on a 1280px screen and a third of the controls on a
+   375px one. */
+@media screen and (min-width: 76.25em) {
+  .deck-tools { position: sticky; bottom: 34px; z-index: 2; }
+  .deck-count { position: sticky; bottom: 0; z-index: 2; }
+}
+@media screen and (max-width: 76.2394em) {
+  .md-sidebar--primary .md-sidebar__inner {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  .md-sidebar--primary .md-sidebar__inner > .md-nav--primary {
+    position: relative;
+    top: auto;
+    flex: 1 1 auto;
+    min-height: 0;
+  }
+  .md-sidebar--primary .deck-tools,
+  .md-sidebar--primary .deck-count { flex: 0 0 auto; }
+  .md-sidebar--primary .deck-dots { display: none; }
+}
 
 /* The dot-texture band at the sidebar's foot — dark mode only, because
    --dots is transparent in light. */
@@ -873,20 +975,29 @@ body,
   max-width: 100%;
   overflow-x: auto;
 }
+/* BOLD and accent in BOTH modes (Tim, `#233` P2). The pixel-chrome rule caps
+   these labels at 400 elsewhere; FORM is the one label that names the thing
+   the section teaches, and at 9px/400 it read as another piece of furniture.
+   700 is loaded (the @import asks for Silkscreen 400;700), and the size goes
+   to 10px because a bold pixel face at 9px fills its own counters in. */
 .md-typeset p.form strong:first-child {
   font-family: var(--font-px);
-  font-weight: 400;
-  font-size: 9px;
+  font-weight: 700;
+  font-size: 10px;
   letter-spacing: .1em;
   color: var(--acc);
   margin-right: 4px;
   text-transform: uppercase;
 }
+/* `nowrap`, because the pill already scrolls. Without it a skeleton wraps
+   INSIDE a Japanese run — 食べられる split across two lines — and a broken
+   word is a worse reading target than a scrollbar. */
 .md-typeset p.form code {
   background: none;
   border: 0;
   padding: 0;
   font-size: 13.5px;
+  white-space: nowrap;
 }
 
 /* keyword-led bullets — the lead is what the eye scans */
