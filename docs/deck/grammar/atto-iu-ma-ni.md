@@ -6,9 +6,19 @@
 
 !!! tip "At a glance"
 
-    Not "quickly" — "I was there the whole time and it still felt like nothing".
-    <span class="cite-jp">あっという間</span> is the space of one surprised <span class="cite-jp">あっ</span>, and <span class="cite-jp">に</span> puts an event inside it.
-    The judgment is made afterwards, so the verb is almost always past.
+    <span class="cite-jp">あっという間に</span> presents an action, change or stretch of time as happening in
+    what feels like almost no time. It can describe something that was objectively
+    very fast or something that simply felt much shorter than the clock suggests.
+
+    Past events are common, but the expression itself is not tied to the past:
+    general statements and future predictions are natural too.
+
+<span class="cite-jp">あっという間に</span> presents an interval as surprisingly short. The important idea
+is not whether the speaker literally watched the time pass, but how quickly the
+event or stretch of time seemed to be over.
+
+Something can take an hour and still feel <span class="cite-jp">あっという間</span> if that hour seemed to
+vanish.
 
 **See also:** [急に](<kyuu-ni.md> "急に — Suddenly") — 急に calls the event abrupt; あっという間に calls the interval short  
 [たら](<tara.md> "たら — the tara-conditional: condition, discovery, time, and suggestion") — 気づいたら is the neighbouring frame — the change noticed after the fact rather than watched
@@ -17,27 +27,58 @@
 In what feels like no time; emphasizes surprisingly quick completion
 {: .h1-gloss }
 
-**Form:** `あっという間に + past-tense clause`
+**Form:** `あっという間に + clause`
 {: .form }
 
-- **The literal frame is the meaning** — <span class="cite-jp">あっ</span> (a startled breath) + <span class="cite-jp">という</span>
-  (called) + <span class="cite-jp">間</span> (an interval) + <span class="cite-jp">に</span> (within). It is fixed: the <span class="cite-jp">間</span> slot takes no
-  other modifier, so there is no <span class="cite-jp">長いという間に</span> to build by analogy.
-- **The speaker was watching** — attention was on the thing, and the stretch
-  still compressed: <span class="cite-jp">夏休みがあっという間に終わった</span> "the summer holiday was over
-  in no time". That is what separates it from <span class="cite-jp">いつの間にか</span>, where you were not
-  tracking at all and look up into an already-changed world — and why that one
-  leans so heavily on <span class="cite-jp">ていた</span> while this one takes <span class="cite-jp">た</span> or <span class="cite-jp">てしまう</span>.
-- **It describes the duration, not the event** — <span class="cite-jp">急に</span> and <span class="cite-jp">突然</span> say the event
-  arrived without warning. <span class="cite-jp">あっという間に</span> says the interval felt short.
-  <span class="cite-jp">急に雨が降ってきた</span> "it suddenly started raining" and <span class="cite-jp">あっという間に雨が上がった</span>
-  "the rain stopped in no time" are doing different jobs.
-- **The feeling is usually rueful, and not only that** — most often something
-  good ended too soon, but the compression can be unwelcome and the phrase
-  stays ordinary: <span class="cite-jp">あっという間に貯金がなくなった</span> "the savings vanished in no
-  time".
+- **Think "the interval felt tiny"** — the phrase draws attention to how little
+  time the event seemed to take. Sometimes the event really was very quick;
+  other times a substantial amount of clock time passed but felt surprisingly
+  brief.
+- **It is not the same as "suddenly"** — <span class="cite-jp">急に</span> and <span class="cite-jp">突然</span> focus on how
+  unexpectedly an event begins or occurs. <span class="cite-jp">雨が急に降り出した</span> "it suddenly
+  started raining" tells you about the onset of the rain;
+  <span class="cite-jp">雨はあっという間にやんだ</span> "the rain stopped in no time" tells you how
+  quickly the period of rain was over.
+- **It is also different from <span class="cite-jp">いつの間にか</span>** — <span class="cite-jp">あっという間に</span> says the
+  interval seemed very short. <span class="cite-jp">いつの間にか</span> says that the change happened
+  without the speaker noticing exactly when:
+  <span class="cite-jp">いつの間にか寝ていた</span> "before I knew it, I had fallen asleep."
+- **Compared with <span class="cite-jp">すぐ</span>, <span class="cite-jp">あっという間に</span> adds a sense of the time disappearing**
+  — <span class="cite-jp">すぐ終わった</span> simply says "it ended quickly / soon."
+  <span class="cite-jp">あっという間に終わった</span> presents that same short interval as strikingly
+  brief: "it was over in no time."
+- **The expression itself does not tell you whether the speaker is happy or
+  unhappy about the speed** — <span class="cite-jp">休日はあっという間に終わった</span> "the day off was
+  over in no time" can sound disappointed, while
+  <span class="cite-jp">切符はあっという間に売り切れた</span> "the tickets sold out almost immediately"
+  may simply report how quickly it happened.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>話<rt>はな</rt></ruby>しているうちに、<ruby>二時間<rt>にじかん</rt></ruby>が<span class="pat">あっという<ruby>間<rt>ま</rt></ruby>に</span><ruby>過<rt>す</rt></ruby>ぎた。</div><div class="ex-en">&ldquo;While we were talking, two hours went by in no time.&rdquo;</div><div class="ex-note">The clock measured two hours; あっという間 reports that the stretch felt surprisingly short.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="r">はなしているうちに、</span><span class="j" lang="ja"><ruby>話<rt>はな</rt></ruby>しているうちに、</span><span class="g">while we were talking</span></div><div class="bd-seg"><span class="r">にじかんが</span><span class="j" lang="ja"><ruby>二時間<rt>にじかん</rt></ruby>が</span><span class="g">two hours</span></div><div class="bd-seg hit"><span class="r">あっというまに</span><span class="j" lang="ja">あっという<ruby>間<rt>ま</rt></ruby>に</span><span class="g">in no time</span></div><div class="bd-seg"><span class="r">すぎた</span><span class="j" lang="ja"><ruby>過<rt>す</rt></ruby>ぎた</span><span class="g">went by</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">あっという間に + completed event</span></div></div></details></div>
+
+### Does the verb have to be past?
+
+No. **<span class="cite-jp">あっという間に</span> describes the length of an interval as the speaker
+perceives or presents it; it does not determine tense.**
+
+Past tense is common because speakers often make this judgment after an event
+or change is complete, but there is nothing inherently past about the
+expression.
+
+- **A general tendency can be non-past** —
+  <span class="cite-jp">楽しい時間はあっという間に過ぎる</span> "good times pass in no time."
+- **A future prediction can also be non-past** —
+  <span class="cite-jp">来週もあっという間に終わる</span> "next week will be over before we know it."
 
 ??? note "<span class="cite-jp">あっという間</span> without <span class="cite-jp">に</span>"
-    Drop the <span class="cite-jp">に</span> and the phrase modifies a noun with <span class="cite-jp">の</span>: <span class="cite-jp">あっという間の出来事</span>,
-    "a matter of moments". Same interval, used as a measure rather than as a
-    frame for an event.
+    <span class="cite-jp">あっという間</span> does not always need <span class="cite-jp">に</span>. The underlying idea of a surprisingly
+    short interval remains, but its grammatical job changes.
+
+    With <span class="cite-jp">の</span>, it modifies a noun:
+    <span class="cite-jp">あっという間の出来事</span> "an event that was over in moments."
+
+    It can also be the predicate:
+    <span class="cite-jp">三日間はあっという間だった</span> "the three days flew by."
+
+    Use <span class="cite-jp">あっという間に</span> when the phrase frames an action or change as taking place
+    within that surprisingly short interval. Without <span class="cite-jp">に</span>, <span class="cite-jp">あっという間</span> can instead
+    function in noun-like positions.

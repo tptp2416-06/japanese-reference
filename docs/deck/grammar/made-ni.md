@@ -15,6 +15,9 @@ waste.
 All the sentence commits to is that by the time the line arrives, the thing is
 done.
 
+**See also:** [は](<wa.md> "は — topic, contrast, and scope") — までには is this same は riding on a deadline: naming the line as the topic is what turns it into 'by X at the latest'
+{: .seealso }
+
 By a deadline; the action must occur no later than that time
 {: .h1-gloss }
 

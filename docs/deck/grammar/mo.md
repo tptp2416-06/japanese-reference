@@ -4,6 +4,9 @@
 
 <span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span> <span class="card-tag">baseline</span>
 
+**See also:** [は](<wa.md> "は — topic, contrast, and scope") — the other binding particle — も displaces が and を and stacks onto で and に exactly as は does, and adds where は subtracts
+{: .seealso }
+
 ## も (also) { #also }
 
 Also or too.

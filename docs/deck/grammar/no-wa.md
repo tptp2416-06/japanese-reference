@@ -4,6 +4,9 @@
 
 <span class="card-tag lv">N5</span> <span class="card-tag">nominalization</span> <span class="card-tag">topic-focus</span>
 
+**See also:** [は](<wa.md> "は — topic, contrast, and scope") — のは is how a whole clause becomes the topic; は on its own can only lift a noun phrase
+{: .seealso }
+
 ## のは (nominalized topic) { #nominalized-topic }
 
 Nominalizes a clause and presents it as the sentence topic

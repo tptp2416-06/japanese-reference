@@ -177,7 +177,6 @@ nav:
         - のに・Disappointed Contrast: grammar/expressions/noni-disappointed-kimi.md
 
         # Modality & Obligation
-        - 〜なきゃ・ないと etc. — Must / Have To: grammar/expressions/obligation-kimi.md
         - ～ちゃいなよ — Casual Encouragement: grammar/expressions/chai-nayo-deepseek.md
         - 〜はず — Supposed To Be / Expected Certainty: grammar/expressions/hazu-kimi.md
 
@@ -213,7 +212,6 @@ nav:
 
     - Test:
       # AI comparison versions
-      - 〜んだ — DeepSeek: grammar/expressions/n-da-deepseek.md
       - 〜っぱなし — DeepSeek: grammar/expressions/ppa-na-shi-deepseek.md
       - 〜って — ChatGPT: grammar/expressions/tte-casual-gpt.md
       - Embedded Questions — Claude: grammar/expressions/questions-in-sentences.md

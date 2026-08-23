@@ -23,6 +23,11 @@ the alternatives become prominent and the result is contrast.
 When <span class="cite-jp">は</span> follows another particle, the same framing can limit the scope of the
 statement. Three sections, one act, weighted differently each time.
 
+**See also:** [までに](<made-ni.md> "までに — by a deadline") — までには is this same は riding on a deadline: naming the line as the topic is what turns it into 'by X at the latest'  
+[も](<mo.md> "も — Also or too") — the other binding particle — も displaces が and を and stacks onto で and に exactly as は does, and adds where は subtracts  
+[のは](<no-wa.md> "のは — Nominalizes a clause and presents it as the sentence topic") — のは is how a whole clause becomes the topic; は on its own can only lift a noun phrase
+{: .seealso }
+
 ## は (topic) { #topic }
 
 Marks the sentence topic.
