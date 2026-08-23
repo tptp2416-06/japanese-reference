@@ -4,6 +4,15 @@
 
 <span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
 
+!!! tip "At a glance"
+
+    `start + から + endpoint + まで` marks a whole span "from A through／to B". It
+    works for time, space and other ordered ranges, with <span class="cite-jp">まで</span> including the endpoint.
+
+<span class="cite-jp">から</span> marks where a span begins, and <span class="cite-jp">まで</span> marks the endpoint it runs through.
+Together they let you measure a stretch from end to end: hours on a clock, stops
+on a route, or any other ordered range.
+
 **See also:** [まで](<made.md> "まで — up to, as far as, and even") — the paired form that fixes both ends of the same stretch
 {: .seealso }
 
@@ -11,3 +20,27 @@
 
 Marks a range from its starting point through its endpoint
 {: .pt-gloss }
+
+**Form:** `start + から + endpoint + まで + predicate`
+{: .form }
+
+- **Time becomes one stretch** — 9<span class="cite-jp">時から</span>5<span class="cite-jp">時まで働く</span> "work from nine to five"
+  presents the working period from its starting point through its endpoint.
+- **Space uses the same frame** — <span class="cite-jp">東京から大阪まで行く</span> "go from Tokyo to Osaka"
+  traces the route between two places.
+- **The endpoint belongs to the span** — <span class="cite-jp">月曜日から金曜日まで</span> "from Monday
+  through Friday" includes Friday rather than stopping before it.
+- **Other ordered ranges work too** — 1<span class="cite-jp">ページから</span>10<span class="cite-jp">ページまで読む</span> "read from
+  page one through page ten" treats numbered pages as a continuous span.
+
+<div class="ex"><div class="ex-jp" lang="ja"><span class="pat"><ruby>月曜日<rt>げつようび</rt></ruby>から<ruby>金曜日<rt>きんようび</rt></ruby>まで</span><ruby>働<rt>はたら</rt></ruby>く。</div><div class="ex-en">&ldquo;I work from Monday through Friday.&rdquo;</div><div class="ex-note">Both endpoints are named, and Friday is included in the working span.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="r">げつようびから</span><span class="j" lang="ja"><ruby>月曜日<rt>げつようび</rt></ruby>から</span><span class="g">from Monday</span></div><div class="bd-seg hit"><span class="r">きんようびまで</span><span class="j" lang="ja"><ruby>金曜日<rt>きんようび</rt></ruby>まで</span><span class="g">through Friday</span></div><div class="bd-seg"><span class="r">はたらく</span><span class="j" lang="ja"><ruby>働<rt>はたら</rt></ruby>く</span><span class="g">work</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">start + から + endpoint + まで</span></div></div></details></div>
+
+### Can either end be left unstated?
+
+Yes. 9<span class="cite-jp">時から働く</span> "work from nine" names only the start; 5<span class="cite-jp">時まで働く</span> "work
+until five" names only the endpoint. Each particle has uses of its own, while
+the paired frame is what explicitly measures the whole span end to end.
+
+Do not replace this durative <span class="cite-jp">まで</span> with deadline <span class="cite-jp">までに</span>. 5<span class="cite-jp">時まで働く</span> "work until
+five" continues through the interval; 5<span class="cite-jp">時までに終える</span> "finish by five" requires
+the result no later than that point and says nothing about filling the interval.

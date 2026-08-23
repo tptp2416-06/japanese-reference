@@ -4,5 +4,41 @@
 
 <span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span>
 
+!!! tip "At a glance"
+
+    `A も B も + affirmative` includes both A and B. With a negative predicate, the
+    same frame excludes both and is normally translated "neither A nor B".
+
+One <span class="cite-jp">も</span> adds an item to a set. Put <span class="cite-jp">も</span> on each of two named items and both are
+explicitly included: <span class="cite-jp">犬も猫も好き</span> "I like both dogs and cats".
+
+The doubled marking gives the two items equal footing. Compared with a plain <span class="cite-jp">と</span>
+list, it often carries a small "this one too, and that one too" emphasis.
+
 Both A and B; includes each item equally
 {: .h1-gloss }
+
+**Form:** `A も B も + predicate` · `A + particle + も, B + particle + も`
+{: .form }
+
+- **Affirmative predicates include both** — <span class="cite-jp">犬も猫も好き</span> "I like both dogs and
+  cats" presents each animal as a member of the liked set.
+- **Negative predicates exclude both** — <span class="cite-jp">肉も魚も食べない</span> "I eat neither meat
+  nor fish" applies the negation to each listed item.
+- **The two items stand as equals** — <span class="cite-jp">犬と猫が好き</span> "I like dogs and cats" is a
+  plain list; <span class="cite-jp">犬も猫も好き</span> "I like both dogs and cats" highlights that each one
+  is included. How emphatic it feels depends on context and delivery.
+- **Case marking follows the ordinary <span class="cite-jp">も</span> mechanics** — <span class="cite-jp">も</span> replaces <span class="cite-jp">が</span> or <span class="cite-jp">を</span> on
+  the listed items, while other case particles remain before it:
+  <span class="cite-jp">東京にも大阪にも行った</span> "I went to both Tokyo and Osaka".
+
+<div class="ex"><div class="ex-jp" lang="ja"><span class="pat"><ruby>犬<rt>いぬ</rt></ruby>も<ruby>猫<rt>ねこ</rt></ruby>も</span><ruby>好<rt>す</rt></ruby>きだ。</div><div class="ex-en">&ldquo;I like both dogs and cats.&rdquo;</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="r">いぬも</span><span class="j" lang="ja"><ruby>犬<rt>いぬ</rt></ruby>も</span><span class="g">dogs too</span></div><div class="bd-seg hit"><span class="r">ねこも</span><span class="j" lang="ja"><ruby>猫<rt>ねこ</rt></ruby>も</span><span class="g">cats too</span></div><div class="bd-seg"><span class="r">すきだ</span><span class="j" lang="ja"><ruby>好<rt>す</rt></ruby>きだ</span><span class="g">like</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">A も B も + affirmative predicate</span></div></div></details></div>
+
+### Why does the same frame mean "neither"?
+
+The two <span class="cite-jp">も</span> markers still include both items in the set under discussion. The
+negative predicate then denies the statement for every listed member:
+<span class="cite-jp">コーヒーも紅茶も飲まない</span> "I drink neither coffee nor tea".
+
+Nothing inside <span class="cite-jp">も</span> itself means "neither". That reading comes from doubled <span class="cite-jp">も</span>
+together with negation.

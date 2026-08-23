@@ -4,5 +4,44 @@
 
 <span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">request</span>
 
+!!! tip "At a glance"
+
+    `V-ない + でください` is a polite negative request: "please do not do". Its
+    affirmative counterpart is `V-て + ください`; casual speech can drop <span class="cite-jp">ください</span>.
+
+To ask someone not to do something, put the action in its plain negative form
+and follow it with <span class="cite-jp">でください</span>: <span class="cite-jp">心配しないでください</span> "please don't worry".
+
+The request is polite, but its emotional force comes from the situation. The
+same structure can comfort someone or state a firm rule.
+
 Please do not do.
 {: .h1-gloss }
+
+**Form:** `V-ない + でください`
+{: .form }
+
+- **Make the plain negative first** — <span class="cite-jp">書かないでください</span> "please do not write",
+  <span class="cite-jp">食べないでください</span> "please do not eat", <span class="cite-jp">しないでください</span> "please do not do
+  it", <span class="cite-jp">来ないでください</span> "please do not come".
+- **The affirmative uses <span class="cite-jp">てください</span>** — <span class="cite-jp">入ってください</span> "please come in"
+  requests the action; <span class="cite-jp">入らないでください</span> "please do not come in" requests its
+  absence.
+- **<span class="cite-jp">ください</span> supplies politeness, not one fixed force** — <span class="cite-jp">気にしないでください</span>
+  "please don't let it bother you" can be gentle reassurance, while a sign saying
+  <span class="cite-jp">触らないでください</span> "please do not touch" functions as a prohibition.
+- **<span class="cite-jp">ね</span> can invite agreement** — <span class="cite-jp">心配しないでくださいね</span> "please don't worry,
+  okay?" often sounds softer, though tone and context can also make <span class="cite-jp">ね</span> sound
+  insistent.
+
+<div class="ex"><div class="ex-jp" lang="ja">この<ruby>箱<rt>はこ</rt></ruby>に<span class="pat"><ruby>触<rt>さわ</rt></ruby>らないでください</span>。</div><div class="ex-en">&ldquo;Please do not touch this box.&rdquo;</div><div class="ex-note">In a posted notice, the polite request functions as a firm prohibition.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="r">このはこに</span><span class="j" lang="ja">この<ruby>箱<rt>はこ</rt></ruby>に</span><span class="g">this box</span></div><div class="bd-seg hit"><span class="r">さわらないでください</span><span class="j" lang="ja"><ruby>触<rt>さわ</rt></ruby>らないでください</span><span class="g">please do not touch</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-ない + でください</span></div></div></details></div>
+
+### What changes when <span class="cite-jp">ください</span> is dropped?
+
+<span class="cite-jp">来ないでください</span> "please don't come" is polite. <span class="cite-jp">来ないで</span> "don't come" keeps
+the negative request but moves into casual speech; depending on the relationship
+and tone, it can sound intimate, urgent or blunt.
+
+This page covers the request ending. In <span class="cite-jp">朝ご飯を食べないで出た</span> "I left without
+eating breakfast", <span class="cite-jp">ないで</span> links two actions with the sense "without doing";
+that is a separate construction.

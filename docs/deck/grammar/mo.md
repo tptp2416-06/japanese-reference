@@ -4,6 +4,18 @@
 
 <span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span> <span class="card-tag">baseline</span>
 
+!!! tip "At a glance"
+
+    <span class="cite-jp">も</span> marks its item as another member of a set: "also", "too" or "as well". It
+    replaces <span class="cite-jp">が・を・は</span>, but follows other case particles: <span class="cite-jp">にも</span>, <span class="cite-jp">でも</span>, <span class="cite-jp">とも</span>.
+
+<span class="cite-jp">も</span> takes one item and places it beside something already in view. If one person
+is going, <span class="cite-jp">私も行く</span> "I'm going too" adds me; if one thing was read, <span class="cite-jp">本も読んだ</span>
+"I read the book too" adds the book.
+
+The position of <span class="cite-jp">も</span> matters because the item it attaches to is the item being
+added.
+
 **See also:** [は](<wa.md> "は — topic, contrast, and scope") — the other binding particle — も displaces が and を and stacks onto で and に exactly as は does, and adds where は subtracts
 {: .seealso }
 
@@ -11,3 +23,32 @@
 
 Also or too.
 {: .pt-gloss }
+
+**Form:** `N + も` · `N + particle + も`
+{: .form }
+
+- **One more member joins the set** — <span class="cite-jp">私も行く</span> "I'm going too" assumes that
+  someone else is going or that another relevant case is already in view.
+- **Attachment sets the focus of the addition** — <span class="cite-jp">私も本を読んだ</span> "I, too, read
+  the book" adds the reader; <span class="cite-jp">本も読んだ</span> "I read the book too" adds the book to
+  other things read or done.
+- **<span class="cite-jp">が・を・は</span> give their place to <span class="cite-jp">も</span>** — the added subject, object or topic is
+  marked directly with <span class="cite-jp">も</span>: <span class="cite-jp">私も行く</span> "I'm going too", <span class="cite-jp">本も買った</span> "I bought a
+  book too".
+- **Other case particles remain before <span class="cite-jp">も</span>** — <span class="cite-jp">東京にも行った</span> "I went to Tokyo
+  too", <span class="cite-jp">学校でも話した</span> "I talked about it at school too", <span class="cite-jp">友達とも相談した</span> "I
+  also discussed it with a friend".
+
+<div class="ex"><div class="ex-jp" lang="ja"><span class="pat"><ruby>私<rt>わたし</rt></ruby>も</span><ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んだ。</div><div class="ex-en">&ldquo;I, too, read the book.&rdquo;</div><div class="ex-note">も attaches to 私, so the added member is the reader rather than the book.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="r">わたしも</span><span class="j" lang="ja"><ruby>私<rt>わたし</rt></ruby>も</span><span class="g">I too</span></div><div class="bd-seg"><span class="r">ほんを</span><span class="j" lang="ja"><ruby>本<rt>ほん</rt></ruby>を</span><span class="g">the book</span></div><div class="bd-seg"><span class="r">よんだ</span><span class="j" lang="ja"><ruby>読<rt>よ</rt></ruby>んだ</span><span class="g">read</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">N + も, added subject</span></div></div></details></div>
+
+### Which particle stays beside <span class="cite-jp">も</span>?
+
+| role before adding <span class="cite-jp">も</span> | resulting shape | example |
+|---|---|---|
+| subject marked by <span class="cite-jp">が</span> | <span class="cite-jp">が</span> is replaced | <span class="cite-jp">私も行く</span> "I'm going too" |
+| object marked by <span class="cite-jp">を</span> | <span class="cite-jp">を</span> is replaced | <span class="cite-jp">お茶も飲んだ</span> "I drank tea too" |
+| topic marked by <span class="cite-jp">は</span> | <span class="cite-jp">は</span> is displaced | <span class="cite-jp">今日は休みで、明日も休みだ</span> "today is a day off, and tomorrow is too" |
+| <span class="cite-jp">に・で・と</span> and other case relations | the particle remains; <span class="cite-jp">も</span> follows | <span class="cite-jp">京都にも行く</span> "I'll go to Kyoto too" |
+
+This page covers additive <span class="cite-jp">も</span>. The scalar pattern <span class="cite-jp">数量</span>＋<span class="cite-jp">も</span> "as many as／as much
+as" has its own page, as do the question-word patterns <span class="cite-jp">何も</span>〜<span class="cite-jp">ない</span> and <span class="cite-jp">何でも</span>.

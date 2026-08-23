@@ -2,12 +2,55 @@
      Prose belongs in content/deck/grammar/mou-mada.md -->
 # もう・まだ — already, still, and not yet
 
+!!! tip "At a glance"
+
+    <span class="cite-jp">もう</span> places the situation beyond a relevant change; <span class="cite-jp">まだ</span> places it before that
+    change. Affirmative: <span class="cite-jp">もう</span> "already／now", <span class="cite-jp">まだ</span> "still". Negative: <span class="cite-jp">もう</span> "not
+    anymore", <span class="cite-jp">まだ</span> "not yet".
+
+Imagine a line between an old situation and a new one. <span class="cite-jp">もう</span> looks back from
+the far side of that line: the change has been reached. <span class="cite-jp">まだ</span> looks toward the
+line from the near side: the earlier situation remains, or the change has not
+happened yet.
+
+That picture explains why neither word has a single fixed English translation.
+The adverb locates you relative to the line; the predicate says what is true
+there. With an affirmative predicate, <span class="cite-jp">もう</span> often becomes "already" and <span class="cite-jp">まだ</span>
+"still". With a negative one, <span class="cite-jp">もう</span> often becomes "not anymore" and <span class="cite-jp">まだ</span> "not
+yet".
+
+The line is set by the conversation. It might be the end of a task, the start of
+a new state, or simply the point at which someone expected things to change.
+
 ## まだ { #mada }
 
 Still or not yet; state continues relative to expectations
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
+
+**Form:** `まだ + affirmative predicate`
+{: .form }
+
+- **The earlier situation continues** — <span class="cite-jp">まだ寝ている</span> "is still sleeping" and
+  <span class="cite-jp">まだ雨だ</span> "it is still raining" say that an expected change has not displaced
+  the current state.
+- **The endpoint can feel close** — <span class="cite-jp">まだ大丈夫</span> "it is still okay" guarantees the
+  current state, not its future. In the right setting, that can reassure and warn
+  at the same time.
+- **The approaching limit is contextual** — <span class="cite-jp">まだ若い</span> "is still young" may
+  contrast the present with a later stage, but <span class="cite-jp">まだ</span> itself does not calculate
+  when that stage will arrive.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>店<rt>みせ</rt></ruby>は<span class="pat">まだ</span><ruby>開<rt>あ</rt></ruby>いている。</div><div class="ex-en">&ldquo;The shop is still open.&rdquo;</div><div class="ex-note">The shop remains on the open side of the expected closing point.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="r">みせは</span><span class="j" lang="ja"><ruby>店<rt>みせ</rt></ruby>は</span><span class="g">the shop</span></div><div class="bd-seg hit"><span class="r">&nbsp;</span><span class="j" lang="ja">まだ</span><span class="g">still</span></div><div class="bd-seg"><span class="r">あいている</span><span class="j" lang="ja"><ruby>開<rt>あ</rt></ruby>いている</span><span class="g">is open</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">まだ + affirmative predicate</span></div></div></details></div>
+
+### How can <span class="cite-jp">まだ大丈夫</span> both reassure and warn?
+
+It directly says only that things remain okay now. If the conversation has
+already put a limit in view, "still" can suggest that the margin is shrinking:
+<span class="cite-jp">まだ大丈夫</span> "it is still okay for now". Without that setting, it can be simple
+reassurance. The warning is an inference from context, not a second dictionary
+meaning built into <span class="cite-jp">まだ</span>.
 
 *Compare:* [まだ vs もう — still vs already](<../contrasts/mada-vs-mou.md> "still vs already")
 {: .compare }
@@ -19,12 +62,83 @@ Not yet; an expected action or state has still not come about
 
 <span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
 
+**Form:** `まだ + negative predicate`
+{: .form }
+
+<span class="cite-jp">まだ</span> with a negative predicate says that the change has not been reached:
+<span class="cite-jp">まだ終わっていない</span> "it hasn't finished yet", <span class="cite-jp">まだ決めていない</span> "I haven't
+decided yet".
+
+- **The negative belongs to the predicate** — <span class="cite-jp">まだ</span> does not itself mean "not";
+  it holds the viewpoint before the change, and the negative says that the new
+  event or state is absent there.
+- **"Yet" often leaves the change open** — <span class="cite-jp">まだ来ていない</span> "hasn't arrived yet"
+  commonly presents arrival as expected or relevant. It does not promise that
+  the person will eventually arrive.
+- **Questions keep the same viewpoint** — <span class="cite-jp">まだ終わっていない？</span> "is it not
+  finished yet?" asks whether the unreached state continues and may sound
+  impatient if the situation supplies that expectation.
+
+!!! note "Pitfall"
+    Do not assign one English word to each adverb before looking at the
+    predicate. <span class="cite-jp">もう</span> is not confined to "already": with a negative predicate it
+    readily means "not anymore". <span class="cite-jp">まだ</span> is not confined to "still": with a
+    negative predicate it readily means "not yet".
+
+    The reliable order is viewpoint first, polarity second. Ask whether the
+    relevant change is presented as reached or unreached, then read what the
+    affirmative or negative predicate says on that side.
+
+| viewpoint | predicate | natural example |
+|---|---|---|
+| beyond the change | affirmative | <span class="cite-jp">もう終わった</span> "it has already finished" |
+| beyond the change | negative | <span class="cite-jp">もう働いていない</span> "isn't working anymore" |
+| before the change | affirmative | <span class="cite-jp">まだ働いている</span> "is still working" |
+| before the change | negative | <span class="cite-jp">まだ終わっていない</span> "hasn't finished yet" |
+
 ## まだ＋ている { #mada-te-iru }
 
 Still doing X; emphasizes continuation beyond an expected point
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+
+**Form:** `まだ + V-ている` · `まだ + V-ていない`
+{: .form }
+
+<span class="cite-jp">ている</span> contributes its ordinary reading: an action in progress, a continuing
+state, or a state left by a change. <span class="cite-jp">まだ</span> then says that this situation continues;
+with <span class="cite-jp">ていない</span>, it says that the relevant event or state has not been reached.
+
+| combination | example in context |
+|---|---|
+| <span class="cite-jp">もう</span>＋<span class="cite-jp">ている</span> | <span class="cite-jp">もう働いている</span> "has already started working" |
+| <span class="cite-jp">まだ</span>＋<span class="cite-jp">ている</span> | <span class="cite-jp">まだ働いている</span> "is still working" |
+| <span class="cite-jp">もう</span>＋<span class="cite-jp">ていない</span> | <span class="cite-jp">もう働いていない</span> "isn't working anymore" |
+| <span class="cite-jp">まだ</span>＋<span class="cite-jp">ていない</span> | <span class="cite-jp">まだ働いていない</span> "hasn't started working yet" |
+
+All four can be ordinary Japanese when the context supplies the corresponding
+change. In particular, <span class="cite-jp">もう覚えていない</span> "I don't remember it anymore",
+<span class="cite-jp">もう住んでいない</span> "I don't live there anymore", and <span class="cite-jp">もう働いていない</span> "I
+don't work there anymore" are natural uses of <span class="cite-jp">もう</span> with <span class="cite-jp">ていない</span>.
+
+### Does <span class="cite-jp">ている</span> force the translation "still"?
+
+No. The affirmative <span class="cite-jp">まだ</span>＋<span class="cite-jp">ている</span> often yields "still" because an action or
+state continues: <span class="cite-jp">まだ読んでいる</span> "is still reading". Negating the same form
+changes the result: <span class="cite-jp">まだ読んでいない</span> "hasn't read it yet".
+
+The translation comes from the whole combination. It is not a special meaning
+hidden inside <span class="cite-jp">ている</span>.
+
+??? note "Where the threshold picture stops"
+    The line is a mental model for organizing the contrasts, not a grammatical
+    object inside the sentence. Japanese grammar supplies an adverb, a predicate
+    and its polarity; speakers infer the relevant change from the situation.
+
+    A separate use of <span class="cite-jp">もう</span> adds another unit, as in <span class="cite-jp">もう一度</span> "one more time" and
+    <span class="cite-jp">もう一杯</span> "one more cup". That enumerative pattern follows a different track
+    and is outside this page.
 
 ## もう { #mou }
 
@@ -35,6 +149,31 @@ Already, another, or no longer, depending on context.
 
 **Compounds:** [もう＋過去](<mou-mada.md#mou-kako> "Already did; もう with a past predicate.")
 {: .fam }
+
+**Form:** `もう + affirmative predicate` · `もう + negative predicate`
+{: .form }
+
+- **The relevant change is behind you** — <span class="cite-jp">もう大丈夫</span> "it is okay now" presents
+  becoming okay as reached; <span class="cite-jp">もう遅い</span> "it is already too late" presents the
+  useful limit as passed.
+- **Negation changes what is true beyond the line** — <span class="cite-jp">もう使わない</span> "I won't use
+  it anymore" and <span class="cite-jp">もう寒くない</span> "it isn't cold anymore" place using it or being
+  cold on the earlier side.
+- **Expectation colors the reading** — <span class="cite-jp">もう</span> can convey surprise that the line
+  was crossed early, impatience that it should be crossed now, or no special
+  emotion at all. The sentence and situation supply that tone.
+
+<div class="ex"><div class="ex-jp" lang="ja"><span class="pat">もう</span>ここには<span class="pat"><ruby>住<rt>す</rt></ruby>んでいない</span>。</div><div class="ex-en">&ldquo;I don&#x27;t live here anymore.&rdquo;</div><div class="ex-note">The earlier state was living here. もう places the speaker beyond the end of that state.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="r">&nbsp;</span><span class="j" lang="ja">もう</span><span class="g">anymore</span></div><div class="bd-seg"><span class="r">&nbsp;</span><span class="j" lang="ja">ここには</span><span class="g">here</span></div><div class="bd-seg hit"><span class="r">すんでいない</span><span class="j" lang="ja"><ruby>住<rt>す</rt></ruby>んでいない</span><span class="g">do not live</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">もう + negative predicate</span></div></div></details></div>
+
+### Why doesn't <span class="cite-jp">もう</span> simply mean "already"?
+
+"Already" works when the predicate names the new situation: <span class="cite-jp">もう終わった</span> "it
+has already finished". If the predicate is negative, the same viewpoint means
+that the old situation no longer holds: <span class="cite-jp">もう開いていない</span> "it is not open
+anymore".
+
+The grammar has not reversed. <span class="cite-jp">もう</span> keeps placing the viewpoint beyond a
+contextual change; affirmation or negation determines what holds there.
 
 *Compare:* [まだ vs もう — still vs already](<../contrasts/mada-vs-mou.md> "still vs already")
 {: .compare }
@@ -48,3 +187,29 @@ Already did; もう with a past predicate.
 
 **From:** compound of [もう](<mou-mada.md#mou> "Already, another, or no longer, depending on context.")
 {: .fam }
+
+**Form:** `もう + V-た`
+{: .form }
+
+The past form makes the crossed line especially easy to see. An event has
+happened, and <span class="cite-jp">もう</span> presents it as reached by now or by another reference time.
+
+- **In a statement, English usually says "already"** — <span class="cite-jp">もう予約した</span> "I've
+  already made a reservation".
+- **In a question, English often says "yet"** — Japanese asks with <span class="cite-jp">もう</span> whether
+  the event side has been reached; English normally phrases the same neutral
+  question with "yet".
+- **Earlier than expected is an implication, not a requirement** — <span class="cite-jp">もう終わった</span>
+  "it has already finished" can sound surprised, but it can also be a plain
+  status report.
+
+<div class="ex"><div class="ex-jp" lang="ja"><span class="pat">もう</span><ruby>宿題<rt>しゅくだい</rt></ruby>は<ruby>終<rt>お</rt></ruby>わった？</div><div class="ex-en">&ldquo;Have you finished your homework yet?&rdquo;</div><div class="ex-note">The question asks whether finishing has been reached. A positive answer can repeat もう; a negative answer normally switches to まだ.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="r">&nbsp;</span><span class="j" lang="ja">もう</span><span class="g">yet</span></div><div class="bd-seg"><span class="r">しゅくだいは</span><span class="j" lang="ja"><ruby>宿題<rt>しゅくだい</rt></ruby>は</span><span class="g">the homework</span></div><div class="bd-seg"><span class="r">おわった</span><span class="j" lang="ja"><ruby>終<rt>お</rt></ruby>わった</span><span class="g">finished</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">もう + V-た in a question</span></div></div></details></div>
+
+### How do the short answers change sides?
+
+To <span class="cite-jp">もう食べた？</span> "have you eaten yet?", a positive answer can be <span class="cite-jp">うん、もう食べた</span>
+"yes, I've already eaten". A negative answer is normally <span class="cite-jp">いや、まだ食べていない</span>
+"no, I haven't eaten yet".
+
+The answer changes the adverb because it changes the side of the line being
+reported: reached with <span class="cite-jp">もう</span>, still unreached with <span class="cite-jp">まだ</span>.
