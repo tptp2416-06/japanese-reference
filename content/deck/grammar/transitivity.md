@@ -1,51 +1,70 @@
+Japanese often has distinct verb pairs where English uses the same verb both
+ways: 開く for the door opening on its own, 開ける for someone opening it.
+
+English shows the difference through argument structure, not by picking a
+different verb — which is where translating straight from English leads to
+errors.
+
+Ask a different question instead: is this sentence profiling the event
+itself, or profiling someone as the cause? Which verbs pair with which is
+vocabulary, learned one pair at a time.
+
+Intransitive verbs profile the event itself; transitive verbs profile a
+causer acting on it. Japanese often prefers the event-focused option where
+English reaches for a passive or agentless phrasing — a tendency, not a rule
+for the whole language.
+
 @@ tldr
 
-Japanese usually has two verbs where English has one: 開く for the door
-opening and 開ける for someone opening it. English picks between them with
-word order, so translating from English is where the errors come from. Ask
-instead whether you are reporting an event or claiming an agent.
-
-Which verbs pair with which is vocabulary, learned one pair at a time. What
-generalises is the choice between them, and the answer is not the one English
-suggests: Japanese reaches for the intransitive by default and treats the
-transitive as a positive claim that somebody did this.
+Japanese often has distinct verb pairs where English uses the same verb in
+both patterns — 開く for the door opening, 開ける for someone opening it. Ask
+which the sentence is doing: profiling the event itself, or profiling
+someone as the cause.
 
 @@ intransitive
 
 **Form:** `N が V-intrans`
 
-- **The unmarked way to report that something happened** — ドアが開いた
-  "the door opened", 電気が消えた, 会議が始まった. No agent is named, and often
-  none is implied; the event is the whole of what is being said.
-- **States are this verb plus ている** — 窓が壊れている is "the window is
-  broken". The ている on an intransitive names the state left behind by the
-  event, which is what an English adjective of state is usually doing.
+- **Profiles the event, not who caused it** — ドアが開いた "the door opened",
+  電気が消えた, 会議が始まった. The sentence doesn't grammatically mark a
+  causer; whether one exists or is inferable is a matter of context.
+- **With many change-of-state intransitives, ている often describes the
+  resulting state** — 窓が壊れている is "the window is broken", 電気が消えている
+  is "the light is off." Other intransitives take ている differently:
+  子供が走っている "a child is running" is ongoing, not a resulting state.
 - **を on an intransitive verb is not transitivity** — 公園を歩く "walk
-  through the park", 家を出る "leave the house". Here を marks the ground
-  crossed or the point left, not something acted on, and the verb stays
-  intransitive throughout.
+  through the park" marks the route traversed; 家を出る "leave the house"
+  marks the point departed from. Neither を acts on something, and the verb
+  stays intransitive throughout.
 
 !!! warning "Pitfall"
-    An English passive is usually a Japanese intransitive, not a Japanese
-    passive. "The door was opened" is ドアが開いた. ドアが開けられた is
-    grammatical, but it puts an unnamed someone on stage and reads as a report
-    about that person — closer to "the door had been opened *by someone*",
-    with the suggestion that this matters. English uses the passive to avoid
-    naming an agent; Japanese has a verb for that instead.
+    Don't mechanically translate an English passive with a Japanese passive.
+    "The door was opened" often translates most naturally as ドアが開いた —
+    but that's a translation choice, not a structural equivalence.
+
+    The English passive still encodes a caused event with an implicit agent;
+    ドアが開いた simply reports that the door opened.
+
+    ドアが開けられた is grammatical and closer to the English structure — it
+    puts an unnamed someone on stage, read as a report about that person.
+
+    Where English uses the passive just to focus on the resulting event,
+    Japanese often prefers the intransitive instead — but the two structures
+    still don't mean quite the same thing.
 
 @@ transitive
 
 **Form:** `N を V-trans`
 
-- **Naming an agent is a claim, not a default** — 電気を消した asserts that
-  someone did it. Where English would say "the light went off" and mean
-  nothing by it, choosing the transitive here answers a question nobody asked.
-- **てある marks a state someone left on purpose** — 窓が開けてある is "the
-  window has been opened and left open", with the intention preserved;
-  窓が開いている merely reports that it is open. The transitive verb is what
-  makes the intention available.
-- **The shapes are guessable, one pair at a time** — pairs fall into recurring
-  patterns (閉まる／閉める "shut / shut something", 出る／出す, 落ちる／落とす),
-  so a new pair is often predictable from a familiar one. Predictable, not
-  derivable: the pairing is a fact about each verb, and some verbs have no
-  partner at all.
+- **Profiles a causer, even when nobody is named** — 電気を消した
+  grammatically marks someone as performing the action; Japanese regularly
+  omits who, supplied by context. English might say "the light went off"
+  and mean nothing by it; the transitive here still profiles an actor.
+- **てある marks the resultant state of an intentional action, built on a
+  transitive verb** — 窓が開けてある is "the window has been opened and left
+  open"; 窓が開いている merely reports that it is open. The intention comes
+  from てある, not from 開ける alone.
+- **The shapes are guessable, one pair at a time** — pairs fall into
+  recurring patterns (閉まる／閉める "shut / shut something", 出る／出す,
+  落ちる／落とす). There's no single rule that converts a verb into its
+  partner; some verbs have no partner at all.

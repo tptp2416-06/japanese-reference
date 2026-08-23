@@ -2,6 +2,26 @@
      Prose belongs in content/deck/grammar/n-da.md -->
 # んだ — the explanatory のだ and its compounds
 
+!!! tip "At a glance"
+
+    <span class="cite-jp">んだ</span> presents a plain statement as connected to some relevant situation — a
+    reason, a realization, background — rather than as an isolated assertion.
+    <span class="cite-jp">んだから</span>, <span class="cite-jp">んだけど</span>, <span class="cite-jp">んだって</span>, <span class="cite-jp">んだよね</span> and <span class="cite-jp">んですか</span> each build a more
+    particular use on that same base.
+
+A bare statement in Japanese reports something: <span class="cite-jp">変わる</span>, "it changes." <span class="cite-jp">んだ</span>
+presents that same fact as connected to some relevant situation — an
+explanation, a realization, background — rather than as an isolated
+assertion.
+
+The factual content doesn't change. What changes is that the speaker is
+signalling why this fact matters right now: as a reason, as news just
+landing, as background behind what comes next.
+
+Five related constructions build on that base: <span class="cite-jp">んだから</span>, <span class="cite-jp">んだけど</span>, <span class="cite-jp">んだって</span>,
+<span class="cite-jp">んだよね</span> and <span class="cite-jp">んですか</span>. Each is more particular than a single label can
+capture — the sections below go through them in turn.
+
 ## んだ (explanatory) { #explanatory }
 
 Provides background, explanation, or emphasis in casual speech
@@ -13,6 +33,47 @@ Provides background, explanation, or emphasis in casual speech
 **Senses:** [の (explanatory)](<no-explanatory.md#explanatory> "Supplies background or asks for an explanation with の.")
 {: .fam }
 
+**Form:** `plain form + んだ` · `N / な-adj + なんだ`
+{: .form }
+
+- **A plain statement reports; <span class="cite-jp">んだ</span> connects it to the situation** — <span class="cite-jp">変わる</span>
+  just states a fact. <span class="cite-jp">変わるんだ</span> presents that same fact as relevant here:
+  worth explaining, worth noticing, tied to what's going on.
+- **<span class="cite-jp">の</span> and <span class="cite-jp">だ</span> combine into one frame** — <span class="cite-jp">の</span> turns the clause into a thing
+  you can point at (<span class="cite-jp">変わる</span> → <span class="cite-jp">変わるの</span>), <span class="cite-jp">だ</span> asserts it, and the explanatory
+  feel is a property of the pair, not either piece alone. A model for the
+  shape, not the meaning. <span class="cite-jp">の</span> contracts to <span class="cite-jp">ん</span> in speech.
+- **It can mark a realization landing in real time, not only a reason given**
+  — the sentence doesn't have to answer "why"; it can simply register that
+  the speaker's own understanding has just shifted.
+- **<span class="cite-jp">んです</span> is the polite counterpart** — the same explanatory, situation
+  connecting function carries over; only the register changes. <span class="cite-jp">んですか</span>,
+  further down this page, asks for it as a question.
+
+<div class="ex"><div class="ex-jp" lang="ja">そんなに<span class="pat"><ruby>変<rt>か</rt></ruby>わるんだ、</span>すごい。</div><div class="ex-en">&ldquo;So it changes that much — wow.&rdquo; <span class="lit">&mdash; lit. [the fact that] it changes that much [is the situation], amazing</span></div><div class="ex-note">変わるんだ isn&#x27;t explaining why the change happened. It marks the speaker registering the scale of it as they speak, with すごい as the reaction the realization makes room for.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="r">&nbsp;</span><span class="j" lang="ja">そんなに</span><span class="g">to that extent</span></div><div class="bd-seg hit"><span class="r">かわるんだ、</span><span class="j" lang="ja"><ruby>変<rt>か</rt></ruby>わるんだ、</span><span class="g">so it changes, [I&#x27;m realizing]</span></div><div class="bd-seg"><span class="r">&nbsp;</span><span class="j" lang="ja">すごい</span><span class="g">amazing</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">んだ marking a realization, completed by a reaction</span></div></div></details></div><div class="reg"><div><div class="rlbl">casual</div><span lang="ja">そんなに変わるんだ、すごい。</span></div><div><div class="rlbl">polite</div><span lang="ja">そんなに変わるんですね、すごいですね。</span></div></div>
+
+### Why does this read as a realization rather than an explanation?
+
+A two-beat pattern often carries this reading: <span class="cite-jp">んだ</span> registers the fact, a
+reaction follows. The sense comes from <span class="cite-jp">んだ</span> plus context and intonation
+together — a comma can suggest the pause, but the reaction is what actually
+makes it clear.
+
+<span class="cite-jp">そうなんだ</span> on its own can be a complete turn. Depending on intonation, it can
+register realization, plain acknowledgment, surprise or mild interest; what
+those readings share is that the information has been received.
+
+!!! warning "Pitfall"
+    <span class="cite-jp">んだ</span> normally signals a statement is relevant as explanation, context
+    or realization — connected to the situation, not standing alone. On a
+    plain fact with nothing riding on it, it can sound like the speaker is
+    explaining themselves unprompted.
+
+    <span class="cite-jp">今日</span>[<span class="cite-jp">きょう</span>]<span class="cite-jp">は月曜日</span>[<span class="cite-jp">げつようび</span>]<span class="cite-jp">だ。</span> states a fact plainly.
+    <span class="cite-jp">だから授業</span>[<span class="cite-jp">じゅぎょう</span>]<span class="cite-jp">があるんだ</span> works because <span class="cite-jp">だから</span> has already stated
+    the causal connection; <span class="cite-jp">んだ</span> then frames the result as explanatory
+    background, not the other way around.
+
 ## んだから { #n-da-kara }
 
 Given that X is true; strongly presents it as explanatory background
@@ -22,6 +83,21 @@ Given that X is true; strongly presents it as explanatory background
 
 **From:** compound of [んだ (explanatory)](<n-da.md#explanatory> "Provides background, explanation, or emphasis in casual speech")
 {: .fam }
+
+**Form:** `plain form + んだから`
+{: .form }
+
+- **<span class="cite-jp">から</span> states a cause; <span class="cite-jp">んだから</span> presents it as already established** —
+  plain <span class="cite-jp">から</span> gives a reason matter-of-factly, while <span class="cite-jp">んだから</span> treats it as
+  evident or assumed, which can support advice, insistence, a complaint or
+  a reminder.
+- **The tone follows the situation, not the grammar** — the same
+  "established reason" move can read as gentle support or as pointed
+  reproach. <span class="cite-jp">もう子供じゃないんだから、自分でやりなさい</span> "you're not a child
+  anymore, so do it yourself" leans firmly toward the second.
+
+<div class="ex"><div class="ex-jp" lang="ja"><span class="pat"><ruby>疲<rt>つか</rt></ruby>れてるんだから、</span><ruby>今日<rt>きょう</rt></ruby>はもう<ruby>休<rt>やす</rt></ruby>もう。</div><div class="ex-en">&ldquo;You&#x27;re worn out — let&#x27;s call it a day.&rdquo; <span class="lit">&mdash; lit. [the fact is] you&#x27;re tired, so today let&#x27;s already rest</span></div><div class="ex-note">んだから doesn&#x27;t just state the reason — it treats &quot;you&#x27;re tired&quot; as something the speaker takes to be already established. That&#x27;s what lets the advice land as a natural next step here; the same construction can just as easily carry a sharper, more insistent edge in a different situation.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="r">つかれてるんだから、</span><span class="j" lang="ja"><ruby>疲<rt>つか</rt></ruby>れてるんだから、</span><span class="g">since you&#x27;re tired, [that&#x27;s the situation]</span></div><div class="bd-seg"><span class="r">きょうは</span><span class="j" lang="ja"><ruby>今日<rt>きょう</rt></ruby>は</span><span class="g">today</span></div><div class="bd-seg"><span class="r">もうやすもう</span><span class="j" lang="ja">もう<ruby>休<rt>やす</rt></ruby>もう</span><span class="g">let&#x27;s already rest</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">んだ + から, reason treated as already established</span></div></div></details></div>
+
 
 ## んだけど { #n-da-kedo }
 
@@ -33,6 +109,19 @@ Provides background or softens a request, explanation, or topic introduction
 **From:** compound of [んだ (explanatory)](<n-da.md#explanatory> "Provides background, explanation, or emphasis in casual speech")
 {: .fam }
 
+**Form:** `plain form + んだけど`
+{: .form }
+
+- **Presents background and leaves the conversation open** — <span class="cite-jp">んだけど</span> lays
+  out background without closing the sentence off, so a request, complaint,
+  question or topic can follow. Often that continuation is left unspoken.
+- **It can simply trail off** — ending a turn on <span class="cite-jp">んだけど</span> with nothing after
+  it leaves the implication for the listener to pick up, which often
+  functions as a low-pressure way to open a topic.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>実<rt>じつ</rt></ruby>は、<span class="pat"><ruby>話<rt>はな</rt></ruby>したいことがあるんだけど</span>。</div><div class="ex-en">&ldquo;Actually, there&#x27;s something I want to talk to you about.&rdquo; <span class="lit">&mdash; lit. actually, there&#x27;s a thing [I] want to talk about [as background]</span></div><div class="ex-note">んだけど doesn&#x27;t need a continuation to do its job here. Ending the turn right there leaves the implication — there&#x27;s more to this — for the listener to pick up, which works as a quiet invitation on its own.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="r">じつは、</span><span class="j" lang="ja"><ruby>実<rt>じつ</rt></ruby>は、</span><span class="g">actually,</span></div><div class="bd-seg hit"><span class="r">はなしたいことがあるんだけど</span><span class="j" lang="ja"><ruby>話<rt>はな</rt></ruby>したいことがあるんだけど</span><span class="g">there&#x27;s something to talk about [as background]</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">んだ + けど, trailing off as an opening</span></div></div></details></div>
+
+
 ## んだって { #n-datte }
 
 I heard that...; casual hearsay.
@@ -42,6 +131,21 @@ I heard that...; casual hearsay.
 
 **From:** compound of [んだ (explanatory)](<n-da.md#explanatory> "Provides background, explanation, or emphasis in casual speech")
 {: .fam }
+
+**Form:** `plain form + んだって`
+{: .form }
+
+- **<span class="cite-jp">って</span> marks reported information — roughly "I heard that…"** — presenting
+  the proposition as relayed rather than asserted firsthand. The speaker
+  need not have missed witnessing it; reporting it is a choice of
+  presentation, not a fact about what they know.
+- **Distance from the source, not from belief** — <span class="cite-jp">って</span> spaces the speaker's
+  assertion from the reported fact, without implying doubt. It marks the
+  information as coming from elsewhere, which is why news and gossip both
+  reach for it.
+
+<div class="ex"><div class="ex-jp" lang="ja">リホ、<ruby>来月<rt>らいげつ</rt></ruby><span class="pat"><ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すんだって</span>。</div><div class="ex-en">&ldquo;I heard Riho&#x27;s moving next month.&rdquo; <span class="lit">&mdash; lit. Riho, next month is moving [I heard, that&#x27;s the situation]</span></div><div class="ex-note">って marks this as reported information rather than a firsthand assertion. んだ frames it as relevant background, which is part of why hearsay so often arrives wrapped in んだって rather than a bare quote.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="r">&nbsp;</span><span class="j" lang="ja">リホ、</span><span class="g">Riho,</span></div><div class="bd-seg"><span class="r">らいげつ</span><span class="j" lang="ja"><ruby>来月<rt>らいげつ</rt></ruby></span><span class="g">next month</span></div><div class="bd-seg hit"><span class="r">ひっこすんだって</span><span class="j" lang="ja"><ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すんだって</span><span class="g">I heard [she&#x27;s] moving [as background]</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">んだ + って, reported information framed as background</span></div></div></details></div>
+
 
 ## んだよね { #n-da-yo-ne }
 
@@ -53,6 +157,18 @@ You know...; explanatory statement seeking shared agreement.
 **From:** compound of [んだ (explanatory)](<n-da.md#explanatory> "Provides background, explanation, or emphasis in casual speech")
 {: .fam }
 
+**Form:** `plain form + んだよね`
+{: .form }
+
+- **<span class="cite-jp">よ</span> presents toward the listener, <span class="cite-jp">ね</span> invites shared recognition** —
+  stacked onto <span class="cite-jp">んだ</span>, the combination often presents the speaker's
+  explanation or situation while inviting the listener to recognize it too.
+  (Rough shorthand: <span class="cite-jp">よ</span> pushes, <span class="cite-jp">ね</span> pulls.)
+- **One common effect is thinking out loud** — <span class="cite-jp">最近ちょっと忙しいんだよね</span>
+  "I've been a bit busy lately, you know" leaves room for the listener to
+  receive it gently. <span class="cite-jp">んだよね</span> also fits self-reflection and remembering
+  aloud — a nod is common, not the rule.
+
 ## んですか { #n-desu-ka }
 
 Asks for explanation with contextual interest; polite explanatory question
@@ -62,3 +178,30 @@ Asks for explanation with contextual interest; polite explanatory question
 
 **From:** compound of [んだ (explanatory)](<n-da.md#explanatory> "Provides background, explanation, or emphasis in casual speech")
 {: .fam }
+
+**Form:** `plain form + んですか`
+{: .form }
+
+- **Presents the question as arising from context** — plain <span class="cite-jp">ですか</span> asks
+  fairly directly; <span class="cite-jp">んですか</span> frames the same question as connected to some
+  situation the speaker is trying to understand, without necessarily asking
+  for a reason.
+- **The contrast is audible** — <span class="cite-jp">どこに行きますか</span> asks fairly directly.
+  <span class="cite-jp">どこに行くんですか</span> asks the same question — where, rather than why — but
+  presents it as prompted by something the speaker noticed, like seeing you
+  with a bag.
+
+<div class="ex"><div class="ex-jp" lang="ja"><span class="pat">どうした</span>んですか。</div><div class="ex-en">&ldquo;What&#x27;s wrong?&rdquo; <span class="lit">&mdash; lit. what has become [that I should ask about it]</span></div><div class="ex-note">んですか signals that the speaker has noticed something — a look, a pause, a sound — and is asking about it as a situation rather than firing a neutral question. Much of the concern in どうしたんですか comes from どうした itself, which already asks what&#x27;s happened to someone; んですか frames that question as prompted by what the speaker just noticed.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="r">&nbsp;</span><span class="j" lang="ja">どうした</span><span class="g">what happened</span></div><div class="bd-seg"><span class="r">&nbsp;</span><span class="j" lang="ja">んですか</span><span class="g">[I&#x27;m asking about the situation], politely</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">んです + か, polite explanatory question</span></div></div></details></div>
+
+!!! warning "Pitfall"
+    A bare <span class="cite-jp">んだ？</span> question can land as blunt, depending on intonation and
+    the speaker's style — not inherently confrontational, but carrying more
+    of that risk than a plain question.
+
+    <span class="cite-jp">何</span>[<span class="cite-jp">なに</span>]<span class="cite-jp">を食</span>[<span class="cite-jp">た</span>]<span class="cite-jp">べるんだ？</span> can come across as "what are you eating?"
+    pressed harder than asked neutrally.
+
+    <span class="cite-jp">んですか</span> is often the safer choice when politeness or the relationship
+    is unclear — though not a universal substitute, since it presupposes
+    context and can itself sound probing where plain <span class="cite-jp">ですか</span> would not.
+    Reach for it when the situation actually prompted the question.
