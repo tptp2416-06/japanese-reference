@@ -279,3 +279,5 @@ Must do; polite standard expression of necessity or obligation
 
 *Compare:* [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
 {: .compare }
+
+<div class="prov">Authored by Codex 5.6 Sol - High &bull; 2026-08-23</div>

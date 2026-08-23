@@ -45,3 +45,5 @@ and tone, it can sound intimate, urgent or blunt.
 This page covers the request ending. In <span class="cite-jp">朝ご飯を食べないで出た</span> "I left without
 eating breakfast", <span class="cite-jp">ないで</span> links two actions with the sense "without doing";
 that is a separate construction.
+
+<div class="prov">Authored by Codex 5.6 Sol - High &bull; 2026-08-23</div>

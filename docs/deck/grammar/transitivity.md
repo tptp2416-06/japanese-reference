@@ -141,3 +141,5 @@ not a gap in your vocabulary.
     <span class="cite-jp">電気がつく</span> "the light comes on" against <span class="cite-jp">電気をつける</span> "turn the light
     on" fixes the verb, its side of the event and its particle in one
     memory.
+
+<div class="prov">Authored by Codex 5.6 Sol - High, merged by Claude Fable 5 &bull; 2026-08-22</div>

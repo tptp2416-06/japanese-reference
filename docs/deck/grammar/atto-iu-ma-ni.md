@@ -82,3 +82,5 @@ expression.
     Use <span class="cite-jp">あっという間に</span> when the phrase frames an action or change as taking place
     within that surprisingly short interval. Without <span class="cite-jp">に</span>, <span class="cite-jp">あっという間</span> can instead
     function in noun-like positions.
+
+<div class="prov">Authored by Codex 5.6 Sol - High &bull; 2026-08-23</div>

@@ -40,3 +40,5 @@ In order to achieve a goal; marks deliberate purpose
 
 *Compare:* [ために・ように・のに・Vstem＋に — the purpose family](<../contrasts/tame-ni-you-ni-noni-vstem-ni.md> "the purpose family")
 {: .compare }
+
+<div class="prov">Authored by Claude Fable 5 &bull; 2026-08-20</div>

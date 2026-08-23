@@ -227,3 +227,5 @@ announcements, instructions.
   possibility, while <span class="cite-jp">見られる</span> can be potential, passive or honorific depending
   on context. In writing, where <span class="cite-jp">ら抜き</span> is normally avoided, that is a real
   reason to choose it.
+
+<div class="prov">Authored by Claude Opus 5 &bull; 2026-08-22</div>

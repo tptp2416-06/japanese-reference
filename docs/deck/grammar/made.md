@@ -80,3 +80,5 @@ Even someone or something surprising; extends inclusion to an unexpected extreme
 - **It carries feeling, and that can misfire** — the surprise in <span class="cite-jp">まで</span> about a
   person reads as warmth or as dismay depending on who is being included, so
   <span class="cite-jp">まで</span> about a person can land as "even them".
+
+<div class="prov">Authored by Claude Sonnet 5 &bull; 2026-08-22</div>

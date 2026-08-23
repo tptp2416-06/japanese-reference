@@ -220,3 +220,5 @@ relationship, and <span class="cite-jp">は</span> is added on top of the finish
 
 *Compare:* [は — topic, contrast, scope](<../contrasts/wa.md> "topic, contrast, scope")
 {: .compare }
+
+<div class="prov">Authored by Claude Opus 5 &bull; 2026-08-22</div>

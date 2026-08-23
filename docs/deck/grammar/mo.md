@@ -52,3 +52,5 @@ Also or too.
 
 This page covers additive <span class="cite-jp">も</span>. The scalar pattern <span class="cite-jp">数量</span>＋<span class="cite-jp">も</span> "as many as／as much
 as" has its own page, as do the question-word patterns <span class="cite-jp">何も</span>〜<span class="cite-jp">ない</span> and <span class="cite-jp">何でも</span>.
+
+<div class="prov">Authored by Codex 5.6 Sol - High &bull; 2026-08-23</div>

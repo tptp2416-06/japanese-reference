@@ -42,3 +42,5 @@ negative predicate then denies the statement for every listed member:
 
 Nothing inside <span class="cite-jp">も</span> itself means "neither". That reading comes from doubled <span class="cite-jp">も</span>
 together with negation.
+
+<div class="prov">Authored by Codex 5.6 Sol - High &bull; 2026-08-23</div>

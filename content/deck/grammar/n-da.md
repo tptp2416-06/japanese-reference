@@ -181,7 +181,7 @@ bd: どうした*|what happened / んですか|[I'm asking about the situation],
 pat: んです + か, polite explanatory question
 ```
 
-!!! warning "Pitfall"
+??? note "When a bare んだ？ lands blunt"
     A bare んだ？ question can land as blunt, depending on intonation and
     the speaker's style — not inherently confrontational, but carrying more
     of that risk than a plain question.

@@ -193,7 +193,7 @@ Asks for explanation with contextual interest; polite explanatory question
 
 <div class="ex"><div class="ex-jp" lang="ja"><span class="pat">どうした</span>んですか。</div><div class="ex-en">&ldquo;What&#x27;s wrong?&rdquo; <span class="lit">&mdash; lit. what has become [that I should ask about it]</span></div><div class="ex-note">んですか signals that the speaker has noticed something — a look, a pause, a sound — and is asking about it as a situation rather than firing a neutral question. Much of the concern in どうしたんですか comes from どうした itself, which already asks what&#x27;s happened to someone; んですか frames that question as prompted by what the speaker just noticed.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="j" lang="ja">どうした</span><span class="g">what happened</span></div><div class="bd-seg"><span class="j" lang="ja">んですか</span><span class="g">[I&#x27;m asking about the situation], politely</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">んです + か, polite explanatory question</span></div></div></details></div>
 
-!!! warning "Pitfall"
+??? note "When a bare <span class="cite-jp">んだ？</span> lands blunt"
     A bare <span class="cite-jp">んだ？</span> question can land as blunt, depending on intonation and
     the speaker's style — not inherently confrontational, but carrying more
     of that risk than a plain question.
@@ -205,3 +205,5 @@ Asks for explanation with contextual interest; polite explanatory question
     is unclear — though not a universal substitute, since it presupposes
     context and can itself sound probing where plain <span class="cite-jp">ですか</span> would not.
     Reach for it when the situation actually prompted the question.
+
+<div class="prov">Authored by Claude Sonnet 5 &bull; 2026-08-22</div>

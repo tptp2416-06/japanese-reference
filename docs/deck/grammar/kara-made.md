@@ -44,3 +44,5 @@ the paired frame is what explicitly measures the whole span end to end.
 Do not replace this durative <span class="cite-jp">まで</span> with deadline <span class="cite-jp">までに</span>. 5<span class="cite-jp">時まで働く</span> "work until
 five" continues through the interval; 5<span class="cite-jp">時までに終える</span> "finish by five" requires
 the result no later than that point and says nothing about filling the interval.
+
+<div class="prov">Authored by Codex 5.6 Sol - High &bull; 2026-08-23</div>

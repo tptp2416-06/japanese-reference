@@ -129,3 +129,5 @@ every question word followed by <span class="cite-jp">も</span> must appear wit
 
 - **See also: <span class="cite-jp">一度も</span>〜<span class="cite-jp">ない</span>** — this handles "not even once."
 - **See also: <span class="cite-jp">疑問詞</span>＋<span class="cite-jp">でも</span>** — this develops the separate "any member" pattern.
+
+<div class="prov">Authored by Codex 5.6 Sol - High &bull; 2026-08-23</div>

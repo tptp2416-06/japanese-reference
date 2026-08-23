@@ -118,3 +118,5 @@ Does not look or seem X; negative appearance judgment
 - **The adjective-side negative** — <span class="cite-jp">美味しくなさそう</span> "doesn't look tasty",
   <span class="cite-jp">問題なさそう</span> "looks like no problem".
 - Compare <span class="cite-jp">そうにない</span> above for denying that an event looks likely.
+
+<div class="prov">Authored by Claude Fable 5 &bull; 2026-08-20</div>

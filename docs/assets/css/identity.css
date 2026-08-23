@@ -1282,6 +1282,104 @@ body,
 
 
 /* ──────────────────────────────────────────────────────────────
+   8b · THE DIALOGUE BLOCK — PRESENTATION-SPEC §5c (`#252`)
+
+   THE EX CARD'S QUIETER SIBLING, and every value here is chosen to
+   keep it that way. The ex card is the showpiece for the one
+   sentence that carries a section; a dialogue is CONTEXT and a page
+   may hold several. If they look equally important, both stop
+   meaning anything — so: no hard shadow (the ex card's raised
+   treatment), 18px JP against the ex card's 22px, and NO accent.
+   ────────────────────────────────────────────────────────────── */
+
+.md-typeset .dlg {
+  background: var(--card);
+  border: var(--line-w) solid var(--line);
+  border-radius: 14px;
+  padding: 13px 18px 12px;
+  margin: 6px 0 20px;
+}
+/* NO --btm-acc, and NO --shadow — deliberately, and this is the whole "one
+   visual step down". The ex card is RAISED: a 5px hard shadow in light, a 3px
+   tangerine bottom accent in dark. Copying that line here (which the first
+   draft did) made the two cards identical in dark mode, where --shadow is
+   already `none` and only the accent separates them — measured, not guessed.
+   A plain border in both modes is what keeps the sibling quieter. */
+
+/* ABOVE the turns: it frames the exchange, so it reads first. */
+.md-typeset .dlg-note {
+  font-size: 13.5px;
+  color: var(--faint);
+  margin: 0 0 9px;
+  padding-bottom: 9px;
+  border-bottom: 1px dotted var(--line);
+}
+
+/* The FIXED-WIDTH GUTTER is the readability. A ragged left edge turns a
+   two-line exchange into a puzzle, so both turns' Japanese starts on the
+   same edge whatever the speaker tag is. */
+.md-typeset .dlg-turn {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  padding: 7px 10px;
+  border-radius: 9px;
+}
+.md-typeset .dlg-turn + .dlg-turn { margin-top: 3px; }
+/* B's row takes --card-2, A's stays flat — the exchange reads as an
+   exchange without spending a colour on it (§5c). */
+.md-typeset .dlg-turn.b { background: var(--card-2); }
+
+.md-typeset .dlg-who {
+  font-family: var(--font-px);
+  font-size: 9px;
+  letter-spacing: .1em;
+  color: var(--faint);
+  flex: 0 0 14px;
+  text-align: left;
+  /* the pixel face sits high against a 2.1 line-height JP line; nudge it
+     onto the first line's optical baseline rather than the flex baseline */
+  position: relative;
+  top: 1px;
+}
+
+.md-typeset .dlg-said { flex: 1 1 auto; min-width: 0; }
+.md-typeset .dlg-jp {
+  font-family: var(--font-jp);
+  font-size: 18px;
+  line-height: 2.1;      /* ruby space reserved whether or not ruby is present */
+  color: var(--ink);
+  word-break: auto-phrase;
+}
+/* The English is `.ex-en` so §8's hide-English toggle covers it — a dialogue
+   whose English cannot be hidden defeats the toggle on the page's most useful
+   sentences. Only the SIZE differs from the ex card's. */
+.md-typeset .dlg-said .ex-en { font-size: 14px; margin-top: 0; }
+
+
+/* ──────────────────────────────────────────────────────────────
+   8c · THE PROVENANCE LINE — R103, PAGE-SPEC §3 (`#252`)
+
+   Who WROTE this page, at its foot, beside the created/updated
+   dates the git-revision plugin supplies. It must not compete with
+   the content: faint ink, small, pixel face, and no rule above it
+   beyond the hairline that already separates the body from the
+   footer meta.
+   ────────────────────────────────────────────────────────────── */
+
+.md-typeset .prov {
+  font-family: var(--font-px);
+  font-size: 8.5px;
+  letter-spacing: .08em;
+  line-height: 1.9;
+  color: var(--faint);
+  margin: 32px 0 0;
+  padding-top: 10px;
+  border-top: 1px dotted var(--line);
+}
+
+
+/* ──────────────────────────────────────────────────────────────
    9 · THE TOGGLES' EFFECTS — PRESENTATION-SPEC §8
    The classes go on <body>; deck.js only flips them, so with JS
    off nothing is hidden and nothing is blurred.
@@ -1361,7 +1459,12 @@ body.deck-hide-english .md-typeset .ex-en:focus-within { filter: none; }
   }
   .md-typeset .ex,
   .md-typeset .reg,
+  .md-typeset .dlg,
   .md-typeset .admonition.tip { page-break-inside: avoid; break-inside: avoid; }
+  /* A three-line exchange split across a page break is the one thing a
+     dialogue cannot survive: the turn that LICENSES the grammar is the
+     turn that ends up alone at the foot of the sheet. */
+  .md-typeset .dlg-turn { break-inside: avoid; }
   .md-typeset .ex-jp .pat { font-weight: 700; text-decoration: underline; }
   .md-typeset .breakdown { overflow: visible; }
   .md-main,

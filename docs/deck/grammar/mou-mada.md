@@ -213,3 +213,5 @@ To <span class="cite-jp">もう食べた？</span> "have you eaten yet?", a posi
 
 The answer changes the adverb because it changes the side of the line being
 reported: reached with <span class="cite-jp">もう</span>, still unreached with <span class="cite-jp">まだ</span>.
+
+<div class="prov">Authored by Codex 5.6 Sol - High &bull; 2026-08-23</div>
