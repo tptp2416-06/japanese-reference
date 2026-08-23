@@ -7,6 +7,20 @@ grammar dictionary. Cards link straight to the section for their
 sense; this index is grouped by JLPT level (a page sits at the
 easiest of its members').
 
+<div class="recent-card" markdown="0">
+<p class="recent-eyebrow">RECENTLY UPDATED</p>
+<ul class="recent-list">
+<li><span class="recent-date">2026-08-23</span><span class="card-tag">UPDATED</span><a href="atto-iu-ma-ni/">あっという間に — In what feels like no time</a></li>
+<li><span class="recent-date">2026-08-23</span><span class="card-tag">UPDATED</span><a href="nakereba-naranai/">なければならない — must, have to, and don&#x27;t have to</a></li>
+<li><span class="recent-date">2026-08-23</span><span class="card-tag lv">NEW</span><a href="gimonshi-mo-nai/">疑問詞＋も〜ない — Question word plus も with a negative predicate denies every case</a></li>
+<li><span class="recent-date">2026-08-22</span><span class="card-tag">UPDATED</span><a href="transitivity/">Transitivity — transitive and intransitive verb pairs</a></li>
+<li><span class="recent-date">2026-08-22</span><span class="card-tag">UPDATED</span><a href="sou-da/">そうだ — looks like, seems, and about to</a></li>
+<li><span class="recent-date">2026-08-22</span><span class="card-tag lv">NEW</span><a href="wa/">は — topic, contrast, and scope</a></li>
+<li><span class="recent-date">2026-08-22</span><span class="card-tag">UPDATED</span><a href="made/">まで — up to, as far as, and even</a></li>
+<li><span class="recent-date">2026-08-22</span><span class="card-tag">UPDATED</span><a href="made-ni/">までに — by a deadline</a></li>
+</ul>
+</div>
+
 ## Comparisons
 
 When to use which — one page per confusable set.

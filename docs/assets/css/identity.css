@@ -1478,3 +1478,62 @@ body.deck-hide-english .md-typeset .ex-en:focus-within { filter: none; }
 .md-typeset .cite-jp { font-weight: 600; }
 .md-typeset strong .cite-jp,
 .md-typeset .cite-jp strong { font-weight: 700; }
+
+/* 9.6 · RECENTLY UPDATED — the deck index card (R92, `#246`). The same card
+   recipe as 9.4's bare table: 2px outline + hard shadow in light, 1px
+   border + flat bottom-accent in dark, 14px radius. NOT a callout (`#231`)
+   — no callout hue, so the eyebrow stays muted chrome and the NEW/UPDATED
+   tags reuse the existing `.card-tag` / `.card-tag.lv` pill pair rather
+   than inventing a third colour meaning. Both already carry their own dark
+   overrides (§4 above), so nothing new is needed there either. */
+.md-typeset .recent-card {
+  background: var(--card);
+  border: var(--line-w) solid var(--line);
+  border-bottom: var(--btm-acc, var(--line-w) solid var(--line));
+  border-radius: 14px;
+  box-shadow: var(--shadow-sm);
+  padding: 16px 20px 14px;
+  margin: 4px 0 26px;
+}
+.md-typeset .recent-eyebrow {
+  font-family: var(--font-px);
+  font-weight: 400;
+  font-size: 9.5px;
+  letter-spacing: .14em;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin: 0 0 10px;
+}
+.md-typeset .recent-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.md-typeset .recent-list li {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin: 0;
+  padding: 7px 0;
+  font-size: 15px;
+}
+.md-typeset .recent-list li:not(:last-child) {
+  border-bottom: 1px solid var(--faint);
+}
+.md-typeset .recent-date {
+  font-family: var(--font-mono);
+  font-size: 12.5px;
+  color: var(--muted);
+  flex: 0 0 auto;
+}
+.md-typeset .recent-list a { flex: 1 1 auto; min-width: 0; }
+/* Narrow screens: the date + pill alone (90px + 98px, measured at 375px)
+   leave the title under 20px of row — not enough to WRAP a CJK title, which
+   can break between any two characters, so the flex item collapsed to one
+   glyph per line instead of reflowing. `flex-basis: 100%` forces it onto
+   its own full-width line instead of sharing the row (`#233`'s lesson:
+   this only showed up on the rendered mobile screen, never in the diff). */
+@media screen and (max-width: 44.9375em) {
+  .md-typeset .recent-list li { flex-wrap: wrap; row-gap: 4px; }
+  .md-typeset .recent-list a { flex-basis: 100%; }
+}
