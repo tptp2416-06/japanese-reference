@@ -124,7 +124,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="ni-suru-choice/">にする — Choose X from available options</a></h3><p>Choose X from available options; make it the selected outcome</p></div>
 <div class="card-grid-item"><h3><a href="no/">の — the nominalizer</a></h3><p>Turns a clause into an activity or thing with の.</p></div>
 <div class="card-grid-item"><h3><a href="no-ato-de/">の後で — After a noun or event</a></h3><p>After a noun or event.</p></div>
-<div class="card-grid-item"><h3><a href="no-explanatory/">の／んです — the explanatory mood</a></h3><p>Supplies background or asks for an explanation with の.</p></div>
+<div class="card-grid-item"><h3><a href="no-explanatory/">の・の？ — the explanatory ending</a></h3><p>Supplies background or asks for an explanation with の.</p></div>
 <div class="card-grid-item"><h3><a href="no-hi/">の日 — The day designated for X</a></h3><p>The day designated for X; noun modifier identifying a scheduled category</p></div>
 <div class="card-grid-item"><h3><a href="no-hou-ga/">のほうが — the one that is more</a></h3><p>The marked option is more or better when comparing alternatives</p></div>
 <div class="card-grid-item"><h3><a href="no-mae-ni/">の前に — Before a noun or event</a></h3><p>Before a noun or event.</p></div>
