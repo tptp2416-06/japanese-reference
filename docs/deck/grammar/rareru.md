@@ -3,7 +3,7 @@
 # られる・させる — passive, causative, and causative-passive
 
 **See also:** [可能形・ことができる](<kanoukei-koto-ga-dekiru.md> "可能形・ことができる — the two ways to say 'can'") — られる is potential, passive and honorific in one shape — this is the sense that shares it  
-[Transitivity](<transitivity.md> "Transitivity — transitive and intransitive verb pairs") — an English passive is usually a Japanese intransitive, not られる — the commonest substitution error
+[Transitivity](<transitivity.md> "Transitivity — transitive and intransitive verb pairs") — English often reaches for a passive where Japanese uses the intransitive — られる is not the automatic substitute; see the pitfall
 {: .seealso }
 
 ## させられる (caus.-passive) { #saserareru }

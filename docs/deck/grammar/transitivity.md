@@ -25,7 +25,7 @@ causer acting on it. Japanese often prefers the event-focused option where
 English reaches for a passive or agentless phrasing — a tendency, not a rule
 for the whole language.
 
-**See also:** [られる](<rareru.md> "られる・させる — passive, causative, and causative-passive") — an English passive is usually a Japanese intransitive, not られる — the commonest substitution error  
+**See also:** [られる](<rareru.md> "られる・させる — passive, causative, and causative-passive") — English often reaches for a passive where Japanese uses the intransitive — られる is not the automatic substitute; see the pitfall  
 [てある](<te-aru.md> "てある — A deliberately created state remains") — the state a transitive verb leaves on purpose, against the plain intransitive ている state  
 [を](<wo.md> "を — leaving a place, and moving through one") — を on an intransitive verb marks a route or exit point and does not make the verb transitive
 {: .seealso }
