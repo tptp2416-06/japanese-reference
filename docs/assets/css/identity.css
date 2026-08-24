@@ -1380,6 +1380,99 @@ body,
 
 
 /* ──────────────────────────────────────────────────────────────
+   8d · THE EG BLOCK — micro AND contrast, PRESENTATION-SPEC §5d (`#258`)
+
+   ONE construct, two renderings, member count deciding which. MICRO has NO
+   ground — position off the prose baseline is the whole cue (§4e's
+   gradient: inline has no ground, micro has position, contrast has a
+   ground, full has a card). CONTRAST is ONE object on --card-2, never two
+   adjacent micro examples. The EN line carries `.ex-en` — not a class of
+   its own — so §8's hide-English toggle covers it, exactly as `.dlg-said
+   .ex-en` already does for the dialogue block.
+   ────────────────────────────────────────────────────────────── */
+
+.md-typeset .eg-micro { margin: 10px 0 20px 18px; }
+.md-typeset .eg-jp {
+  font-family: var(--font-jp);
+  font-size: 18px;
+  font-weight: 600;      /* the third role — set apart by POSITION, not by
+                             weight alone (PRESENTATION-SPEC §5d) */
+  line-height: 2.1;
+  color: var(--ink);
+  word-break: auto-phrase;
+}
+.md-typeset .eg-jp .pat { color: var(--acc); font-weight: 700; }
+.md-typeset .eg-micro .ex-en,
+.md-typeset .eg-member .ex-en { font-size: 14px; margin-top: 2px; }
+
+.md-typeset .eg-contrast {
+  display: flex;
+  background: var(--card-2);
+  border: var(--line-w) solid var(--line);
+  border-radius: 14px;
+  margin: 6px 0 20px;
+  overflow: hidden;
+}
+.md-typeset .eg-member { flex: 1 1 0; min-width: 0; padding: 12px 16px; }
+.md-typeset .eg-member + .eg-member { border-left: 1px solid var(--line); }
+.md-typeset .eg-label {
+  font-family: var(--font-px);
+  font-size: 8.5px;
+  letter-spacing: .1em;
+  color: var(--faint);
+  text-transform: uppercase;
+  margin-bottom: 4px;
+}
+@media (max-width: 640px) {
+  .md-typeset .eg-contrast { flex-direction: column; }
+  .md-typeset .eg-member + .eg-member { border-left: 0; border-top: 1px solid var(--line); }
+}
+
+
+/* ──────────────────────────────────────────────────────────────
+   8e · THE CROSS-REFERENCE LINE — PRESENTATION-SPEC §5d (`#258`)
+
+   A quiet block BENEATH its paragraph, not a clause inside it — and it must
+   MEASURE quieter than the prose above it: the relationship word is pixel
+   Latin at 8.5px (an eyebrow label per §3's type table, not a heading; the
+   whole line sits at 14px against the 17px prose body).
+
+   THE ARROW IS ITS OWN SPAN (Tim, 2026-08-24, after seeing it rendered) —
+   `.xref-rel`'s Silkscreen face is Latin-only (§3), so `→`/`↔`/`↑` never had
+   a real glyph there and fell back silently at 8.5px: small AND off-face.
+   The glyph carries the TYPE (§5d), so it gets its own size and colour —
+   large enough and accent-coloured enough to read as an icon — while the
+   relationship WORD next to it stays exactly as quiet as the spec asks.
+   Accent is a defensible use here, not a third affordance: the glyph
+   precedes an actual link, so "go somewhere" is literally what it means.
+   ────────────────────────────────────────────────────────────── */
+
+.md-typeset .xref {
+  margin: 6px 0 20px;
+  font-size: 14px;
+  color: var(--muted);
+  line-height: 1.6;
+}
+.md-typeset .xref-arrow {
+  font-family: var(--font-ui);
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--acc);
+  margin-right: 4px;
+  vertical-align: -2px;
+}
+.md-typeset .xref-rel {
+  font-family: var(--font-px);
+  font-size: 8.5px;
+  letter-spacing: .1em;
+  color: var(--muted);
+  text-transform: uppercase;
+  margin-right: 5px;
+}
+.md-typeset .xref-reason { color: var(--muted); }
+
+
+/* ──────────────────────────────────────────────────────────────
    9 · THE TOGGLES' EFFECTS — PRESENTATION-SPEC §8
    The classes go on <body>; deck.js only flips them, so with JS
    off nothing is hidden and nothing is blurred.
@@ -1460,12 +1553,19 @@ body.deck-hide-english .md-typeset .ex-en:focus-within { filter: none; }
   .md-typeset .ex,
   .md-typeset .reg,
   .md-typeset .dlg,
+  .md-typeset .eg-contrast,
+  .md-typeset .eg-micro,
+  .md-typeset .xref,
   .md-typeset .admonition.tip { page-break-inside: avoid; break-inside: avoid; }
   /* A three-line exchange split across a page break is the one thing a
      dialogue cannot survive: the turn that LICENSES the grammar is the
      turn that ends up alone at the foot of the sheet. */
   .md-typeset .dlg-turn { break-inside: avoid; }
-  .md-typeset .ex-jp .pat { font-weight: 700; text-decoration: underline; }
+  /* --acc resets to #000 above, so the accent's own colour cannot carry the
+     pattern highlight in print — the underline is the substitute cue, for
+     the eg contrast card exactly as it already is for the ex card. */
+  .md-typeset .ex-jp .pat,
+  .md-typeset .eg-jp .pat { font-weight: 700; text-decoration: underline; }
   .md-typeset .breakdown { overflow: visible; }
   .md-main,
   .md-content,
@@ -1564,7 +1664,8 @@ body.deck-hide-english .md-typeset .ex-en:focus-within { filter: none; }
   border-bottom: 1px solid var(--faint);
 }
 
-/* 9.5 · CITED JAPANESE IN PROSE — R6 option (a), Tim 2026-08-22.
+/* 9.5 · CITED JAPANESE IN PROSE — R6 option (a), Tim 2026-08-22; the WEIGHT
+   RE-SPLIT to three roles at `#258` (PRESENTATION-SPEC §5d).
    Japanese quoted inside a paragraph reads as one texture with the English
    around it. WEIGHT is the whole treatment: a third COLOR would break §4's
    two-affordance rule, which reserves tangerine for "go somewhere" and the
@@ -1574,14 +1675,20 @@ body.deck-hide-english .md-typeset .ex-en:focus-within { filter: none; }
    .jp-line and .jp-heading, and a one-character difference between a live
    class and three dead ones is how the next reader loses an afternoon.
 
-   600 and not 700, so a cited form never outweighs the bold keyword lead that
-   §4 makes the scan layer — the two have to stack, not compete. Where an
-   author has ALSO bolded a citation (the potential column of a conjugation
-   table), 700 wins and the citation is the strongest thing in its cell,
-   which is the point of bolding it. */
-.md-typeset .cite-jp { font-weight: 600; }
+   MEASURED at `#258`: 600 resting / 700 bold was ONE 100-weight step doing
+   the work of a semantic distinction, so nothing read as emphasised. Three
+   roles now: ORDINARY Japanese in prose drops to 500, so it reads as
+   Japanese without claiming attention; the GRAMMATICAL TARGET — an author's
+   `**…**` around Japanese — takes 700 PLUS the accent colour, the one thing
+   the eye should catch (`#227`'s two-affordance rule allows this ONE named,
+   scoped exception the same way §5b's callout bold is one, because bold
+   answering "what should my eye notice" is not the same claim as "go
+   somewhere"); STANDALONE example Japanese (the ```eg block, §5d) sits at
+   600, set apart by POSITION rather than weight, styled separately at
+   `.eg-jp` below and not through this class at all. */
+.md-typeset .cite-jp { font-weight: 500; }
 .md-typeset strong .cite-jp,
-.md-typeset .cite-jp strong { font-weight: 700; }
+.md-typeset .cite-jp strong { font-weight: 700; color: var(--acc); }
 
 /* 9.6 · RECENTLY UPDATED — the deck index card (R92, `#246`). The same card
    recipe as 9.4's bare table: 2px outline + hard shadow in light, 1px
