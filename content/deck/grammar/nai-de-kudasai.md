@@ -12,7 +12,7 @@ Conversation often drops ください; prohibitions and indirect requests use di
 **Form:** `V-ない + でください`
 
 - **Make the plain negative first** — 書かないでください "please do not write", 食べないでください "please do not eat", しないでください "please do not do it", 来ないでください "please do not come".
-- **The affirmative uses てください** — 入ってください "please come in" requests the action; 入らないでください "please do not come in" requests that the listener refrain from it. See [[te-kudasai]] for the affirmative request.
+- **The affirmative uses てください** — 入ってください "please come in" requests the action; 入らないでください "please do not come in" requests that the listener refrain from it.
 - **ください supplies politeness, not one fixed force** — 気にしないでください "please don't let it bother you" can be gentle reassurance, while a sign saying 触らないでください "please do not touch" functions as a prohibition.
 - **ね can invite agreement** — 心配しないでくださいね "please don't worry, okay?" often sounds softer, though tone and context can also make ね sound insistent.
 
@@ -27,16 +27,20 @@ pat: V-ない + でください
 !!! note "What's in scope"
     In 箱を開けないでください "please do not open the box", the negative belongs to the requested action: the listener is asked to refrain from opening it. The sentence does not negate ください or mean "don't please".
 
-### Why is なくてください the wrong shape?
+### Why not なくてください?
 
 !!! warning "Pitfall"
-    Use 食べないでください "please do not eat", not × 食べなくてください. Here ないで is the linker that presents **not doing the action** to ください. なくて belongs to a different kind of clause connection and often gives a circumstance or cause, as in 朝ご飯を食べなくてお腹がすいた "I was hungry because I didn't eat breakfast"; it cannot replace request-forming ないで. See [[nai-de]] for the linker itself.
+    Use 食べないでください "please do not eat", not × 食べなくてください. Here ないで is the linker that presents **not doing the action** to ください.
 
-### How do I choose the right social move?
+    なくて belongs to a different kind of clause connection and often gives a circumstance or cause, as in 朝ご飯を食べなくてお腹がすいた "I was hungry because I didn't eat breakfast"; it cannot replace request-forming ないで.
 
-Ask first whether you are making a direct polite request, speaking warmly or urgently, asking the listener for a favour indirectly, or stating a rule. The answer chooses the form; politeness level alone does not make these options interchangeable.
+-> Prerequisite: [[nai-de]] — the linker itself, and why ないで is the connector this form needs
 
-Within each request or prohibition family, the table moves from fuller or more formal wording toward ordinary conversational wording.
+### Request, favour, rule, or command?
+
+Ask first whether you are making a direct polite request, speaking warmly or urgently, asking the listener for a favour indirectly, or stating a rule. The answer chooses the form.
+
+Politeness level alone does not make these options interchangeable. Within each family, the table moves from fuller or more formal wording toward ordinary conversational wording.
 
 | form | kind of move | effect | how it lands and where to learn it |
 |---|---|---|---|
@@ -50,7 +54,9 @@ Within each request or prohibition family, the table moves from fuller or more f
 | `ちゃだめ` | blunt spoken prohibition | says the action is no good | colloquial; common with children and in close relationships, but can sound sharp; see [[te-wa-ikenai]] |
 | `Vるな` | forceful prohibition | orders someone not to act | blunt and potentially harsh; common in warnings, commands and dramatic speech |
 
-The positive permission question 開けてもいいですか "may I open it?" belongs to [[te-mo-ii]]. A negative request can answer it without changing into a permission form:
+The positive permission question 開けてもいいですか "may I open it?" is asked with different grammar; a negative request can still answer it without becoming a permission form itself.
+
+-> Compare: [[te-mo-ii]] — the positive permission question this construction can answer without becoming one itself
 
 ```dialog
 note: B uses a direct polite request to refuse the requested action without sounding like a shouted command.
@@ -66,14 +72,36 @@ A: 本当[ほんとう]にごめん。 | I'm really sorry.
 B: もう気[き]にしないで。 | Don't worry about it anymore.
 ```
 
-### What changes in conversation when ください is dropped?
+### In conversation
 
-来ないでください "please don't come" is polite. 来ないで "don't come" keeps the negative request but moves into casual speech; depending on the relationship and tone, it can sound intimate, urgent or blunt.
+来ないでください "please don't come" is polite. 来ないで "don't come" keeps the negative request but moves into casual speech — depending on the relationship and tone, it can sound intimate, urgent or blunt.
 
-Conversation regularly uses short forms such as 行かないで。 "Don't go", 忘れないでね。 "Don't forget, okay?", and それ触らないで。 "Don't touch that". Shared arguments and particles are often omitted, but the negative request remains.
+```eg
+polite: 来[こ]ないでください | Please don't come.
+casual: 来[こ]ないで | Don't come.
+```
 
-### How does the wording change on notices?
+Conversation often shortens further, dropping shared arguments and particles along with ください:
 
-触らないでください "please do not touch" is common on a sign and polite in form, even though the notice leaves little room to negotiate. More formal notices may say 手を触れないでください "please do not touch". Clipped public wording often abandons the request frame entirely: 立入禁止 "No entry" and 駐車禁止 "No parking" label the prohibited act as a rule.
+- 行かないで。 — Don't go.
+- 忘れないでね。 — Don't forget, okay?
+- それ触らないで。 — Don't touch that.
 
-For direct affirmative requests, continue with [[te-kudasai]]. For prohibitions and their ちゃだめ contractions, see [[te-wa-ikenai]]. The more formal affirmative request frame お〜ください is covered in [[o-kudasai]].
+The negative request survives every one of these cuts.
+
+### Notices, signs, and public rules
+
+触らないでください "please do not touch" is common on a sign and polite in form, even though the notice leaves little room to negotiate. More formal notices may instead say 手を触れないでください "please do not touch".
+
+Clipped public wording can abandon the request frame entirely: 立入禁止 "No entry" and 駐車禁止 "No parking" label the prohibited act as a rule rather than asking for anything.
+
+### Related patterns
+
+Three related forms sit just outside this page's scope: the affirmative counterpart, and the formal request frame.
+
+-> Compare: [[te-kudasai]] — the direct affirmative counterpart: please do
+-> Continue with: [[o-kudasai]] — the more formal counterpart to this page's polite request
+
+A stated rule is a different social move from a personal request.
+
+-> Contrast: [[te-wa-ikenai]] — states that an action is not permitted, a rule rather than a personal request

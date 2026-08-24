@@ -15,7 +15,6 @@ It usually replaces が・を・は in ordinary speech, but follows other case p
 - **Attachment sets the focus of the addition** — 私も本を読んだ "I, too, read the book" adds the reader; 本も読んだ "I read the book too" adds the book to other things read or done.
 - **が・を・は normally give their place to も** — the added subject, object or topic is marked directly with も: 私も行く "I'm going too", 本も買った "I bought a book too".
 - **Other case particles remain before も** — 東京にも行った "I went to Tokyo too", 学校でも話した "I talked about it at school too", 友達とも相談した "I also discussed it with a friend".
-- **Choose the attachment before choosing the translation** — decide what is being added, then put も on that element.
 
 ```ex
 私[わたし]も本[ほん]を読[よ]んだ。
@@ -25,10 +24,18 @@ bd: 私も*|I too / 本を|the book / 読んだ|read
 pat: N + も, added subject
 ```
 
-!!! note "What's in scope"
-    The element immediately marked by も is the element being added. 私も本を読んだ "I, too, read the book" adds a reader; 私は本も読んだ "I read the book too" adds the book to some other relevant thing.
+### What does も attach to?
 
-### Which particle stays beside も?
+The element も marks directly is the element being added. Attach it to the wrong word and the sentence adds the wrong thing.
+
+```eg
+adds the reader: 私[わたし]も本[ほん]を読[よ]んだ | I, too, read the book.
+adds the book: 私[わたし]は本[ほん]も読[よ]んだ | I read the book too.
+```
+
+Find what is being added, then put も there.
+
+### Particles with も
 
 | role before adding も | resulting shape | example |
 |---|---|---|
@@ -39,14 +46,21 @@ pat: N + も, added subject
 
 The replacement rule describes ordinary modern speech. をも can retain を in formal or literary writing, as in 社会をも変えた "it changed society as well"; it is marked, not the everyday default.
 
-### What happens when the sentence is negative?
+### も under negation
 
-も still adds the marked item. What changes is the polarity of the proposition it joins: 私も行く "I'm going too" adds me to the people going, while 私も行かない "I'm not going either" adds me to the people not going.
+も still marks the added item. What changes is the polarity of the statement it joins.
+
+```eg
+affirmative: 私[わたし]も行[い]く | I'm going too.
+negative: 私[わたし]も行[い]かない | I'm not going either.
+```
+
+も does not switch from "also" to "either" — the predicate's polarity does that; も itself never changes.
 
 !!! warning "English trap"
     English changes **too** to **either** in a negative sentence. Japanese keeps も: リホも食べない "Riho won't eat it either". Do not replace も merely because the predicate is negative.
 
-### Where does the set come from?
+### Where the set comes from
 
 Often the preceding conversation supplies it. も points back to an item or situation already active and adds a parallel member.
 
@@ -56,11 +70,15 @@ A: 明日[あした]、京都[きょうと]に行[い]くよ。 | I'm going to K
 B: 私[わたし]も行[い]く。 | I'm going too.
 ```
 
-The other members do not have to be stated. Pointing to an additional item and asking これも？ "This one too?" creates the impression that there is at least one other relevant item, even if the conversation has not named it aloud. That implied set is part of the effect of も, not a claim that the speaker has supplied a complete list.
+The other members do not have to be stated. これも？ "This one too?" implies there is at least one other relevant item, even without naming it.
 
-### How does も differ from は?
+That implied set is part of the effect of も — not a claim that the speaker has supplied a complete list.
 
-私は行く "As for me, I'm going" establishes me as the topic or contrasts me with someone else. 私も行く "I'm going too" instead adds me to an already relevant set. See [[wa]] for the topic and contrast uses of は.
+### も compared with similar markers
+
+私は行く "As for me, I'm going" establishes me as the topic or contrasts me with someone else. 私も行く "I'm going too" instead adds me to an already relevant set.
+
+-> Compare: [[wa]] — establishes a topic or marks contrast, rather than adding to a set
 
 | choice | what it does | example | how it lands |
 |---|---|---|---|
@@ -70,15 +88,35 @@ The other members do not have to be stated. Pointing to an additional item and a
 | [[a-mo-b-mo]] | explicitly includes each named member | 犬も猫も好き "I like both dogs and cats" | gives the members equal additive footing |
 | や | gives representative examples | 犬や猫が好き "I like dogs, cats and the like" | signals that the examples need not complete the set |
 
-### What gets shortened in conversation?
+### In conversation
 
 Once the missing predicate is obvious, も can carry a whole reply:
 
-- **私も。** — "Me too."
-- **私もそう。** — "Same for me" or "I think so too," depending on what そう points back to.
-- **これも？** — "This one too?"
-- **どっちも。** — "Both" in a casual reply when two choices are understood.
+- 私も。 — Me too.
+- 私もそう。 — Same for me, or I think so too, depending on what そう points back to.
+- これも？ — This one too?
+- どっちも。 — Both, in a casual reply when two choices are understood.
 
-も itself is largely register-neutral. Politeness and formality normally appear in the predicate: 私も行く "I'm going too" is casual, while 私も行きます "I'm going too" is polite. Conversation readily omits the shared predicate; careful writing is more likely to state it.
+も itself is largely register-neutral. Politeness and formality live in the predicate, not the particle.
 
-This page covers additive も. The scalar pattern 数量＋も expresses an unexpectedly large amount, not simple addition; see [[suuryou-mo]]. With a question word and a negative predicate, patterns such as 何も食べない "I won't eat anything" form the negative series in [[gimonshi-mo-nai]]. Question word＋でも instead makes a free-choice expression such as 何でも食べる "I'll eat anything"; see [[gimonshi-demo]].
+私も行く "I'm going too" is casual; 私も行きます "I'm going too" is polite. Conversation tends to drop the shared predicate; careful writing is more likely to state it.
+
+### Related uses of も
+
+This page covers additive も — attaching one item to an existing set. Three other patterns share the surface but do a different job.
+
+数量＋も presents an amount as unexpectedly large, not as an added member: 三時間も待った "I waited as much as three hours."
+
+-> Contrast: [[suuryou-mo]] — scalar も marks a large amount, not a set membership
+
+A question word with a negative predicate forms a separate negative series: 何も食べない "I won't eat anything."
+
+-> Contrast: [[gimonshi-mo-nai]] — a negative-polarity item, not an additive marker
+
+Question word＋でも instead makes a free-choice expression: 何でも食べる "I'll eat anything."
+
+-> Contrast: [[gimonshi-demo]] — free choice among options, not addition to a set
+
+Repeating も on each of two or more items explicitly includes every one of them.
+
+-> Continue with: [[a-mo-b-mo]] — the natural extension of this page's pattern

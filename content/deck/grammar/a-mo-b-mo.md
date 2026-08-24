@@ -1,4 +1,6 @@
-One [[mo]] adds an item to a set. Put も on each of two named items and both are explicitly included: 犬も猫も好き "I like both dogs and cats".
+One も adds an item to a set. Put も on each of two named items and both are explicitly included: 犬も猫も好き "I like both dogs and cats".
+
+-> Prerequisite: [[mo]] — one も adds one item to a relevant set; this pattern repeats that operation
 
 The doubled marking gives the two items equal footing. Compared with a plain と list, it often carries a small "this one too, and that one too" emphasis.
 
@@ -26,27 +28,34 @@ bd: 犬も*|dogs too / 猫も*|cats too / 好きだ|like
 pat: A も B も + affirmative predicate
 ```
 
-### Why does the same frame mean "neither"?
+### Affirmative and negative
 
-The も markers still place every item in the set under discussion. The negative predicate then denies the statement for every marked member: コーヒーも紅茶も飲まない "I drink neither coffee nor tea".
+The も markers place every item under discussion; the predicate decides what happens to them.
 
-Nothing inside も itself means "neither". That reading comes from repeated も together with negation.
+```eg
+affirmative: 犬[いぬ]も猫[ねこ]も好[す]きだ | I like both dogs and cats.
+negative: コーヒーも紅茶[こうちゃ]も飲[の]まない | I drink neither coffee nor tea.
+```
+
+Nothing inside も itself means "neither" — that reading comes from repeated も together with negation.
 
 !!! note "What's in scope"
     In 肉も魚も食べない "I eat neither meat nor fish", the final negative predicate reaches both marked objects. It denies eating meat and separately denies eating fish.
 
 !!! warning "English trap"
-    "I eat neither meat nor fish" denies each item. English "I don't eat both meat and fish" can make the narrower claim that eating the combination is not true and may leave open that one is eaten. That **not both** reading needs a different Japanese shape, such as 肉と魚の両方を食べるわけではない "It's not the case that I eat both meat and fish". Do not use 肉も魚も食べない for that claim.
+    "I eat neither meat nor fish" denies each item. English "I don't eat both meat and fish" can leave open that one of the two is eaten — a narrower claim.
 
-### Can the list contain more than two items?
+    That "not both" reading needs a different Japanese shape: 肉と魚の両方を食べるわけではない "It's not the case that I eat both meat and fish". Do not use 肉も魚も食べない for that claim.
 
-Yes. This is repeated additive marking, not a fixed two-slot equivalent of English **both**. ハルもリホもナギサも来た "Haru, Riho and Nagisa all came" works by including each person in turn.
+### More than two items
 
-Nor does the chain say that nobody else came. If exclusiveness matters, it must come from context or from wording that says so; repeated も itself asserts inclusion, not a complete inventory.
+This is repeated additive marking, not a fixed two-slot equivalent of English "both". ハルもリホもナギサも来た "Haru, Riho and Nagisa all came" works by including each person in turn.
 
-### Which compact alternative fits the conversation?
+Nor does the chain say that nobody else came. If exclusiveness matters, it must come from context or wording that says so — repeated も itself asserts inclusion, not a complete inventory.
 
-When the two choices are already known, Japanese often avoids naming both again. The sequence below moves from an explicit frame to compact replies; it describes how the forms land, not a learner-level ladder.
+### Saying "both" when the choices are known
+
+When the two choices are already known, Japanese often avoids naming both again. The forms below move from an explicit frame to compact replies; the order describes how they land, not a learner-level ladder.
 
 | form | what it can do | example | how it lands |
 |---|---|---|---|
@@ -61,10 +70,15 @@ A: 犬[いぬ]と猫[ねこ]、どっちが好[す]き？ | Which do you like, d
 B: どっちも好[す]き。犬[いぬ]も猫[ねこ]も飼[か]ったことあるよ。 | I like both. I've owned both dogs and cats.
 ```
 
-### What gets omitted in conversation?
+犬も猫も好き。 "I like both dogs and cats" drops the sentence-final だ that a fuller casual form may use.
 
-犬も猫も好き。 "I like both dogs and cats" drops the sentence-final だ that a fuller casual form may use. When a question has already supplied both choices, どっちも。 "Both" can be a complete casual answer; どちらも。 "Both" is its more polite or careful counterpart.
+どっちも。 can be a complete casual answer once a question has already supplied both choices; どちらも。 is its more polite or careful counterpart.
 
-The `AもBも` frame itself is register-neutral. Compare 犬も猫も好き "I like both dogs and cats" with 犬も猫も好きです "I like both dogs and cats": the predicate, not repeated も, makes the second polite. In a form or notice, a full predicate is more likely, as in 応募者も推薦者も署名してください "Both the applicant and the recommender should please sign".
+The `AもBも` frame is itself register-neutral — 犬も猫も好き and 犬も猫も好きです differ only in the predicate.
 
-Use [[to]] when the job is simply to coordinate a list, and use repeated も when the separate inclusion of every named member matters. The negative question-word series in [[gimonshi-mo-nai]] looks similar on the surface but forms expressions such as 何もない "there is nothing", rather than an explicit `AもBも` list.
+A form or notice is more likely to spell out the full predicate, as in 応募者も推薦者も署名してください "Both the applicant and the recommender should please sign".
+
+Use と for a plain coordinated list, and repeated も when the separate inclusion of every named member matters.
+
+-> Compare: [[to]] — plainly coordinates a list, without the repeated-inclusion effect
+-> Contrast: [[gimonshi-mo-nai]] — looks similar on the surface but forms expressions such as 何もない "there is nothing", not an explicit AもBも list

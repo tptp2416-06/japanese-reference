@@ -7,13 +7,19 @@
     For a paired event, ask: am I reporting the change, or the action that caused it? That chooses the verb.
     The intransitive puts the changing thing on stage; the transitive adds a direct-object role. The verb licenses the particles, which speech may omit.
 
-Japanese often gives you two different verbs for one event. <span class="cite-jp">ドアが開いた</span> "the door opened" describes what happened to the door; <span class="cite-jp">ドアを開けた</span> "(someone) opened the door" describes what someone did to it. English uses the same verb, "open", for both and lets the rest of the sentence carry the difference.
+Japanese often gives you two different verbs for one event: <span class="cite-jp">ドアが開いた</span> "the door opened" describes what happened to the door, <span class="cite-jp">ドアを開けた</span> "(someone) opened the door" describes what someone did to it.
+
+English uses the same verb, "open", for both, and lets the rest of the sentence carry the difference.
 
 Both Japanese sentences can describe the same moment in the world. What changes is the side of the event you choose to talk about: the change itself, or the action that caused it.
 
-That question — which side am I describing? — is the one to ask first. It chooses the verb, and the verb then settles the particles, not the other way around. Translating the English verb first and picking particles afterwards is where most transitivity mistakes start.
+That question — which side am I describing? — is the one to ask first. It chooses the verb, and the verb then settles the particles, not the other way around.
 
-The opening contrast belongs to a learnable family of **paired change-of-state verbs**. Transitivity itself is broader: an intransitive verb has no direct object, while a transitive verb makes room for one. <span class="cite-jp">子供が走った</span> "a child ran" is intransitive without describing a change of state, and <span class="cite-jp">本を読んだ</span> "(someone) read a book" is transitive without belonging to an open/close-style pair.
+Translating the English verb first and picking particles afterwards is where most transitivity mistakes start.
+
+The opening contrast belongs to a learnable family of **paired change-of-state verbs**. Transitivity itself is broader: an intransitive verb has no direct object, while a transitive verb makes room for one.
+
+<span class="cite-jp">子供が走った</span> "a child ran" is intransitive without describing a change of state; <span class="cite-jp">本を読んだ</span> "(someone) read a book" is transitive without belonging to an open/close-style pair.
 
 Which verbs pair with which is vocabulary, learned one pair at a time. The sound patterns that help you recognize a likely pair are at the end of the page.
 
@@ -38,7 +44,7 @@ A verb that takes no direct object; often the self-happening half of a transitiv
 - **<span class="cite-jp">を</span> after a movement verb does not make it transitive** — <span class="cite-jp">公園を歩く</span> "walk through the park" marks the route, and <span class="cite-jp">家を出る</span> "leave the house" marks the point departed from. Neither noun is a direct object acted on, and both verbs remain intransitive.
 - **Negation keeps the same division** — <span class="cite-jp">ドアが開かない</span> "the door won't open" reports the change not occurring; <span class="cite-jp">ドアを開けない</span> "I won't open the door" denies the causing action.
 
-### Doesn't the intransitive mean it happened by itself?
+### Intransitive does not mean "by itself"
 
 That's the usual first explanation, and it's a serviceable start — but the sentence never actually says so. Maybe someone opened the door, maybe a sensor did; <span class="cite-jp">ドアが開いた</span> "the door opened" only commits to describing the door's side of it.
 
@@ -46,12 +52,20 @@ The cleanest proof is a sentence that names the cause and keeps the verb:
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>風<rt>かぜ</rt></ruby>でドアが<span class="pat"><ruby>開<rt>あ</rt></ruby>いた</span>。</div><div class="ex-en">&ldquo;The door blew open.&rdquo; <span class="lit">&mdash; lit. the door opened because of the wind</span></div><div class="ex-note">The cause sits in the sentence, marked with で, and 開く stays intransitive; the verb never meant &quot;by itself&quot;.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>風<rt>かぜ</rt></ruby>で</span><span class="g">because of the wind</span></div><div class="bd-seg"><span class="j" lang="ja">ドアが</span><span class="g">the door</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>開<rt>あ</rt></ruby>いた</span><span class="g">opened</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">N が + V-intrans, cause stated with で</span></div></div></details></div>
 
-### Why might a speaker leave the cause offstage?
+### Leaving the cause offstage
 
-Choice of side can manage responsibility as well as information. <span class="cite-jp">壊れちゃった</span> "it broke" reports the object's change; <span class="cite-jp">壊しちゃった</span> "I broke it" selects a transitive verb that points to a causer even when the subject is omitted. The intransitive can soften attention to who caused the damage, but it does not prove that the event was accidental or that the speaker was uninvolved.
+Choice of side can manage responsibility as well as information.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">change</div><div class="eg-jp" lang="ja"><ruby>壊<rt>こわ</rt></ruby>れちゃった</div><div class="ex-en">It broke.</div></div><div class="eg-member"><div class="eg-label">cause</div><div class="eg-jp" lang="ja"><ruby>壊<rt>こわ</rt></ruby>しちゃった</div><div class="ex-en">I broke it.</div></div></div>
+
+The intransitive points to the object's change; the transitive points to a causer even when the subject is omitted.
+
+Softening attention to who caused the damage does not prove the event was accidental or that the speaker was uninvolved.
 
 !!! note "Who is put on stage"
-    The intransitive frame puts the changing participant on stage and leaves the cause outside the verb's required roles. The transitive frame introduces an actor-and-object relation. This is a choice of grammatical framing, not two competing accounts of what physically happened.
+    The intransitive frame puts the changing participant on stage and leaves the cause outside the verb's required roles. The transitive frame introduces an actor-and-object relation.
+
+    This is a choice of grammatical framing, not two competing accounts of what physically happened.
 
 The question under discussion often licenses the choice:
 
@@ -59,16 +73,31 @@ The question under discussion often licenses the choice:
 
 <div class="dlg"><div class="dlg-note">A asks for the causer, so the transitive question is natural; B supplies only the missing person.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>誰<rt>だれ</rt></ruby>がドア<ruby>開<rt>あ</rt></ruby>けたの？</div><div class="ex-en">Who opened the door?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>私<rt>わたし</rt></ruby>。</div><div class="ex-en">Me.</div></div></div></div>
 
-### What do <span class="cite-jp">ている</span> and <span class="cite-jp">てある</span> add?
+### Resulting states: <span class="cite-jp">ている</span> and <span class="cite-jp">てある</span>
 
-With many change-of-state intransitives, <span class="cite-jp">ている</span> names the state the change left behind: <span class="cite-jp">窓が開いている</span> "the window is open", <span class="cite-jp">電気が消えている</span> "the light is off". First comes the change; <span class="cite-jp">ている</span> presents the resulting state. This is a fact about the lexical behavior of many change-of-state verbs, not about intransitives as a class: <span class="cite-jp">子供が走っている</span> "a child is running" presents an action in progress. See [ている](<te-iru.md> "ている — progressive, resultant state, habit, and the てる contractions") for the larger system.
+With many change-of-state intransitives, <span class="cite-jp">ている</span> presents the state the change left behind. First the change occurs; <span class="cite-jp">ている</span> presents the resulting state.
 
-<span class="cite-jp">てある</span> adds a different perspective. <span class="cite-jp">ドアが開けてある</span> "the door has been opened and left that way" uses the transitive <span class="cite-jp">開ける</span> but presents the current state as the result of someone's deliberate action, usually with that person left unnamed. Compare <span class="cite-jp">ドアが開いている</span> "the door is open", which does not by itself present an intentional preparation. See [てある](<te-aru.md> "てある — A deliberately created state remains").
+<div class="eg-contrast"><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いている</div><div class="ex-en">The window is open.</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>が<ruby>消<rt>き</rt></ruby>えている</div><div class="ex-en">The light is off.</div></div></div>
+
+<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [ている](<te-iru.md> "ている — progressive, resultant state, habit, and the てる contractions") <span class="xref-reason">&mdash; the larger system this resulting-state reading belongs to</span></div>
+
+This is a fact about the lexical behavior of many change-of-state verbs, not about intransitives as a class. With an activity verb such as <span class="cite-jp">走る</span>, <span class="cite-jp">ている</span> instead presents the action in progress: <span class="cite-jp">子供が走っている</span> "a child is running".
+
+<span class="cite-jp">てある</span> adds a different perspective: it presents a current state as the result of someone's deliberate action, usually leaving that person unnamed.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">plain result</div><div class="eg-jp" lang="ja">ドアが<ruby>開<rt>あ</rt></ruby>いている</div><div class="ex-en">The door is open.</div></div><div class="eg-member"><div class="eg-label">deliberate</div><div class="eg-jp" lang="ja">ドアが<ruby>開<rt>あ</rt></ruby>けてある</div><div class="ex-en">The door has been opened and left that way.</div></div></div>
+
+The first simply presents the current state. The second additionally presents that state as intentionally created.
+
+<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [てある](<te-aru.md> "てある — A deliberately created state remains") <span class="xref-reason">&mdash; the deliberate-preparation reading this pair contrasts with plain ている</span></div>
 
 !!! warning "English trap"
     Do not translate an English passive with a Japanese passive by reflex. "The door was opened" can often come out as <span class="cite-jp">ドアが開いた</span> "the door opened" when the point is simply the event and the doer does not matter.
 
-    The structures are still different. An eventive English passive keeps an opener in its grammar even when unnamed; <span class="cite-jp">ドアが開いた</span> has no such role. <span class="cite-jp">ドアが開けられた</span> "the door was opened" is a Japanese passive and keeps the opening action in view. Choose it when that action, its agent, or the affected perspective matters; see [られる](<rareru.md> "られる・させる — passive, causative, and causative-passive").
+    The structures are still different. An eventive English passive keeps an opener in its grammar even when unnamed; <span class="cite-jp">ドアが開いた</span> has no such role. <span class="cite-jp">ドアが開けられた</span> "the door was opened" is a Japanese passive and keeps the opening action in view.
+
+<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [られる](<rareru.md> "られる・させる — passive, causative, and causative-passive") <span class="xref-reason">&mdash; choose the passive when the action, its agent, or the affected perspective matters</span></div>
+
 
 ## Transitive { #transitive }
 
@@ -81,15 +110,15 @@ A verb describing an action someone performs on a direct object.
 {: .form }
 
 - **Transitive means the verb has a direct-object role** — <span class="cite-jp">ハルがドアを開けた</span> "Haru opened the door" puts the actor in the <span class="cite-jp">が</span> role and the affected door in the <span class="cite-jp">を</span> role.
-- **Japanese can omit a role without changing the verb** — <span class="cite-jp">電気を消した</span> "I turned the light off" leaves the actor to context; <span class="cite-jp">もう読んだ</span> "I've already read it" can leave both reader and book unspoken. The transitive verb still licenses an object even when no <span class="cite-jp">を</span> phrase is pronounced.
+- **Japanese can omit a role without changing the verb** — <span class="cite-jp">電気を消した</span> "I turned the light off" leaves the actor to context. The transitive verb still licenses an object even when no <span class="cite-jp">を</span> phrase is pronounced.
 - **The paired transitive reports the causing action** — <span class="cite-jp">予定を決めた</span> "we set the schedule" and <span class="cite-jp">値段を変えた</span> "we changed the price" choose what someone did, rather than only the resulting change.
 - **Transitive does not mean deliberate** — <span class="cite-jp">うっかりコップを落とした</span> "I accidentally dropped the glass" is as transitive as a careful action. Intention must come from context or another construction; it is not supplied by transitivity itself.
-- **The pair can give <span class="cite-jp">ている</span> different readings** — <span class="cite-jp">ドアを開けている</span> "someone is opening the door" can present the transitive action in progress, while <span class="cite-jp">ドアが開いている</span> "the door is open" presents the intransitive result state. This is a strong contrast with this pair, not a rule that every transitive <span class="cite-jp">ている</span> must be progressive; verb meaning and context still matter.
+- **The pair can give <span class="cite-jp">ている</span> different readings** — <span class="cite-jp">ドアを開けている</span> presents the transitive action in progress; <span class="cite-jp">ドアが開いている</span> presents the intransitive result state. Verb meaning and context decide which reading applies elsewhere.
 - **The verb settles the particle** — choose <span class="cite-jp">開く</span> when reporting that the door opened and <span class="cite-jp">開ける</span> when reporting someone's opening action. Adding <span class="cite-jp">を</span> to <span class="cite-jp">開く</span> does not turn it into <span class="cite-jp">開ける</span>, and adding <span class="cite-jp">が</span> to <span class="cite-jp">開ける</span> does not remove its object role.
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>を<span class="pat"><ruby>消<rt>け</rt></ruby>した</span>？</div><div class="ex-en">&ldquo;Did you turn the light off?&rdquo;</div><div class="ex-note">Nobody is named, and the verb still points at a doer; the transitive side of the pair keeps an actor role, and context supplies who.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>電気<rt>でんき</rt></ruby>を</span><span class="g">the light</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>消<rt>け</rt></ruby>した</span><span class="g">turned off</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">N を + V-trans, actor omitted</span></div></div></details></div>
 
-### Which side should I choose?
+### Choosing between the two
 
 Ask whether you are reporting the change or the action that caused it. The event in the world may be the same; your answer chooses the verb, and the verb determines the available argument structure.
 
@@ -101,13 +130,19 @@ Ask whether you are reporting the change or the action that caused it. The event
 | a price | <span class="cite-jp">値段が変わった</span> "the price changed" | <span class="cite-jp">値段を変えた</span> "we changed the price" | change observed versus intervention |
 | people | <span class="cite-jp">人が集まった</span> "people gathered" | <span class="cite-jp">人を集めた</span> "we gathered people" | people assembling versus someone assembling them |
 
-### What happens to the particles in conversation?
+### Particles in real conversation
 
 Speech often omits the very particles that display the contrast most clearly. <span class="cite-jp">ドア、開いた？</span> "Did the door open?" omits <span class="cite-jp">が</span>; <span class="cite-jp">電気、消した？</span> "Did you turn off the light?" omits <span class="cite-jp">を</span>. Context and the lexical verb still preserve the two structures.
 
-<span class="cite-jp">は</span> can replace <span class="cite-jp">が</span> or bring an object into a topic or contrast frame without changing the verb's transitivity. <span class="cite-jp">ドアは開いた</span> "the door did open" still uses intransitive <span class="cite-jp">開く</span>; see [は](<wa.md> "は — topic, contrast, and scope"). A transitive object can likewise be topicalized in <span class="cite-jp">この本はもう読んだ</span> "as for this book, I've already read it". Full particles are more likely in careful writing, while zero marking is common in speech. The verb pair itself is register-neutral.
+<span class="cite-jp">は</span> can replace <span class="cite-jp">が</span> or bring an object into a topic or contrast frame without changing the verb's transitivity. <span class="cite-jp">ドアは開いた</span> "the door did open" still uses intransitive <span class="cite-jp">開く</span>.
 
-### How do I recognize a pair?
+<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [は](<wa.md> "は — topic, contrast, and scope") <span class="xref-reason">&mdash; how は marks topic and contrast without touching transitivity</span></div>
+
+A transitive object can likewise be topicalized: <span class="cite-jp">この本はもう読んだ</span> "as for this book, I've already read it".
+
+Full particles are more likely in careful writing; zero marking is common in speech. The verb pair itself is register-neutral.
+
+### Recognizing transitivity pairs
 
 Learning each pair as vocabulary is the reliable method. The sound patterns below are honest clues — good for recognizing that two verbs probably form a pair, never for manufacturing a missing one.
 
@@ -118,11 +153,19 @@ Learning each pair as vocabulary is the reliable method. The sound patterns belo
 | one side ends in ～<span class="cite-jp">す</span> | the ～<span class="cite-jp">す</span> side is transitive | <span class="cite-jp">消える</span>／<span class="cite-jp">消す</span> "go out／turn off" · <span class="cite-jp">壊れる</span>／<span class="cite-jp">壊す</span> "break" · <span class="cite-jp">沸く</span>／<span class="cite-jp">沸かす</span> "boil" · <span class="cite-jp">動く</span>／<span class="cite-jp">動かす</span> "move" |
 | no formula | learn as a family | <span class="cite-jp">落ちる</span>／<span class="cite-jp">落とす</span> "fall／drop" · <span class="cite-jp">出る</span>／<span class="cite-jp">出す</span> "go out／take out" · <span class="cite-jp">入る</span>／<span class="cite-jp">入れる</span> "go in／put in" |
 
-Some verbs have no lexical partner at all — <span class="cite-jp">走る</span> "run" has no paired transitive verb meaning "make run", and <span class="cite-jp">食べる</span> "eat" has no paired intransitive verb meaning "become eaten" — so a missing partner is normal, not a gap in your vocabulary. Grammatical forms such as the causative <span class="cite-jp">走らせる</span> "make someone run" and the passive <span class="cite-jp">食べられる</span> "be eaten" belong to the separate system in [られる](<rareru.md> "られる・させる — passive, causative, and causative-passive"); they are not lexical partners.
+Some verbs have no lexical partner at all — <span class="cite-jp">走る</span> "run" has no paired transitive verb meaning "make run", and <span class="cite-jp">食べる</span> "eat" has no paired intransitive verb meaning "become eaten". A missing partner is normal, not a gap in your vocabulary.
+
+Grammatical forms such as the causative <span class="cite-jp">走らせる</span> "make someone run" and the passive <span class="cite-jp">食べられる</span> "be eaten" are not lexical partners; they belong to a separate system.
+
+<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [られる](<rareru.md> "られる・させる — passive, causative, and causative-passive") <span class="xref-reason">&mdash; the causative and passive machinery that stands apart from lexical transitivity pairs</span></div>
 
 ??? note "Why ～<span class="cite-jp">える</span> can't tell you which side you're holding"
-    <span class="cite-jp">閉める</span>, <span class="cite-jp">始める</span> and <span class="cite-jp">開ける</span> are transitive members of their pairs, and the tempting conclusion is that ～<span class="cite-jp">える</span> marks the transitive member. Then <span class="cite-jp">消える</span>, <span class="cite-jp">壊れる</span> and <span class="cite-jp">焼ける</span> arrive — each serving as an intransitive member in the pairs discussed here. <span class="cite-jp">焼ける</span> is the intransitive partner of <span class="cite-jp">焼く</span> "grill": the mirror image of <span class="cite-jp">開く</span>／<span class="cite-jp">開ける</span>.
+    <span class="cite-jp">閉める</span>, <span class="cite-jp">始める</span> and <span class="cite-jp">開ける</span> are transitive members of their pairs, and the tempting conclusion is that ～<span class="cite-jp">える</span> marks the transitive member.
 
-    The ending sits on both sides of the system, so the pair is the useful unit, not the ending. Store the scene rather than the gloss — <span class="cite-jp">電気がつく</span> "the light comes on" against <span class="cite-jp">電気をつける</span> "turn the light on" fixes the verb, its side of the event and its particle in one memory.
+    Then <span class="cite-jp">消える</span>, <span class="cite-jp">壊れる</span> and <span class="cite-jp">焼ける</span> arrive — each an intransitive member in the pairs discussed here. <span class="cite-jp">焼ける</span> is the intransitive partner of <span class="cite-jp">焼く</span> "grill": the mirror image of <span class="cite-jp">開く</span>／<span class="cite-jp">開ける</span>.
 
-<div class="prov">Authored by GPT-5.6 Sol - High &bull; 2026-08-23</div>
+    The ending sits on both sides of the system, so the pair is the useful unit, not the ending.
+
+    Store the scene rather than the gloss: <span class="cite-jp">電気がつく</span> "the light comes on" against <span class="cite-jp">電気をつける</span> "turn the light on" fixes the verb, its side of the event and its particle in one memory.
+
+<div class="prov">Authored by Originally authored by GPT-5.6 Sol - Revisions applied by Claude Sonnet 5. &bull; 2026-08-24</div>
