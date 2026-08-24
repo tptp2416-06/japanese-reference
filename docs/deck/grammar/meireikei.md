@@ -4,5 +4,8 @@
 
 <span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-imperative</span> <span class="card-tag">request</span> <span class="card-tag">plain-marked</span>
 
+**See also:** [ないでください](<nai-de-kudasai.md> "ないでください — Please do not do") — the blunt end of the request ladder — Vるな is this form's negative
+{: .seealso }
+
 Plain imperative commands; forceful direct orders requiring careful social use (走れ, 諦めろ)
 {: .h1-gloss }

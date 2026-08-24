@@ -13,6 +13,9 @@ To ask someone not to do something, put the action in its plain negative form an
 
 The request is polite, but its emotional force comes from the situation. The same structure can comfort someone or state a firm rule.
 
+**See also:** [命令形](<meireikei.md> "命令形 — Plain imperative commands; forceful direct orders requiring careful social use (走れ, 諦めろ)") — the blunt end of the request ladder — Vるな is this form's negative
+{: .seealso }
+
 Please do not do.
 {: .h1-gloss }
 
