@@ -6,41 +6,66 @@
 
 !!! tip "At a glance"
 
-    `A も B も + affirmative` includes both A and B. With a negative predicate, the
-    same frame excludes both and is normally translated "neither A nor B".
+    `A も B も + affirmative` includes every marked member; the chain can continue past two.
+    With a negative predicate, it excludes every marked member and is normally translated "neither A nor B".
 
-One <span class="cite-jp">も</span> adds an item to a set. Put <span class="cite-jp">も</span> on each of two named items and both are
-explicitly included: <span class="cite-jp">犬も猫も好き</span> "I like both dogs and cats".
+One [も](<mo.md> "も — Also or too") adds an item to a set. Put <span class="cite-jp">も</span> on each of two named items and both are explicitly included: <span class="cite-jp">犬も猫も好き</span> "I like both dogs and cats".
 
-The doubled marking gives the two items equal footing. Compared with a plain <span class="cite-jp">と</span>
-list, it often carries a small "this one too, and that one too" emphasis.
+The doubled marking gives the two items equal footing. Compared with a plain <span class="cite-jp">と</span> list, it often carries a small "this one too, and that one too" emphasis.
 
 Both A and B; includes each item equally
 {: .h1-gloss }
 
-**Form:** `A も B も + predicate` · `A + particle + も, B + particle + も`
+**Form:** `A も B も + predicate` · `A も B も C も + predicate` · `A + particle + も, B + particle + も`
 {: .form }
 
-- **Affirmative predicates include both** — <span class="cite-jp">犬も猫も好き</span> "I like both dogs and
-  cats" presents each animal as a member of the liked set.
-- **Negative predicates exclude both** — <span class="cite-jp">肉も魚も食べない</span> "I eat neither meat
-  nor fish" applies the negation to each listed item.
-- **The two items stand as equals** — <span class="cite-jp">犬と猫が好き</span> "I like dogs and cats" is a
-  plain list; <span class="cite-jp">犬も猫も好き</span> "I like both dogs and cats" highlights that each one
-  is included. How emphatic it feels depends on context and delivery.
-- **Case marking follows the ordinary <span class="cite-jp">も</span> mechanics** — <span class="cite-jp">も</span> replaces <span class="cite-jp">が</span> or <span class="cite-jp">を</span> on
-  the listed items, while other case particles remain before it:
-  <span class="cite-jp">東京にも大阪にも行った</span> "I went to both Tokyo and Osaka".
+- **Affirmative predicates include each marked member** — <span class="cite-jp">犬も猫も好き</span> "I like both dogs and cats" presents each animal as a member of the liked set.
+- **Negative predicates exclude each marked member** — <span class="cite-jp">肉も魚も食べない</span> "I eat neither meat nor fish" applies the negation to each listed item.
+- **The chain can keep growing** — <span class="cite-jp">犬も猫も鳥も好き</span> "I like dogs, cats and birds" makes the same separate inclusion three times.
+- **The list is not automatically exhaustive** — <span class="cite-jp">犬も猫も好き</span> "I like both dogs and cats" does not claim that these are the only animals the speaker likes.
+- **The items stand as equals** — <span class="cite-jp">犬と猫が好き</span> "I like dogs and cats" is a plain list; <span class="cite-jp">犬も猫も好き</span> "I like both dogs and cats" highlights that each one is included. How emphatic it feels depends on context and delivery.
+- **Case marking follows ordinary <span class="cite-jp">も</span> mechanics** — <span class="cite-jp">も</span> normally replaces <span class="cite-jp">が</span> or <span class="cite-jp">を</span> on the listed items, while other case particles remain before it: <span class="cite-jp">東京にも大阪にも行った</span> "I went to both Tokyo and Osaka".
+- **Choose the frame for separate inclusion** — ask whether the predicate should hold for every named item; if so, mark each item with <span class="cite-jp">も</span>.
 
 <div class="ex"><div class="ex-jp" lang="ja"><span class="pat"><ruby>犬<rt>いぬ</rt></ruby>も<ruby>猫<rt>ねこ</rt></ruby>も</span><ruby>好<rt>す</rt></ruby>きだ。</div><div class="ex-en">&ldquo;I like both dogs and cats.&rdquo;</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="j" lang="ja"><ruby>犬<rt>いぬ</rt></ruby>も</span><span class="g">dogs too</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>猫<rt>ねこ</rt></ruby>も</span><span class="g">cats too</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>好<rt>す</rt></ruby>きだ</span><span class="g">like</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">A も B も + affirmative predicate</span></div></div></details></div>
 
 ### Why does the same frame mean "neither"?
 
-The two <span class="cite-jp">も</span> markers still include both items in the set under discussion. The
-negative predicate then denies the statement for every listed member:
-<span class="cite-jp">コーヒーも紅茶も飲まない</span> "I drink neither coffee nor tea".
+The <span class="cite-jp">も</span> markers still place every item in the set under discussion. The negative predicate then denies the statement for every marked member: <span class="cite-jp">コーヒーも紅茶も飲まない</span> "I drink neither coffee nor tea".
 
-Nothing inside <span class="cite-jp">も</span> itself means "neither". That reading comes from doubled <span class="cite-jp">も</span>
-together with negation.
+Nothing inside <span class="cite-jp">も</span> itself means "neither". That reading comes from repeated <span class="cite-jp">も</span> together with negation.
 
-<div class="prov">Authored by Codex 5.6 Sol - High &bull; 2026-08-23</div>
+!!! note "What's in scope"
+    In <span class="cite-jp">肉も魚も食べない</span> "I eat neither meat nor fish", the final negative predicate reaches both marked objects. It denies eating meat and separately denies eating fish.
+
+!!! warning "English trap"
+    "I eat neither meat nor fish" denies each item. English "I don't eat both meat and fish" can make the narrower claim that eating the combination is not true and may leave open that one is eaten. That **not both** reading needs a different Japanese shape, such as <span class="cite-jp">肉と魚の両方を食べるわけではない</span> "It's not the case that I eat both meat and fish". Do not use <span class="cite-jp">肉も魚も食べない</span> for that claim.
+
+### Can the list contain more than two items?
+
+Yes. This is repeated additive marking, not a fixed two-slot equivalent of English **both**. <span class="cite-jp">ハルもリホもナギサも来た</span> "Haru, Riho and Nagisa all came" works by including each person in turn.
+
+Nor does the chain say that nobody else came. If exclusiveness matters, it must come from context or from wording that says so; repeated <span class="cite-jp">も</span> itself asserts inclusion, not a complete inventory.
+
+### Which compact alternative fits the conversation?
+
+When the two choices are already known, Japanese often avoids naming both again. The sequence below moves from an explicit frame to compact replies; it describes how the forms land, not a learner-level ladder.
+
+| form | what it can do | example | how it lands |
+|---|---|---|---|
+| `AもBも` | names and includes each member | <span class="cite-jp">犬も猫も好きです</span> "I like both dogs and cats" | explicit and register-neutral; the predicate carries politeness |
+| `両方` | refers to two known sides or items as a noun | <span class="cite-jp">両方が必要です</span> "Both are necessary" | neutral and compact; it can take particles or modify a noun with <span class="cite-jp">の</span> |
+| `どちらも` | answers a two-choice question without repeating the choices | <span class="cite-jp">どちらも好きです</span> "I like both" | polite or careful |
+| `どっちも` | does the same in everyday speech | <span class="cite-jp">どっちも好き</span> "I like both" | casual and very common in conversation |
+
+<div class="dlg"><div class="dlg-note">B first uses a compact answer because the two choices are known, then names both with the explicit frame.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>犬<rt>いぬ</rt></ruby>と<ruby>猫<rt>ねこ</rt></ruby>、どっちが<ruby>好<rt>す</rt></ruby>き？</div><div class="ex-en">Which do you like, dogs or cats?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">どっちも<ruby>好<rt>す</rt></ruby>き。<ruby>犬<rt>いぬ</rt></ruby>も<ruby>猫<rt>ねこ</rt></ruby>も<ruby>飼<rt>か</rt></ruby>ったことあるよ。</div><div class="ex-en">I like both. I&#x27;ve owned both dogs and cats.</div></div></div></div>
+
+### What gets omitted in conversation?
+
+<span class="cite-jp">犬も猫も好き。</span> "I like both dogs and cats" drops the sentence-final <span class="cite-jp">だ</span> that a fuller casual form may use. When a question has already supplied both choices, <span class="cite-jp">どっちも。</span> "Both" can be a complete casual answer; <span class="cite-jp">どちらも。</span> "Both" is its more polite or careful counterpart.
+
+The `AもBも` frame itself is register-neutral. Compare <span class="cite-jp">犬も猫も好き</span> "I like both dogs and cats" with <span class="cite-jp">犬も猫も好きです</span> "I like both dogs and cats": the predicate, not repeated <span class="cite-jp">も</span>, makes the second polite. In a form or notice, a full predicate is more likely, as in <span class="cite-jp">応募者も推薦者も署名してください</span> "Both the applicant and the recommender should please sign".
+
+Use [と](<to.md> "と — the conditional, and the particle for listing and accompaniment") when the job is simply to coordinate a list, and use repeated <span class="cite-jp">も</span> when the separate inclusion of every named member matters. The negative question-word series in [疑問詞＋も〜ない](<gimonshi-mo-nai.md> "疑問詞＋も〜ない — Question word plus も with a negative predicate denies every case") looks similar on the surface but forms expressions such as <span class="cite-jp">何もない</span> "there is nothing", rather than an explicit `AもBも` list.
+
+<div class="prov">Authored by GPT-5.6 Sol - High &bull; 2026-08-23</div>

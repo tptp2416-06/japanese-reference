@@ -6,15 +6,12 @@
 
 !!! tip "At a glance"
 
-    <span class="cite-jp">も</span> marks its item as another member of a set: "also", "too" or "as well". It
-    replaces <span class="cite-jp">が・を・は</span>, but follows other case particles: <span class="cite-jp">にも</span>, <span class="cite-jp">でも</span>, <span class="cite-jp">とも</span>.
+    <span class="cite-jp">も</span> marks its item as another member of a set: "also", "too", "either" under negation, or "as well".
+    It usually replaces <span class="cite-jp">が・を・は</span> in ordinary speech, but follows other case particles: <span class="cite-jp">にも</span>, <span class="cite-jp">でも</span>, <span class="cite-jp">とも</span>.
 
-<span class="cite-jp">も</span> takes one item and places it beside something already in view. If one person
-is going, <span class="cite-jp">私も行く</span> "I'm going too" adds me; if one thing was read, <span class="cite-jp">本も読んだ</span>
-"I read the book too" adds the book.
+<span class="cite-jp">も</span> takes one item and places it beside something already in view. If one person is going, <span class="cite-jp">私も行く</span> "I'm going too" adds me; if one thing was read, <span class="cite-jp">本も読んだ</span> "I read the book too" adds the book.
 
-The position of <span class="cite-jp">も</span> matters because the item it attaches to is the item being
-added.
+The position of <span class="cite-jp">も</span> matters because the item it attaches to is the item being added.
 
 **See also:** [は](<wa.md> "は — topic, contrast, and scope") — the other binding particle — も displaces が and を and stacks onto で and に exactly as は does, and adds where は subtracts
 {: .seealso }
@@ -27,30 +24,66 @@ Also or too.
 **Form:** `N + も` · `N + particle + も`
 {: .form }
 
-- **One more member joins the set** — <span class="cite-jp">私も行く</span> "I'm going too" assumes that
-  someone else is going or that another relevant case is already in view.
-- **Attachment sets the focus of the addition** — <span class="cite-jp">私も本を読んだ</span> "I, too, read
-  the book" adds the reader; <span class="cite-jp">本も読んだ</span> "I read the book too" adds the book to
-  other things read or done.
-- **<span class="cite-jp">が・を・は</span> give their place to <span class="cite-jp">も</span>** — the added subject, object or topic is
-  marked directly with <span class="cite-jp">も</span>: <span class="cite-jp">私も行く</span> "I'm going too", <span class="cite-jp">本も買った</span> "I bought a
-  book too".
-- **Other case particles remain before <span class="cite-jp">も</span>** — <span class="cite-jp">東京にも行った</span> "I went to Tokyo
-  too", <span class="cite-jp">学校でも話した</span> "I talked about it at school too", <span class="cite-jp">友達とも相談した</span> "I
-  also discussed it with a friend".
+- **One more member joins the set** — <span class="cite-jp">私も行く</span> "I'm going too" assumes that someone else is going or that another relevant case is already in view.
+- **Attachment sets the focus of the addition** — <span class="cite-jp">私も本を読んだ</span> "I, too, read the book" adds the reader; <span class="cite-jp">本も読んだ</span> "I read the book too" adds the book to other things read or done.
+- **<span class="cite-jp">が・を・は</span> normally give their place to <span class="cite-jp">も</span>** — the added subject, object or topic is marked directly with <span class="cite-jp">も</span>: <span class="cite-jp">私も行く</span> "I'm going too", <span class="cite-jp">本も買った</span> "I bought a book too".
+- **Other case particles remain before <span class="cite-jp">も</span>** — <span class="cite-jp">東京にも行った</span> "I went to Tokyo too", <span class="cite-jp">学校でも話した</span> "I talked about it at school too", <span class="cite-jp">友達とも相談した</span> "I also discussed it with a friend".
+- **Choose the attachment before choosing the translation** — decide what is being added, then put <span class="cite-jp">も</span> on that element.
 
 <div class="ex"><div class="ex-jp" lang="ja"><span class="pat"><ruby>私<rt>わたし</rt></ruby>も</span><ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んだ。</div><div class="ex-en">&ldquo;I, too, read the book.&rdquo;</div><div class="ex-note">も attaches to 私, so the added member is the reader rather than the book.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="j" lang="ja"><ruby>私<rt>わたし</rt></ruby>も</span><span class="g">I too</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>本<rt>ほん</rt></ruby>を</span><span class="g">the book</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>読<rt>よ</rt></ruby>んだ</span><span class="g">read</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">N + も, added subject</span></div></div></details></div>
+
+!!! note "What's in scope"
+    The element immediately marked by <span class="cite-jp">も</span> is the element being added. <span class="cite-jp">私も本を読んだ</span> "I, too, read the book" adds a reader; <span class="cite-jp">私は本も読んだ</span> "I read the book too" adds the book to some other relevant thing.
 
 ### Which particle stays beside <span class="cite-jp">も</span>?
 
 | role before adding <span class="cite-jp">も</span> | resulting shape | example |
 |---|---|---|
-| subject marked by <span class="cite-jp">が</span> | <span class="cite-jp">が</span> is replaced | <span class="cite-jp">私も行く</span> "I'm going too" |
-| object marked by <span class="cite-jp">を</span> | <span class="cite-jp">を</span> is replaced | <span class="cite-jp">お茶も飲んだ</span> "I drank tea too" |
+| subject marked by <span class="cite-jp">が</span> | <span class="cite-jp">が</span> is normally replaced | <span class="cite-jp">私も行く</span> "I'm going too" |
+| object marked by <span class="cite-jp">を</span> | <span class="cite-jp">を</span> is normally replaced | <span class="cite-jp">お茶も飲んだ</span> "I drank tea too" |
 | topic marked by <span class="cite-jp">は</span> | <span class="cite-jp">は</span> is displaced | <span class="cite-jp">今日は休みで、明日も休みだ</span> "today is a day off, and tomorrow is too" |
 | <span class="cite-jp">に・で・と</span> and other case relations | the particle remains; <span class="cite-jp">も</span> follows | <span class="cite-jp">京都にも行く</span> "I'll go to Kyoto too" |
 
-This page covers additive <span class="cite-jp">も</span>. The scalar pattern <span class="cite-jp">数量</span>＋<span class="cite-jp">も</span> "as many as／as much
-as" has its own page, as do the question-word patterns <span class="cite-jp">何も</span>〜<span class="cite-jp">ない</span> and <span class="cite-jp">何でも</span>.
+The replacement rule describes ordinary modern speech. <span class="cite-jp">をも</span> can retain <span class="cite-jp">を</span> in formal or literary writing, as in <span class="cite-jp">社会をも変えた</span> "it changed society as well"; it is marked, not the everyday default.
 
-<div class="prov">Authored by Codex 5.6 Sol - High &bull; 2026-08-23</div>
+### What happens when the sentence is negative?
+
+<span class="cite-jp">も</span> still adds the marked item. What changes is the polarity of the proposition it joins: <span class="cite-jp">私も行く</span> "I'm going too" adds me to the people going, while <span class="cite-jp">私も行かない</span> "I'm not going either" adds me to the people not going.
+
+!!! warning "English trap"
+    English changes **too** to **either** in a negative sentence. Japanese keeps <span class="cite-jp">も</span>: <span class="cite-jp">リホも食べない</span> "Riho won't eat it either". Do not replace <span class="cite-jp">も</span> merely because the predicate is negative.
+
+### Where does the set come from?
+
+Often the preceding conversation supplies it. <span class="cite-jp">も</span> points back to an item or situation already active and adds a parallel member.
+
+<div class="dlg"><div class="dlg-note">B can use 私も because A has just put a person going to Kyoto into the conversational set.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>、<ruby>京都<rt>きょうと</rt></ruby>に<ruby>行<rt>い</rt></ruby>くよ。</div><div class="ex-en">I&#x27;m going to Kyoto tomorrow.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>私<rt>わたし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く。</div><div class="ex-en">I&#x27;m going too.</div></div></div></div>
+
+The other members do not have to be stated. Pointing to an additional item and asking <span class="cite-jp">これも？</span> "This one too?" creates the impression that there is at least one other relevant item, even if the conversation has not named it aloud. That implied set is part of the effect of <span class="cite-jp">も</span>, not a claim that the speaker has supplied a complete list.
+
+### How does <span class="cite-jp">も</span> differ from <span class="cite-jp">は</span>?
+
+<span class="cite-jp">私は行く</span> "As for me, I'm going" establishes me as the topic or contrasts me with someone else. <span class="cite-jp">私も行く</span> "I'm going too" instead adds me to an already relevant set. See [は](<wa.md> "は — topic, contrast, and scope") for the topic and contrast uses of <span class="cite-jp">は</span>.
+
+| choice | what it does | example | how it lands |
+|---|---|---|---|
+| [は](<wa.md> "は — topic, contrast, and scope") | establishes a topic or marks contrast | <span class="cite-jp">私は行く</span> "As for me, I'm going" | neutral topic marking; contrast depends on context |
+| <span class="cite-jp">も</span> | adds the marked item | <span class="cite-jp">私も行く</span> "I'm going too" | carries an additive connection to a set |
+| [と](<to.md> "と — the conditional, and the particle for listing and accompaniment") | coordinates a plain noun list | <span class="cite-jp">犬と猫が好き</span> "I like dogs and cats" | neutral listing, without the repeated "this too" effect |
+| [AもBも](<a-mo-b-mo.md> "AもBも — Both A and B") | explicitly includes each named member | <span class="cite-jp">犬も猫も好き</span> "I like both dogs and cats" | gives the members equal additive footing |
+| <span class="cite-jp">や</span> | gives representative examples | <span class="cite-jp">犬や猫が好き</span> "I like dogs, cats and the like" | signals that the examples need not complete the set |
+
+### What gets shortened in conversation?
+
+Once the missing predicate is obvious, <span class="cite-jp">も</span> can carry a whole reply:
+
+- **<span class="cite-jp">私も。</span>** — "Me too."
+- **<span class="cite-jp">私もそう。</span>** — "Same for me" or "I think so too," depending on what <span class="cite-jp">そう</span> points back to.
+- **<span class="cite-jp">これも？</span>** — "This one too?"
+- **<span class="cite-jp">どっちも。</span>** — "Both" in a casual reply when two choices are understood.
+
+<span class="cite-jp">も</span> itself is largely register-neutral. Politeness and formality normally appear in the predicate: <span class="cite-jp">私も行く</span> "I'm going too" is casual, while <span class="cite-jp">私も行きます</span> "I'm going too" is polite. Conversation readily omits the shared predicate; careful writing is more likely to state it.
+
+This page covers additive <span class="cite-jp">も</span>. The scalar pattern <span class="cite-jp">数量</span>＋<span class="cite-jp">も</span> expresses an unexpectedly large amount, not simple addition; see [数量＋も](<suuryou-mo.md> "数量＋も — As many or much as the stated quantity, expressing surprise"). With a question word and a negative predicate, patterns such as <span class="cite-jp">何も食べない</span> "I won't eat anything" form the negative series in [疑問詞＋も〜ない](<gimonshi-mo-nai.md> "疑問詞＋も〜ない — Question word plus も with a negative predicate denies every case"). Question word＋<span class="cite-jp">でも</span> instead makes a free-choice expression such as <span class="cite-jp">何でも食べる</span> "I'll eat anything"; see [疑問詞＋でも](<gimonshi-demo.md> "疑問詞＋でも — Anything or whatever").
+
+<div class="prov">Authored by GPT-5.6 Sol - High &bull; 2026-08-23</div>

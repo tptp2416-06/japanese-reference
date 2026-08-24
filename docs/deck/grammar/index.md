@@ -17,7 +17,7 @@ easiest of its members').
 <li><span class="recent-date">2026-08-23</span><span class="card-tag">UPDATED</span><a href="nakereba-naranai/">なければならない — must, have to, and don&#x27;t have to</a></li>
 <li><span class="recent-date">2026-08-23</span><span class="card-tag lv">NEW</span><a href="mo/">も — Also or too</a></li>
 <li><span class="recent-date">2026-08-23</span><span class="card-tag lv">NEW</span><a href="mou-mada/">もう・まだ — already, still, and not yet</a></li>
-<li><span class="recent-date">2026-08-23</span><span class="card-tag lv">NEW</span><a href="gimonshi-mo-nai/">疑問詞＋も〜ない — Question word plus も with a negative predicate denies every case</a></li>
+<li><span class="recent-date">2026-08-23</span><span class="card-tag">UPDATED</span><a href="n-da/">んだ — the explanatory のだ and its compounds</a></li>
 </ul>
 </div>
 
