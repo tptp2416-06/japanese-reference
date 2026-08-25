@@ -60,7 +60,7 @@ The replacement rule describes ordinary modern speech. <span class="cite-jp">を
 
 <div id="trap-english-trap" class="trap-anchor"></div>
 
-!!! warning "English trap"
+!!! warning "English Trap"
     English changes **too** to **either** in a negative sentence. Japanese keeps <span class="cite-jp">も</span>: <span class="cite-jp">リホも食べない</span> "Riho won't eat it either". Do not replace <span class="cite-jp">も</span> merely because the predicate is negative.
 
 ### Where the set comes from
@@ -121,6 +121,6 @@ Repeating <span class="cite-jp">も</span> on each of two or more items explicit
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [AもBも](<a-mo-b-mo.md> "AもBも — Both A and B") <span class="xref-reason">&mdash; the natural extension of this page&#x27;s pattern</span></div>
 
 
-<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English trap</a></li></ul></div>
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
 
 <div class="prov">Authored by GPT-5.6 Sol - Revisions applied by Claude Sonnet 5 &bull; 2026-08-24</div>

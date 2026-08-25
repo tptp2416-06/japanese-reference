@@ -100,7 +100,7 @@ The first simply presents the current state. The second additionally presents th
 
 -> Compare: [[te-aru]] — the deliberate-preparation reading this pair contrasts with plain ている
 
-!!! warning "English trap"
+!!! warning "English Trap"
     Do not translate an English passive with a Japanese passive by reflex. "The door was opened" can often come out as ドアが開いた "the door opened" when the point is simply the event and the doer does not matter.
 
     The structures are still different. An eventive English passive keeps an opener in its grammar even when unnamed; ドアが開いた has no such role. ドアが開けられた "the door was opened" is a Japanese passive and keeps the opening action in view.

@@ -44,7 +44,7 @@ Nothing inside <span class="cite-jp">も</span> itself means "neither" — that 
 
 <div id="trap-english-trap" class="trap-anchor"></div>
 
-!!! warning "English trap"
+!!! warning "English Trap"
     "I eat neither meat nor fish" denies each item. English "I don't eat both meat and fish" can leave open that one of the two is eaten — a narrower claim.
 
     That "not both" reading needs a different Japanese shape: <span class="cite-jp">肉と魚の両方を食べるわけではない</span> "It's not the case that I eat both meat and fish". Do not use <span class="cite-jp">肉も魚も食べない</span> for that claim.
@@ -83,6 +83,6 @@ Use <span class="cite-jp">と</span> for a plain coordinated list, and repeated 
 <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [疑問詞＋も〜ない](<gimonshi-mo-nai.md> "疑問詞＋も〜ない — Question word plus も with a negative predicate denies every case") <span class="xref-reason">&mdash; looks similar on the surface but forms expressions such as 何もない &quot;there is nothing&quot;, not an explicit AもBも list</span></div>
 
 
-<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English trap</a></li></ul></div>
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
 
 <div class="prov">Authored by GPT-5.6 Sol - Revisions applied by Claude Sonnet 5 &bull; 2026-08-24</div>

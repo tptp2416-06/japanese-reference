@@ -57,7 +57,7 @@ negative: 私[わたし]も行[い]かない | I'm not going either.
 
 も does not switch from "also" to "either" — the predicate's polarity does that; も itself never changes.
 
-!!! warning "English trap"
+!!! warning "English Trap"
     English changes **too** to **either** in a negative sentence. Japanese keeps も: リホも食べない "Riho won't eat it either". Do not replace も merely because the predicate is negative.
 
 ### Where the set comes from

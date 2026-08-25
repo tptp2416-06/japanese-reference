@@ -93,7 +93,7 @@ The first simply presents the current state. The second additionally presents th
 
 <div id="trap-english-trap" class="trap-anchor"></div>
 
-!!! warning "English trap"
+!!! warning "English Trap"
     Do not translate an English passive with a Japanese passive by reflex. "The door was opened" can often come out as <span class="cite-jp">ドアが開いた</span> "the door opened" when the point is simply the event and the doer does not matter.
 
     The structures are still different. An eventive English passive keeps an opener in its grammar even when unnamed; <span class="cite-jp">ドアが開いた</span> has no such role. <span class="cite-jp">ドアが開けられた</span> "the door was opened" is a Japanese passive and keeps the opening action in view.
@@ -170,6 +170,6 @@ Grammatical forms such as the causative <span class="cite-jp">走らせる</span
 
     Store the scene rather than the gloss: <span class="cite-jp">電気がつく</span> "the light comes on" against <span class="cite-jp">電気をつける</span> "turn the light on" fixes the verb, its side of the event and its particle in one memory.
 
-<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English trap</a></li></ul></div>
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
 
 <div class="prov">Authored by GPT-5.6 Sol - Revisions applied by Claude Sonnet 5 &bull; 2026-08-24</div>

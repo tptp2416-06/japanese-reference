@@ -42,7 +42,7 @@ Nothing inside も itself means "neither" — that reading comes from repeated �
 !!! note "What's in scope"
     In 肉も魚も食べない "I eat neither meat nor fish", the final negative predicate reaches both marked objects. It denies eating meat and separately denies eating fish.
 
-!!! warning "English trap"
+!!! warning "English Trap"
     "I eat neither meat nor fish" denies each item. English "I don't eat both meat and fish" can leave open that one of the two is eaten — a narrower claim.
 
     That "not both" reading needs a different Japanese shape: 肉と魚の両方を食べるわけではない "It's not the case that I eat both meat and fish". Do not use 肉も魚も食べない for that claim.
