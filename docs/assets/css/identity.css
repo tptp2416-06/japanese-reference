@@ -36,6 +36,13 @@
   --line-w:      2px;
   --acc:         #F4711F;
   --acc-deep:    #D85E10;
+  /* R10: the accent, SAFE FOR SMALL TEXT. --acc reads 2.73:1 on --card
+     in light — the very figure R65 rejected when it re-solved the ruby,
+     same hue on the same ground. --acc-deep is no rescue at 3.57:1, so
+     this takes R65's already-solved value: the same hue moved in
+     lightness only, 4.51:1. It is NOT `--ruby` reused — a token named
+     for furigana must not quietly become the small-accent colour. */
+  --acc-text:    #C84800;
   --acc-wash:    rgba(244, 113, 31, .09);
   --acc-on:      #FFF9F2;
   --ruby:        #C84800;
@@ -79,6 +86,7 @@ html { zoom: var(--ui-scale); }
   --line-w:      1px;
   --acc:         #F4711F;
   --acc-deep:    #F4711F;
+  --acc-text:    #F4711F;   /* dark needs no rescue: 5.55:1 on --card */
   --acc-wash:    rgba(244, 113, 31, .12);
   --acc-on:      #171613;
   --ruby:        #FB7742;
@@ -1270,7 +1278,7 @@ body,
   font-family: var(--font-px);
   font-size: 10px;
   letter-spacing: .14em;
-  color: var(--acc);
+  color: var(--acc-text);
   margin-bottom: 2px;
   text-transform: uppercase;
 }
