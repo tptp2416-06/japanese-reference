@@ -83,6 +83,8 @@ would sound marked.
     system. That is what lets <span class="cite-jp">は</span> attach after other particles in the scope
     section, and why a topic can be a time or a place as easily as a subject.
 
+<div id="trap-pitfall" class="trap-anchor"></div>
+
 !!! warning "Pitfall"
     When the question word itself is the unknown subject, use <span class="cite-jp">が</span>: <span class="cite-jp">誰が来た？</span>, not
     <span class="cite-jp">誰は来た？</span>.
@@ -220,5 +222,7 @@ relationship, and <span class="cite-jp">は</span> is added on top of the finish
 
 *Compare:* [は — topic, contrast, scope](<../contrasts/wa.md> "topic, contrast, scope")
 {: .compare }
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
 
 <div class="prov">Authored by Claude Opus 5 &bull; 2026-08-22</div>

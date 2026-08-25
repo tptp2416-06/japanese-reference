@@ -58,6 +58,8 @@ The replacement rule describes ordinary modern speech. <span class="cite-jp">を
 
 <span class="cite-jp">も</span> does not switch from "also" to "either" — the predicate's polarity does that; <span class="cite-jp">も</span> itself never changes.
 
+<div id="trap-english-trap" class="trap-anchor"></div>
+
 !!! warning "English trap"
     English changes **too** to **either** in a negative sentence. Japanese keeps <span class="cite-jp">も</span>: <span class="cite-jp">リホも食べない</span> "Riho won't eat it either". Do not replace <span class="cite-jp">も</span> merely because the predicate is negative.
 
@@ -75,7 +77,7 @@ That implied set is part of the effect of <span class="cite-jp">も</span> — n
 
 <span class="cite-jp">私は行く</span> "As for me, I'm going" establishes me as the topic or contrasts me with someone else. <span class="cite-jp">私も行く</span> "I'm going too" instead adds me to an already relevant set.
 
-<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [は](<wa.md> "は — topic, contrast, and scope") <span class="xref-reason">&mdash; establishes a topic or marks contrast, rather than adding to a set</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [は](<wa.md> "は — topic, contrast, and scope") <span class="xref-reason">&mdash; establishes a topic or marks contrast, rather than adding to a set</span></div>
 
 | choice | what it does | example | how it lands |
 |---|---|---|---|
@@ -104,19 +106,21 @@ This page covers additive <span class="cite-jp">も</span> — attaching one ite
 
 <span class="cite-jp">数量</span>＋<span class="cite-jp">も</span> presents an amount as unexpectedly large, not as an added member: <span class="cite-jp">三時間も待った</span> "I waited as much as three hours."
 
-<div class="xref"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [数量＋も](<suuryou-mo.md> "数量＋も — As many or much as the stated quantity, expressing surprise") <span class="xref-reason">&mdash; scalar も marks a large amount, not a set membership</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [数量＋も](<suuryou-mo.md> "数量＋も — As many or much as the stated quantity, expressing surprise") <span class="xref-reason">&mdash; scalar も marks a large amount, not a set membership</span></div>
 
 A question word with a negative predicate forms a separate negative series: <span class="cite-jp">何も食べない</span> "I won't eat anything."
 
-<div class="xref"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [疑問詞＋も〜ない](<gimonshi-mo-nai.md> "疑問詞＋も〜ない — Question word plus も with a negative predicate denies every case") <span class="xref-reason">&mdash; a negative-polarity item, not an additive marker</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [疑問詞＋も〜ない](<gimonshi-mo-nai.md> "疑問詞＋も〜ない — Question word plus も with a negative predicate denies every case") <span class="xref-reason">&mdash; a negative-polarity item, not an additive marker</span></div>
 
 Question word＋<span class="cite-jp">でも</span> instead makes a free-choice expression: <span class="cite-jp">何でも食べる</span> "I'll eat anything."
 
-<div class="xref"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [疑問詞＋でも](<gimonshi-demo.md> "疑問詞＋でも — Anything or whatever") <span class="xref-reason">&mdash; free choice among options, not addition to a set</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [疑問詞＋でも](<gimonshi-demo.md> "疑問詞＋でも — Anything or whatever") <span class="xref-reason">&mdash; free choice among options, not addition to a set</span></div>
 
 Repeating <span class="cite-jp">も</span> on each of two or more items explicitly includes every one of them.
 
-<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [AもBも](<a-mo-b-mo.md> "AもBも — Both A and B") <span class="xref-reason">&mdash; the natural extension of this page&#x27;s pattern</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [AもBも](<a-mo-b-mo.md> "AもBも — Both A and B") <span class="xref-reason">&mdash; the natural extension of this page&#x27;s pattern</span></div>
 
 
-<div class="prov">Authored by Originally authored by GPT-5.6 Sol - Revisions applied by Claude Sonnet 5. &bull; 2026-08-24</div>
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English trap</a></li></ul></div>
+
+<div class="prov">Authored by GPT-5.6 Sol - Revisions applied by Claude Sonnet 5 &bull; 2026-08-24</div>

@@ -28,6 +28,8 @@ Looks or seems likely based on direct visual evidence. Attaches to the verb stem
   is exactly what the form signals.
 - **Irregular** — <span class="cite-jp">いい</span> → <span class="cite-jp">よさそう</span>; <span class="cite-jp">ない</span> → <span class="cite-jp">なさそう</span>.
 
+<div id="trap-pitfall" class="trap-anchor"></div>
+
 !!! warning "Pitfall"
     Not for things you've confirmed. Once you've tasted it, it's <span class="cite-jp">美味しい</span>,
     not <span class="cite-jp">美味しそう</span> — keeping <span class="cite-jp">そう</span> where you have direct knowledge reads as
@@ -118,5 +120,7 @@ Does not look or seem X; negative appearance judgment
 - **The adjective-side negative** — <span class="cite-jp">美味しくなさそう</span> "doesn't look tasty",
   <span class="cite-jp">問題なさそう</span> "looks like no problem".
 - Compare <span class="cite-jp">そうにない</span> above for denying that an event looks likely.
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
 
 <div class="prov">Authored by Claude Fable 5 &bull; 2026-08-20</div>

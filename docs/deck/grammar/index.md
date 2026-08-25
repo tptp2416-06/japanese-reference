@@ -10,13 +10,13 @@ easiest of its members').
 <div class="recent-card" markdown="0">
 <p class="recent-eyebrow">RECENTLY UPDATED</p>
 <ul class="recent-list">
-<li><span class="recent-date">2026-08-23</span><span class="card-tag lv">NEW</span><a href="a-mo-b-mo/">AもBも — Both A and B</a></li>
-<li><span class="recent-date">2026-08-23</span><span class="card-tag">UPDATED</span><a href="transitivity/">Transitivity — transitive and intransitive verb pairs</a></li>
+<li><span class="recent-date">2026-08-24</span><span class="card-tag">UPDATED</span><a href="a-mo-b-mo/">AもBも — Both A and B</a></li>
+<li><span class="recent-date">2026-08-24</span><span class="card-tag">UPDATED</span><a href="transitivity/">Transitivity — transitive and intransitive verb pairs</a></li>
+<li><span class="recent-date">2026-08-24</span><span class="card-tag">UPDATED</span><a href="nai-de-kudasai/">ないでください — Please do not do</a></li>
+<li><span class="recent-date">2026-08-24</span><span class="card-tag">UPDATED</span><a href="mo/">も — Also or too</a></li>
 <li><span class="recent-date">2026-08-23</span><span class="card-tag">UPDATED</span><a href="atto-iu-ma-ni/">あっという間に — In what feels like no time</a></li>
 <li><span class="recent-date">2026-08-23</span><span class="card-tag lv">NEW</span><a href="kara-made/">から〜まで — Marks a range from its starting point through its endpoint</a></li>
-<li><span class="recent-date">2026-08-23</span><span class="card-tag lv">NEW</span><a href="nai-de-kudasai/">ないでください — Please do not do</a></li>
 <li><span class="recent-date">2026-08-23</span><span class="card-tag">UPDATED</span><a href="nakereba-naranai/">なければならない — must, have to, and don&#x27;t have to</a></li>
-<li><span class="recent-date">2026-08-23</span><span class="card-tag lv">NEW</span><a href="mo/">も — Also or too</a></li>
 <li><span class="recent-date">2026-08-23</span><span class="card-tag lv">NEW</span><a href="mou-mada/">もう・まだ — already, still, and not yet</a></li>
 </ul>
 </div>

@@ -79,7 +79,7 @@ With many change-of-state intransitives, <span class="cite-jp">ている</span> 
 
 <div class="eg-contrast"><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>窓<rt>まど</rt></ruby>が<ruby>開<rt>あ</rt></ruby>いている</div><div class="ex-en">The window is open.</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>が<ruby>消<rt>き</rt></ruby>えている</div><div class="ex-en">The light is off.</div></div></div>
 
-<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [ている](<te-iru.md> "ている — progressive, resultant state, habit, and the てる contractions") <span class="xref-reason">&mdash; the larger system this resulting-state reading belongs to</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [ている](<te-iru.md> "ている — progressive, resultant state, habit, and the てる contractions") <span class="xref-reason">&mdash; the larger system this resulting-state reading belongs to</span></div>
 
 This is a fact about the lexical behavior of many change-of-state verbs, not about intransitives as a class. With an activity verb such as <span class="cite-jp">走る</span>, <span class="cite-jp">ている</span> instead presents the action in progress: <span class="cite-jp">子供が走っている</span> "a child is running".
 
@@ -89,14 +89,16 @@ This is a fact about the lexical behavior of many change-of-state verbs, not abo
 
 The first simply presents the current state. The second additionally presents that state as intentionally created.
 
-<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [てある](<te-aru.md> "てある — A deliberately created state remains") <span class="xref-reason">&mdash; the deliberate-preparation reading this pair contrasts with plain ている</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [てある](<te-aru.md> "てある — A deliberately created state remains") <span class="xref-reason">&mdash; the deliberate-preparation reading this pair contrasts with plain ている</span></div>
+
+<div id="trap-english-trap" class="trap-anchor"></div>
 
 !!! warning "English trap"
     Do not translate an English passive with a Japanese passive by reflex. "The door was opened" can often come out as <span class="cite-jp">ドアが開いた</span> "the door opened" when the point is simply the event and the doer does not matter.
 
     The structures are still different. An eventive English passive keeps an opener in its grammar even when unnamed; <span class="cite-jp">ドアが開いた</span> has no such role. <span class="cite-jp">ドアが開けられた</span> "the door was opened" is a Japanese passive and keeps the opening action in view.
 
-<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [られる](<rareru.md> "られる・させる — passive, causative, and causative-passive") <span class="xref-reason">&mdash; choose the passive when the action, its agent, or the affected perspective matters</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [られる](<rareru.md> "られる・させる — passive, causative, and causative-passive") <span class="xref-reason">&mdash; choose the passive when the action, its agent, or the affected perspective matters</span></div>
 
 
 ## Transitive { #transitive }
@@ -136,7 +138,7 @@ Speech often omits the very particles that display the contrast most clearly. <s
 
 <span class="cite-jp">は</span> can replace <span class="cite-jp">が</span> or bring an object into a topic or contrast frame without changing the verb's transitivity. <span class="cite-jp">ドアは開いた</span> "the door did open" still uses intransitive <span class="cite-jp">開く</span>.
 
-<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [は](<wa.md> "は — topic, contrast, and scope") <span class="xref-reason">&mdash; how は marks topic and contrast without touching transitivity</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [は](<wa.md> "は — topic, contrast, and scope") <span class="xref-reason">&mdash; how は marks topic and contrast without touching transitivity</span></div>
 
 A transitive object can likewise be topicalized: <span class="cite-jp">この本はもう読んだ</span> "as for this book, I've already read it".
 
@@ -157,7 +159,7 @@ Some verbs have no lexical partner at all — <span class="cite-jp">走る</span
 
 Grammatical forms such as the causative <span class="cite-jp">走らせる</span> "make someone run" and the passive <span class="cite-jp">食べられる</span> "be eaten" are not lexical partners; they belong to a separate system.
 
-<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [られる](<rareru.md> "られる・させる — passive, causative, and causative-passive") <span class="xref-reason">&mdash; the causative and passive machinery that stands apart from lexical transitivity pairs</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [られる](<rareru.md> "られる・させる — passive, causative, and causative-passive") <span class="xref-reason">&mdash; the causative and passive machinery that stands apart from lexical transitivity pairs</span></div>
 
 ??? note "Why ～<span class="cite-jp">える</span> can't tell you which side you're holding"
     <span class="cite-jp">閉める</span>, <span class="cite-jp">始める</span> and <span class="cite-jp">開ける</span> are transitive members of their pairs, and the tempting conclusion is that ～<span class="cite-jp">える</span> marks the transitive member.
@@ -168,4 +170,6 @@ Grammatical forms such as the causative <span class="cite-jp">走らせる</span
 
     Store the scene rather than the gloss: <span class="cite-jp">電気がつく</span> "the light comes on" against <span class="cite-jp">電気をつける</span> "turn the light on" fixes the verb, its side of the event and its particle in one memory.
 
-<div class="prov">Authored by Originally authored by GPT-5.6 Sol - Revisions applied by Claude Sonnet 5. &bull; 2026-08-24</div>
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English trap</a></li></ul></div>
+
+<div class="prov">Authored by GPT-5.6 Sol - Revisions applied by Claude Sonnet 5 &bull; 2026-08-24</div>

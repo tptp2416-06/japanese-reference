@@ -90,6 +90,8 @@ through nothing at all, because the situation has already made it obvious.
   honorific; <span class="cite-jp">食べれる</span> can only be potential. Dropping <span class="cite-jp">ら</span> removes an ambiguity the
   standard form cannot, which may be one reason it spread.
 
+<div id="trap-pitfall" class="trap-anchor"></div>
+
 !!! warning "Pitfall"
     <span class="cite-jp">見える</span> and <span class="cite-jp">聞こえる</span> describe what is visible or audible to someone — often
     without any deliberate act of looking or listening.
@@ -227,5 +229,7 @@ announcements, instructions.
   possibility, while <span class="cite-jp">見られる</span> can be potential, passive or honorific depending
   on context. In writing, where <span class="cite-jp">ら抜き</span> is normally avoided, that is a real
   reason to choose it.
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
 
 <div class="prov">Authored by Claude Opus 5 &bull; 2026-08-22</div>

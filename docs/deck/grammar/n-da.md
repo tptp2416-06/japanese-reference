@@ -63,6 +63,8 @@ makes it clear.
 register realization, plain acknowledgment, surprise or mild interest; what
 those readings share is that the information has been received.
 
+<div id="trap-pitfall" class="trap-anchor"></div>
+
 !!! warning "Pitfall"
     <span class="cite-jp">んだ</span> normally signals a statement is relevant as explanation, context
     or realization — connected to the situation, not standing alone. On a
@@ -205,5 +207,7 @@ Asks for explanation with contextual interest; polite explanatory question
     is unclear — though not a universal substitute, since it presupposes
     context and can itself sound probing where plain <span class="cite-jp">ですか</span> would not.
     Reach for it when the situation actually prompted the question.
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
 
 <div class="prov">Authored by Claude Sonnet 5 &bull; 2026-08-22</div>

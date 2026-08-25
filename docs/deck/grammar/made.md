@@ -45,6 +45,8 @@ As far as or up to an extent.
   after it (<span class="cite-jp">ここまでは分かる</span> "I follow it this far"). The base reading doesn't
   change; the added particle does its usual work.
 
+<div id="trap-pitfall" class="trap-anchor"></div>
+
 !!! warning "Pitfall"
     With quantities, <span class="cite-jp">まで</span> can mark an upper limit rather than an estimate:
     10<span class="cite-jp">人まで</span> means up to ten and no more. For "about ten people" you want
@@ -80,5 +82,7 @@ Even someone or something surprising; extends inclusion to an unexpected extreme
 - **It carries feeling, and that can misfire** — the surprise in <span class="cite-jp">まで</span> about a
   person reads as warmth or as dismay depending on who is being included, so
   <span class="cite-jp">まで</span> about a person can land as "even them".
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
 
 <div class="prov">Authored by Claude Sonnet 5 &bull; 2026-08-22</div>

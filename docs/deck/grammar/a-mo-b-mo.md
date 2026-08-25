@@ -11,7 +11,7 @@
 
 One <span class="cite-jp">も</span> adds an item to a set. Put <span class="cite-jp">も</span> on each of two named items and both are explicitly included: <span class="cite-jp">犬も猫も好き</span> "I like both dogs and cats".
 
-<div class="xref"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [も](<mo.md> "も — Also or too") <span class="xref-reason">&mdash; one も adds one item to a relevant set; this pattern repeats that operation</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [も](<mo.md> "も — Also or too") <span class="xref-reason">&mdash; one も adds one item to a relevant set; this pattern repeats that operation</span></div>
 
 The doubled marking gives the two items equal footing. Compared with a plain <span class="cite-jp">と</span> list, it often carries a small "this one too, and that one too" emphasis.
 
@@ -41,6 +41,8 @@ Nothing inside <span class="cite-jp">も</span> itself means "neither" — that 
 
 !!! note "What's in scope"
     In <span class="cite-jp">肉も魚も食べない</span> "I eat neither meat nor fish", the final negative predicate reaches both marked objects. It denies eating meat and separately denies eating fish.
+
+<div id="trap-english-trap" class="trap-anchor"></div>
 
 !!! warning "English trap"
     "I eat neither meat nor fish" denies each item. English "I don't eat both meat and fish" can leave open that one of the two is eaten — a narrower claim.
@@ -76,9 +78,11 @@ A form or notice is more likely to spell out the full predicate, as in <span cla
 
 Use <span class="cite-jp">と</span> for a plain coordinated list, and repeated <span class="cite-jp">も</span> when the separate inclusion of every named member matters.
 
-<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [と](<to.md> "と — the conditional, and the particle for listing and accompaniment") <span class="xref-reason">&mdash; plainly coordinates a list, without the repeated-inclusion effect</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [と](<to.md> "と — the conditional, and the particle for listing and accompaniment") <span class="xref-reason">&mdash; plainly coordinates a list, without the repeated-inclusion effect</span></div>
 
-<div class="xref"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [疑問詞＋も〜ない](<gimonshi-mo-nai.md> "疑問詞＋も〜ない — Question word plus も with a negative predicate denies every case") <span class="xref-reason">&mdash; looks similar on the surface but forms expressions such as 何もない &quot;there is nothing&quot;, not an explicit AもBも list</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [疑問詞＋も〜ない](<gimonshi-mo-nai.md> "疑問詞＋も〜ない — Question word plus も with a negative predicate denies every case") <span class="xref-reason">&mdash; looks similar on the surface but forms expressions such as 何もない &quot;there is nothing&quot;, not an explicit AもBも list</span></div>
 
 
-<div class="prov">Authored by Originally authored by GPT-5.6 Sol - Revisions applied by Claude Sonnet 5. &bull; 2026-08-24</div>
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English trap</a></li></ul></div>
+
+<div class="prov">Authored by GPT-5.6 Sol - Revisions applied by Claude Sonnet 5 &bull; 2026-08-24</div>

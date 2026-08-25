@@ -409,6 +409,89 @@
     }
   }
 
+  /* ------------------------------- the hierarchical ToC (§5d, `#258`)
+
+     WHAT MATERIAL ALREADY DOES, AND IS NOT REDONE HERE: it builds the
+     nesting (a `##` row whose `###` rows sit in a child <nav>), and with
+     `toc.follow` it tracks the current anchor on scroll and marks that link
+     `md-nav__link--active`. Re-deriving "which heading am I in" would be a
+     second definition of the one thing the ToC has to get right, and the two
+     copies would disagree at exactly the moment a reader is scrolling.
+
+     WHAT IS MISSING, AND IS ALL THIS ADDS: every section's `###` list is
+     open at once, which is the flat wall §5d refuses. So the sections that
+     are not current get collapsed. Nothing else.
+
+     JS OFF SHOWS EVERYTHING (PRESENTATION-SPEC §8: with JS off nothing is
+     hidden). The collapse lives entirely behind `html.toc-collapsible`, a
+     class only this function adds — so a reader without JavaScript gets the
+     full list rather than a ToC that is permanently shut.
+
+     There are TWO ToCs in the page: Material renders one inside the primary
+     nav for the drawer and one in the desktop rail. They are driven from a
+     single computed section index so the two can never disagree. */
+
+  function tocSections(toc) {
+    return Array.prototype.filter.call(toc.children, function (el) {
+      return el.classList.contains("md-nav__item");
+    });
+  }
+
+  function syncToc(tocs) {
+    /* Which `##` section is current, as an INDEX — the two ToCs hold the
+       same headings in the same order, and Material may only be tracking
+       one of them. */
+    var current = -1;
+    tocs.forEach(function (toc) {
+      if (current >= 0) { return; }
+      var active = toc.querySelector(".md-nav__link--active");
+      if (!active) { return; }
+      tocSections(toc).forEach(function (li, i) {
+        if (li.contains(active)) { current = i; }
+      });
+    });
+    /* Nothing active yet — the top of the page, before the first heading has
+       been passed. Expanding the first section is the honest default: a ToC
+       that opens fully shut reads as broken, and the reader is about to be
+       in section one anyway. */
+    if (current < 0) { current = 0; }
+    tocs.forEach(function (toc) {
+      tocSections(toc).forEach(function (li, i) {
+        /* Written only when it CHANGES. The MutationObserver below watches
+           this same subtree for class changes, and an unconditional write
+           would wake it on every pass. */
+        if (li.classList.contains("toc-current") !== (i === current)) {
+          li.classList.toggle("toc-current", i === current);
+        }
+      });
+    });
+  }
+
+  function hierarchicalToc() {
+    var tocs = Array.prototype.slice.call(
+      document.querySelectorAll("[data-md-component=toc]"));
+    if (!tocs.length) { return; }
+    /* Nothing to collapse: no `###` anywhere, or a single `##` section whose
+       collapse would hide the entire ToC behind its own heading. */
+    var hasNesting = tocs.some(function (toc) {
+      var secs = tocSections(toc);
+      return secs.length > 1 && secs.some(function (li) {
+        return li.querySelector(".md-nav");
+      });
+    });
+    if (!hasNesting) { return; }
+    document.documentElement.classList.add("toc-collapsible");
+    syncToc(tocs);
+    /* Ride Material's own updates instead of adding a second scroll
+       listener — one source of truth for the current heading. */
+    var obs = new MutationObserver(function () { syncToc(tocs); });
+    tocs.forEach(function (toc) {
+      obs.observe(toc, {
+        subtree: true, attributes: true, attributeFilter: ["class"]
+      });
+    });
+  }
+
   /* --------------------------------------------------------- init */
 
   function init() {
@@ -426,6 +509,7 @@
       });
 
     renderCount();
+    hierarchicalToc();
     syncFavicon();
     new MutationObserver(syncFavicon).observe(document.body, {
       attributes: true, attributeFilter: ["data-md-color-scheme"]

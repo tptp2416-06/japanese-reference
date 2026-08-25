@@ -34,12 +34,14 @@ Please do not do.
 
 ### Why not <span class="cite-jp">なくてください</span>?
 
+<div id="trap-pitfall" class="trap-anchor"></div>
+
 !!! warning "Pitfall"
     Use <span class="cite-jp">食べないでください</span> "please do not eat", not × <span class="cite-jp">食べなくてください</span>. Here <span class="cite-jp">ないで</span> is the linker that presents **not doing the action** to <span class="cite-jp">ください</span>.
 
     <span class="cite-jp">なくて</span> belongs to a different kind of clause connection and often gives a circumstance or cause, as in <span class="cite-jp">朝ご飯を食べなくてお腹がすいた</span> "I was hungry because I didn't eat breakfast"; it cannot replace request-forming <span class="cite-jp">ないで</span>.
 
-<div class="xref"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [ないで](<nai-de.md> "ないで — Without doing one action, or while refraining from it") <span class="xref-reason">&mdash; the linker itself, and why ないで is the connector this form needs</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [ないで](<nai-de.md> "ないで — Without doing one action, or while refraining from it") <span class="xref-reason">&mdash; the linker itself, and why ないで is the connector this form needs</span></div>
 
 ### Request, favour, rule, or command?
 
@@ -61,7 +63,7 @@ Politeness level alone does not make these options interchangeable. Within each 
 
 The positive permission question <span class="cite-jp">開けてもいいですか</span> "may I open it?" is asked with different grammar; a negative request can still answer it without becoming a permission form itself.
 
-<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [てもいい](<te-mo-ii.md> "てもいい — asking and giving permission") <span class="xref-reason">&mdash; the positive permission question this construction can answer without becoming one itself</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [てもいい](<te-mo-ii.md> "てもいい — asking and giving permission") <span class="xref-reason">&mdash; the positive permission question this construction can answer without becoming one itself</span></div>
 
 <div class="dlg"><div class="dlg-note">B uses a direct polite request to refuse the requested action without sounding like a shouted command.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">この<ruby>箱<rt>はこ</rt></ruby>、<ruby>開<rt>あ</rt></ruby>けてもいいですか。</div><div class="ex-en">May I open this box?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">すみません、<ruby>開<rt>あ</rt></ruby>けないでください。</div><div class="ex-en">I&#x27;m sorry, please don&#x27;t open it.</div></div></div></div>
 
@@ -93,13 +95,15 @@ Clipped public wording can abandon the request frame entirely: <span class="cite
 
 Three related forms sit just outside this page's scope: the affirmative counterpart, and the formal request frame.
 
-<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [てください](<te-kudasai.md> "てください — Please do") <span class="xref-reason">&mdash; the direct affirmative counterpart: please do</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [てください](<te-kudasai.md> "てください — Please do") <span class="xref-reason">&mdash; the direct affirmative counterpart: please do</span></div>
 
-<div class="xref"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [お〜ください](<o-kudasai.md> "お〜ください — Please do") <span class="xref-reason">&mdash; the more formal counterpart to this page&#x27;s polite request</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [お〜ください](<o-kudasai.md> "お〜ください — Please do") <span class="xref-reason">&mdash; the more formal counterpart to this page&#x27;s polite request</span></div>
 
 A stated rule is a different social move from a personal request.
 
-<div class="xref"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [てはいけない](<te-wa-ikenai.md> "てはいけない — must not, with the ちゃだめ contractions") <span class="xref-reason">&mdash; states that an action is not permitted, a rule rather than a personal request</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [てはいけない](<te-wa-ikenai.md> "てはいけない — must not, with the ちゃだめ contractions") <span class="xref-reason">&mdash; states that an action is not permitted, a rule rather than a personal request</span></div>
 
 
-<div class="prov">Authored by Originally authored by GPT-5.6 Sol - Revisions applied by Claude Sonnet 5. &bull; 2026-08-24</div>
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
+
+<div class="prov">Authored by GPT-5.6 Sol - Revisions applied by Claude Sonnet 5 &bull; 2026-08-24</div>

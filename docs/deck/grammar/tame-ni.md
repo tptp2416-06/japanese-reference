@@ -25,6 +25,8 @@ In order to achieve a goal; marks deliberate purpose
   this rarely causes trouble.
 - **Casual clip** — the <span class="cite-jp">に</span> often drops: <span class="cite-jp">何のため？</span> — "what for?"
 
+<div id="trap-pitfall" class="trap-anchor"></div>
+
 !!! warning "Pitfall"
     <span class="cite-jp">ために</span> wants a goal the subject can pursue directly. For outcomes you
     can't simply will — not forgetting, becoming able to — Japanese reaches
@@ -40,5 +42,7 @@ In order to achieve a goal; marks deliberate purpose
 
 *Compare:* [ために・ように・のに・Vstem＋に — the purpose family](<../contrasts/tame-ni-you-ni-noni-vstem-ni.md> "the purpose family")
 {: .compare }
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
 
 <div class="prov">Authored by Claude Fable 5 &bull; 2026-08-20</div>
