@@ -30,7 +30,7 @@
   --card-2:      #F5F2E9;
   --ink:         #26231C;
   --ink-2:       #57503F;
-  --muted:       #8A8272;
+  --muted:       #6D665A;
   --faint:       #ABA492;
   --line:        #26231C;
   --line-w:      2px;
@@ -80,7 +80,7 @@ html { zoom: var(--ui-scale); }
   --card-2:      #2A2820;
   --ink:         #EDEAE0;
   --ink-2:       #C4BEB0;
-  --muted:       #948D7D;
+  --muted:       #999383;
   --faint:       #6B6557;
   --line:        #3B392F;
   --line-w:      1px;
@@ -665,7 +665,7 @@ body,
   margin-left: auto;
   font-family: var(--font-px);
   font-size: 8px;
-  color: var(--faint);
+  color: var(--muted);
   padding-left: 8px;
   flex: none;
 }
@@ -953,7 +953,7 @@ body,
 }
 
 /* the family block, and the Compare line */
-.md-typeset p.fam { font-size: 13.5px; color: var(--faint); margin: 0 0 12px; }
+.md-typeset p.fam { font-size: 13.5px; color: var(--muted); margin: 0 0 12px; }
 .md-typeset p.fam strong { font-weight: 700; color: var(--muted); }
 .md-typeset p.compare { font-size: 14px; margin: 2px 0 10px; }
 .md-typeset p.compare em {
@@ -1180,7 +1180,7 @@ body,
 }
 .md-typeset .ex-jp .pat { color: var(--acc); font-weight: 700; }
 .md-typeset .ex-en { font-size: 15px; color: var(--muted); margin-top: 2px; line-height: 1.6; }
-.md-typeset .ex-en .lit { color: var(--faint); }
+.md-typeset .ex-en .lit { color: var(--muted); }
 .md-typeset .ex-note { font-size: 14.5px; color: var(--ink-2); margin-top: 6px; }
 
 /* 分解 BREAKDOWN — a <details>, so it opens with JS off and the print sheet
@@ -1342,7 +1342,7 @@ body,
   font-family: var(--font-px);
   font-size: 9px;
   letter-spacing: .1em;
-  color: var(--faint);
+  color: var(--muted);
   flex: 0 0 14px;
   text-align: left;
   /* the pixel face sits high against a 2.1 line-height JP line; nudge it
@@ -1380,7 +1380,7 @@ body,
   font-size: 8.5px;
   letter-spacing: .08em;
   line-height: 1.9;
-  color: var(--faint);
+  color: var(--muted);
   margin: 32px 0 0;
   padding-top: 10px;
   border-top: 1px dotted var(--line);
@@ -1887,3 +1887,38 @@ html.toc-collapsible
    rather than a legibility fix. Only its size moved. ⚠ It measures 2.60:1 in
    LIGHT mode and is on the record as unresolved — R65 moved the ruby colour
    on a 2.73:1 reading, so there is precedent for caring. */
+
+/* 9.10 · THE QUIET-TEXT TIER, RE-SOLVED (Tim, 2026-08-25, R11).
+   R9 and R10 fixed what Tim could see. Running the same measurement over
+   everything else found EIGHT more rules under the 4.5:1 floor, the worst at
+   2.12:1, and among them `.ex-en` — the English gloss under every example on
+   the site — at 3.58:1 in light.
+
+   TWO MOVES, and the split matters:
+
+   1. --muted's VALUE is lifted, hue and saturation held, LIGHTNESS ONLY
+      (R65's method): #8A8272 -> #6D665A light, #948D7D -> #999383 dark. It
+      now measures 4.82-5.91:1 on ALL THREE grounds in both modes, where it
+      had been failing on every light ground. --muted is a text tier and
+      almost nothing else — 25 colour uses and one dotted underline — so the
+      value is the right lever and no rule needed touching.
+
+      ⚠ THE WORST LIGHT GROUND IS --bg, NOT --card. --bg is the DARKEST of the
+      three light grounds, so dark text has the least contrast against it —
+      the first solve targeted --card, passed, and still left `.prov` and
+      `p.fam` failing in the page flow where they actually live.
+
+   2. --faint's five TEXT rules repoint to --muted (.deck-lv, p.fam,
+      .ex-en .lit, .dlg-who, .prov). THE TOKEN ITSELF DOES NOT MOVE: six
+      borders, the sidebar scrollbar and the search placeholder still use it,
+      and darkening those would be a visual change to separators that nobody
+      asked for. --faint is now a DECORATION colour and no longer reading
+      matter, which is the honest description of what it was already doing.
+
+   .ex-en .lit LOSES ITS OWN SHADE and that is deliberate: it was --faint
+   against .ex-en's --muted, a distinction doing redundant work, because the
+   line already opens with a literal "lit." label. The words carry it; the
+   colour was only making it hard to read.
+
+   Hierarchy held and asserted: ink > ink-2 > muted > faint, monotonic in
+   luminance in BOTH modes, so nothing overtook anything. */
