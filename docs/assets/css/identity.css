@@ -1173,7 +1173,7 @@ body,
 .md-typeset .ex-jp .pat { color: var(--acc); font-weight: 700; }
 .md-typeset .ex-en { font-size: 15px; color: var(--muted); margin-top: 2px; line-height: 1.6; }
 .md-typeset .ex-en .lit { color: var(--faint); }
-.md-typeset .ex-note { font-size: 13.5px; color: var(--faint); margin-top: 6px; }
+.md-typeset .ex-note { font-size: 14.5px; color: var(--ink-2); margin-top: 6px; }
 
 /* 分解 BREAKDOWN — a <details>, so it opens with JS off and the print sheet
    opens it with one rule. Styled as the mock's button. */
@@ -1236,9 +1236,9 @@ body,
 .md-typeset .bd-seg.hit .j { color: var(--acc); font-weight: 700; }
 .md-typeset .bd-key {
   font-family: var(--font-px);
-  font-size: 8.5px;
+  font-size: 10px;
   letter-spacing: .1em;
-  color: var(--faint);
+  color: var(--ink-2);
   margin-top: 9px;
   text-transform: uppercase;
 }
@@ -1268,7 +1268,7 @@ body,
 .md-typeset .reg > div + div { border-left: 1px solid var(--line); }
 .md-typeset .reg .rlbl {
   font-family: var(--font-px);
-  font-size: 8.5px;
+  font-size: 10px;
   letter-spacing: .14em;
   color: var(--acc);
   margin-bottom: 2px;
@@ -1308,8 +1308,8 @@ body,
 
 /* ABOVE the turns: it frames the exchange, so it reads first. */
 .md-typeset .dlg-note {
-  font-size: 13.5px;
-  color: var(--faint);
+  font-size: 14.5px;
+  color: var(--ink-2);
   margin: 0 0 9px;
   padding-bottom: 9px;
   border-bottom: 1px dotted var(--line);
@@ -1417,9 +1417,9 @@ body,
 .md-typeset .eg-member + .eg-member { border-left: 1px solid var(--line); }
 .md-typeset .eg-label {
   font-family: var(--font-px);
-  font-size: 8.5px;
+  font-size: 10px;
   letter-spacing: .1em;
-  color: var(--faint);
+  color: var(--ink-2);
   text-transform: uppercase;
   margin-bottom: 4px;
 }
@@ -1850,3 +1850,32 @@ html.toc-collapsible
 [data-md-component="toc"] > .md-nav__item.toc-current > .md-nav__link {
   color: var(--acc);
 }
+
+/* 9.9 · THE SMALL-LABEL LEGIBILITY PASS (Tim, 2026-08-24, R9).
+   Reported from the page, not from the code: the CHANGE / CAUSE headers on a
+   contrast pair "aren't very legible". MEASURED, and the eye was right —
+   --faint carried every one of these labels at 2.22–2.78:1 against its card,
+   in BOTH modes, against the 4.5:1 floor R65 set for small text when it
+   re-solved the ruby pair for exactly this reason.
+
+   The fix is --ink-2, which is the whole point of using the token pair rather
+   than picking two colours: it is DARKER in light mode and LIGHTER in dark
+   mode, which is what Tim asked for in each, and it is defined in both modes
+   (§2: never a colour defined in only one). It measures 7.15–8.71:1.
+   --muted was tried first and rejected on the numbers: 3.40:1 in light mode
+   still fails, and light mode is where the complaint started.
+
+   Sizes: the three pixel labels go 8.5px -> 10px. R66 had already raised the
+   tab bar and the sidebar captions off 8.5px as "scanned badly"; these three
+   were what survived that pass, and Silkscreen fills its own counters at 8.5.
+
+   WHY .ex-note AND .dlg-note MOVED TOO, when only the dialogue one was
+   reported: they are the same declaration twice — 13.5px --faint on a note
+   inside a card — and R9 is explicitly the ruling that a label found once
+   should not be reported again a fortnight later. 13.5px -> 14.5px.
+
+   .reg .rlbl KEEPS ITS COLOUR. It is --acc, not --faint, so it is a different
+   decision: accent is the identity, and re-colouring it is a spec question
+   rather than a legibility fix. Only its size moved. ⚠ It measures 2.60:1 in
+   LIGHT mode and is on the record as unresolved — R65 moved the ruby colour
+   on a 2.73:1 reading, so there is precedent for caring. */
