@@ -2,6 +2,21 @@
      Prose belongs in content/deck/grammar/tara.md -->
 # たら — the tara-conditional: condition, discovery, time, and suggestion
 
+!!! tip "At a glance"
+
+    <span class="cite-jp">たら</span> turns the past-tense shape of a verb, adjective or noun into a clause meaning roughly "if" or "when" — the same shape covers a hypothetical condition, a habitual sequence, a one-off discovery, and, with the consequence dropped, a casual suggestion.
+    Context — mainly the tense of what follows — decides which one you're hearing. Very little restricts what kind of main clause a <span class="cite-jp">たら</span>-clause can take, including a request or invitation, which is part of why it's the conditional Japanese reaches for most in conversation.
+
+<span class="cite-jp">たら</span> turns the past-tense shape of a verb, adjective or noun into a clause that sets something else up, rather than reporting that the action is already finished.
+
+<span class="cite-jp">電気をつけたら</span> is built on <span class="cite-jp">つけた</span>, the ordinary past tense of <span class="cite-jp">つける</span> "turn on," but it points forward to whatever comes next instead of reporting that the light is already on.
+
+What comes next decides what that pointing-forward was for. <span class="cite-jp">電気をつけたら、部屋が明るくなる</span> predicts what happens once the switch is flipped: the room gets bright, and it hasn't yet.
+
+<span class="cite-jp">電気をつけたら、ゴキブリが一匹逃げていった</span> instead reports what the speaker found the moment the light actually went on: a cockroach, already scurrying away.
+
+The shape itself never changes. Only the tense and content of what follows <span class="cite-jp">たら</span> decides whether the sentence is a condition, a routine, a discovery, or — with nothing after it at all — a suggestion left for the listener to finish.
+
 **See also:** [あっという間に](<atto-iu-ma-ni.md> "あっという間に — In what feels like no time") — 気づいたら is the neighbouring frame — the change noticed after the fact rather than watched
 {: .seealso }
 
@@ -14,6 +29,52 @@ If or when a condition is met, the following result applies
 
 **Builds on:** [過去形・辞書形 (plain statement)](<kakokei-jishokei.md#plain-statement> "States past or nonpast facts plainly, without polite marking")
 {: .fam }
+
+**Form:** `V-た + ら` · `Adj-かった + ら` · `Na-adj/N + だったら`
+{: .form }
+
+- **A hypothesis about something that hasn't happened yet** — <span class="cite-jp">電気をつけたら、部屋が明るくなる</span> simply predicts that the room will get bright once the light goes on, nothing more.
+- **Any predicate type attaches the same way** — an <span class="cite-jp">い</span>-adjective or <span class="cite-jp">な</span>-adjective/noun takes <span class="cite-jp">だった</span> before <span class="cite-jp">ら</span>: <span class="cite-jp">忙しかったら</span> "if I'm busy," <span class="cite-jp">静かだったら</span> "if it's quiet," <span class="cite-jp">学生だったら</span> "if they're a student."
+- **The main clause can be almost anything** — a statement, a question, a request, an invitation or a command all follow comfortably.
+- **Its whole length sits inside the condition's scope** — however long the main clause runs, all of it is what the <span class="cite-jp">たら</span>-clause is conditioning.
+- **Negation just flips which condition is true** — <span class="cite-jp">宿題が終わらなかったら、今日は遊びに行けない</span> states that unfinished homework blocks going out today, exactly as directly as the affirmative version would state the opposite.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>宝<rt>たから</rt></ruby>くじが<span class="pat"><ruby>当<rt>あ</rt></ruby>たったら、</span><ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞<rt>や</rt></ruby>める。</div><div class="ex-en">&ldquo;If I win the lottery, I&#x27;ll quit my job.&rdquo;</div><div class="ex-note">たら doesn&#x27;t require the outcome to be a plain fact — a personal decision fits the main clause just as easily as a prediction would.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>宝<rt>たから</rt></ruby>くじが</span><span class="g">the lottery</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>当<rt>あ</rt></ruby>たったら、</span><span class="g">if it hits</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>会社<rt>かいしゃ</rt></ruby>を</span><span class="g">the company</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>辞<rt>や</rt></ruby>める</span><span class="g">I&#x27;ll quit</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-たら + a decision as the main clause</span></div></div></details></div>
+
+### Any main clause is allowed
+
+Very little restricts what kind of sentence follows a <span class="cite-jp">たら</span>-clause. A statement, a question, a request, an invitation and a command all follow it without sounding forced.
+
+A request follows just as naturally: <span class="cite-jp">忙しかったら、代わりに行ってくれない？</span> simply asks — if you're busy, could you go in my place instead?
+
+That's not true of every conditional. <span class="cite-jp">と</span> is not a natural choice when the main clause is a request, a suggestion or a command — <span class="cite-jp">たら</span> and <span class="cite-jp">なら</span> both handle that comfortably.
+
+<span class="cite-jp">と</span> still works well for its own role: <span class="cite-jp">会議が始まると、静かになる</span> simply reports that the room goes quiet once the meeting starts, nothing is being asked of anyone.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [と (conditional)](<to.md#conditional> "と — the conditional, and the particle for listing and accompaniment") <span class="xref-reason">&mdash; と resists a request or invitation as its main clause</span></div>
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [ば (conditional)](<ba.md#conditional> "ば — the ba-conditional, ばいい and ばよかった") <span class="xref-reason">&mdash; ば leans the same way と does for that kind of main clause</span></div>
+
+<div class="dlg"><div class="dlg-note">A&#x27;s invitation only becomes natural once B has confirmed there&#x27;s nothing else going on.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>週末<rt>しゅうまつ</rt></ruby>、<ruby>何<rt>なに</rt></ruby>か<ruby>予定<rt>よてい</rt></ruby>ある？</div><div class="ex-en">Do you have any plans this weekend?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ううん、<ruby>特<rt>とく</rt></ruby>にないよ。</div><div class="ex-en">No, not really.</div></div></div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>暇<rt>ひま</rt></ruby>だったら、うちに<ruby>来<rt>こ</rt></ruby>ない？</div><div class="ex-en">If you&#x27;re free, want to come over?</div></div></div></div>
+
+### Choosing among the four conditionals
+
+<span class="cite-jp">たら</span> shares this territory with <span class="cite-jp">と</span>, <span class="cite-jp">ば</span> and <span class="cite-jp">なら</span>, and the four sit close enough together that picking one by ear takes exposure. Lined up against the same scenario, the difference in what each one commits to becomes easier to see.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [なら (advice)](<nara.md#advice> "なら — the nara-conditional, topic, and advice") <span class="xref-reason">&mdash; reacts to the premise itself, not to whether the event has happened</span></div>
+
+| form | effect | example | how it lands |
+|---|---|---|---|
+| [と (conditional)](<to.md#conditional> "と — the conditional, and the particle for listing and accompaniment") | states a mechanical or repeated consequence; not for requests | <span class="cite-jp">京都に行くと、いつも祖母の家に寄る</span> "Whenever I go to Kyoto, I always stop by my grandmother's" | neutral, matter-of-fact — natural for general truths and repeated patterns |
+| [ば (conditional)](<ba.md#conditional> "ば — the ba-conditional, ばいい and ばよかった") | states a condition for a possibility or a general rule | <span class="cite-jp">京都に行けば、金閣寺も見られる</span> "If you go to Kyoto, you can see Kinkaku-ji too" | leans literary — common in writing and set phrases, a little stiff in casual talk |
+| [なら (advice)](<nara.md#advice> "なら — the nara-conditional, topic, and advice") | reacts to what was just said, without requiring it to happen first | <span class="cite-jp">京都に行くなら、新幹線が便利だよ</span> "If you're going to Kyoto, the shinkansen is convenient" | natural for giving advice on the spot |
+| <span class="cite-jp">たら</span> | requires the event to actually happen first; takes almost any main clause | <span class="cite-jp">京都に着いたら、電話して</span> "Once you get to Kyoto, call me" | the default in conversation — handles requests and reports, not just conditions |
+
+The row worth remembering is the last one: <span class="cite-jp">たら</span> is the one that requires its own trigger to actually happen, and the one that puts the least restriction on what follows it.
+
+**The decision that picks out <span class="cite-jp">たら</span> from the other three:** is the main clause asking, inviting, or reporting what a trigger turned out to bring, rather than stating a general rule? <span class="cite-jp">と</span> and <span class="cite-jp">ば</span> are built for statements, not for that.
+
+<span class="cite-jp">なら</span> doesn't require the trigger to have happened at all — <span class="cite-jp">たら</span> does, and that's the other half of the same decision.
 
 *Compare:* [たら・ば・と・なら — the conditional quartet](<../contrasts/tara-ba-to-nara.md> "the conditional quartet")
 {: .compare }
@@ -28,6 +89,35 @@ On doing X, discovered Y; a one-off past finding
 **Builds on:** [過去形・辞書形 (plain statement)](<kakokei-jishokei.md#plain-statement> "States past or nonpast facts plainly, without polite marking")
 {: .fam }
 
+**Form:** `V-た + ら` — the same shape as the conditional above; what marks this sense is a past-tense main clause reporting something the speaker actually found.
+{: .form }
+
+- **A past main clause usually signals a real, completed finding** — <span class="cite-jp">財布を開けたら、お金が一枚も入っていなかった</span> reports that the wallet turned out to be empty, not a prediction that it might be.
+- **The event described by <span class="cite-jp">たら</span> has to have actually occurred** — this is what separates discovery from the hypothetical conditional above; the trigger isn't being proposed, it already happened.
+- **The finding doesn't need to be dramatic** — a routine check that turns out to confirm something ordinary still counts, as long as the main clause reports what was actually found rather than a prediction.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>財布<rt>さいふ</rt></ruby>を<span class="pat"><ruby>開<rt>あ</rt></ruby>けたら、</span>お<ruby>金<rt>かね</rt></ruby>が<ruby>一枚<rt>いちまい</rt></ruby>も<ruby>入<rt>はい</rt></ruby>っていなかった。</div><div class="ex-en">&ldquo;I opened my wallet, and there wasn&#x27;t a single bill inside.&rdquo; <span class="lit">&mdash; lit. if I opened my wallet, not one bill was inside</span></div><div class="ex-note">The clause looks like a hypothetical &quot;if,&quot; but 入っていなかった is a plain past-tense fact — the wallet was already checked, and this reports what turned out to be true.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>財布<rt>さいふ</rt></ruby>を</span><span class="g">the wallet</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>開<rt>あ</rt></ruby>けたら、</span><span class="g">I opened it, and</span></div><div class="bd-seg"><span class="j" lang="ja">お<ruby>金<rt>かね</rt></ruby>が</span><span class="g">money</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>一枚<rt>いちまい</rt></ruby>も</span><span class="g">even a single bill</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>入<rt>はい</rt></ruby>っていなかった</span><span class="g">wasn&#x27;t inside</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-たら + past-tense main clause, one-off discovery</span></div></div></details></div>
+
+The same trigger, read two ways, shows the split directly:
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">conditional</div><div class="eg-jp" lang="ja"><span class="pat"><ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けたら、<ruby>涼<rt>すず</rt></ruby>しくなる</span></div><div class="ex-en">If I open the window, it&#x27;ll get cooler.</div></div><div class="eg-member"><div class="eg-label">discovery</div><div class="eg-jp" lang="ja"><span class="pat"><ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>あ</rt></ruby>けたら、<ruby>外<rt>そと</rt></ruby>は<ruby>雨<rt>あめ</rt></ruby>だった</span></div><div class="ex-en">I opened the window, and it was raining outside.</div></div></div>
+
+<div id="trap-english-trap" class="trap-anchor"></div>
+
+!!! warning "English Trap"
+    Don't translate every <span class="cite-jp">たら</span> as "if." With a past-tense main clause, <span class="cite-jp">たら</span> reports something the speaker found to be true, not something merely possible: <span class="cite-jp">財布を開けたら、お金が一枚も入っていなかった</span> already reports an empty wallet, not a possibility being floated.
+
+    "If I opened my wallet, there wasn't any money" reads as broken English precisely because English marks this distinction with tense and word choice — "when," not "if" — where Japanese leaves the same <span class="cite-jp">たら</span> shape to carry both jobs.
+
+??? note "When a past main clause isn't a discovery"
+    A past-tense main clause after <span class="cite-jp">たら</span> usually signals the discovery reading above, but not always.
+
+    With a negative past main clause describing something that never happened, the same shape instead describes what would have happened — a counterfactual about the past, not a report of what was found.
+
+    <span class="cite-jp">電車に乗り遅れなかったら、時間通りに着いていた</span> describes a train that actually was missed and an arrival that did not happen on time; the <span class="cite-jp">たら</span>-clause states the unmet condition, and <span class="cite-jp">着いていた</span> states the result that failed to occur.
+
+    Nothing in the verb form marks this as counterfactual. Only already knowing that the trip did not go this way tells the listener to read it that way.
+
 ## たら (temporal) { #temporal }
 
 When or after something happens.
@@ -39,12 +129,57 @@ When or after something happens.
 **Compounds:** [気づいたら](<tara.md#kizuitara> "Before one realizes it; sudden awareness of an already changed situation")
 {: .fam }
 
+**Form:** `V-た + ら` — again the same shape; here the main clause describes something the speaker does as a matter of routine, not a single finding.
+{: .form }
+
+- **A habitual main clause reads as a routine, not a single event** — the same shape that reports a discovery above can instead describe something the speaker does every time, with nothing being noticed for the first time.
+- **Order still matters** — the first event has to finish before the second one starts; <span class="cite-jp">たら</span> doesn't describe two things happening at once.
+
+The same trigger-then-result shape describes an ordinary routine when nothing is being discovered:
+
+<div class="eg-micro"><div class="eg-jp" lang="ja"><ruby>仕事<rt>しごと</rt></ruby>が<ruby>終<rt>お</rt></ruby>わったら、いつも<ruby>駅前<rt>えきまえ</rt></ruby>の<ruby>店<rt>みせ</rt></ruby>でコーヒーを<ruby>買<rt>か</rt></ruby>う</div><div class="ex-en">After work finishes, I always stop by the shop near the station for coffee.</div></div>
+
+The same shape turns fully polite by putting the <span class="cite-jp">ます</span>-stem in front of it instead of the plain past.
+
+<span class="cite-jp">到着しましたら、受付までお越しください</span> is exactly the kind of line a notice or an announcement uses: once you've arrived, please come to the reception desk.
+
+<span class="cite-jp">とき</span> marks a shared window of time rather than a trigger — <span class="cite-jp">京都に行くとき、傘を持っていった</span> says the umbrella was brought along during the trip, without claiming the trip's start caused anything. <span class="cite-jp">たら</span> instead marks one event as setting up the next.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [とき](<toki.md> "とき — When or at the time that") <span class="xref-reason">&mdash; names a shared timeframe rather than a trigger-and-result sequence</span></div>
+
+
 ## たら？ (suggestion) { #tara-q }
 
 Why don't you...?; casual suggestion.
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">suggestion-advice</span> <span class="card-tag">style: colloquial</span>
+
+**Form:** `V-た + ら？` with the consequence clause left out and rising intonation standing in for it.
+{: .form }
+
+- **The consequence is deleted, not softened by different grammar** — <span class="cite-jp">寝たら？</span> is an ordinary conditional clause with nothing after it; nothing has been added to make it gentler, something has been left out.
+- **Rising intonation carries the missing half** — without it, the same words would just trail off rather than propose anything.
+- **Filling the ending back in is what makes the same idea polite** — see the Pitfall below for what that ending looks like.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>今日<rt>きょう</rt></ruby>は<ruby>無理<rt>むり</rt></ruby>しないで、もう<span class="pat"><ruby>寝<rt>ね</rt></ruby>たら</span>？</div><div class="ex-en">&ldquo;Don&#x27;t push yourself today — why not just go to sleep?&rdquo;</div><div class="ex-note">The clause stops at たら; どう &quot;how about it&quot; after it is left for the listener to fill in, which is what keeps the suggestion light rather than pushy.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>今日<rt>きょう</rt></ruby>は</span><span class="g">today</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>無理<rt>むり</rt></ruby>しないで、</span><span class="g">don&#x27;t push yourself, and</span></div><div class="bd-seg"><span class="j" lang="ja">もう</span><span class="g">already</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>寝<rt>ね</rt></ruby>たら</span><span class="g">why not just sleep</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-たら + nothing, rising intonation implied</span></div></div></details></div>
+
+<div class="dlg"><div class="dlg-note">B&#x27;s plan to get a haircut &quot;sometime soon&quot; is what makes A&#x27;s suggestion land as a nudge rather than a random idea.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>髪<rt>かみ</rt></ruby>、<ruby>伸<rt>の</rt></ruby>びたね。</div><div class="ex-en">Your hair&#x27;s gotten long.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">うん、そろそろ<ruby>切<rt>き</rt></ruby>りに<ruby>行<rt>い</rt></ruby>こうかな。</div><div class="ex-en">Yeah, I should probably go get it cut soon.</div></div></div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby><ruby>行<rt>い</rt></ruby>ったら？</div><div class="ex-en">Why not go tomorrow?</div></div></div></div>
+
+<div id="trap-pitfall" class="trap-anchor"></div>
+
+!!! warning "Pitfall"
+    <span class="cite-jp">たら？</span> used this way — a question with nothing after it — doesn't have a polite form of its own. Adding <span class="cite-jp">です</span> doesn't fix it; <span class="cite-jp">たらです</span> isn't a thing.
+
+    The natural move in polite speech is to restructure the whole line as 〜<span class="cite-jp">たらどうですか</span>, writing the missing half back in rather than conjugating <span class="cite-jp">たら？</span> upward.
+
+### In conversation
+
+The consequence drops out once context already supplies it:
+
+- <span class="cite-jp">行けたら行くね。</span> — I'll go if I can.
+- <span class="cite-jp">時間があったら。</span> — If I get time. The rest is left unsaid, the same omission that makes <span class="cite-jp">たら？</span> work as a suggestion.
+- <span class="cite-jp">これでよかったら、どうぞ。</span> — If this works, here you go.
 
 ## 気づいたら { #kizuitara }
 
@@ -55,3 +190,22 @@ Before one realizes it; sudden awareness of an already changed situation
 
 **From:** compound of [たら (temporal)](<tara.md#temporal> "When or after something happens.")
 {: .fam }
+
+**Form:** `気づいたら + [a clause describing what had already changed]`
+{: .form }
+
+- **The set phrase is built on <span class="cite-jp">気づく</span> "notice" plus discovery <span class="cite-jp">たら</span>** — literally "once I noticed," used to frame a change as already complete by the time anyone caught up with it.
+- **The moment of noticing is never dated** — <span class="cite-jp">気づいたら</span> doesn't say how long the change took or exactly when it happened, only that it was already true by the time it was noticed.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>話<rt>はなし</rt></ruby>に<ruby>夢中<rt>むちゅう</rt></ruby>になっていて、<span class="pat"><ruby>気<rt>き</rt></ruby>づいたら</span><ruby>電車<rt>でんしゃ</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしていた。</div><div class="ex-en">&ldquo;I was absorbed in the conversation, and before I knew it, I&#x27;d missed my stop.&rdquo; <span class="lit">&mdash; lit. I was absorbed in the talk, and when I noticed, I had already ridden past</span></div><div class="ex-note">気づいたら doesn&#x27;t say when the moment of noticing happened — only that whatever changed had already happened by the time the speaker caught up with it.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>話<rt>はなし</rt></ruby>に</span><span class="g">the conversation</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>夢中<rt>むちゅう</rt></ruby>になっていて、</span><span class="g">absorbed in it, and</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>気<rt>き</rt></ruby>づいたら</span><span class="g">before I knew it</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>電車<rt>でんしゃ</rt></ruby>を</span><span class="g">my train</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしていた</span><span class="g">I&#x27;d missed it</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">気づいたら + already-changed situation</span></div></div></details></div>
+
+<span class="cite-jp">あっという間に</span> is the neighbouring frame for the same territory, and the two are easy to blur together.
+
+<span class="cite-jp">あっという間に</span> says an interval felt short while it was passing; <span class="cite-jp">気づいたら</span> says the speaker wasn't tracking the interval at all, and only caught up with the change after the fact.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [あっという間に](<atto-iu-ma-ni.md> "あっという間に — In what feels like no time") <span class="xref-reason">&mdash; a short-feeling interval that was watched, rather than a change noticed only after it happened</span></div>
+
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
+
+<div class="prov">Authored by Claude Sonnet 5 &bull; 2026-08-27</div>

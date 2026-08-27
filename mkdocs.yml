@@ -255,6 +255,7 @@ nav:
       - "きれない — Cannot finish doing something completely": deck/grammar/kirenai.md
     - "完了・未完了":
       - "もう・まだ — already, still, and not yet": deck/grammar/mou-mada.md
+      - "もうすぐ — Soon or before long": deck/grammar/mou-sugu.md
       - "最近 — Recently or lately": deck/grammar/saikin.md
       - "たばかり — Have just done something": deck/grammar/ta-bakari.md
       - "そろそろ — Soon, or about time to do something": deck/grammar/sorosoro.md
@@ -263,7 +264,6 @@ nav:
       - "久しぶりに — For the first time in a long while": deck/grammar/hisashiburi-ni.md
       - "これから — From now on": deck/grammar/kore-kara.md
       - "前は — Previously or before": deck/grammar/mae-wa.md
-      - "もうすぐ — Soon or before long": deck/grammar/mou-sugu.md
       - "さっき — A short while ago": deck/grammar/sakki.md
       - "すぐ — Immediately or right away": deck/grammar/sugu.md
     - "動作の段階":
@@ -288,8 +288,8 @@ nav:
     - "使役":
       - "られる・させる — passive, causative, and causative-passive": deck/grammar/rareru.md
     - "原因・理由":
-      - "ので — Because or since": deck/grammar/node.md
       - "から — reason, and the particle for source and time": deck/grammar/kara.md
+      - "ので — Because or since": deck/grammar/node.md
       - "し — listing reasons": deck/grammar/shi.md
       - "だから — So or therefore": deck/grammar/da-kara.md
       - "それで — As a result": deck/grammar/sore-de.md
@@ -339,7 +339,6 @@ nav:
     - "条件":
       - "ば — the ba-conditional, ばいい and ばよかった": deck/grammar/ba.md
       - "もし — If": deck/grammar/moshi.md
-      - "と — the conditional, and the particle for listing and accompaniment": deck/grammar/to.md
       - "なら — the nara-conditional, topic, and advice": deck/grammar/nara.md
       - "ていたら — If someone keeps doing X": deck/grammar/te-itara.md
       - "ないと — unless": deck/grammar/nai-to.md
@@ -366,11 +365,11 @@ nav:
       - "〜がほしい — Want a particular thing": deck/grammar/ga-hoshii.md
       - "てほしい — Want another person to do something": deck/grammar/te-hoshii.md
     - "継続時間":
+      - "ずっと — Continuously, all along, or by far": deck/grammar/zutto.md
       - "ながら — Do two actions simultaneously": deck/grammar/nagara.md
       - "間に — During a period": deck/grammar/aida-ni.md
       - "の帰りに — On the way home from X": deck/grammar/no-kaeri-ni.md
       - "間 — Throughout a period": deck/grammar/aida.md
-      - "ずっと — Continuously, all along, or by far": deck/grammar/zutto.md
       - "いつまでも — Forever or indefinitely": deck/grammar/itsu-made-mo.md
       - "しばらく — For a while": deck/grammar/shibaraku.md
       - "あっという間に — In what feels like no time": deck/grammar/atto-iu-ma-ni.md
@@ -386,18 +385,17 @@ nav:
       - "という意味 — Means that": deck/grammar/to-iu-imi.md
       - "どうりで — No wonder": deck/grammar/douri-de.md
     - "頻度":
+      - "よく — Often or well": deck/grammar/yoku.md
       - "ことがある — Sometimes or occasionally does something": deck/grammar/koto-ga-aru.md
       - "たびに — Whenever X happens": deck/grammar/tabi-ni.md
       - "おきに — At regular intervals of a stated amount": deck/grammar/oki-ni.md
       - "ことが多い — Often do or experience something": deck/grammar/koto-ga-ooi.md
-      - "よく — Often or well": deck/grammar/yoku.md
       - "いつも — Always or habitually": deck/grammar/itsu-mo.md
       - "毎朝 — Every morning": deck/grammar/maiasa.md
       - "また — Again, later, or another time": deck/grammar/mata.md
       - "たまに — Occasionally": deck/grammar/tama-ni.md
     - "授受・恩恵":
       - "あげる・くれる・もらう — giving and receiving": deck/grammar/ageru-kureru-morau.md
-      - "に — destination, arrival, recipient, purpose, and occasion": deck/grammar/ni.md
       - "てあげる・てくれる・てもらう — doing something for someone": deck/grammar/te-ageru-te-kureru-te-morau.md
       - "お礼に — In return or as thanks": deck/grammar/o-rei-ni.md
     - "伝聞・様態":
@@ -434,6 +432,7 @@ nav:
       - "たり — listing representative actions or states": deck/grammar/tari.md
       - "とか〜とか — Gives representative examples such as X and Y": deck/grammar/toka-toka.md
     - "方法・手段":
+      - "と — the conditional, and the particle for listing and accompaniment": deck/grammar/to.md
       - "一緒に — Together with": deck/grammar/issho-ni.md
       - "遠慮なく — Without hesitation or reserve": deck/grammar/enryo-naku.md
       - "V方 — How to perform an action": deck/grammar/v-kata.md
@@ -477,17 +476,18 @@ nav:
       - "させてくれる — Let someone do something for their benefit": deck/grammar/sasete-kureru.md
       - "させてもらう — humbly getting permission to do something": deck/grammar/sasete-morau.md
     - "場所・移動":
+      - "に — destination, arrival, recipient, purpose, and occasion": deck/grammar/ni.md
+      - "で — location of action, instrument, cause, and time limit": deck/grammar/de.md
+      - "位置語＋に — Marks a position such as above or below with に": deck/grammar/ichigo-ni.md
       - "の中で — Within or among a group or place": deck/grammar/no-naka-de.md
+      - "へ — Toward": deck/grammar/he.md
       - "から〜まで — Marks a range from its starting point through its endpoint": deck/grammar/kara-made.md
       - "まで — up to, as far as, and even": deck/grammar/made.md
-      - "で — location of action, instrument, cause, and time limit": deck/grammar/de.md
       - "連れて行く — Take or accompany someone away to another location": deck/grammar/tsurete-iku.md
       - "連れてくる — bringing a person with you": deck/grammar/tsurete-kuru.md
       - "への — For or toward X": deck/grammar/he-no.md
       - "を — leaving a place, and moving through one": deck/grammar/wo.md
       - "横 — Beside or next to something": deck/grammar/yoko.md
-      - "へ — Toward": deck/grammar/he.md
-      - "位置語＋に — Marks a position such as above or below with に": deck/grammar/ichigo-ni.md
       - "て帰る — Do something and return afterward": deck/grammar/te-kaeru.md
     - "禁止":
       - "てはいけない — must not, with the ちゃだめ contractions": deck/grammar/te-wa-ikenai.md
