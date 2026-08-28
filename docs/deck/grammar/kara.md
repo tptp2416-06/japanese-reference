@@ -8,31 +8,13 @@
     Attached to a clause it gives the reason for what follows; attached to a place or a time word it marks where something begins.
     Decide which starting point you mean, then attach <span class="cite-jp">から</span> directly — no change to the form of whatever comes before it.
 
-<span class="cite-jp">から</span> shows up in sentences that don't look like they have much in common. <span class="cite-jp">忙しいから</span> "because I'm busy" gives a reason; <span class="cite-jp">大阪から</span> "from Osaka" names a place something came from; <span class="cite-jp">三時から</span> "since three o'clock" names when something started.
+<span class="cite-jp">から</span> shows up in sentences that don't look like they have much in common. <span class="cite-jp">忙しいから</span> — because I'm busy — gives a reason; <span class="cite-jp">大阪から</span> — from Osaka — names a place something came from; <span class="cite-jp">三時から</span> — since three o'clock — names when something started.
 
 One way to hold these three together: think of <span class="cite-jp">から</span> as always marking a starting point. A reason is where an explanation starts; a place is where a journey starts; a time is when something starts.
 
 That's a memory aid, not a strict rule. Nothing requires these three jobs to share a deeper grammatical root — each is learned and used on its own terms.
 
 The question worth asking is which starting point you mean. Once you've decided that, <span class="cite-jp">から</span> attaches the same way every time — directly after whatever comes before it, with no change of form required.
-
-## から (postposed) { #postposed }
-
-Because, placed after the main clause as an added justification.
-{: .pt-gloss }
-
-<span class="card-tag lv">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
-
-**Form:** `[clause, plain or polite] + から。` — stands alone; the result is left unstated
-{: .form }
-
-- **<span class="cite-jp">から</span> alone can carry the whole sentence** — a speaker states the reason and stops, trusting the listener to supply the result: <span class="cite-jp">忙しいから</span> "because I'm busy" can be a complete reply on its own.
-- **The implied result comes from context, not from grammar** — <span class="cite-jp">から</span> doesn't grammatically require anything after it; what's left unsaid is recovered from what was just said or asked.
-- **Negating the reason only flips its polarity** — <span class="cite-jp">忙しくないから</span> "because I'm not busy" is still a postposed reason; nothing about the pattern itself changes.
-- **This is a spoken-language habit more than a written one** — careful writing tends to spell out the result; conversation very often doesn't need to.
-
-<div class="dlg"><div class="dlg-note">B never states the result — から alone signals &quot;that&#x27;s why I can&#x27;t,&quot; licensed by A&#x27;s invitation.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>今夜<rt>こんや</rt></ruby>、<ruby>飲<rt>の</rt></ruby>みに<ruby>行<rt>い</rt></ruby>かない？</div><div class="ex-en">Want to go for a drink tonight?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ごめん、<ruby>明日<rt>あした</rt></ruby><ruby>早<rt>はや</rt></ruby>いから。</div><div class="ex-en">Sorry, I&#x27;ve got an early start tomorrow.</div></div></div></div>
-
 
 ## から (reason) { #reason }
 
@@ -44,10 +26,10 @@ Because; gives a reason.
 **Form:** `Clause (plain or polite) + から、result.` · `N／Na-adj + だから／ですから、result.`
 {: .form }
 
-- **<span class="cite-jp">から</span> states the reason as your own claim, and takes the whole clause before it** — <span class="cite-jp">電車が遅れているから</span> "the train's running late, so" hands over everything before <span class="cite-jp">から</span> as the justification, not just the last word of it.
+- **<span class="cite-jp">から</span> states the reason as your own claim, and takes the whole clause before it** — <span class="cite-jp">電車が遅れているから</span> — the train's running late, so — hands over everything before <span class="cite-jp">から</span> as the justification, not just the last word of it.
 - **Decide the reason first; <span class="cite-jp">から</span> only marks where it ends** — once you know what you're crediting or blaming, <span class="cite-jp">から</span> goes right after it and the result follows.
-- **Nouns and na-adjectives need <span class="cite-jp">だ</span> or <span class="cite-jp">です</span> first** — <span class="cite-jp">学生だから</span> "because I'm a student", not <span class="cite-jp">学生から</span>.
-- **Negating the reason clause only flips its polarity** — <span class="cite-jp">忙しいから行けない</span> "I can't go because I'm busy" and <span class="cite-jp">忙しくないから行ける</span> "I can go because I'm not busy" work the same way otherwise.
+- **Nouns and na-adjectives need <span class="cite-jp">だ</span> or <span class="cite-jp">です</span> first** — <span class="cite-jp">学生だから</span> — because I'm a student — not <span class="cite-jp">学生から</span>.
+- **Negating the reason clause only flips its polarity** — <span class="cite-jp">忙しいから行けない</span> — I can't go because I'm busy — and <span class="cite-jp">忙しくないから行ける</span> — I can go because I'm not busy — work the same way otherwise.
 - **<span class="cite-jp">から</span> is register-flexible on its own** — it attaches fine after <span class="cite-jp">です</span> and <span class="cite-jp">ます</span>. What usually signals formality is which connector gets chosen in the first place, covered next.
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れている<span class="pat">から、</span><ruby>会議<rt>かいぎ</rt></ruby>に<ruby>少<rt>すこ</rt></ruby>し<ruby>遅<rt>おく</rt></ruby>れます。</div><div class="ex-en">&ldquo;The train&#x27;s running late, so I&#x27;ll be a little late to the meeting.&rdquo;</div><div class="ex-note">から takes the whole preceding clause — the train being late — as its reason; a single noun couldn&#x27;t stand in its place the same way.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れている</span><span class="g">the train is late</span></div><div class="bd-seg hit"><span class="j" lang="ja">から、</span><span class="g">so</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>会議<rt>かいぎ</rt></ruby>に</span><span class="g">to the meeting</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>少<rt>すこ</rt></ruby>し<ruby>遅<rt>おく</rt></ruby>れます</span><span class="g">I&#x27;ll be a little late</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">clause + から, result stated</span></div></div></details></div><div class="reg"><div><div class="rlbl">casual</div><span lang="ja">電車が遅れてるから、ちょっと遅れる。</span></div><div><div class="rlbl">polite</div><span lang="ja">電車が遅れていますから、少し遅れます。</span></div></div>
@@ -56,12 +38,12 @@ Because; gives a reason.
 
 <span class="cite-jp">から</span> doesn't get replaced because it stops being grammatical — it stays grammatical at any politeness level. It gets replaced because it sounds like a personal, assertive claim, and formal speech often wants a softer frame.
 
-| form | effect | how it lands |
-|---|---|---|
-| <span class="cite-jp">から</span> | states the reason as your own direct claim | very common in casual speech |
-| [ので (reason)](<node.md#reason> "ので — Because or since") | presents the reason as circumstance, not personal claim | neutral polite — the common default once things turn formal |
-| <span class="cite-jp">ですから</span>／<span class="cite-jp">ますから</span> | keeps <span class="cite-jp">から</span>, raises only the surrounding verb's politeness | polite, but still reads more direct than <span class="cite-jp">ので</span> |
-| <span class="cite-jp">ものですから</span> | frames the reason almost apologetically, as an explanation being offered | formal, explanatory |
+| form | example | effect | how it lands |
+|---|---|---|---|
+| <span class="cite-jp">から</span> | <span class="cite-jp">頭が痛いから、会社を休みます。</span> — I have a headache, so I'll take the day off work. | states the reason as your own direct claim | very common in casual speech |
+| [ので (reason)](<node.md#reason> "ので — Because or since") | <span class="cite-jp">頭が痛いので、会社を休みます。</span> — Since I have a headache, I'll take the day off work. | presents the reason as circumstance, not personal claim | neutral polite — the common default once things turn formal |
+| <span class="cite-jp">ですから</span>／<span class="cite-jp">ますから</span> | <span class="cite-jp">頭が痛いですから、会社を休みます。</span> — I have a headache, so I'll be taking the day off work. | keeps <span class="cite-jp">から</span>, raises only the surrounding verb's politeness | polite, but still reads more direct than <span class="cite-jp">ので</span> |
+| <span class="cite-jp">ものですから</span> | <span class="cite-jp">頭が痛いものですから、会社を休みます。</span> — It's just that I have a headache, so I'll be taking the day off work. | frames the reason almost apologetically, as an explanation being offered | formal, explanatory |
 
 <div id="trap-pitfall" class="trap-anchor"></div>
 
@@ -80,11 +62,29 @@ Because; gives a reason.
 
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [だから](<da-kara.md> "だから — So or therefore") <span class="xref-reason">&mdash; から turned into its own sentence-opening word</span></div>
 
-<div class="dlg"><div class="dlg-note">B states both the reason and the result in full — unlike a postposed から, nothing here is left for A to work out.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">どうしたの？<ruby>元気<rt>げんき</rt></ruby>ないね。</div><div class="ex-en">What&#x27;s wrong? You seem down.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>昨夜<rt>ゆうべ</rt></ruby>よく<ruby>眠<rt>ねむ</rt></ruby>れなかったから、ちょっと<ruby>疲<rt>つか</rt></ruby>れてるんだ。</div><div class="ex-en">I didn&#x27;t sleep well last night, so I&#x27;m a bit tired.</div></div></div></div>
+<div class="dlg"><div class="dlg-note">B states both the reason and the result in full — nothing is left for A to work out, unlike から left standing alone.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">どうしたの？<ruby>元気<rt>げんき</rt></ruby>ないね。</div><div class="ex-en">What&#x27;s wrong? You seem down.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>昨夜<rt>ゆうべ</rt></ruby>よく<ruby>眠<rt>ねむ</rt></ruby>れなかったから、ちょっと<ruby>疲<rt>つか</rt></ruby>れてるんだ。</div><div class="ex-en">I didn&#x27;t sleep well last night, so I&#x27;m a bit tired.</div></div></div></div>
 
 
 *Compare:* [から・ので・し — reason connectives](<../contrasts/kara-node-shi.md> "reason connectives")
 {: .compare }
+
+## から (postposed) { #postposed }
+
+Because, placed after the main clause as an added justification.
+{: .pt-gloss }
+
+<span class="card-tag lv">N5</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
+
+**Form:** `[clause, plain or polite] + から。` — stands alone; the result is left unstated
+{: .form }
+
+- **<span class="cite-jp">から</span> alone can carry the whole sentence** — a speaker states the reason and stops, trusting the listener to supply the result: <span class="cite-jp">忙しいから</span> — because I'm busy — can be a complete reply on its own.
+- **The implied result comes from context, not from grammar** — <span class="cite-jp">から</span> doesn't grammatically require anything after it; what's left unsaid is recovered from what was just said or asked.
+- **Negating the reason only flips its polarity** — <span class="cite-jp">忙しくないから</span> — because I'm not busy — is still a postposed reason; nothing about the pattern itself changes.
+- **This is a spoken-language habit more than a written one** — careful writing tends to spell out the result; conversation very often doesn't need to.
+
+<div class="dlg"><div class="dlg-note">B never states the result — から alone signals &quot;that&#x27;s why I can&#x27;t,&quot; licensed by A&#x27;s invitation.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>今夜<rt>こんや</rt></ruby>、<ruby>飲<rt>の</rt></ruby>みに<ruby>行<rt>い</rt></ruby>かない？</div><div class="ex-en">Want to go for a drink tonight?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ごめん、<ruby>明日<rt>あした</rt></ruby><ruby>早<rt>はや</rt></ruby>いから。</div><div class="ex-en">Sorry, I&#x27;ve got an early start tomorrow.</div></div></div></div>
+
 
 ## から (source) { #source }
 
@@ -97,18 +97,20 @@ From; marks a source or origin.
 {: .form }
 
 - **<span class="cite-jp">から</span> marks where something begins its path** — a place, a person, or a material something started as.
-- **With a place, <span class="cite-jp">から</span> looks back to the start; <span class="cite-jp">に</span> points ahead to the goal** — <span class="cite-jp">大阪から</span> "from Osaka" and <span class="cite-jp">大阪に</span> "to Osaka" describe the same trip from opposite ends.
-- **<span class="cite-jp">から</span> only ever marks the giver, never the receiver** — <span class="cite-jp">友達からもらった</span> "got it from a friend" takes <span class="cite-jp">から</span>; handing something the other way takes <span class="cite-jp">に</span>, never <span class="cite-jp">から</span>.
-- **The material sense marks a transformation** — <span class="cite-jp">米から酒を造る</span> "sake is brewed from rice" treats the rice as changed into something else entirely.
+- **With a place, <span class="cite-jp">から</span> looks back to the start; <span class="cite-jp">に</span> points ahead to the goal** — <span class="cite-jp">大阪から</span> — from Osaka — and <span class="cite-jp">大阪に</span> — to Osaka — describe the same trip from opposite ends.
+- **<span class="cite-jp">から</span> only ever marks the giver, never the receiver** — <span class="cite-jp">友達からもらった</span> — got it from a friend — takes <span class="cite-jp">から</span>; handing something the other way takes <span class="cite-jp">に</span>, never <span class="cite-jp">から</span>.
+- **The material sense marks a transformation** — <span class="cite-jp">米から酒を造る</span> — sake is brewed from rice — treats the rice as changed into something else entirely.
 
 <div class="eg-contrast"><div class="eg-member"><div class="eg-label">from</div><div class="eg-jp" lang="ja"><ruby>大阪<rt>おおさか</rt></ruby>から<ruby>来<rt>き</rt></ruby>た</div><div class="ex-en">Came from Osaka.</div></div><div class="eg-member"><div class="eg-label">to</div><div class="eg-jp" lang="ja"><ruby>大阪<rt>おおさか</rt></ruby>に<ruby>行<rt>い</rt></ruby>く</div><div class="ex-en">Going to Osaka.</div></div></div>
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [に (destination)](<ni.md#destination> "に — destination, arrival, recipient, purpose, and occasion") <span class="xref-reason">&mdash; に marking the goal a journey moves toward, から&#x27;s opposite end</span></div>
 
 <div id="trap-english-trap" class="trap-anchor"></div>
 
 !!! warning "English Trap"
     English "from" covers both directions of a gift or a message — "a letter from my mother", "a call from work" — which makes it tempting to reach for <span class="cite-jp">から</span> when naming who something goes TO as well.
 
-    <span class="cite-jp">から</span> only ever marks the source. Giving verbs mark the recipient with <span class="cite-jp">に</span>, never <span class="cite-jp">から</span>: <span class="cite-jp">友達にプレゼントをあげた</span> "I gave a friend a present", not <span class="cite-jp">友達からあげた</span>.
+    <span class="cite-jp">から</span> only ever marks the source. Giving verbs mark the recipient with <span class="cite-jp">に</span>, never <span class="cite-jp">から</span>: <span class="cite-jp">友達にプレゼントをあげた</span> — I gave a friend a present — not <span class="cite-jp">友達からあげた</span>.
 
 Where the material stays recognizably itself in the result, <span class="cite-jp">で</span> takes over from <span class="cite-jp">から</span> — a folded paper crane is still paper, but rice brewed into sake no longer looks or behaves like rice.
 
@@ -125,9 +127,9 @@ Since; marks a starting point in time.
 **Form:** `Time-N + から` · `から〜まで` for a bounded range
 {: .form }
 
-- **<span class="cite-jp">から</span> marks when something starts, with no built-in endpoint** — <span class="cite-jp">三時から</span> "since three o'clock" only says where the clock started counting.
+- **<span class="cite-jp">から</span> marks when something starts, with no built-in endpoint** — <span class="cite-jp">三時から</span> — since three o'clock — only says where the clock started counting.
 - **Pair it with <span class="cite-jp">まで</span> to close the range** — <span class="cite-jp">から</span> alone leaves the endpoint to context; <span class="cite-jp">から</span>〜<span class="cite-jp">まで</span> states both ends.
-- **<span class="cite-jp">から</span> attaches to a time word; <span class="cite-jp">てから</span> attaches to a verb** — the starting-point idea is the same, but <span class="cite-jp">てから</span> marks "after doing something" rather than a clock time.
+- **<span class="cite-jp">から</span> attaches to a time word; <span class="cite-jp">てから</span> attaches to a verb** — the starting-point idea is the same, but <span class="cite-jp">てから</span> marks after doing something rather than a clock time.
 - **Signs and notices lean on <span class="cite-jp">から</span> constantly** — opening hours, schedules and event listings almost always state a start time this way.
 
 <div class="eg-micro"><div class="eg-jp" lang="ja"><ruby>午前<rt>ごぜん</rt></ruby>10<ruby>時<rt>じ</rt></ruby>から<ruby>営業<rt>えいぎょう</rt></ruby>しています。</div><div class="ex-en">Open for business from 10 AM.</div></div>

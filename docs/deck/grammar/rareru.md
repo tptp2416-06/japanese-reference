@@ -7,120 +7,67 @@
     <span class="cite-jp">られる</span> puts the subject on the receiving end of an action; <span class="cite-jp">させる</span> adds someone who makes or lets another person act. Combined, <span class="cite-jp">させられる</span> reports being made to do something you didn't choose.
     Decide whose side of the event you're telling first — the actor, or the one it happened to — then, if you're the one arranging someone else's action, whether you're forcing it or allowing it.
 
-<span class="cite-jp">先生が生徒をほめた</span> "the teacher praised the student." Change who the sentence is about, and it becomes <span class="cite-jp">生徒が先生にほめられた</span> "the student was praised by the teacher."
+<span class="cite-jp">先生が生徒をほめた</span> — the teacher praised the student. Change who the sentence is about, and it becomes <span class="cite-jp">生徒が先生にほめられた</span> — the student was praised by the teacher.
 
 That's what <span class="cite-jp">られる</span> does: it moves the sentence onto the person or thing something happens to. The one who did the praising, if it's named at all, now takes <span class="cite-jp">に</span> instead of <span class="cite-jp">が</span>.
 
-<span class="cite-jp">母が晩ご飯を作った</span> "Mom made dinner" can change shape too: <span class="cite-jp">母が私に晩ご飯を作らせた</span> "Mom had me make dinner."
+<span class="cite-jp">母が晩ご飯を作った</span> — Mom made dinner — can change shape too: <span class="cite-jp">母が私に晩ご飯を作らせた</span> — Mom had me make dinner.
 
 That's <span class="cite-jp">させる</span>: it adds a person who makes or lets someone else act. Mom is still the one in charge; I'm the one who ends up cooking, and I'm the one marked with <span class="cite-jp">に</span> this time.
 
 Both endings use <span class="cite-jp">に</span>, for opposite reasons. <span class="cite-jp">られる</span>'s <span class="cite-jp">に</span> names who acted on you; <span class="cite-jp">させる</span>'s <span class="cite-jp">に</span> names who was made or let to act. The two are easy to mix up once they sit side by side.
 
-The two endings can also stack. <span class="cite-jp">母に晩ご飯を作らせられた</span> "I was made by Mom to make dinner" reports Mom's causative from my side, as something that happened to me rather than something I chose.
+The two endings can also stack. <span class="cite-jp">母に晩ご飯を作らせられた</span> — I was made by Mom to make dinner. That combination is <span class="cite-jp">させられる</span>, reporting Mom's causative from my side, as something that happened to me rather than something I chose.
 
-That combination is <span class="cite-jp">させられる</span>, and it's where this page starts.
+The page starts with <span class="cite-jp">られる</span> by itself — first the plain, neutral use, then the two flavors where the event happens to you rather than because of you, then the quoting use in <span class="cite-jp">言われた</span>.
 
-The rest of the page works through it piece by piece: <span class="cite-jp">させる</span> alone, then <span class="cite-jp">られる</span> alone.
-
-Three more shapes are worth recognizing on sight: a casual contraction many verbs take instead of the full <span class="cite-jp">させられる</span>, an <span class="cite-jp">られる</span> that doesn't need an object at all, and <span class="cite-jp">言われた</span> for reporting what someone told you.
+<span class="cite-jp">させる</span> comes next on its own, then <span class="cite-jp">させられる</span> where the two combine, then <span class="cite-jp">される</span> — the same combination said in fewer syllables, and no less common for it.
 
 **See also:** [可能形・ことができる](<kanoukei-koto-ga-dekiru.md> "可能形・ことができる — the two ways to say 'can'") — られる is potential, passive and honorific in one shape — this is the sense that shares it  
 [Transitivity](<transitivity.md> "Transitivity — transitive and intransitive verb pairs") — English often reaches for a passive where Japanese uses the intransitive — られる is not the automatic substitute; see the pitfall
 {: .seealso }
 
-## させられる (caus.-passive) { #saserareru }
+## られる (neutral passive) { #neutral-passive }
 
-Be made or forced to do something by another person
+The subject receives an action, without implying harm or inconvenience
 {: .pt-gloss }
 
-<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-causative-passive</span> <span class="card-tag">affectedness-adversity</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-passive</span> <span class="card-tag">affectedness-adversity</span>
 
-**Builds on:** [させる (causative)](<rareru.md#saseru> "Make or let someone do something, depending on context") · [られる (neutral passive)](<rareru.md#neutral-passive> "The subject receives an action, without implying harm or inconvenience")
+**Compounds:** [言われた (passive quote)](<rareru.md#iwareta> "Was told that...; passive reported-speech form.")
 {: .fam }
 
-**Form:** `V causative stem + られる`
+This is <span class="cite-jp">られる</span> at its plainest, before inconvenience, an added causer, or a quote gets layered on top of it.
+
+**Form:** `(agent に) + V passive`
 {: .form }
 
-- **Someone else set it up, and you're the one who did it** — the causative-passive reports an action from the side of the person who had no real say in it.
-- **It's the causative and the passive working together** — <span class="cite-jp">させる</span> adds the person who made you act; <span class="cite-jp">られる</span> reports the whole thing from your side, as something that happened to you.
-- **The base verb's own object, if it has one, doesn't move** — only the subject and the verb change shape.
+- **The one acted on becomes the subject** — exactly as in the opening example, with the actor, if named, taking <span class="cite-jp">に</span> instead of <span class="cite-jp">が</span>.
+- **No inconvenience is implied here** — it just reports that an action happened, usually to a thing rather than a person, and usually without much interest in who did it.
+- **The agent is often left out entirely** — <span class="cite-jp">この橋は明治時代に作られた</span> — this bridge was built in the Meiji era — doesn't name a builder, and doesn't need to.
+- **Negating it is ordinary** — <span class="cite-jp">この製品はもう作られていない</span> — this product isn't made anymore — is a completely normal thing to read on a package or a listing.
 
-<div class="ex"><div class="ex-jp" lang="ja"><ruby>部長<rt>ぶちょう</rt></ruby>に<ruby>日曜日<rt>にちようび</rt></ruby>も<span class="pat"><ruby>出勤<rt>しゅっきん</rt></ruby>させられた</span>。</div><div class="ex-en">&ldquo;My boss made me come in even on Sundays.&rdquo; <span class="lit">&mdash; lit. was made to come to work by the department head, even on Sunday</span></div><div class="ex-note">させ carries the &quot;made to do it&quot; force; られ reports the whole thing from the side of the person who had to comply.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>部長<rt>ぶちょう</rt></ruby>に</span><span class="g">by my boss</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>日曜日<rt>にちようび</rt></ruby>も</span><span class="g">even on Sundays</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>出勤<rt>しゅっきん</rt></ruby>させられた</span><span class="g">was made to come to work</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">causative stem + られる, causative-passive</span></div></div></details></div>
+### More common in writing than in speech
 
-### The four forms across verb classes
+Neutral passive turns up constantly on signs, in product descriptions, and in historical writing, where the fact matters more than anyone's particular involvement.
 
-Both endings attach the same way to any verb, once you know which pattern to look for.
+Conversation reaches for it far less. A speaker is more likely to just state the fact directly, or name who did it, unless leaving the doer vague is actually doing some work.
 
-| verb class | dictionary form | passive (<span class="cite-jp">られる</span>) | causative (<span class="cite-jp">させる</span>) | causative-passive (full) | causative-passive (contracted) |
-|---|---|---|---|---|---|
-| godan (<span class="cite-jp">う</span>) | <span class="cite-jp">買う</span> | <span class="cite-jp">買われる</span> | <span class="cite-jp">買わせる</span> | <span class="cite-jp">買わせられる</span> | <span class="cite-jp">買わされる</span> |
-| godan (<span class="cite-jp">く</span>) | <span class="cite-jp">書く</span> | <span class="cite-jp">書かれる</span> | <span class="cite-jp">書かせる</span> | <span class="cite-jp">書かせられる</span> | <span class="cite-jp">書かされる</span> |
-| ichidan | <span class="cite-jp">食べる</span> | <span class="cite-jp">食べられる</span> | <span class="cite-jp">食べさせる</span> | <span class="cite-jp">食べさせられる</span> | — |
-| <span class="cite-jp">する</span> | <span class="cite-jp">心配する</span> | <span class="cite-jp">心配される</span> | <span class="cite-jp">心配させる</span> | <span class="cite-jp">心配させられる</span> | — |
-| <span class="cite-jp">来る</span> | <span class="cite-jp">来る</span> | <span class="cite-jp">来られる</span> | <span class="cite-jp">来させる</span> | <span class="cite-jp">来させられる</span> | — |
+### One shape, several jobs
 
-The contracted column is empty for three of these five rows on purpose — not every verb can shorten this far. The next section covers which ones do.
+Ichidan verbs and <span class="cite-jp">来る</span> don't have a separate word for "can." The same <span class="cite-jp">られる</span> ending covers passive, potential, and honorific meaning, and only context sorts them out.
 
-## させる (causative) { #saseru }
+| reading | what <span class="cite-jp">見られる</span> means here |
+|---|---|
+| passive (this page) | is looked at, gets seen |
+| potential (ichidan · <span class="cite-jp">来る</span> only) | can see, is able to see |
+| honorific | a respected person looks, sees |
 
-Make or let someone do something, depending on context
-{: .pt-gloss }
+Godan verbs don't share this overlap — their potential form is built differently (<span class="cite-jp">飲める</span>, never <span class="cite-jp">飲まれる</span>), so passive and potential never collide for them.
 
-<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-causative</span> <span class="card-tag">causation</span>
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [可能形 (potential)](<kanoukei-koto-ga-dekiru.md#kanoukei> "可能形・ことができる — the two ways to say 'can'") <span class="xref-reason">&mdash; the potential reading of this same shape</span></div>
 
-**Form:** `causee に + V causative` (the base verb already has an object) · `causee を + V causative` (it doesn't)
-{: .form }
-
-- **The causee gets <span class="cite-jp">に</span> when the verb already has an object** — <span class="cite-jp">先生が生徒に本を読ませた</span> "the teacher had the student read the book" keeps <span class="cite-jp">を</span> on <span class="cite-jp">本</span> and moves the causee to <span class="cite-jp">に</span>.
-- **The causee gets <span class="cite-jp">を</span> when the verb has no object of its own** — <span class="cite-jp">子供を歩かせた</span> "I made the child walk," since <span class="cite-jp">歩く</span> never had an object to begin with.
-- **The same ending can mean "make" or "let"** — nothing in <span class="cite-jp">させる</span> itself decides which. The rest of the sentence does.
-- **Negating <span class="cite-jp">させる</span> usually withholds permission, not force** — <span class="cite-jp">子供にゲームをさせない</span> reads as "I won't let the child play games," not as refusing to force it.
-
-<div class="dlg"><div class="dlg-note">The same させた could mean force or permission; a birthday makes it read as permission here.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>子供<rt>こども</rt></ruby>にお<ruby>菓子<rt>かし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べさせたの？</div><div class="ex-en">Did you let the kids have candy?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">うん、<ruby>誕生日<rt>たんじょうび</rt></ruby>だから。</div><div class="ex-en">Yeah, since it&#x27;s his birthday.</div></div></div></div>
-
-<div id="trap-pitfall" class="trap-anchor"></div>
-
-!!! warning "Pitfall"
-    <span class="cite-jp">させる</span> doesn't grammatically choose between "make" and "let" — the same form covers both. What decides the reading is whether the situation makes force or permission the plausible one.
-
-    Forcing medicine on a child who's fighting it reads as force. Letting a child have cake on their birthday reads as permission. The ending never changes.
-
-<div class="eg-contrast"><div class="eg-member"><div class="eg-label">make</div><div class="eg-jp" lang="ja"><ruby>薬<rt>くすり</rt></ruby>を<ruby>嫌<rt>いや</rt></ruby>がる<ruby>子<rt>こ</rt></ruby>に<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>ませた</div><div class="ex-en">I made the child, who didn&#x27;t want to, take the medicine.</div></div><div class="eg-member"><div class="eg-label">let</div><div class="eg-jp" lang="ja"><ruby>誕生日<rt>たんじょうび</rt></ruby>だからケーキを<ruby>好<rt>す</rt></ruby>きなだけ<ruby>食<rt>た</rt></ruby>べさせた</div><div class="ex-en">Since it was his birthday, I let him eat as much cake as he wanted.</div></div></div>
-
-### <span class="cite-jp">に</span> marks two different roles
-
-Both <span class="cite-jp">られる</span> and <span class="cite-jp">させる</span> mark the "other party" with <span class="cite-jp">に</span>, and they're never the same party.
-
-<span class="cite-jp">生徒が先生にほめられた</span> marks the person who acted on the subject. <span class="cite-jp">先生が生徒に本を読ませた</span> marks the person who was made to act. Before assuming a <span class="cite-jp">に</span> phrase means "by" or "for," check which of these two sentences you're actually in.
-
-## される (contracted caus.-passive) { #sareru }
-
-Contracted spoken form meaning be made or forced to do something
-{: .pt-gloss }
-
-<span class="card-tag lv">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">affectedness-adversity</span>
-
-**Builds on:** [させられる (caus.-passive)](<rareru.md#saserareru> "Be made or forced to do something by another person")
-{: .fam }
-
-**Form:** `causative-passive, one syllable shorter` (godan verbs only)
-{: .form }
-
-- **Godan verbs can drop a syllable from the full causative-passive** — <span class="cite-jp">待たせられる</span> shortens to <span class="cite-jp">待たされる</span>, keeping the same meaning.
-- **It's a casual, spoken form** — written Japanese and careful speech tend to keep the full <span class="cite-jp">させられる</span>.
-
-### Which verbs can contract
-
-Only godan verbs take the shortcut, and even they have one exception.
-
-Ichidan verbs have no shorter form at all — there's no <span class="cite-jp">食べされる</span> next to <span class="cite-jp">食べさせられる</span>.
-
-<span class="cite-jp">する</span> doesn't contract either. Shortening <span class="cite-jp">心配させられる</span> would land on <span class="cite-jp">心配された</span>, which already means "was worried about" — the plain passive of <span class="cite-jp">する</span>. Verbs built on <span class="cite-jp">する</span> keep the full causative-passive to stay unambiguous.
-
-Godan verbs ending in <span class="cite-jp">す</span> are the other holdout. <span class="cite-jp">話させられる</span> could in principle shorten to <span class="cite-jp">話さされる</span>, but the doubled <span class="cite-jp">さ</span> sound is generally avoided, so speakers keep the full form there too.
-
-<div class="eg-contrast"><div class="eg-member"><div class="eg-label">full</div><div class="eg-jp" lang="ja"><ruby>兄<rt>あに</rt></ruby>に<ruby>部屋<rt>へや</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>わせられた</div><div class="ex-en">My brother made me help clean the room.</div></div><div class="eg-member"><div class="eg-label">contracted</div><div class="eg-jp" lang="ja"><ruby>兄<rt>あに</rt></ruby>に<ruby>部屋<rt>へや</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>わされた</div><div class="ex-en">My brother made me help clean the room.</div></div></div>
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [（ら）れる](<reru-rareru.md> "（ら）れる — honorific passive-shaped form") <span class="xref-reason">&mdash; the honorific reading, used to describe a respected person&#x27;s own actions politely</span></div>
 
 
 ## られる (adversity passive) { #adversity-passive }
@@ -132,6 +79,8 @@ Someone's action affects the subject negatively or inconveniently
 
 **Builds on:** [られる (neutral passive)](<rareru.md#neutral-passive> "The subject receives an action, without implying harm or inconvenience")
 {: .fam }
+
+This is the same <span class="cite-jp">られる</span> as above, in a different mood.
 
 **Form:** `agent に + object を + V passive`
 {: .form }
@@ -152,6 +101,8 @@ An intransitive event indirectly causes the subject trouble or harm
 
 **Builds on:** [られる (adversity passive)](<rareru.md#adversity-passive> "Someone's action affects the subject negatively or inconveniently")
 {: .fam }
+
+The same adversity reading reaches even verbs that never had an object to lose.
 
 **Form:** `agent に + V passive` (no object)
 {: .form }
@@ -180,46 +131,6 @@ Plenty of intransitive verbs work the same way as <span class="cite-jp">降る</
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [Transitivity](<transitivity.md> "Transitivity — transitive and intransitive verb pairs") <span class="xref-reason">&mdash; choosing between the plain intransitive and the passive when nobody&#x27;s identity needs to be in the sentence</span></div>
 
 
-## られる (neutral passive) { #neutral-passive }
-
-The subject receives an action, without implying harm or inconvenience
-{: .pt-gloss }
-
-<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-passive</span> <span class="card-tag">affectedness-adversity</span>
-
-**Compounds:** [言われた (passive quote)](<rareru.md#iwareta> "Was told that...; passive reported-speech form.")
-{: .fam }
-
-**Form:** `(agent に) + V passive`
-{: .form }
-
-- **No inconvenience is implied here** — it just reports that an action happened, usually to a thing rather than a person, and usually without much interest in who did it.
-- **The agent is often left out entirely** — <span class="cite-jp">この橋は明治時代に作られた</span> "this bridge was built in the Meiji era" doesn't name a builder, and doesn't need to.
-- **Negating it is ordinary** — <span class="cite-jp">この製品はもう作られていない</span> "this product isn't made anymore" is a completely normal thing to read on a package or a listing.
-
-### More common in writing than in speech
-
-Neutral passive turns up constantly on signs, in product descriptions, and in historical writing, where the fact matters more than anyone's particular involvement.
-
-Conversation reaches for it far less. A speaker is more likely to just state the fact directly, or name who did it, unless leaving the doer vague is actually doing some work.
-
-### One shape, several jobs
-
-Ichidan verbs and <span class="cite-jp">来る</span> don't have a separate word for "can." The same <span class="cite-jp">られる</span> ending covers passive, potential, and honorific meaning, and only context sorts them out.
-
-| reading | what <span class="cite-jp">見られる</span> means here |
-|---|---|
-| passive (this page) | is looked at, gets seen |
-| potential (ichidan · <span class="cite-jp">来る</span> only) | can see, is able to see |
-| honorific | a respected person looks, sees |
-
-Godan verbs don't share this overlap — their potential form is built differently (<span class="cite-jp">飲める</span>, never <span class="cite-jp">飲まれる</span>), so passive and potential never collide for them.
-
-<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [可能形 (potential)](<kanoukei-koto-ga-dekiru.md#kanoukei> "可能形・ことができる — the two ways to say 'can'") <span class="xref-reason">&mdash; the potential reading of this same shape</span></div>
-
-<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [（ら）れる](<reru-rareru.md> "（ら）れる — honorific passive-shaped form") <span class="xref-reason">&mdash; the honorific reading, used to describe a respected person&#x27;s own actions politely</span></div>
-
-
 ## 言われた (passive quote) { #iwareta }
 
 Was told that...; passive reported-speech form.
@@ -231,13 +142,17 @@ Was told that...; passive reported-speech form.
 **From:** compound of [られる (neutral passive)](<rareru.md#neutral-passive> "The subject receives an action, without implying harm or inconvenience")
 {: .fam }
 
+One more <span class="cite-jp">られる</span> job before the page turns to <span class="cite-jp">させる</span>: reporting what someone said.
+
 **Form:** `[quoted content] と/って + 言われた`
 {: .form }
 
 - **This reports what someone told you, using the passive of <span class="cite-jp">言う</span>** — the person who said it, if named, takes <span class="cite-jp">に</span>.
 - **<span class="cite-jp">と</span> is the neutral quote marker; <span class="cite-jp">って</span> is the casual one** — the rest of the sentence doesn't have to change register to match.
 
-### What's inside the quote
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [って (quote)](<tte.md#quote> "って — the casual quote, topic marker, and だって") <span class="xref-reason">&mdash; って&#x27;s own page, the same quoting job at casual register</span></div>
+
+### The quoted words stay the speaker's own
 
 Everything before <span class="cite-jp">と</span> or <span class="cite-jp">って</span> belongs to the person being quoted, not to you. <span class="cite-jp">言われた</span> only marks that it reached you as something said — it doesn't touch the content of what was said.
 
@@ -253,6 +168,119 @@ Everything before <span class="cite-jp">と</span> or <span class="cite-jp">っ�
 
 None of these name who did it. Casual speech drops the agent whenever it's already obvious, leaving just the affected party and the passive verb to carry the whole sentence.
 
-<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
+## させる (causative) { #saseru }
+
+Make or let someone do something, depending on context
+{: .pt-gloss }
+
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-causative</span> <span class="card-tag">causation</span>
+
+With <span class="cite-jp">られる</span>'s jobs now in view, here's the other half of the pair.
+
+**Form:** `causee に + V causative` (the base verb already has an object) · `causee を + V causative` (it doesn't)
+{: .form }
+
+- **The causee gets <span class="cite-jp">に</span> when the verb already has an object** — <span class="cite-jp">先生が生徒に本を読ませた</span> — the teacher had the student read the book — keeps <span class="cite-jp">を</span> on <span class="cite-jp">本</span> and moves the causee to <span class="cite-jp">に</span>.
+- **The causee gets <span class="cite-jp">を</span> when the verb has no object of its own** — <span class="cite-jp">子供を歩かせた</span> — I made the child walk — since <span class="cite-jp">歩く</span> never had an object to begin with.
+- **The same ending can mean "make" or "let"** — nothing in <span class="cite-jp">させる</span> itself decides which. The rest of the sentence does.
+- **Negating <span class="cite-jp">させる</span> usually withholds permission, not force** — <span class="cite-jp">子供にゲームをさせない</span> reads as "I won't let the child play games," not as refusing to force it.
+
+<div class="dlg"><div class="dlg-note">The same させた could mean force or permission; a birthday makes it read as permission here.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>子供<rt>こども</rt></ruby>にお<ruby>菓子<rt>かし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べさせたの？</div><div class="ex-en">Did you let the kids have candy?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">うん、<ruby>誕生日<rt>たんじょうび</rt></ruby>だから。</div><div class="ex-en">Yeah, since it&#x27;s his birthday.</div></div></div></div>
+
+<div id="trap-pitfall" class="trap-anchor"></div>
+
+!!! warning "Pitfall"
+    <span class="cite-jp">させる</span> doesn't grammatically choose between "make" and "let" — the same form covers both. What decides the reading is whether the situation makes force or permission the plausible one.
+
+    Forcing medicine on a child who's fighting it reads as force. Letting a child have cake on their birthday reads as permission. The ending never changes.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">make</div><div class="eg-jp" lang="ja"><ruby>薬<rt>くすり</rt></ruby>を<ruby>嫌<rt>いや</rt></ruby>がる<ruby>子<rt>こ</rt></ruby>に<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>ませた</div><div class="ex-en">I made the child, who didn&#x27;t want to, take the medicine.</div></div><div class="eg-member"><div class="eg-label">let</div><div class="eg-jp" lang="ja"><ruby>誕生日<rt>たんじょうび</rt></ruby>だからケーキを<ruby>好<rt>す</rt></ruby>きなだけ<ruby>食<rt>た</rt></ruby>べさせた</div><div class="ex-en">Since it was his birthday, I let him eat as much cake as he wanted.</div></div></div>
+
+### <span class="cite-jp">に</span> marks two different roles
+
+Both <span class="cite-jp">られる</span> and <span class="cite-jp">させる</span> mark the "other party" with <span class="cite-jp">に</span>, and they're never the same party.
+
+<span class="cite-jp">生徒が先生にほめられた</span> marks the person who acted on the subject. <span class="cite-jp">先生が生徒に本を読ませた</span> marks the person who was made to act. Before assuming a <span class="cite-jp">に</span> phrase means "by" or "for," check which of these two sentences you're actually in.
+
+## させられる (caus.-passive) { #saserareru }
+
+Be made or forced to do something by another person
+{: .pt-gloss }
+
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-causative-passive</span> <span class="card-tag">affectedness-adversity</span>
+
+**Builds on:** [させる (causative)](<rareru.md#saseru> "Make or let someone do something, depending on context") · [られる (neutral passive)](<rareru.md#neutral-passive> "The subject receives an action, without implying harm or inconvenience")
+{: .fam }
+
+Stack the two together, and this is what results.
+
+**Form:** `V causative stem + られる`
+{: .form }
+
+- **Someone else set it up, and you're the one who did it** — the causative-passive reports an action from the side of the person who had no real say in it.
+- **It's the causative and the passive working together** — <span class="cite-jp">させる</span> adds the person who made you act; <span class="cite-jp">られる</span> reports the whole thing from your side, as something that happened to you.
+- **The base verb's own object, if it has one, doesn't move** — only the subject and the verb change shape.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>部長<rt>ぶちょう</rt></ruby>に<ruby>日曜日<rt>にちようび</rt></ruby>も<span class="pat"><ruby>出勤<rt>しゅっきん</rt></ruby>させられた</span>。</div><div class="ex-en">&ldquo;My boss made me come in even on Sundays.&rdquo; <span class="lit">&mdash; lit. was made to come to work by the department head, even on Sunday</span></div><div class="ex-note">させ carries the &quot;made to do it&quot; force; られ reports the whole thing from the side of the person who had to comply.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>部長<rt>ぶちょう</rt></ruby>に</span><span class="g">by my boss</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>日曜日<rt>にちようび</rt></ruby>も</span><span class="g">even on Sundays</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>出勤<rt>しゅっきん</rt></ruby>させられた</span><span class="g">was made to come to work</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">causative stem + られる, causative-passive</span></div></div></details></div>
+
+### The causative-passive across verb classes
+
+Both endings attach the same way to any verb, once you know which pattern to look for.
+
+| verb class | dictionary form | passive (<span class="cite-jp">られる</span>) | causative (<span class="cite-jp">させる</span>) | causative-passive (full) | causative-passive (contracted) |
+|---|---|---|---|---|---|
+| godan (<span class="cite-jp">う</span>) | <span class="cite-jp">買う</span> | <span class="cite-jp">買われる</span> | <span class="cite-jp">買わせる</span> | <span class="cite-jp">買わせられる</span> | <span class="cite-jp">買わされる</span> |
+| godan (<span class="cite-jp">く</span>) | <span class="cite-jp">書く</span> | <span class="cite-jp">書かれる</span> | <span class="cite-jp">書かせる</span> | <span class="cite-jp">書かせられる</span> | <span class="cite-jp">書かされる</span> |
+| ichidan | <span class="cite-jp">食べる</span> | <span class="cite-jp">食べられる</span> | <span class="cite-jp">食べさせる</span> | <span class="cite-jp">食べさせられる</span> | — |
+| <span class="cite-jp">する</span> | <span class="cite-jp">心配する</span> | <span class="cite-jp">心配される</span> | <span class="cite-jp">心配させる</span> | <span class="cite-jp">心配させられる</span> | — |
+| <span class="cite-jp">来る</span> | <span class="cite-jp">来る</span> | <span class="cite-jp">来られる</span> | <span class="cite-jp">来させる</span> | <span class="cite-jp">来させられる</span> | — |
+
+Reading straight across the <span class="cite-jp">買う</span> row:
+
+- <span class="cite-jp">買われる</span> — is bought.
+- <span class="cite-jp">買わせる</span> — makes or lets someone buy.
+- <span class="cite-jp">買わせられる</span> — is made to buy.
+- <span class="cite-jp">買わされる</span> — the same meaning, one syllable shorter.
+
+The other rows follow the same pattern for their own verb.
+
+The contracted column is empty for three of these five rows on purpose — not every verb can shorten this far. <span class="cite-jp">される</span>, next, covers which ones do and why.
+
+## される (contracted caus.-passive) { #sareru }
+
+Contracted spoken form meaning be made or forced to do something
+{: .pt-gloss }
+
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">affectedness-adversity</span>
+
+**Builds on:** [させられる (caus.-passive)](<rareru.md#saserareru> "Be made or forced to do something by another person")
+{: .fam }
+
+One syllable shorter, and just as common.
+
+**Form:** `causative-passive, one syllable shorter` (godan verbs only)
+{: .form }
+
+- **<span class="cite-jp">される</span> is what you'll actually hear** — casual conversation reaches for <span class="cite-jp">される</span> far more than the full <span class="cite-jp">させられる</span>, which is what dictionaries and textbooks show first.
+- **Coming last here is about how it's built, not how common it is** — <span class="cite-jp">される</span> is made from <span class="cite-jp">させられる</span>, so it's taught after it; that says nothing about which one you'll actually hear more.
+- **Godan verbs can drop a syllable from the full causative-passive** — <span class="cite-jp">待たせられる</span> shortens to <span class="cite-jp">待たされる</span>, keeping the same meaning.
+- **Written Japanese and careful speech keep the full form** — <span class="cite-jp">される</span> stays casual; formal writing doesn't contract it.
+
+### Not every verb can shorten this far
+
+Only godan verbs take the shortcut, and even they have one exception.
+
+Ichidan verbs have no shorter form at all — there's no <span class="cite-jp">食べされる</span> next to <span class="cite-jp">食べさせられる</span>.
+
+<span class="cite-jp">する</span> doesn't contract either. Shortening <span class="cite-jp">心配させられる</span> would, in principle, land on <span class="cite-jp">心配された</span> — already the ordinary passive of <span class="cite-jp">する</span>, meaning was worried about.
+
+Avoiding that overlap is a reasonable explanation for why verbs built on <span class="cite-jp">する</span> keep the full causative-passive.
+
+Godan verbs ending in <span class="cite-jp">す</span> are the other holdout. <span class="cite-jp">話させられる</span> could, in principle, shorten to <span class="cite-jp">話さされる</span>, but the doubled <span class="cite-jp">さ</span> sound is awkward to say, and speakers generally keep the full form there too.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">full</div><div class="eg-jp" lang="ja"><ruby>兄<rt>あに</rt></ruby>に<ruby>部屋<rt>へや</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>わせられた</div><div class="ex-en">My brother made me help clean the room.</div></div><div class="eg-member"><div class="eg-label">contracted</div><div class="eg-jp" lang="ja"><ruby>兄<rt>あに</rt></ruby>に<ruby>部屋<rt>へや</rt></ruby>の<ruby>掃除<rt>そうじ</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>わされた</div><div class="ex-en">My brother made me help clean the room.</div></div></div>
+
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
 
 <div class="prov">Authored by Claude Sonnet 5 &bull; 2026-08-27</div>

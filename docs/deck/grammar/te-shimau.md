@@ -10,7 +10,7 @@
 
 Japanese has a way of marking that something is finished, all the way, with no walking it back.
 
-<span class="cite-jp">メールを送った</span> "I sent the email" simply reports the sending. <span class="cite-jp">メールを送ってしまった</span> "I went and sent the email" reports the same event, but with something added — it's done, and there's no taking it back.
+<span class="cite-jp">メールを送った</span> — I sent the email — simply reports the sending. <span class="cite-jp">メールを送ってしまった</span> — I went and sent the email — reports the same event, but with something added: it's done, and there's no taking it back.
 
 That "done, no taking it back" feeling isn't always the same flavor.
 
@@ -18,105 +18,11 @@ Finish something you wanted finished, and it can read as relief or satisfaction.
 
 Both are one auxiliary doing one job — marking an ending that can't be walked back — landing differently depending on what got ended.
 
-In conversation, <span class="cite-jp">てしまう</span> almost always contracts: <span class="cite-jp">送ってしまった</span> becomes <span class="cite-jp">送っちゃった</span>, said the same way, just faster. That contracted form, <span class="cite-jp">ちゃう</span>, is what you'll actually hear — so this page starts there. The fuller, uncontracted <span class="cite-jp">てしまう</span> follows after it.
+The sections below start with the full form, <span class="cite-jp">てしまう</span>, because that's where the grammar is easiest to see whole.
 
-## ちゃう (contraction) { #chau }
+Say it in an actual conversation, though, and it rarely comes out that way — <span class="cite-jp">送ってしまった</span> becomes <span class="cite-jp">送っちゃった</span>, said the same way, just faster. <span class="cite-jp">ちゃう</span>, the contracted form, is what you'll actually hear.
 
-End up doing or do completely; contraction of てしまう.
-{: .pt-gloss }
-
-<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span>
-
-**Builds on:** [てしまう (regret)](<te-shimau.md#regret> "Unfortunately do something, conveying regret, annoyance, or an unwanted outcome")  
-**From:** contraction of [てしまう (regret)](<te-shimau.md#regret> "Unfortunately do something, conveying regret, annoyance, or an unwanted outcome")  
-**Compounds:** [ちゃうかも](<te-shimau.md#chau-kamo> "Might end up doing; casual possibility involving an unintended or regrettable result")
-{: .fam }
-
-**Form:** `V-て + しまう → V-ちゃう` · `V-で + しまう → V-じゃう`
-{: .form }
-
-- **<span class="cite-jp">ちゃう</span> is how <span class="cite-jp">てしまう</span> actually gets said** — the uncontracted form survives in writing and careful speech; conversation collapses it onto the verb's <span class="cite-jp">て</span>-form almost every time.
-- **The contraction is mechanical** — <span class="cite-jp">て</span> before <span class="cite-jp">しまう</span> becomes <span class="cite-jp">ちゃ</span>: <span class="cite-jp">食べてしまう</span> becomes <span class="cite-jp">食べちゃう</span>.
-- **<span class="cite-jp">で</span>-verbs voice the same way** — <span class="cite-jp">で</span> before <span class="cite-jp">しまう</span> becomes <span class="cite-jp">じゃ</span>, carrying over the voicing <span class="cite-jp">で</span> already had: <span class="cite-jp">遊んでしまう</span> becomes <span class="cite-jp">遊んじゃう</span>.
-- **It attaches to the whole event, not to a single word in the sentence** — there's no way to mark just the object as finished; <span class="cite-jp">ちゃう</span> scopes over the whole verb phrase.
-
-<div id="trap-pitfall" class="trap-anchor"></div>
-
-!!! warning "Pitfall"
-    Because <span class="cite-jp">ちゃう</span> sounds so casual, it's tempting to treat it as a looser, separate construction from <span class="cite-jp">てしまう</span> — something to swap out for a "real" grammar point once the conversation turns polite.
-
-    They're one construction at two registers, not two different ones. Going polite just uncontracts it — <span class="cite-jp">忘れちゃった</span> becomes <span class="cite-jp">忘れてしまいました</span> — rather than swapping in a different ending. The completion-or-regret meaning travels across unchanged.
-
-The choice that matters is not which flavor to reach for. It's whether to mark the event as finished and irreversible at all — reach for <span class="cite-jp">ちゃう</span> when that's the point, and leave it off for a plain report of what happened.
-
-<div class="eg-micro"><div class="eg-jp" lang="ja"><ruby>返信<rt>へんしん</rt></ruby>、もう<ruby>出<rt>だ</rt></ruby>しちゃった。</div><div class="ex-en">Already sent the reply.</div></div>
-
-
-## ちゃうかも { #chau-kamo }
-
-Might end up doing; casual possibility involving an unintended or regrettable result
-{: .pt-gloss }
-
-<span class="card-tag lv">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">style: colloquial</span>
-
-**Builds on:** [かも](<kamo.md> "Might; casual shortened expression showing an uncertain possibility")  
-**From:** compound of [ちゃう (contraction)](<te-shimau.md#chau> "End up doing or do completely; contraction of てしまう.")
-{: .fam }
-
-**Form:** `V-ちゃう + かも`
-{: .form }
-
-- **<span class="cite-jp">ちゃうかも</span> guesses at an unwanted or unplanned finish** — pairing the contraction with <span class="cite-jp">かも</span>'s casual conjecture means the speaker isn't sure yet, only that it might end up happening.
-- **The uncertainty belongs to <span class="cite-jp">かも</span>, not to <span class="cite-jp">ちゃう</span>** — <span class="cite-jp">ちゃう</span> still claims the event would be complete and irreversible if it happens; <span class="cite-jp">かも</span> is what keeps the whole thing hypothetical.
-
-<div class="eg-micro"><div class="eg-jp" lang="ja"><ruby>返信<rt>へんしん</rt></ruby>、<ruby>忘<rt>わす</rt></ruby>れちゃうかも。</div><div class="ex-en">I might end up forgetting to reply.</div></div>
-
-
-## ちゃおう { #chaou }
-
-Expresses deciding to finish an action, often briskly or decisively
-{: .pt-gloss }
-
-<span class="card-tag lv">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">intention-volition</span> <span class="card-tag">style: colloquial</span>
-
-**Builds on:** [ちゃう (contraction)](<te-shimau.md#chau> "End up doing or do completely; contraction of てしまう.") · [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")
-{: .fam }
-
-**Form:** `V-ちゃおう` (the volitional <span class="cite-jp">しまおう</span>, contracted)
-{: .form }
-
-- **<span class="cite-jp">ちゃおう</span> commits to finishing something now, briskly** — where <span class="cite-jp">ちゃう</span> and <span class="cite-jp">ちゃった</span> describe what happens or happened, <span class="cite-jp">ちゃおう</span> is the speaker deciding to get it done.
-- **It often carries a "might as well" tone** — the completion is framed as something worth clearing out of the way, not lingered over.
-
-<div class="dlg"><div class="dlg-note">what licenses ちゃおう — B turns down the offer to wait and commits to finishing right away.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>掃除<rt>そうじ</rt></ruby>、<ruby>明日<rt>あした</rt></ruby>でいいよ。</div><div class="ex-en">The cleaning can wait until tomorrow.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ううん、<ruby>今<rt>いま</rt></ruby>やっちゃおう。</div><div class="ex-en">No, let&#x27;s just get it done now.</div></div></div></div>
-
-
-## ちゃった { #chatta }
-
-Ended up doing; past contraction of てしまった.
-{: .pt-gloss }
-
-<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span>
-
-**Builds on:** [ちゃう (contraction)](<te-shimau.md#chau> "End up doing or do completely; contraction of てしまう.") · [過去形・辞書形 (plain statement)](<kakokei-jishokei.md#plain-statement> "States past or nonpast facts plainly, without polite marking")  
-**From:** contraction of [てしまう (regret)](<te-shimau.md#regret> "Unfortunately do something, conveying regret, annoyance, or an unwanted outcome")
-{: .fam }
-
-**Form:** `V-ちゃった` (past)
-{: .form }
-
-- **<span class="cite-jp">ちゃった</span> is where completion and regret actually show up** — most real <span class="cite-jp">てしまう</span>/<span class="cite-jp">ちゃう</span> sentences are in the past, because "done and irreversible" is usually a claim about something that already happened.
-- **The same ending covers both a satisfied "finally done" and a rueful "oh no"** — nothing in <span class="cite-jp">ちゃった</span> itself picks a side; what got finished does.
-
-<div class="eg-contrast"><div class="eg-member"><div class="eg-label">relief</div><div class="eg-jp" lang="ja"><ruby>宿題<rt>しゅくだい</rt></ruby>、<ruby>全部<rt>ぜんぶ</rt></ruby><ruby>終<rt>お</rt></ruby>わっちゃった。</div><div class="ex-en">I got all the homework done.</div></div><div class="eg-member"><div class="eg-label">regret</div><div class="eg-jp" lang="ja"><ruby>傘<rt>かさ</rt></ruby>を<ruby>電車<rt>でんしゃ</rt></ruby>に<ruby>忘<rt>わす</rt></ruby>れちゃった。</div><div class="ex-en">I left my umbrella on the train.</div></div></div>
-
-<div class="dlg"><div class="dlg-note">what licenses ちゃった — A has already spotted the stain, so B&#x27;s ちゃった owns the mishap rather than introducing it.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">あれ、シャツに<ruby>何<rt>なに</rt></ruby>かついてるよ。</div><div class="ex-en">Hey, there&#x27;s something on your shirt.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ああ、コーヒーこぼしちゃった。</div><div class="ex-en">Ugh, I spilled coffee.</div></div></div></div>
-
-### In conversation
-
-<span class="cite-jp">しまった</span> alone stands as a whole reaction, no verb needed, because <span class="cite-jp">しまう</span> itself does the reacting: <span class="cite-jp">しまった！</span> "Oh no!"
-
-And once the rest is obvious, a whole clause shrinks to just the ending — <span class="cite-jp">もう食べちゃった？</span> "Already eaten?" gets answered with plain <span class="cite-jp">食べちゃった。</span> "Yeah, already did."
+It comes right after <span class="cite-jp">てしまう</span>'s own sections here, not because it matters less, but because a contraction is easiest to learn once you've seen what it's contracting.
 
 ## てしまう (completion) { #completion }
 
@@ -141,9 +47,9 @@ One shape shows up anyway: V-<span class="cite-jp">てしまわないと</span>.
 
 Instead, <span class="cite-jp">と</span> turns the whole clause into an elliptical "if this doesn't happen, trouble" — the completion sense of <span class="cite-jp">しまう</span> sits inside that conditional, rather than being negated by it.
 
-<div class="eg-micro"><div class="eg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>までにレポートを<ruby>書<rt>か</rt></ruby>いてしまわないと。</div><div class="ex-en">I have to get the report written by tomorrow.</div></div>
+<div class="eg-micro"><div class="eg-jp" lang="ja">明日までにレポートを書いてしまわないと。</div><div class="ex-en">I have to get the report written by tomorrow.</div></div>
 
-<div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [ないと](<nai-to.md> "ないと — unless") <span class="xref-reason">&mdash; the same elliptical &quot;if this doesn&#x27;t happen, trouble&quot; pattern しまわないと borrows</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [ないと (obligation)](<nakereba-naranai.md#nai-to> "なければならない — must, have to, and don't have to") <span class="xref-reason">&mdash; the same elliptical &quot;if this doesn&#x27;t happen, trouble&quot; pattern しまわないと borrows</span></div>
 
 A different auxiliary points the opposite way: <span class="cite-jp">ておく</span> sets something up now so it's ready later, while <span class="cite-jp">てしまう</span> marks something as already, finally finished.
 
@@ -151,13 +57,7 @@ The two often turn up in the same story — one preparing what the other later d
 
 <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [ておく](<te-oku.md> "ておく — doing something in advance, with the とく contraction") <span class="xref-reason">&mdash; the forward-looking partner: getting something ready in advance, not marking it as finished</span></div>
 
-Register climbs further still. A notice might read <span class="cite-jp">締め切ってしまいます</span> "we'll be closing applications" — plain <span class="cite-jp">てしまう</span>, dressed in the polite -<span class="cite-jp">ます</span> ending, doing formal work without becoming a different construction.
-
-| form | effect | how it lands |
-|---|---|---|
-| <span class="cite-jp">ちゃった</span> | the same finished-and-done idea, contracted | very common in conversation |
-| <span class="cite-jp">てしまった</span> | the same idea, uncontracted | neutral — plain speech or writing |
-| [てしまいました](<te-shimaimashita.md> "てしまいました — Completed regrettably or entirely") | polite past, same idea | deferential — polite speech or writing |
+Register climbs further still. A notice might read <span class="cite-jp">締め切ってしまいます</span> — we'll be closing applications — plain <span class="cite-jp">てしまう</span>, dressed in the polite -<span class="cite-jp">ます</span> ending, doing formal work without becoming a different construction.
 
 *Compare:* [ておく・てある・ている・てしまう — prepared, resulting, finished](<../contrasts/te-oku-te-aru-te-iru-te-shimau.md> "prepared, resulting, finished")
 {: .compare }
@@ -177,9 +77,9 @@ Unfortunately do something, conveying regret, annoyance, or an unwanted outcome
 {: .form }
 
 - **Regret-flavored <span class="cite-jp">しまう</span> usually attaches to something unwanted** — a mistake, a loss, a turn of events nobody asked for — framed the same way completion is: done, and no taking it back.
-- **The speaker doesn't have to be at fault** — <span class="cite-jp">電車が遅れてしまった</span> "the train ended up running late" frames the lateness as an unwelcome, unavoidable done deal, with nobody in the sentence causing it.
+- **The speaker doesn't have to be at fault** — <span class="cite-jp">電車が遅れてしまった</span> — the train ended up running late — frames the lateness as an unwelcome, unavoidable done deal, with nobody in the sentence causing it.
 
-<div class="ex"><div class="ex-jp" lang="ja"><ruby>大事<rt>だいじ</rt></ruby>な<ruby>写真<rt>しゃしん</rt></ruby>を<span class="pat"><ruby>消<rt>け</rt></ruby>してしまった</span>。</div><div class="ex-en">&ldquo;I deleted an important photo.&rdquo; <span class="lit">&mdash; lit. an important photo, went and erased</span></div><div class="ex-note">てしまう doesn&#x27;t just report the deleting — it frames it as complete and impossible to undo, and that framing is what makes this land as regret.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>大事<rt>だいじ</rt></ruby>な<ruby>写真<rt>しゃしん</rt></ruby>を</span><span class="g">the important photo</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>消<rt>け</rt></ruby>してしまった</span><span class="g">ended up erasing</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-てしまう, an ending that can&#x27;t be walked back</span></div></div></details></div>
+<div class="ex"><div class="ex-jp" lang="ja">大事な写真を<span class="pat">消してしまった</span>。</div><div class="ex-en">&ldquo;I deleted an important photo.&rdquo; <span class="lit">&mdash; lit. an important photo, went and erased</span></div><div class="ex-note">てしまう doesn&#x27;t just report the deleting — it frames it as complete and impossible to undo, and that framing is what makes this land as regret.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">大事な写真を</span><span class="g">the important photo</span></div><div class="bd-seg hit"><span class="j" lang="ja">消してしまった</span><span class="g">ended up erasing</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-てしまう, an ending that can&#x27;t be walked back</span></div></div></details></div>
 
 <div id="trap-english-trap" class="trap-anchor"></div>
 
@@ -193,6 +93,118 @@ A different construction reaches a similar unwanted feeling by another route: th
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [られる (adversity passive)](<rareru.md#adversity-passive> "られる・させる — passive, causative, and causative-passive") <span class="xref-reason">&mdash; the same unwanted-outcome feeling, reached by making the affected person the subject instead</span></div>
 
 
-<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
+## ちゃう (contraction) { #chau }
+
+End up doing or do completely; contraction of てしまう.
+{: .pt-gloss }
+
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span>
+
+**Builds on:** [てしまう (regret)](<te-shimau.md#regret> "Unfortunately do something, conveying regret, annoyance, or an unwanted outcome")  
+**From:** contraction of [てしまう (regret)](<te-shimau.md#regret> "Unfortunately do something, conveying regret, annoyance, or an unwanted outcome")  
+**Compounds:** [ちゃうかも](<te-shimau.md#chau-kamo> "Might end up doing; casual possibility involving an unintended or regrettable result")
+{: .fam }
+
+**Form:** `V-て + しまう → V-ちゃう` · `V-で + しまう → V-じゃう`
+{: .form }
+
+- **<span class="cite-jp">ちゃう</span> is simply how the <span class="cite-jp">てしまう</span> you just saw actually gets said** — in writing and careful speech it stays uncontracted; conversation collapses it onto the verb's <span class="cite-jp">て</span>-form almost every time.
+- **The contraction is mechanical** — <span class="cite-jp">て</span> before <span class="cite-jp">しまう</span> becomes <span class="cite-jp">ちゃ</span>: <span class="cite-jp">食べてしまう</span> becomes <span class="cite-jp">食べちゃう</span>.
+- **<span class="cite-jp">で</span>-verbs voice the same way** — <span class="cite-jp">で</span> before <span class="cite-jp">しまう</span> becomes <span class="cite-jp">じゃ</span>, carrying over the voicing <span class="cite-jp">で</span> already had: <span class="cite-jp">遊んでしまう</span> becomes <span class="cite-jp">遊んじゃう</span>.
+- **It attaches to the whole event, not to a single word in the sentence** — there's no way to mark just the object as finished; <span class="cite-jp">ちゃう</span> scopes over the whole verb phrase.
+
+<div id="trap-pitfall" class="trap-anchor"></div>
+
+!!! warning "Pitfall"
+    Because <span class="cite-jp">ちゃう</span> sounds so casual, it's tempting to treat it as a looser, separate construction from <span class="cite-jp">てしまう</span> — something to swap out for a "real" grammar point once the conversation turns polite.
+
+    They're one construction at two registers, not two different ones. Going polite just uncontracts it — <span class="cite-jp">忘れちゃった</span> becomes <span class="cite-jp">忘れてしまいました</span> — rather than swapping in a different ending. The completion-or-regret meaning travels across unchanged.
+
+The choice that matters is not which flavor to reach for. It's whether to mark the event as finished and irreversible at all — reach for <span class="cite-jp">ちゃう</span> when that's the point, and leave it off for a plain report of what happened.
+
+<div class="eg-micro"><div class="eg-jp" lang="ja">返信、もう出しちゃった。</div><div class="ex-en">Already sent the reply.</div></div>
+
+
+## ちゃった { #chatta }
+
+Ended up doing; past contraction of てしまった.
+{: .pt-gloss }
+
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span>
+
+**Builds on:** [ちゃう (contraction)](<te-shimau.md#chau> "End up doing or do completely; contraction of てしまう.") · [過去形・辞書形 (plain statement)](<kakokei-jishokei.md#plain-statement> "States past or nonpast facts plainly, without polite marking")  
+**From:** contraction of [てしまう (regret)](<te-shimau.md#regret> "Unfortunately do something, conveying regret, annoyance, or an unwanted outcome")
+{: .fam }
+
+**Form:** `V-ちゃった` (past)
+{: .form }
+
+- **<span class="cite-jp">ちゃった</span> is where completion and regret actually show up** — most real <span class="cite-jp">てしまう</span>/<span class="cite-jp">ちゃう</span> sentences are in the past, because "done and irreversible" is usually a claim about something that already happened.
+- **The same ending covers both a satisfied "finally done" and a rueful "oh no"** — nothing in <span class="cite-jp">ちゃった</span> itself picks a side; what got finished does.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">relief</div><div class="eg-jp" lang="ja">宿題、全部終わっちゃった。</div><div class="ex-en">I got all the homework done.</div></div><div class="eg-member"><div class="eg-label">regret</div><div class="eg-jp" lang="ja">傘を電車に忘れちゃった。</div><div class="ex-en">I left my umbrella on the train.</div></div></div>
+
+<div class="dlg"><div class="dlg-note">what licenses ちゃった — A has already spotted the stain, so B&#x27;s ちゃった owns the mishap rather than introducing it.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">あれ、シャツに何かついてるよ。</div><div class="ex-en">Hey, there&#x27;s something on your shirt.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ああ、コーヒーこぼしちゃった。</div><div class="ex-en">Ugh, I spilled coffee.</div></div></div></div>
+
+
+## ちゃおう { #chaou }
+
+Expresses deciding to finish an action, often briskly or decisively
+{: .pt-gloss }
+
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">intention-volition</span> <span class="card-tag">style: colloquial</span>
+
+**Builds on:** [ちゃう (contraction)](<te-shimau.md#chau> "End up doing or do completely; contraction of てしまう.") · [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")
+{: .fam }
+
+**Form:** `V-ちゃおう` (the volitional <span class="cite-jp">しまおう</span>, contracted)
+{: .form }
+
+- **<span class="cite-jp">ちゃおう</span> commits to finishing something now, briskly** — where <span class="cite-jp">ちゃう</span> and <span class="cite-jp">ちゃった</span> describe what happens or happened, <span class="cite-jp">ちゃおう</span> is the speaker deciding to get it done.
+- **It often carries a "might as well" tone** — the completion is framed as something worth clearing out of the way, not lingered over.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [意向形](<ikoukei.md> "意向形 — the volitional: intention, invitation, and ましょう") <span class="xref-reason">&mdash; the plain volitional しまおう that ちゃおう contracts from</span></div>
+
+<div class="dlg"><div class="dlg-note">what licenses ちゃおう — B turns down the offer to wait and commits to finishing right away.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">掃除、明日でいいよ。</div><div class="ex-en">The cleaning can wait until tomorrow.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ううん、今やっちゃおう。</div><div class="ex-en">No, let&#x27;s just get it done now.</div></div></div></div>
+
+
+## ちゃうかも { #chau-kamo }
+
+Might end up doing; casual possibility involving an unintended or regrettable result
+{: .pt-gloss }
+
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">contraction</span> <span class="card-tag">conjecture-inference</span> <span class="card-tag">style: colloquial</span>
+
+**Builds on:** [かも](<kamo.md> "Might; casual shortened expression showing an uncertain possibility")  
+**From:** compound of [ちゃう (contraction)](<te-shimau.md#chau> "End up doing or do completely; contraction of てしまう.")
+{: .fam }
+
+**Form:** `V-ちゃう + かも`
+{: .form }
+
+- **<span class="cite-jp">ちゃうかも</span> guesses at an unwanted or unplanned finish** — pairing the contraction with <span class="cite-jp">かも</span>'s casual conjecture means the speaker isn't sure yet, only that it might end up happening.
+- **The uncertainty belongs to <span class="cite-jp">かも</span>, not to <span class="cite-jp">ちゃう</span>** — <span class="cite-jp">ちゃう</span> still claims the event would be complete and irreversible if it happens; <span class="cite-jp">かも</span> is what keeps the whole thing hypothetical.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [かも](<kamo.md> "かも — Might") <span class="xref-reason">&mdash; the casual conjecture ちゃうかも borrows its uncertainty from</span></div>
+
+<div class="eg-micro"><div class="eg-jp" lang="ja">返信、忘れちゃうかも。</div><div class="ex-en">I might end up forgetting to reply.</div></div>
+
+Line the whole family up by how formal it sounds, and the difference the ear can't skip becomes visible:
+
+| form | example | effect | how it lands |
+|---|---|---|---|
+| <span class="cite-jp">てしまった</span> | <span class="cite-jp">財布を忘れてしまった</span> — I went and forgot my wallet | reports the slip as a finished, unwalked-back fact | neutral — plain speech or writing |
+| <span class="cite-jp">ちゃった</span> | <span class="cite-jp">財布を忘れちゃった</span> — I forgot my wallet | the same slip, said the way you'd actually say it out loud | very common in conversation |
+| [てしまいました (polite)](<te-shimaimashita.md#polite> "てしまいました — Completed regrettably or entirely") | <span class="cite-jp">財布を忘れてしまいました</span> — I'm afraid I forgot my wallet | the same slip, said formally | deferential — polite speech or writing |
+
+### In conversation
+
+<span class="cite-jp">しまった</span> alone stands as a whole reaction, no verb needed, because <span class="cite-jp">しまう</span> itself does the reacting: <span class="cite-jp">しまった！</span> — Oh no!
+
+And once the rest is obvious, a whole clause shrinks to just the ending: <span class="cite-jp">もう食べちゃった？</span> — Already eaten?
+
+The reply shrinks the same way: <span class="cite-jp">食べちゃった。</span> — Yeah, already did.
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
 
 <div class="prov">Authored by Claude Sonnet 5 &bull; 2026-08-27</div>

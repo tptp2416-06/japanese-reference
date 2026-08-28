@@ -90,7 +90,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="ka/">か — Or</a></h3><p>Or; marks a choice between alternatives.</p></div>
 <div class="card-grid-item"><h3><a href="kakaru/">かかる — States the time or money required for something</a></h3><p>States the time or money required for something</p></div>
 <div class="card-grid-item"><h3><a href="kakokei-jishokei/">過去形・辞書形 — States past or nonpast facts plainly, without polite marking</a></h3><p>States past or nonpast facts plainly, without polite marking</p></div>
-<div class="card-grid-item"><h3><a href="kara/">から — reason, and the particle for source and time</a></h3><p>Because, placed after the main clause as an added justification.</p></div>
+<div class="card-grid-item"><h3><a href="kara/">から — reason, and the particle for source and time</a></h3><p>Because; gives a reason.</p></div>
 <div class="card-grid-item"><h3><a href="kara-made/">から〜まで — Marks a range from its starting point through its endpoint</a></h3><p>Marks a range from its starting point through its endpoint</p></div>
 <div class="card-grid-item"><h3><a href="kedo/">けど — But or though</a></h3><p>But or though; contrast or soft setup.</p></div>
 <div class="card-grid-item"><h3><a href="kikan-ni/">期間＋に — Per period</a></h3><p>Per period: a time span plus に states frequency or rate within each period (週に一回, 月に二回)</p></div>
@@ -238,7 +238,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="o-saki-ni/">お先に — Before others</a></h3><p>Before others; polite phrase used when leaving or acting first</p></div>
 <div class="card-grid-item"><h3><a href="omotta-yori/">思ったより — More or less X than expected</a></h3><p>More or less X than expected; comparison against prior expectation</p></div>
 <div class="card-grid-item"><h3><a href="onaka-ga-naru/">お腹が鳴る — Have one&#x27;s stomach rumble audibly, usually from hunger</a></h3><p>Have one&#x27;s stomach rumble audibly, usually from hunger</p></div>
-<div class="card-grid-item"><h3><a href="rareru/">られる・させる — passive, causative, and causative-passive</a></h3><p>Be made or forced to do something by another person</p></div>
+<div class="card-grid-item"><h3><a href="rareru/">られる・させる — passive, causative, and causative-passive</a></h3><p>The subject receives an action, without implying harm or inconvenience</p></div>
 <div class="card-grid-item"><h3><a href="ru-tokoro-da/">るところだ — Be just about to do</a></h3><p>Be just about to do; focuses on the immediate pre-action point</p></div>
 <div class="card-grid-item"><h3><a href="saikin/">最近 — Recently or lately</a></h3><p>Recently or lately.</p></div>
 <div class="card-grid-item"><h3><a href="sasete-kudasai/">させてください — Please let me do something</a></h3><p>Please let me do something; requests permission for the speaker&#x27;s action</p></div>
@@ -264,7 +264,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="te-kuru-te-iku/">てくる・ていく — movement and change, toward or away from now</a></h3><p>Continue changing from now onward; development proceeds away from the present</p></div>
 <div class="card-grid-item"><h3><a href="te-mo/">ても — even if, however much</a></h3><p>Even if something happens or holds, the result remains unchanged</p></div>
 <div class="card-grid-item"><h3><a href="te-oku/">ておく — doing something in advance, with the とく contraction</a></h3><p>Did something in advance; past preparatory action for a later need</p></div>
-<div class="card-grid-item"><h3><a href="te-shimau/">てしまう — completion and regret, with the ちゃう contractions</a></h3><p>End up doing or do completely; contraction of てしまう.</p></div>
+<div class="card-grid-item"><h3><a href="te-shimau/">てしまう — completion and regret, with the ちゃう contractions</a></h3><p>Finish doing something completely, emphasizing completion rather than regret</p></div>
 <div class="card-grid-item"><h3><a href="to-omou/">と思う — Think that something is true</a></h3><p>Think that something is true, or express an opinion or intention</p></div>
 <div class="card-grid-item"><h3><a href="toka-toka/">とか〜とか — Gives representative examples such as X and Y</a></h3><p>Gives representative examples such as X and Y, without exhausting the list</p></div>
 <div class="card-grid-item"><h3><a href="toki/">とき — When or at the time that</a></h3><p>When or at the time that.</p></div>

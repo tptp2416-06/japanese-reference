@@ -1,6 +1,6 @@
 たら turns the past-tense shape of a verb, adjective or noun into a clause that sets something else up, rather than reporting that the action is already finished.
 
-電気をつけたら is built on つけた, the ordinary past tense of つける "turn on," but it points forward to whatever comes next instead of reporting that the light is already on.
+電気をつけたら is built on つけた, the ordinary past tense of つける — turn on — but it points forward to whatever comes next instead of reporting that the light is already on.
 
 What comes next decides what that pointing-forward was for. 電気をつけたら、部屋が明るくなる predicts what happens once the switch is flipped: the room gets bright, and it hasn't yet.
 
@@ -18,7 +18,7 @@ Context — mainly the tense of what follows — decides which one you're hearin
 **Form:** `V-た + ら` · `Adj-かった + ら` · `Na-adj/N + だったら`
 
 - **A hypothesis about something that hasn't happened yet** — 電気をつけたら、部屋が明るくなる simply predicts that the room will get bright once the light goes on, nothing more.
-- **Any predicate type attaches the same way** — an い-adjective or な-adjective/noun takes だった before ら: 忙しかったら "if I'm busy," 静かだったら "if it's quiet," 学生だったら "if they're a student."
+- **Any predicate type attaches the same way** — an い-adjective or な-adjective/noun takes だった before ら: 忙しかったら — if I'm busy, 静かだったら — if it's quiet, 学生だったら — if they're a student.
 - **The main clause can be almost anything** — a statement, a question, a request, an invitation or a command all follow comfortably.
 - **Its whole length sits inside the condition's scope** — however long the main clause runs, all of it is what the たら-clause is conditioning.
 - **Negation just flips which condition is true** — 宿題が終わらなかったら、今日は遊びに行けない states that unfinished homework blocks going out today, exactly as directly as the affirmative version would state the opposite.
@@ -59,10 +59,10 @@ A: 暇[ひま]だったら、うちに来[こ]ない？ | If you're free, want t
 
 | form | effect | example | how it lands |
 |---|---|---|---|
-| [[to#conditional]] | states a mechanical or repeated consequence; not for requests | 京都に行くと、いつも祖母の家に寄る "Whenever I go to Kyoto, I always stop by my grandmother's" | neutral, matter-of-fact — natural for general truths and repeated patterns |
-| [[ba#conditional]] | states a condition for a possibility or a general rule | 京都に行けば、金閣寺も見られる "If you go to Kyoto, you can see Kinkaku-ji too" | leans literary — common in writing and set phrases, a little stiff in casual talk |
-| [[nara#advice]] | reacts to what was just said, without requiring it to happen first | 京都に行くなら、新幹線が便利だよ "If you're going to Kyoto, the shinkansen is convenient" | natural for giving advice on the spot |
-| たら | requires the event to actually happen first; takes almost any main clause | 京都に着いたら、電話して "Once you get to Kyoto, call me" | the default in conversation — handles requests and reports, not just conditions |
+| [[to#conditional]] | states a mechanical or repeated consequence; not for requests | 京都に行くと、いつも祖母の家に寄る — Whenever I go to Kyoto, I always stop by my grandmother's | neutral, matter-of-fact — natural for general truths and repeated patterns |
+| [[ba#conditional]] | states a condition for a possibility or a general rule | 京都に行けば、金閣寺も見られる — If you go to Kyoto, you can see Kinkaku-ji too | leans literary — common in writing and set phrases, a little stiff in casual talk |
+| [[nara#advice]] | reacts to what was just said, without requiring it to happen first | 京都に行くなら、新幹線が便利だよ — If you're going to Kyoto, the shinkansen is convenient | natural for giving advice on the spot |
+| たら | requires the event to actually happen first; takes almost any main clause | 京都に着いたら、電話して — Once you get to Kyoto, call me | the default in conversation — handles requests and reports, not just conditions |
 
 The row worth remembering is the last one: たら is the one that requires its own trigger to actually happen, and the one that puts the least restriction on what follows it.
 
@@ -115,15 +115,14 @@ discovery: 窓[まど]を開[あ]けたら、外[そと]は雨[あめ]だった*
 - **A habitual main clause reads as a routine, not a single event** — the same shape that reports a discovery above can instead describe something the speaker does every time, with nothing being noticed for the first time.
 - **Order still matters** — the first event has to finish before the second one starts; たら doesn't describe two things happening at once.
 
-The same trigger-then-result shape describes an ordinary routine when nothing is being discovered:
+The same trigger-then-result shape describes an ordinary routine when nothing is being discovered.
+
+The same shape turns fully polite by putting the ます-stem in front of it instead of the plain past — exactly the line a notice or an announcement reaches for:
 
 ```eg
-仕事[しごと]が終[お]わったら、いつも駅前[えきまえ]の店[みせ]でコーヒーを買[か]う | After work finishes, I always stop by the shop near the station for coffee.
+plain: 仕事[しごと]が終[お]わったら、いつも駅前[えきまえ]の店[みせ]でコーヒーを買[か]う | After work finishes, I always stop by the shop near the station for coffee.
+polite: 到着[とうちゃく]しましたら、受付[うけつけ]までお越[こ]しください | Once you've arrived, please come to the reception desk.
 ```
-
-The same shape turns fully polite by putting the ます-stem in front of it instead of the plain past.
-
-到着しましたら、受付までお越しください is exactly the kind of line a notice or an announcement uses: once you've arrived, please come to the reception desk.
 
 とき marks a shared window of time rather than a trigger — 京都に行くとき、傘を持っていった says the umbrella was brought along during the trip, without claiming the trip's start caused anything. たら instead marks one event as setting up the next.
 
@@ -140,7 +139,7 @@ The same shape turns fully polite by putting the ます-stem in front of it inst
 ```ex
 今日[きょう]は無理[むり]しないで、もう寝[ね]たら？
 en: Don't push yourself today — why not just go to sleep?
-note: The clause stops at たら; どう "how about it" after it is left for the listener to fill in, which is what keeps the suggestion light rather than pushy.
+note: The clause stops at たら; どう — how about it — after it is left for the listener to fill in, which is what keeps the suggestion light rather than pushy.
 bd: 今日は|today / 無理しないで、|don't push yourself, and / もう|already / 寝たら*|why not just sleep
 pat: V-たら + nothing, rising intonation implied
 ```
@@ -157,6 +156,8 @@ A: 明日[あした]行[い]ったら？ | Why not go tomorrow?
 
     The natural move in polite speech is to restructure the whole line as 〜たらどうですか, writing the missing half back in rather than conjugating たら？ upward.
 
+-> Continue with: [[dou-desu-ka]] — the polite construction that writes the missing half back in
+
 ### In conversation
 
 The consequence drops out once context already supplies it:
@@ -169,7 +170,7 @@ The consequence drops out once context already supplies it:
 
 **Form:** `気づいたら + [a clause describing what had already changed]`
 
-- **The set phrase is built on 気づく "notice" plus discovery たら** — literally "once I noticed," used to frame a change as already complete by the time anyone caught up with it.
+- **The set phrase is built on 気づく — notice — plus discovery たら** — literally once I noticed, used to frame a change as already complete by the time anyone caught up with it.
 - **The moment of noticing is never dated** — 気づいたら doesn't say how long the change took or exactly when it happened, only that it was already true by the time it was noticed.
 
 ```ex
