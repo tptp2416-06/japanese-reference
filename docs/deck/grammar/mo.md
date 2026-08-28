@@ -31,7 +31,7 @@ Also or too.
 
 <div class="ex"><div class="ex-jp" lang="ja"><span class="pat"><ruby>私<rt>わたし</rt></ruby>も</span><ruby>本<rt>ほん</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んだ。</div><div class="ex-en">&ldquo;I, too, read the book.&rdquo;</div><div class="ex-note">も attaches to 私, so the added member is the reader rather than the book.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="j" lang="ja"><ruby>私<rt>わたし</rt></ruby>も</span><span class="g">I too</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>本<rt>ほん</rt></ruby>を</span><span class="g">the book</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>読<rt>よ</rt></ruby>んだ</span><span class="g">read</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">N + も, added subject</span></div></div></details></div>
 
-### What does <span class="cite-jp">も</span> attach to?
+### <span class="cite-jp">も</span> attaches to what is being added
 
 The element <span class="cite-jp">も</span> marks directly is the element being added. Attach it to the wrong word and the sentence adds the wrong thing.
 

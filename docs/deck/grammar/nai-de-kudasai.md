@@ -32,7 +32,7 @@ Please do not do.
 !!! note "What's in scope"
     In <span class="cite-jp">箱を開けないでください</span> "please do not open the box", the negative belongs to the requested action: the listener is asked to refrain from opening it. The sentence does not negate <span class="cite-jp">ください</span> or mean "don't please".
 
-### Why not <span class="cite-jp">なくてください</span>?
+### <span class="cite-jp">なくてください</span> is not the request form
 
 <div id="trap-pitfall" class="trap-anchor"></div>
 
@@ -43,7 +43,7 @@ Please do not do.
 
 <div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [ないで](<nai-de.md> "ないで — Without doing one action, or while refraining from it") <span class="xref-reason">&mdash; the linker itself, and why ないで is the connector this form needs</span></div>
 
-### Request, favour, rule, or command?
+### Four kinds of move: request, favour, rule, command
 
 Ask first whether you are making a direct polite request, speaking warmly or urgently, asking the listener for a favour indirectly, or stating a rule. The answer chooses the form.
 

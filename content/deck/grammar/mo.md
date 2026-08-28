@@ -24,7 +24,7 @@ bd: 私も*|I too / 本を|the book / 読んだ|read
 pat: N + も, added subject
 ```
 
-### What does も attach to?
+### も attaches to what is being added
 
 The element も marks directly is the element being added. Attach it to the wrong word and the sentence adds the wrong thing.
 

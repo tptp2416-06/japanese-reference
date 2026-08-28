@@ -27,7 +27,7 @@ pat: V-ない + でください
 !!! note "What's in scope"
     In 箱を開けないでください "please do not open the box", the negative belongs to the requested action: the listener is asked to refrain from opening it. The sentence does not negate ください or mean "don't please".
 
-### Why not なくてください?
+### なくてください is not the request form
 
 !!! warning "Pitfall"
     Use 食べないでください "please do not eat", not × 食べなくてください. Here ないで is the linker that presents **not doing the action** to ください.
@@ -36,7 +36,7 @@ pat: V-ない + でください
 
 -> Prerequisite: [[nai-de]] — the linker itself, and why ないで is the connector this form needs
 
-### Request, favour, rule, or command?
+### Four kinds of move: request, favour, rule, command
 
 Ask first whether you are making a direct polite request, speaking warmly or urgently, asking the listener for a favour indirectly, or stating a rule. The answer chooses the form.
 
