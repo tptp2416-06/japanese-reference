@@ -4,13 +4,12 @@
 
 !!! tip "At a glance"
 
-    Obligation is commonly built around **"if I don't do this, that won't do"**:
-    <span class="cite-jp">行かなければならない</span> "have to go." Conversation often shortens the pattern
-    to <span class="cite-jp">行かないと</span>, <span class="cite-jp">行かなきゃ</span> or <span class="cite-jp">行かなくちゃ</span>, with the final "that won't do"
-    understood from context.
+    Obligation is commonly built from **if I do not do this, that will not do**:
+    <span class="cite-jp">行かなければならない</span> — have to go. Conversation often shortens the pattern to
+    <span class="cite-jp">行かないと</span>, <span class="cite-jp">行かなきゃ</span> or <span class="cite-jp">行かなくちゃ</span>, leaving that will not do to context.
 
-    <span class="cite-jp">なくてもいい</span> reverses the practical result: it means **"do not have to,"**
-    not "must not."
+    <span class="cite-jp">なくてもいい</span> reverses the result: it means you do not have to, not you must
+    not.
 
 English can express obligation directly with words like "must" or "have to."
 Japanese often builds the same idea from the other direction:
@@ -18,35 +17,41 @@ Japanese often builds the same idea from the other direction:
 **If I do not do this, that will not do.**
 
 That basic logic runs through this whole family. First, the action is framed
-negatively with a form such as <span class="cite-jp">なければ</span>, <span class="cite-jp">ないと</span> or <span class="cite-jp">なくては</span>. Then comes —
-either explicitly or implicitly — the idea that leaving things that way is not
-acceptable: <span class="cite-jp">ならない</span>, <span class="cite-jp">いけない</span> or <span class="cite-jp">だめ</span>.
+negatively with a form such as <span class="cite-jp">なければ</span>, <span class="cite-jp">ないと</span> or <span class="cite-jp">なくては</span>.
+
+Then comes — either explicitly or implicitly — the idea that leaving things
+that way is not acceptable: <span class="cite-jp">ならない</span>, <span class="cite-jp">いけない</span> or <span class="cite-jp">だめ</span>.
 
 Conversation can shorten the first part, leave the second part unstated, or do
 both.
 
 The literal logic is useful because it shows how the grammar fits together. It
 is not something to keep translating word by word. Once the pattern is
-familiar, <span class="cite-jp">行かなければならない</span> should register directly as "have to go."
+familiar, <span class="cite-jp">行かなければならない</span> registers directly as have to go, with nothing
+left to assemble.
+
+**Choosing among the endings below is a register decision, not a meaning
+decision** — almost all of them still mean have to go. Decide how careful or
+casual the moment is, then pick the form that lands there.
 
 A useful map of the family:
 
-| shape | typical use or feel |
-| --- | --- |
-| <span class="cite-jp">行かなければなりません</span> | full and polite |
-| <span class="cite-jp">行かなければならない</span> | full, careful "have to go" |
-| <span class="cite-jp">行かないといけない</span> | very common spoken "have to go" |
-| <span class="cite-jp">行かなきゃいけない</span> | casual spoken |
-| <span class="cite-jp">行かなくちゃいけない</span> | casual spoken |
-| <span class="cite-jp">行かないと</span> | conversational; result left unstated |
-| <span class="cite-jp">行かなきゃ</span> | casual; result left unstated |
-| <span class="cite-jp">行かなくちゃ</span> | casual; result left unstated |
-| <span class="cite-jp">行かなくてもいい</span> | "do not have to go" — no obligation |
+| form | meaning | how it lands |
+| --- | --- | --- |
+| <span class="cite-jp">行かなければなりません</span> | have to go | full and polite |
+| <span class="cite-jp">行かなければならない</span> | have to go | full, careful — the standard written and spoken form |
+| <span class="cite-jp">行かないといけない</span> | have to go | very common in speech |
+| <span class="cite-jp">行かなきゃいけない</span> | have to go | casual, spoken |
+| <span class="cite-jp">行かなくちゃいけない</span> | have to go | casual, spoken |
+| <span class="cite-jp">行かないと</span> | have to go, result left unstated | conversational |
+| <span class="cite-jp">行かなきゃ</span> | have to go, result left unstated | casual |
+| <span class="cite-jp">行かなくちゃ</span> | have to go, result left unstated | casual |
+| <span class="cite-jp">行かなくてもいい</span> | do not have to go | reverses the obligation |
 
 The forms look different on the surface, but most are variations on the same
 underlying idea.
 
-## ないと (obligation) { #nai-to }
+## ないと (obligation) — an if, or an obligation { #nai-to }
 
 Must do; casual obligation with the consequence left unstated
 {: .pt-gloss }
@@ -59,20 +64,28 @@ Must do; casual obligation with the consequence left unstated
 **Form:** `V-ない + と` · `V-ない + と + いけない／だめ`
 {: .form }
 
-- **<span class="cite-jp">ないと</span> can still be an ordinary "if not..." condition** —
-  <span class="cite-jp">急がないと間に合わない</span> "if we do not hurry, we will not make it" states an
-  actual consequence. The form itself does not automatically mean "have to."
-- **In obligation expressions, the consequence is often understood rather than
-  said** — <span class="cite-jp">もう行かないと</span> "I need to go now" leaves something like
-  "otherwise that won't do" unspoken. This has become a conventional
-  conversational way to express necessity.
+### Not always an obligation
+
+- **<span class="cite-jp">ないと</span> can still be an ordinary "if not" condition** — <span class="cite-jp">急がないと間に合わない</span>
+  says that if we do not hurry, we will not make it, a real consequence
+  rather than an obligation. The form itself does not automatically mean
+  "have to."
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [と (conditional)](<to.md#conditional> "と — the conditional, and the particle for listing and accompaniment") <span class="xref-reason">&mdash; the plain conditional reading of と, with no</span></div>
+
+obligation sense at all
+
+### The consequence is often left unspoken
+
+- **In obligation expressions, the consequence is often left understood** —
+  <span class="cite-jp">もう行かないと</span> already reads as I need to go now, the otherwise left
+  unspoken. This is a conventional conversational way to state necessity.
 - **Adding <span class="cite-jp">いけない</span> or <span class="cite-jp">だめ</span> makes the obligation explicit** —
-  <span class="cite-jp">もう行かないといけない</span> "I have to go now" says the whole idea rather than
-  leaving the result for the listener to supply.
-- **Sometimes what follows <span class="cite-jp">と</span> is a real consequence, not a general "that won't
-  do"** — <span class="cite-jp">困る</span> means "be in trouble"; <span class="cite-jp">まずい</span> means "bad" or "awkward";
-  <span class="cite-jp">やばい</span> is a stronger casual assessment. These sentences explain what will
-  actually go wrong if the action does not happen.
+  <span class="cite-jp">もう行かないといけない</span> spells out the whole idea, I have to go now,
+  instead of leaving the result for the listener to supply.
+- **Sometimes <span class="cite-jp">と</span> is followed by a real consequence, not a vague "that won't
+  do"** — <span class="cite-jp">困る</span> means to be in trouble; <span class="cite-jp">まずい</span> means bad or awkward; <span class="cite-jp">やばい</span> is
+  a stronger casual assessment. Each names what actually goes wrong.
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>手伝<rt>てつだ</rt></ruby>って<span class="pat">くれないと</span><ruby>困<rt>こま</rt></ruby>る。</div><div class="ex-en">&ldquo;I need your help.&rdquo; <span class="lit">&mdash; lit. if you don&#x27;t help me, I&#x27;m in trouble</span></div><div class="ex-note">The consequence is the speaker&#x27;s actual trouble, so the sentence explains why the help is needed rather than simply stating a general rule.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>手伝<rt>てつだ</rt></ruby>って</span><span class="g">help, て-form</span></div><div class="bd-seg hit"><span class="j" lang="ja">くれない</span><span class="g">won&#x27;t do for me</span></div><div class="bd-seg hit"><span class="j" lang="ja">と</span><span class="g">if</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>困<rt>こま</rt></ruby>る</span><span class="g">I&#x27;m in trouble</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">negative + と, consequence stated</span></div></div></details></div><div class="reg"><div><div class="rlbl">casual</div><span lang="ja">もう行かないと。</span></div><div><div class="rlbl">polite</div><span lang="ja">もう行かないといけません。</span></div></div>
 
@@ -80,7 +93,7 @@ Must do; casual obligation with the consequence left unstated
 *Compare:* [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
 {: .compare }
 
-## なきゃ (truncated) { #nakya }
+## なきゃ (truncated) — the casual contraction { #nakya }
 
 Have to; casual contraction with the ending omitted.
 {: .pt-gloss }
@@ -99,18 +112,20 @@ Have to; casual contraction with the ending omitted.
   for a fuller expression such as <span class="cite-jp">行かなきゃいけない</span> or
   <span class="cite-jp">行かなきゃならない</span>.
 - **That does not make it feel unfinished in ordinary conversation** —
-  <span class="cite-jp">もう帰らなきゃ</span> is conventionally understood as "I've got to head home."
-  The listener does not need to hear the missing <span class="cite-jp">いけない</span> or <span class="cite-jp">ならない</span>.
+  <span class="cite-jp">もう帰らなきゃ</span> conventionally reads as I've got to head home. The listener
+  does not need to hear the missing <span class="cite-jp">いけない</span> or <span class="cite-jp">ならない</span>.
 - **It belongs mainly to conversational language** — <span class="cite-jp">なきゃ</span> is natural in
   casual speech, messages and dialogue, but not in careful formal prose.
 
 <div class="ex"><div class="ex-jp" lang="ja">もう<span class="pat"><ruby>帰<rt>かえ</rt></ruby>らなきゃ</span>。</div><div class="ex-en">&ldquo;I&#x27;ve gotta head home.&rdquo;</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">もう</span><span class="g">now</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>帰<rt>かえ</rt></ruby>らなきゃ</span><span class="g">have to head home</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">なければ contracted, consequence omitted</span></div></div></details></div>
 
+<div class="dlg"><div class="dlg-note">what licenses もう帰らなきゃ — B treats A&#x27;s remark about the time as reason enough to leave, with no need to spell out where.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">え、もうこんな<ruby>時間<rt>じかん</rt></ruby>？</div><div class="ex-en">Oh, is it really this late already?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">あ、ほんとだ。もう<ruby>帰<rt>かえ</rt></ruby>らなきゃ。</div><div class="ex-en">Oh, you&#x27;re right. I&#x27;ve got to head home.</div></div></div></div>
+
 
 *Compare:* [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
 {: .compare }
 
-## なきゃいけない { #nakya-ikenai }
+## なきゃいけない — casual, but explicit { #nakya-ikenai }
 
 Have to do something; a casual expression of obligation
 {: .pt-gloss }
@@ -124,9 +139,9 @@ Have to do something; a casual expression of obligation
 {: .form }
 
 - **<span class="cite-jp">なきゃいけない</span> keeps the casual contraction but states the obligation
-  explicitly** — <span class="cite-jp">明日までに払わなきゃいけない</span> "I have to pay by tomorrow"
-  remains conversational, but nothing essential is left for the listener to
-  supply.
+  explicitly** — <span class="cite-jp">明日までに払わなきゃいけない</span> says I have to pay by
+  tomorrow, remaining conversational while leaving nothing for the listener
+  to supply.
 - **Politeness can be added at the end** — <span class="cite-jp">なきゃいけません</span> is common in
   polite conversation. Because <span class="cite-jp">なきゃ</span> is still contracted, it sounds more
   spoken than the full <span class="cite-jp">なければなりません</span>.
@@ -137,7 +152,7 @@ Have to do something; a casual expression of obligation
 *Compare:* [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
 {: .compare }
 
-## なくちゃ { #naku-cha }
+## なくちゃ — the other contraction { #naku-cha }
 
 Must do; casual contraction often used in spontaneous speech
 {: .pt-gloss }
@@ -149,9 +164,9 @@ Must do; casual contraction often used in spontaneous speech
 
 - **<span class="cite-jp">なくちゃ</span> comes from <span class="cite-jp">なくては</span>** — just as <span class="cite-jp">なければ</span> contracts to <span class="cite-jp">なきゃ</span>,
   <span class="cite-jp">なくては</span> contracts to <span class="cite-jp">なくちゃ</span>.
-- **It can stand alone or keep the result** — <span class="cite-jp">薬を飲まなくちゃ</span> "I've got to
-  take my medicine" leaves the final consequence understood;
-  <span class="cite-jp">薬を飲まなくちゃいけない</span> "I have to take my medicine" states it
+- **It can stand alone or keep the result** — <span class="cite-jp">薬を飲まなくちゃ</span> says I've got
+  to take my medicine with the consequence left understood, while
+  <span class="cite-jp">薬を飲まなくちゃいけない</span>, I have to take my medicine, states it
   explicitly.
 - **<span class="cite-jp">なきゃ</span> and <span class="cite-jp">なくちゃ</span> overlap heavily** — both are ordinary casual ways to
   express "have to." Speaker preference, rhythm and the surrounding expression
@@ -160,7 +175,7 @@ Must do; casual contraction often used in spontaneous speech
   dependable rule that <span class="cite-jp">なきゃ</span> means a weaker or stronger "must" than
   <span class="cite-jp">なくちゃ</span>.
 
-## なくてもいい { #nakute-mo-ii }
+## なくてもいい — no obligation at all { #nakute-mo-ii }
 
 Need not do; grants permission to omit an action
 {: .pt-gloss }
@@ -170,26 +185,33 @@ Need not do; grants permission to omit an action
 **Form:** `V-なくて + も + いい`
 {: .form }
 
-- **This removes the obligation** — <span class="cite-jp">来なくてもいい</span> means "you do not have to
-  come." Not coming is acceptable, but coming is still an available choice.
+- **This removes the obligation** — <span class="cite-jp">来なくてもいい</span> means you do not have to
+  come. Not coming is acceptable, but coming is still an available choice.
 - **The literal structure makes the meaning easier to remember** —
-  <span class="cite-jp">来なくてもいい</span> is roughly "even if you don't come, it is okay." That gives
-  the natural English meaning "you don't have to come."
-- **This is different from prohibition** —
-  <span class="cite-jp">来なくてもいい</span> "you do not have to come" leaves both choices open;
-  <span class="cite-jp">来てはいけない</span> "you must not come" rules coming out.
-- **The final expression changes the speaker's stance** —
-  <span class="cite-jp">なくても大丈夫</span> "it is fine if you do not" often sounds reassuring.
-  <span class="cite-jp">なくてもかまわない</span> "it does not matter if you do not" is more detached and
-  often more formal; depending on context, it can sound less warm than <span class="cite-jp">いい</span>.
+  <span class="cite-jp">来なくてもいい</span> is roughly even if you don't come, it is okay, which gives
+  the natural meaning, you don't have to come.
+
+### Granting permission, not just describing it
+
+- **This is different from prohibition** — <span class="cite-jp">来なくてもいい</span>, you do not have
+  to come, leaves both choices open; <span class="cite-jp">来てはいけない</span>, you must not come,
+  rules coming out.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [てはいけない](<te-wa-ikenai.md> "てはいけない — must not, with the ちゃだめ contractions") <span class="xref-reason">&mdash; a prohibition, not an absence of obligation</span></div>
+
+- **The final expression changes the speaker's stance** — <span class="cite-jp">なくても大丈夫</span>
+  sounds reassuring: it is fine if you do not. <span class="cite-jp">なくてもかまわない</span>, it does
+  not matter if you do not, is more detached and often more formal.
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>は<span class="pat"><ruby>来<rt>こ</rt></ruby>なくてもいい</span>よ。</div><div class="ex-en">&ldquo;You don&#x27;t have to come tomorrow.&rdquo;</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>明日<rt>あした</rt></ruby>は</span><span class="g">tomorrow</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>来<rt>こ</rt></ruby>なくてもいい</span><span class="g">do not have to come</span></div><div class="bd-seg"><span class="j" lang="ja">よ</span><span class="g">you know</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">negative て-form + も + いい</span></div></div></details></div>
+
+<div class="dlg"><div class="dlg-note">what なくてもいい grants — B tells A that skipping the meeting is fine, not forbidden.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>の<ruby>会議<rt>かいぎ</rt></ruby>、<ruby>行<rt>い</rt></ruby>かなきゃだめですか。</div><div class="ex-en">Do I have to go to tomorrow&#x27;s meeting?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ううん、<ruby>行<rt>い</rt></ruby>かなくてもいいよ。</div><div class="ex-en">No, you don&#x27;t have to go.</div></div></div></div>
 
 
 *Compare:* [てもいい・なくてもいい・なければならない・てはいけない — the obligation–permission square](<../contrasts/te-mo-ii-nakute-mo-ii-nakereba-naranai-te-wa-ikenai.md> "the obligation–permission square")
 {: .compare }
 
-## なければ (truncated) { #nakereba }
+## なければ (truncated) — the uncontracted trail-off { #nakereba }
 
 Have to; obligation with the ending omitted.
 {: .pt-gloss }
@@ -202,20 +224,20 @@ Have to; obligation with the ending omitted.
 **Form:** `V-なければ`
 {: .form }
 
-- **The full <span class="cite-jp">なければ</span> can also trail off** — <span class="cite-jp">もう行かなければ</span> "I really must
-  go" can leave <span class="cite-jp">ならない</span>, <span class="cite-jp">いけない</span> or a similar result unspoken without
-  shortening <span class="cite-jp">なければ</span> itself.
+- **The full <span class="cite-jp">なければ</span> can also trail off** — <span class="cite-jp">もう行かなければ</span> already reads
+  as I really must go, leaving <span class="cite-jp">ならない</span>, <span class="cite-jp">いけない</span> or a similar result
+  unspoken without shortening <span class="cite-jp">なければ</span> itself.
 - **Compared with <span class="cite-jp">なきゃ</span>, it tends to sound more restrained** — the
   uncontracted shape can sound careful, hesitant or somewhat formal in
   conversation, especially with a pause or ellipsis.
 - **Do not assume every sentence ending in <span class="cite-jp">なければ</span> is a shortened obligation**
-  — <span class="cite-jp">急がなければ間に合わない</span> "if we do not hurry, we will not make it" is a
-  complete conditional. Nothing has been omitted.
+  — <span class="cite-jp">急がなければ間に合わない</span> is a complete conditional — if we do not hurry,
+  we will not make it. Nothing has been omitted.
 
 *Compare:* [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
 {: .compare }
 
-## なければならない (full plain) { #full-plain }
+## なければならない (full plain) — have to go, spelled out { #full-plain }
 
 Must do; full plain-form expression of strong necessity
 {: .pt-gloss }
@@ -228,17 +250,18 @@ Must do; full plain-form expression of strong necessity
 **Form:** `V-なければ + ならない`
 {: .form }
 
-- **This is the full, unshortened version of the pattern** — <span class="cite-jp">行かなければ</span> is
-  "if one does not go," and <span class="cite-jp">ならない</span> contributes the idea that leaving things
-  that way "will not do." Together, <span class="cite-jp">行かなければならない</span> means "have to go."
+- **This is the full, unshortened version of the pattern** — <span class="cite-jp">行かなければ</span> says
+  if one does not go, and <span class="cite-jp">ならない</span> contributes the idea that leaving things
+  that way will not do. Together, <span class="cite-jp">行かなければならない</span> means have to go.
 - **Use the literal logic to understand the construction, not as a permanent
   translation method** — once familiar, the expression should be understood
   directly as an obligation.
-- **The full form is careful and somewhat formal** — it is well suited to
-  rules, requirements, explanations and deliberate speech. It is not limited
-  to writing: <span class="cite-jp">明日は早く起きなければならない</span> "I have to get up early
-  tomorrow" is natural spoken Japanese when the speaker chooses a fuller,
-  more deliberate form.
+- **The full form is careful and somewhat formal, not only written** —
+  <span class="cite-jp">明日は早く起きなければならない</span>, I have to get up early tomorrow, is
+  natural spoken Japanese when the speaker chooses a fuller form.
+- **The same form is common on signs, notices and printed rules** —
+  <span class="cite-jp">会員は年会費を支払わなければならない</span>, members must pay the annual fee,
+  reads naturally on a printed notice, not only in careful speech.
 - **The form tells you that something is necessary, not why** — the source may
   be a law, a deadline, practical circumstances, a promise or a personal
   commitment. Context supplies that information.
@@ -246,7 +269,7 @@ Must do; full plain-form expression of strong necessity
 *Compare:* [てもいい・なくてもいい・なければならない・てはいけない — the obligation–permission square](<../contrasts/te-mo-ii-nakute-mo-ii-nakereba-naranai-te-wa-ikenai.md> "the obligation–permission square") · [なければならない and its shortenings — the 'must' register ladder](<../contrasts/nakereba-naranai-and-its-shortenings.md> "the 'must' register ladder")
 {: .compare }
 
-## なければなりません (polite) { #nakereba-narimasen }
+## なければなりません (polite) — the polite full form { #nakereba-narimasen }
 
 Must do; polite standard expression of necessity or obligation
 {: .pt-gloss }
@@ -262,10 +285,15 @@ Must do; polite standard expression of necessity or obligation
   instructions, rules and careful explanations commonly use it. In
   conversation, <span class="cite-jp">ないといけません</span> is another ordinary polite choice and often
   sounds more spoken.
+
+### Asking whether something is required
+
 - **Questions ask whether the requirement exists** —
-  <span class="cite-jp">明日までに出さなければなりませんか</span> "do I have to submit it by tomorrow?"
-  asks whether submission by that time is necessary. It is not asking for
-  permission.
+  <span class="cite-jp">明日までに出さなければなりませんか</span> asks whether submission by that time
+  is necessary, not for permission: do I have to submit it by tomorrow?
+
+### Endings differ in register, not in force
+
 - **<span class="cite-jp">ならない</span>, <span class="cite-jp">いけない</span> and <span class="cite-jp">だめ</span> are not a simple weak-to-strong scale** —
   context, tone and the relationship between speakers do more to determine the
   force of the obligation.
