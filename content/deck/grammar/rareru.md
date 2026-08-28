@@ -202,7 +202,7 @@ Both endings attach the same way to any verb, once you know which pattern to loo
 
 The contracted column is empty for three of these five rows on purpose — not every verb can shorten this far. される, next, covers which ones do and why.
 
-@@ sareru — the shortened causative-passive
+@@ sareru — made to act, said in fewer syllables
 
 One syllable shorter, and just as common.
 

@@ -80,7 +80,7 @@ Does not look likely to happen; negative judgment from present evidence
 **Form:** `V-stem + そうにない`
 {: .form }
 
-- **The verb-side negative** — <span class="cite-jp">終わりそうにない</span>, no sign it's going to end,
+- **The verb-side negative** — <span class="cite-jp">終わりそうにない</span> — no sign it's going to end —
   is stronger than a plain negative guess: there is visible evidence
   against.
 - Not the mirror of <span class="cite-jp">なさそう</span>, which negates appearance, not likelihood.
@@ -98,7 +98,7 @@ Nearly reaches a state or comes close to an event occurring
 **Form:** `V-stem + そうになる`, almost always past: <span class="cite-jp">そうになった</span>
 {: .form }
 
-- **Came to the brink and didn't** — <span class="cite-jp">転びそうになった</span>, I nearly fell. The
+- **Came to the brink and didn't** — <span class="cite-jp">転びそうになった</span> — I nearly fell. The
   implicit non-occurrence is why the past tense dominates.
 
 ## そうに見える — the explicitly visual impression { #sou-ni-mieru }
@@ -114,12 +114,12 @@ Appear to look X; explicitly frames an impression as visual
 **Form:** `A-stem + そうに見える`
 {: .form }
 
-- **The impression, explicitly visual** — <span class="cite-jp">高そうに見える</span>, it looks
+- **The impression, explicitly visual** — <span class="cite-jp">高そうに見える</span> — it looks
   expensive. Plain <span class="cite-jp">そうだ</span> already means seems, so adding <span class="cite-jp">に見える</span>
   foregrounds the at-a-glance nature, often with a faint hedge that looks
   may deceive.
 
-## なさそう — the adjective-side negative { #nasasou }
+## なさそう — doesn't look like it { #nasasou }
 
 Does not look or seem X; negative appearance judgment
 {: .pt-gloss }
@@ -132,8 +132,8 @@ Does not look or seem X; negative appearance judgment
 **Form:** `A-stem + なさそう` · `N + が + なさそう`
 {: .form }
 
-- **The adjective-side negative** — <span class="cite-jp">美味しくなさそう</span>, doesn't look tasty,
-  and <span class="cite-jp">問題なさそう</span>, looks like no problem.
+- **The adjective-side negative** — <span class="cite-jp">美味しくなさそう</span> — doesn't look tasty —
+  and <span class="cite-jp">問題なさそう</span> — looks like no problem.
 - Compare <span class="cite-jp">そうにない</span> above for denying that an event looks likely.
 
 <div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>

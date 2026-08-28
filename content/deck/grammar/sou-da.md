@@ -49,7 +49,7 @@ B: え、大丈夫[だいじょうぶ]、大丈夫[だいじょうぶ]。 | Oh, 
 
 **Form:** `V-stem + そうにない`
 
-- **The verb-side negative** — 終わりそうにない, no sign it's going to end,
+- **The verb-side negative** — 終わりそうにない — no sign it's going to end —
   is stronger than a plain negative guess: there is visible evidence
   against.
 - Not the mirror of なさそう, which negates appearance, not likelihood.
@@ -58,22 +58,22 @@ B: え、大丈夫[だいじょうぶ]、大丈夫[だいじょうぶ]。 | Oh, 
 
 **Form:** `V-stem + そうになる`, almost always past: そうになった
 
-- **Came to the brink and didn't** — 転びそうになった, I nearly fell. The
+- **Came to the brink and didn't** — 転びそうになった — I nearly fell. The
   implicit non-occurrence is why the past tense dominates.
 
 @@ sou-ni-mieru — the explicitly visual impression
 
 **Form:** `A-stem + そうに見える`
 
-- **The impression, explicitly visual** — 高そうに見える, it looks
+- **The impression, explicitly visual** — 高そうに見える — it looks
   expensive. Plain そうだ already means seems, so adding に見える
   foregrounds the at-a-glance nature, often with a faint hedge that looks
   may deceive.
 
-@@ nasasou — the adjective-side negative
+@@ nasasou — doesn't look like it
 
 **Form:** `A-stem + なさそう` · `N + が + なさそう`
 
-- **The adjective-side negative** — 美味しくなさそう, doesn't look tasty,
-  and 問題なさそう, looks like no problem.
+- **The adjective-side negative** — 美味しくなさそう — doesn't look tasty —
+  and 問題なさそう — looks like no problem.
 - Compare そうにない above for denying that an event looks likely.

@@ -67,7 +67,7 @@ obligation sense at all
   もう行かないと already reads as I need to go now, the otherwise left
   unspoken. This is a conventional conversational way to state necessity.
 - **Adding いけない or だめ makes the obligation explicit** —
-  もう行かないといけない spells out the whole idea, I have to go now,
+  もう行かないといけない spells out the whole idea — I have to go now —
   instead of leaving the result for the listener to supply.
 - **Sometimes と is followed by a real consequence, not a vague "that won't
   do"** — 困る means to be in trouble; まずい means bad or awkward; やばい is
@@ -82,7 +82,7 @@ pat: negative + と, consequence stated
 reg: casual|もう行かないと。 / polite|もう行かないといけません。
 ```
 
-@@ nakya — the casual contraction
+@@ nakya — have to, said quickly and casually
 
 **Form:** `V-なければ → V-なきゃ`
 
@@ -123,7 +123,7 @@ B: あ、ほんとだ。もう帰[かえ]らなきゃ。 | Oh, you're right. I'v
   — なきゃ and なきゃいけない differ mainly in how explicitly the speaker
   states the necessity. Urgency and force come much more from context and tone.
 
-@@ naku-cha — the other contraction
+@@ naku-cha — have to, another casual way to say it
 
 **Form:** `V-なくては → V-なくちゃ`
 
@@ -131,7 +131,7 @@ B: あ、ほんとだ。もう帰[かえ]らなきゃ。 | Oh, you're right. I'v
   なくては contracts to なくちゃ.
 - **It can stand alone or keep the result** — 薬を飲まなくちゃ says I've got
   to take my medicine with the consequence left understood, while
-  薬を飲まなくちゃいけない, I have to take my medicine, states it
+  薬を飲まなくちゃいけない — I have to take my medicine — states it
   explicitly.
 - **なきゃ and なくちゃ overlap heavily** — both are ordinary casual ways to
   express "have to." Speaker preference, rhythm and the surrounding expression
@@ -147,20 +147,20 @@ B: あ、ほんとだ。もう帰[かえ]らなきゃ。 | Oh, you're right. I'v
 - **This removes the obligation** — 来なくてもいい means you do not have to
   come. Not coming is acceptable, but coming is still an available choice.
 - **The literal structure makes the meaning easier to remember** —
-  来なくてもいい is roughly even if you don't come, it is okay, which gives
-  the natural meaning, you don't have to come.
+  来なくてもいい is roughly even if you don't come, it is okay — which gives
+  the natural meaning: you don't have to come.
 
 ### Granting permission, not just describing it
 
-- **This is different from prohibition** — 来なくてもいい, you do not have
-  to come, leaves both choices open; 来てはいけない, you must not come,
+- **This is different from prohibition** — 来なくてもいい — you do not have
+  to come — leaves both choices open; 来てはいけない — you must not come —
   rules coming out.
 
 -> Contrast: [[te-wa-ikenai]] — a prohibition, not an absence of obligation
 
 - **The final expression changes the speaker's stance** — なくても大丈夫
-  sounds reassuring: it is fine if you do not. なくてもかまわない, it does
-  not matter if you do not, is more detached and often more formal.
+  sounds reassuring — it is fine if you do not. なくてもかまわない — it
+  does not matter if you do not — is more detached and often more formal.
 ```ex
 明日[あした]は来[こ]なくてもいいよ。
 en: You don't have to come tomorrow.
@@ -198,16 +198,16 @@ B: ううん、行[い]かなくてもいいよ。 | No, you don't have to go.
   translation method** — once familiar, the expression should be understood
   directly as an obligation.
 - **The full form is careful and somewhat formal, not only written** —
-  明日は早く起きなければならない, I have to get up early tomorrow, is
+  明日は早く起きなければならない — I have to get up early tomorrow — is
   natural spoken Japanese when the speaker chooses a fuller form.
 - **The same form is common on signs, notices and printed rules** —
-  会員は年会費を支払わなければならない, members must pay the annual fee,
+  会員は年会費を支払わなければならない — members must pay the annual fee —
   reads naturally on a printed notice, not only in careful speech.
 - **The form tells you that something is necessary, not why** — the source may
   be a law, a deadline, practical circumstances, a promise or a personal
   commitment. Context supplies that information.
 
-@@ nakereba-narimasen — the polite full form
+@@ nakereba-narimasen — have to, said politely
 
 **Form:** `V-なければ + なりません`
 
@@ -222,7 +222,7 @@ B: ううん、行[い]かなくてもいいよ。 | No, you don't have to go.
 
 - **Questions ask whether the requirement exists** —
   明日までに出さなければなりませんか asks whether submission by that time
-  is necessary, not for permission: do I have to submit it by tomorrow?
+  is necessary, not for permission — do I have to submit it by tomorrow?
 
 ### Endings differ in register, not in force
 

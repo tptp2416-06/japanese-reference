@@ -42,7 +42,7 @@ is acceptable or possible**.
 **Form:** `疑問詞 + も + negative predicate` · `疑問詞 + case particle + も + negative predicate`
 
 - **The negative predicate rules out every possible answer** — 誰も来なかった
-  means nobody came: no person in the relevant group satisfies 来た, came.
+  means nobody came: no person in the relevant group satisfies 来た — came.
 - **も does not by itself mean nobody or nothing here** — the negative
   predicate completes that reading. 誰も identifies the range being
   considered; 来なかった rules everyone in that range out.
@@ -86,12 +86,12 @@ B: ううん、何[なに]も食[た]べてない。 | No, I haven't eaten anyth
   predicate understood from context.
 - **Politeness generally attaches to the predicate, not to も itself** —
   誰もいらっしゃいませんでした is a formal, written-register way to say
-  誰も来なかった, nobody came; the range-marking も does not change.
+  誰も来なかった — nobody came; the range-marking も does not change.
 
 ### Which particles も replaces
 
-- **が and を normally give way to も** — 誰も来なかった, nobody came, and
-  何も買わなかった, I bought nothing, do not need an additional が or を. も
+- **が and を normally give way to も** — 誰も来なかった — nobody came — and
+  何も買わなかった — I bought nothing — do not need an additional が or を. も
   takes the place where が or を would otherwise appear.
 - **Other case particles can remain before も** — 誰にも会わなかった, I did
   not meet anyone, 誰とも話さなかった, I did not speak with anyone, and

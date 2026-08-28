@@ -63,11 +63,11 @@ B: うん、コーヒーがすごくおいしいよ。 | Yeah, the coffee's real
 が often identifies the clause's subject, while は identifies the discourse
 frame. A question and its answer make the difference audible.
 
-誰が来た？ asks who came, and is answered ハルが来た, Haru came — here the
+誰が来た？ asks who came, and is answered ハルが来た — Haru came — here the
 requested subject is also the sentence's focus, which is what が supplies.
 
-ハルは来た is a grammatical sentence, but it answers a different question,
-something closer to "what about Haru?"
+ハルは来た is a grammatical sentence, but it answers a different question —
+something closer to: what about Haru?
 
 This is also why stories open one way and continue another.
 昔々、おじいさんがいました — once upon a time there was an old man — puts him
@@ -119,14 +119,14 @@ ban. It is still a useful check when a sentence has run long and lost its shape.
 - **Topic and contrast use the same particle and shade into one another** — a
   neutral topic establishes a frame; contrastive は makes the alternatives,
   stated or unstated, matter to the message.
-- **A neutral topic need not invite comparison** — 象は鼻が長い, an elephant's
-  nose is long, is not particularly a remark about other animals. Contrast is
+- **A neutral topic need not invite comparison** — 象は鼻が長い — an elephant's
+  nose is long — is not particularly a remark about other animals. Contrast is
   what happens when the alternatives are made to count.
-- **The minimal pair is the clearest demonstration** — お酒を飲まない, I don't
-  drink alcohol, is neutral object marking, against お酒は飲まない, alcohol I
-  don't drink, which selects alcohol against the alternatives.
-- **The unsaid half can do the work** — 犬は好き。猫はちょっと……, I like
-  dogs, cats though, sets the two against each other with は and lets the
+- **The minimal pair is the clearest demonstration** — お酒を飲まない — I don't
+  drink alcohol — is neutral object marking, against お酒は飲まない — alcohol,
+  I don't drink — which selects alcohol against the alternatives.
+- **The unsaid half can do the work** — 犬は好き。猫はちょっと…… — I like
+  dogs, cats though — sets the two against each other with は and lets the
   sentence stop before the negative arrives.
 
 ```ex
@@ -180,14 +180,14 @@ applies to the speaker, everything else left understood.
 - **What that most often produces is a limit** — here, for this person, from
   today onward, up to this point. It is a frequent pragmatic effect rather than
   something the grammar entails.
-- **Naming the frame invites the comparison** — ここでは吸えません, you can't
-  smoke here, makes this place the frame of the rule, and can set it against
+- **Naming the frame invites the comparison** — ここでは吸えません — you can't
+  smoke here — makes this place the frame of the rule, and can set it against
   other places.
-- **On a scale, the frame is a point rather than a place** — ここまでは分かる,
-  I follow it this far, and 今日からは, from today on, fence off what lies on
-  the other side.
-- **The same stacking appears on signs and notices** — 当店は禁煙です, this
-  store is non-smoking, fronts the store as the topic the whole notice is
+- **On a scale, the frame is a point rather than a place** — ここまでは分かる
+  — I follow it this far — and 今日からは — from today on — fence off what
+  lies on the other side.
+- **The same stacking appears on signs and notices** — 当店は禁煙です — this
+  store is non-smoking — fronts the store as the topic the whole notice is
   about.
 
 ```ex

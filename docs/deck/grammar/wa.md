@@ -67,11 +67,11 @@ it: <span class="cite-jp">私が</span> → <span class="cite-jp">私は</span> 
 <span class="cite-jp">が</span> often identifies the clause's subject, while <span class="cite-jp">は</span> identifies the discourse
 frame. A question and its answer make the difference audible.
 
-<span class="cite-jp">誰が来た？</span> asks who came, and is answered <span class="cite-jp">ハルが来た</span>, Haru came — here the
+<span class="cite-jp">誰が来た？</span> asks who came, and is answered <span class="cite-jp">ハルが来た</span> — Haru came — here the
 requested subject is also the sentence's focus, which is what <span class="cite-jp">が</span> supplies.
 
-<span class="cite-jp">ハルは来た</span> is a grammatical sentence, but it answers a different question,
-something closer to "what about Haru?"
+<span class="cite-jp">ハルは来た</span> is a grammatical sentence, but it answers a different question —
+something closer to: what about Haru?
 
 This is also why stories open one way and continue another.
 <span class="cite-jp">昔々、おじいさんがいました</span> — once upon a time there was an old man — puts him
@@ -139,14 +139,14 @@ As for this item specifically, contrasts it with another possibility
 - **Topic and contrast use the same particle and shade into one another** — a
   neutral topic establishes a frame; contrastive <span class="cite-jp">は</span> makes the alternatives,
   stated or unstated, matter to the message.
-- **A neutral topic need not invite comparison** — <span class="cite-jp">象は鼻が長い</span>, an elephant's
-  nose is long, is not particularly a remark about other animals. Contrast is
+- **A neutral topic need not invite comparison** — <span class="cite-jp">象は鼻が長い</span> — an elephant's
+  nose is long — is not particularly a remark about other animals. Contrast is
   what happens when the alternatives are made to count.
-- **The minimal pair is the clearest demonstration** — <span class="cite-jp">お酒を飲まない</span>, I don't
-  drink alcohol, is neutral object marking, against <span class="cite-jp">お酒は飲まない</span>, alcohol I
-  don't drink, which selects alcohol against the alternatives.
-- **The unsaid half can do the work** — <span class="cite-jp">犬は好き。猫はちょっと</span>……, I like
-  dogs, cats though, sets the two against each other with <span class="cite-jp">は</span> and lets the
+- **The minimal pair is the clearest demonstration** — <span class="cite-jp">お酒を飲まない</span> — I don't
+  drink alcohol — is neutral object marking, against <span class="cite-jp">お酒は飲まない</span> — alcohol,
+  I don't drink — which selects alcohol against the alternatives.
+- **The unsaid half can do the work** — <span class="cite-jp">犬は好き。猫はちょっと</span>…… — I like
+  dogs, cats though — sets the two against each other with <span class="cite-jp">は</span> and lets the
   sentence stop before the negative arrives.
 
 <div class="ex"><div class="ex-jp" lang="ja">お<ruby>酒<rt>さけ</rt></ruby><span class="pat">は</span><ruby>飲<rt>の</rt></ruby>まない。</div><div class="ex-en">&ldquo;Alcohol, I don&#x27;t drink.&rdquo; <span class="lit">&mdash; lit. as for alcohol, at least, don&#x27;t drink</span></div><div class="ex-note">An object would ordinarily take を. Swapping in は is what selects alcohol against whatever else the speaker might drink, and nothing in the conversation has to have raised it first.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">お<ruby>酒<rt>さけ</rt></ruby></span><span class="g">alcohol</span></div><div class="bd-seg hit"><span class="j" lang="ja">は</span><span class="g">as for, at least</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>飲<rt>の</rt></ruby>まない</span><span class="g">don&#x27;t drink</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">contrastive は displacing を</span></div></div></details></div>
@@ -200,14 +200,14 @@ Marks the scope to which a statement or prohibition applies.
 - **What that most often produces is a limit** — here, for this person, from
   today onward, up to this point. It is a frequent pragmatic effect rather than
   something the grammar entails.
-- **Naming the frame invites the comparison** — <span class="cite-jp">ここでは吸えません</span>, you can't
-  smoke here, makes this place the frame of the rule, and can set it against
+- **Naming the frame invites the comparison** — <span class="cite-jp">ここでは吸えません</span> — you can't
+  smoke here — makes this place the frame of the rule, and can set it against
   other places.
-- **On a scale, the frame is a point rather than a place** — <span class="cite-jp">ここまでは分かる</span>,
-  I follow it this far, and <span class="cite-jp">今日からは</span>, from today on, fence off what lies on
-  the other side.
-- **The same stacking appears on signs and notices** — <span class="cite-jp">当店は禁煙です</span>, this
-  store is non-smoking, fronts the store as the topic the whole notice is
+- **On a scale, the frame is a point rather than a place** — <span class="cite-jp">ここまでは分かる</span>
+  — I follow it this far — and <span class="cite-jp">今日からは</span> — from today on — fence off what
+  lies on the other side.
+- **The same stacking appears on signs and notices** — <span class="cite-jp">当店は禁煙です</span> — this
+  store is non-smoking — fronts the store as the topic the whole notice is
   about.
 
 <div class="ex"><div class="ex-jp" lang="ja">ここ<span class="pat">では</span><ruby>吸<rt>す</rt></ruby>えません。</div><div class="ex-en">&ldquo;You can&#x27;t smoke here.&rdquo; <span class="lit">&mdash; lit. at this place, smoking isn&#x27;t possible</span></div><div class="ex-note">The は makes this location the frame of the rule and can contrast it with other locations. On a notice, a contextual impossibility of this kind is normally understood as a prohibition rather than a report.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">ここ</span><span class="g">here</span></div><div class="bd-seg hit"><span class="j" lang="ja">では</span><span class="g">at this place</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>吸<rt>す</rt></ruby>えません</span><span class="g">can&#x27;t smoke</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">particle + は, framing the rule</span></div></div></details></div>

@@ -239,7 +239,7 @@ Both endings attach the same way to any verb, once you know which pattern to loo
 
 The contracted column is empty for three of these five rows on purpose — not every verb can shorten this far. <span class="cite-jp">される</span>, next, covers which ones do and why.
 
-## される (contracted caus.-passive) — the shortened causative-passive { #sareru }
+## される (contracted caus.-passive) — made to act, said in fewer syllables { #sareru }
 
 Contracted spoken form meaning be made or forced to do something
 {: .pt-gloss }
