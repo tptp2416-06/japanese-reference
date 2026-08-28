@@ -74,8 +74,8 @@ Not yet; an expected action or state has still not come about
 - **Yet often leaves the change open** — <span class="cite-jp">まだ来ていない</span> — hasn't arrived yet —
   commonly presents arrival as expected or relevant. It does not promise that
   the person will eventually arrive.
-- **Questions keep the same viewpoint** — <span class="cite-jp">まだ終わっていない？</span><span class="gl-en"> — is it not</span>
-  finished yet? — asks whether the unreached state continues and may sound
+- **Questions keep the same viewpoint** — <span class="cite-jp">まだ終わっていない？</span><span class="gl-en"> — is it not
+  finished yet</span>? — asks whether the unreached state continues and may sound
   impatient if the situation supplies that expectation.
 
 <div class="dlg"><div class="dlg-note">what licenses まだ in the reply — B&#x27;s answer keeps the viewpoint on the near side of the line A&#x27;s question raised.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>宿題<rt>しゅくだい</rt></ruby>、もう<ruby>終<rt>お</rt></ruby>わった？</div><div class="ex-en">Have you finished your homework yet?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ううん、まだ<ruby>終<rt>お</rt></ruby>わってない。</div><div class="ex-en">No, not yet.</div></div></div></div>
@@ -165,8 +165,8 @@ Already, another, or no longer, depending on context.
 
 - **The relevant change is behind you** — <span class="cite-jp">もう大丈夫</span><span class="gl-en"> — it is okay now — </span>presents
   becoming okay as reached, and <span class="cite-jp">もう遅い</span> does the same for a limit already passed.
-- **Negation changes what is true beyond the line** — <span class="cite-jp">もう使わない</span><span class="gl-en"> — I won't use</span>
-  it anymore — and <span class="cite-jp">もう寒くない</span> place things on the earlier side the same way.
+- **Negation changes what is true beyond the line** — <span class="cite-jp">もう使わない</span><span class="gl-en"> — I won't use
+  it anymore — </span>and <span class="cite-jp">もう寒くない</span> place things on the earlier side the same way.
 - **Expectation colors the reading** — <span class="cite-jp">もう</span> can convey surprise that the line
   was crossed early, impatience that it should be crossed now, or no special
   emotion at all. The sentence and situation supply that tone.
@@ -177,8 +177,8 @@ Already, another, or no longer, depending on context.
 
 Already fits when the predicate names the new situation directly: <span class="cite-jp">もう終わった</span>
 — it has already finished. When the predicate is negative, the same viewpoint
-means the old situation no longer holds: <span class="cite-jp">もう開いていない</span><span class="gl-en"> — it is not open</span>
-anymore.
+means the old situation no longer holds: <span class="cite-jp">もう開いていない</span><span class="gl-en"> — it is not open
+anymore</span>.
 
 The grammar has not reversed. <span class="cite-jp">もう</span> keeps placing the viewpoint beyond a
 contextual change; affirmation or negation determines what holds there.
@@ -202,8 +202,8 @@ Already did; もう with a past predicate.
 The past form makes the crossed line especially easy to see. An event has
 happened, and <span class="cite-jp">もう</span> presents it as reached by now or by another reference time.
 
-- **In a statement, English usually says already** — <span class="cite-jp">もう予約した</span><span class="gl-en"> — I've</span>
-  already made a reservation.
+- **In a statement, English usually says already** — <span class="cite-jp">もう予約した</span><span class="gl-en"> — I've
+  already made a reservation</span>.
 - **In a question, English often says yet** — Japanese asks with <span class="cite-jp">もう</span> whether
   the event side has been reached; English normally phrases the same neutral
   question with yet.

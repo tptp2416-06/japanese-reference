@@ -104,8 +104,8 @@ Given that X is true; strongly presents it as explanatory background
   a reminder.
 - **The tone follows the situation, not the grammar** — the same
   "established reason" move can read as gentle support or as pointed
-  reproach. <span class="cite-jp">もう子供じゃないんだから、自分でやりなさい</span><span class="gl-en"> — you're not a child</span>
-  anymore, so do it yourself — leans firmly toward the second.
+  reproach. <span class="cite-jp">もう子供じゃないんだから、自分でやりなさい</span><span class="gl-en"> — you're not a child
+  anymore, so do it yourself — </span>leans firmly toward the second.
 
 <div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [から (reason)](<kara.md#reason> "から — reason, and the particle for source and time") <span class="xref-reason">&mdash; から&#x27;s own reason-marking, which んだから treats as already established</span></div>
 
@@ -209,8 +209,8 @@ Asks for explanation with contextual interest; polite explanatory question
 
 - **The contrast is audible** — <span class="cite-jp">どこに行きますか</span><span class="gl-en"> — where are you going</span>? —
   asks fairly directly.
-- **<span class="cite-jp">んですか</span> adds nothing to the words** — <span class="cite-jp">どこに行くんですか</span><span class="gl-en"> — where are you</span>
-  going? — asks the same question, word for word, but presents it as
+- **<span class="cite-jp">んですか</span> adds nothing to the words** — <span class="cite-jp">どこに行くんですか</span><span class="gl-en"> — where are you
+  going</span>? — asks the same question, word for word, but presents it as
   prompted by something the speaker noticed, like seeing you with a bag.
 
 <div class="ex"><div class="ex-jp" lang="ja"><span class="pat">どうした</span>んですか。</div><div class="ex-en">&ldquo;What&#x27;s wrong?&rdquo; <span class="lit">&mdash; lit. what has become [that I should ask about it]</span></div><div class="ex-note">んですか signals that the speaker has noticed something — a look, a pause, a sound — and is asking about it as a situation rather than firing a neutral question. Much of the concern in どうしたんですか comes from どうした itself, which already asks what&#x27;s happened to someone; んですか frames that question as prompted by what the speaker just noticed.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="j" lang="ja">どうした</span><span class="g">what happened</span></div><div class="bd-seg"><span class="j" lang="ja">んですか</span><span class="g">[I&#x27;m asking about the situation], politely</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">んです + か, polite explanatory question</span></div></div></details></div>

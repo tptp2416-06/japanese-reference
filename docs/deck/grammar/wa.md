@@ -85,8 +85,8 @@ them would sound marked.
     **Subject** is a grammatical relation inside the clause. **Topic** is the
     frame the speaker chooses for organising the message.
 
-    The same noun may serve both — <span class="cite-jp">私は学生です</span><span class="gl-en"> — or the sentence may carry a</span>
-    topic and a separate <span class="cite-jp">が</span>-marked subject: <span class="cite-jp">この店はコーヒーがおいしい</span>.
+    The same noun may serve both — <span class="cite-jp">私は学生です</span><span class="gl-en"> — or the sentence may carry a
+    topic and a separate </span><span class="cite-jp">が</span>-marked subject: <span class="cite-jp">この店はコーヒーがおいしい</span>.
 
     In the formal vocabulary, <span class="cite-jp">が</span> is a case particle while <span class="cite-jp">は</span> sits above the case
     system. That is what lets <span class="cite-jp">は</span> attach after other particles in the scope
@@ -139,12 +139,12 @@ As for this item specifically, contrasts it with another possibility
 - **Topic and contrast use the same particle and shade into one another** — a
   neutral topic establishes a frame; contrastive <span class="cite-jp">は</span> makes the alternatives,
   stated or unstated, matter to the message.
-- **A neutral topic need not invite comparison** — <span class="cite-jp">象は鼻が長い</span><span class="gl-en"> — an elephant's</span>
-  nose is long — is not particularly a remark about other animals. Contrast is
+- **A neutral topic need not invite comparison** — <span class="cite-jp">象は鼻が長い</span><span class="gl-en"> — an elephant's
+  nose is long — </span>is not particularly a remark about other animals. Contrast is
   what happens when the alternatives are made to count.
-- **The minimal pair is the clearest demonstration** — <span class="cite-jp">お酒を飲まない</span><span class="gl-en"> — I don't</span>
-  drink alcohol — is neutral object marking, against <span class="cite-jp">お酒は飲まない</span><span class="gl-en"> — alcohol,</span>
-  I don't drink — which selects alcohol against the alternatives.
+- **The minimal pair is the clearest demonstration** — <span class="cite-jp">お酒を飲まない</span><span class="gl-en"> — I don't
+  drink alcohol — </span>is neutral object marking, against <span class="cite-jp">お酒は飲まない</span><span class="gl-en"> — alcohol,
+  I don't drink — </span>which selects alcohol against the alternatives.
 - **The unsaid half can do the work** — <span class="cite-jp">犬は好き。猫はちょっと</span>…… — I like
   dogs, cats though — sets the two against each other with <span class="cite-jp">は</span> and lets the
   sentence stop before the negative arrives.
@@ -200,14 +200,14 @@ Marks the scope to which a statement or prohibition applies.
 - **What that most often produces is a limit** — here, for this person, from
   today onward, up to this point. It is a frequent pragmatic effect rather than
   something the grammar entails.
-- **Naming the frame invites the comparison** — <span class="cite-jp">ここでは吸えません</span><span class="gl-en"> — you can't</span>
-  smoke here — makes this place the frame of the rule, and can set it against
+- **Naming the frame invites the comparison** — <span class="cite-jp">ここでは吸えません</span><span class="gl-en"> — you can't
+  smoke here — </span>makes this place the frame of the rule, and can set it against
   other places.
 - **On a scale, the frame is a point rather than a place** — <span class="cite-jp">ここまでは分かる</span>
   — I follow it this far — and <span class="cite-jp">今日からは</span><span class="gl-en"> — from today on — </span>fence off what
   lies on the other side.
-- **The same stacking appears on signs and notices** — <span class="cite-jp">当店は禁煙です</span><span class="gl-en"> — this</span>
-  store is non-smoking — fronts the store as the topic the whole notice is
+- **The same stacking appears on signs and notices** — <span class="cite-jp">当店は禁煙です</span><span class="gl-en"> — this
+  store is non-smoking — </span>fronts the store as the topic the whole notice is
   about.
 
 <div class="ex"><div class="ex-jp" lang="ja">ここ<span class="pat">では</span><ruby>吸<rt>す</rt></ruby>えません。</div><div class="ex-en">&ldquo;You can&#x27;t smoke here.&rdquo; <span class="lit">&mdash; lit. at this place, smoking isn&#x27;t possible</span></div><div class="ex-note">The は makes this location the frame of the rule and can contrast it with other locations. On a notice, a contextual impossibility of this kind is normally understood as a prohibition rather than a report.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">ここ</span><span class="g">here</span></div><div class="bd-seg hit"><span class="j" lang="ja">では</span><span class="g">at this place</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>吸<rt>す</rt></ruby>えません</span><span class="g">can&#x27;t smoke</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">particle + は, framing the rule</span></div></div></details></div>

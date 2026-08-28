@@ -2,9 +2,9 @@
 
 電気をつけたら is built on つけた, the ordinary past tense of つける — turn on — but it points forward to whatever comes next instead of reporting that the light is already on.
 
-What comes next decides what that pointing-forward was for. 電気をつけたら、部屋が明るくなる predicts what happens once the switch is flipped: the room gets bright, and it hasn't yet.
+What comes next decides what that pointing-forward was for. 電気をつけたら、部屋が明るくなる — if you turn on the light, the room gets bright — predicts what happens once the switch is flipped: the room gets bright, and it hasn't yet.
 
-電気をつけたら、ゴキブリが一匹逃げていった instead reports what the speaker found the moment the light actually went on: a cockroach, already scurrying away.
+電気をつけたら、ゴキブリが一匹逃げていった — I turned on the light, and a cockroach ran off — instead reports what the speaker found the moment the light actually went on: a cockroach, already scurrying away.
 
 The shape itself never changes. Only the tense and content of what follows たら decides whether the sentence is a condition, a routine, a discovery, or — with nothing after it at all — a suggestion left for the listener to finish.
 
@@ -17,11 +17,11 @@ Context — mainly the tense of what follows — decides which one you're hearin
 
 **Form:** `V-た + ら` · `Adj-かった + ら` · `Na-adj/N + だったら`
 
-- **A hypothesis about something that hasn't happened yet** — 電気をつけたら、部屋が明るくなる simply predicts that the room will get bright once the light goes on, nothing more.
+- **A hypothesis about something that hasn't happened yet** — 電気をつけたら、部屋が明るくなる — if you turn on the light, the room gets bright — simply predicts that the room will get bright once the light goes on, nothing more.
 - **Any predicate type attaches the same way** — an い-adjective or な-adjective/noun takes だった before ら: 忙しかったら — if I'm busy, 静かだったら — if it's quiet, 学生だったら — if they're a student.
 - **The main clause can be almost anything** — a statement, a question, a request, an invitation or a command all follow comfortably.
 - **Its whole length sits inside the condition's scope** — however long the main clause runs, all of it is what the たら-clause is conditioning.
-- **Negation just flips which condition is true** — 宿題が終わらなかったら、今日は遊びに行けない states that unfinished homework blocks going out today, exactly as directly as the affirmative version would state the opposite.
+- **Negation just flips which condition is true** — 宿題が終わらなかったら、今日は遊びに行けない — if I don't finish my homework, I can't go out today — states that unfinished homework blocks going out today, exactly as directly as the affirmative version would state the opposite.
 
 ```ex
 宝[たから]くじが当[あ]たったら、会社[かいしゃ]を辞[や]める。

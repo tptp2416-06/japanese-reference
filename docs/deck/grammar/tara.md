@@ -11,9 +11,9 @@
 
 <span class="cite-jp">電気をつけたら</span> is built on <span class="cite-jp">つけた</span>, the ordinary past tense of <span class="cite-jp">つける</span><span class="gl-en"> — turn on — </span>but it points forward to whatever comes next instead of reporting that the light is already on.
 
-What comes next decides what that pointing-forward was for. <span class="cite-jp">電気をつけたら、部屋が明るくなる</span> predicts what happens once the switch is flipped: the room gets bright, and it hasn't yet.
+What comes next decides what that pointing-forward was for. <span class="cite-jp">電気をつけたら、部屋が明るくなる</span><span class="gl-en"> — if you turn on the light, the room gets bright — </span>predicts what happens once the switch is flipped: the room gets bright, and it hasn't yet.
 
-<span class="cite-jp">電気をつけたら、ゴキブリが一匹逃げていった</span> instead reports what the speaker found the moment the light actually went on: a cockroach, already scurrying away.
+<span class="cite-jp">電気をつけたら、ゴキブリが一匹逃げていった</span><span class="gl-en"> — I turned on the light, and a cockroach ran off — </span>instead reports what the speaker found the moment the light actually went on: a cockroach, already scurrying away.
 
 The shape itself never changes. Only the tense and content of what follows <span class="cite-jp">たら</span> decides whether the sentence is a condition, a routine, a discovery, or — with nothing after it at all — a suggestion left for the listener to finish.
 
@@ -33,11 +33,11 @@ If or when a condition is met, the following result applies
 **Form:** `V-た + ら` · `Adj-かった + ら` · `Na-adj/N + だったら`
 {: .form }
 
-- **A hypothesis about something that hasn't happened yet** — <span class="cite-jp">電気をつけたら、部屋が明るくなる</span> simply predicts that the room will get bright once the light goes on, nothing more.
+- **A hypothesis about something that hasn't happened yet** — <span class="cite-jp">電気をつけたら、部屋が明るくなる</span><span class="gl-en"> — if you turn on the light, the room gets bright — </span>simply predicts that the room will get bright once the light goes on, nothing more.
 - **Any predicate type attaches the same way** — an <span class="cite-jp">い</span>-adjective or <span class="cite-jp">な</span>-adjective/noun takes <span class="cite-jp">だった</span> before <span class="cite-jp">ら</span>: <span class="cite-jp">忙しかったら</span><span class="gl-en"> — if I'm busy, </span><span class="cite-jp">静かだったら</span><span class="gl-en"> — if it's quiet, </span><span class="cite-jp">学生だったら</span><span class="gl-en"> — if they're a student</span>.
 - **The main clause can be almost anything** — a statement, a question, a request, an invitation or a command all follow comfortably.
 - **Its whole length sits inside the condition's scope** — however long the main clause runs, all of it is what the <span class="cite-jp">たら</span>-clause is conditioning.
-- **Negation just flips which condition is true** — <span class="cite-jp">宿題が終わらなかったら、今日は遊びに行けない</span> states that unfinished homework blocks going out today, exactly as directly as the affirmative version would state the opposite.
+- **Negation just flips which condition is true** — <span class="cite-jp">宿題が終わらなかったら、今日は遊びに行けない</span><span class="gl-en"> — if I don't finish my homework, I can't go out today — </span>states that unfinished homework blocks going out today, exactly as directly as the affirmative version would state the opposite.
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>宝<rt>たから</rt></ruby>くじが<span class="pat"><ruby>当<rt>あ</rt></ruby>たったら、</span><ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>辞<rt>や</rt></ruby>める。</div><div class="ex-en">&ldquo;If I win the lottery, I&#x27;ll quit my job.&rdquo;</div><div class="ex-note">たら doesn&#x27;t require the outcome to be a plain fact — a personal decision fits the main clause just as easily as a prediction would.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>宝<rt>たから</rt></ruby>くじが</span><span class="g">the lottery</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>当<rt>あ</rt></ruby>たったら、</span><span class="g">if it hits</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>会社<rt>かいしゃ</rt></ruby>を</span><span class="g">the company</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>辞<rt>や</rt></ruby>める</span><span class="g">I&#x27;ll quit</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-たら + a decision as the main clause</span></div></div></details></div>
 

@@ -51,8 +51,8 @@ Can do something; expresses ability or situational possibility
 A potential verb makes one claim and then stops: the action is available. It
 does not say what made it available.
 
-- **Skill and circumstance take the same shape** — <span class="cite-jp">ハルは泳げる</span><span class="gl-en"> — Haru can swim</span>
-  — is a fact about Haru; <span class="cite-jp">この川では泳げる</span><span class="gl-en"> — you can swim in this river — </span>is a
+- **Skill and circumstance take the same shape** — <span class="cite-jp">ハルは泳げる</span><span class="gl-en"> — Haru can swim
+  — </span>is a fact about Haru; <span class="cite-jp">この川では泳げる</span><span class="gl-en"> — you can swim in this river — </span>is a
   fact about the river, which hands nobody a swimming ability.
 - **Nothing in the form separates them** — the verb is identical in both, and
   everything that distinguishes them sits elsewhere in the sentence.
@@ -112,8 +112,8 @@ through nothing at all, because the situation has already made it obvious.
     - <span class="cite-jp">この番組はアプリで聞ける。</span><span class="gl-en"> — I can listen to this program in the app</span>
 
     Glasses are the edge case worth holding on to. <span class="cite-jp">眼鏡をかければ黒板が見える</span>
-    — with my glasses on, the blackboard is visible — keeps <span class="cite-jp">見える</span><span class="gl-en"> — glasses</span>
-    restore ordinary sight rather than making seeing deliberate.
+    — with my glasses on, the blackboard is visible — keeps <span class="cite-jp">見える</span><span class="gl-en"> — glasses
+    restore ordinary sight rather than making seeing deliberate</span>.
 
 <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [見える](<mieru.md> "見える — Be visible or come into view naturally") <span class="xref-reason">&mdash; visibility with no deliberate act, the construction the Pitfall above is about</span></div>
 
@@ -124,8 +124,8 @@ through nothing at all, because the situation has already made it obvious.
     normally settles which one you are looking at. Ask, in order:
 
     - **Can someone do it?** <span class="cite-jp">魚が食べられる</span><span class="gl-en"> — I can eat fish — </span>potential.
-    - **Did something happen to the subject?** <span class="cite-jp">魚が猫に食べられた</span><span class="gl-en"> — the fish was</span>
-      eaten by the cat — passive. An agent marked <span class="cite-jp">に</span> is a strong clue, though
+    - **Did something happen to the subject?** <span class="cite-jp">魚が猫に食べられた</span><span class="gl-en"> — the fish was
+      eaten by the cat — </span>passive. An agent marked <span class="cite-jp">に</span> is a strong clue, though
       passive sentences often leave the agent out.
     - **Is someone's action being described respectfully?**
       <span class="cite-jp">先生はもう帰られました</span><span class="gl-en"> — the teacher has already left — </span>honorific. Nothing

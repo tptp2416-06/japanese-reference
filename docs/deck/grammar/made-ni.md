@@ -95,9 +95,9 @@ No later than the stated deadline, with emphasis — by X at the latest.
 - **Plain <span class="cite-jp">までに</span> states the deadline neutrally** — <span class="cite-jp">までには</span> highlights it, often
   with a sense such as "by X, at least" or "by X at the latest". Which of those
   it lands on depends on the situation.
-- **The minimal pair** — <span class="cite-jp">金曜日までに終わります</span><span class="gl-en"> — it will be finished by Friday</span>
-  — is a neutral deadline; <span class="cite-jp">金曜日までには終わります</span><span class="gl-en"> — it will be finished by</span>
-  Friday at the latest — emphasises that deadline or sets it against other
+- **The minimal pair** — <span class="cite-jp">金曜日までに終わります</span><span class="gl-en"> — it will be finished by Friday
+  — </span>is a neutral deadline; <span class="cite-jp">金曜日までには終わります</span><span class="gl-en"> — it will be finished by
+  Friday at the latest — </span>emphasises that deadline or sets it against other
   possibilities.
 
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [は (contrast)](<wa.md#contrast> "は — topic, contrast, and scope") <span class="xref-reason">&mdash; は&#x27;s own contrastive job, the mechanism までには borrows here</span></div>

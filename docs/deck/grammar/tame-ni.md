@@ -19,10 +19,10 @@ In order to achieve a goal; marks deliberate purpose
 {: .form }
 
 - **Deliberate aim** — the actor does A in order to achieve B:
-  <span class="cite-jp">日本語を勉強するために、アプリを入れた。</span><span class="gl-en"> — I installed the app in order</span>
-  to study Japanese.
-- **Benefit reading with nouns** — <span class="cite-jp">家族のために働いてる</span><span class="gl-en"> — for my family's</span>
-  sake — describes a benefit, not a plan. Context decides, and the readings
+  <span class="cite-jp">日本語を勉強するために、アプリを入れた。</span><span class="gl-en"> — I installed the app in order
+  to study Japanese</span>.
+- **Benefit reading with nouns** — <span class="cite-jp">家族のために働いてる</span><span class="gl-en"> — for my family's
+  sake — </span>describes a benefit, not a plan. Context decides, and the readings
   sit close enough that this rarely causes trouble.
 - **Casual clip** — the <span class="cite-jp">に</span> often drops: <span class="cite-jp">何のため？</span><span class="gl-en"> — what for</span>?
 
@@ -36,8 +36,8 @@ In order to achieve a goal; marks deliberate purpose
     for <span class="cite-jp">ように</span>: <span class="cite-jp">忘れないようにメモした。</span><span class="gl-en"> — I made a note so I wouldn't forget</span>.
 
 ??? note "<span class="cite-jp">ために</span> vs <span class="cite-jp">ように</span>, the fuller picture"
-    The line is control. <span class="cite-jp">合格するために勉強する</span><span class="gl-en"> — studying is your deliberate</span>
-    means — contrasts with <span class="cite-jp">聞こえるように大きい声で話す</span>, where being audible
+    The line is control. <span class="cite-jp">合格するために勉強する</span><span class="gl-en"> — studying is your deliberate
+    means — </span>contrasts with <span class="cite-jp">聞こえるように大きい声で話す</span>, where being audible
     is an outcome you aim speech at, not an act you perform.
 
     Verbs of ability and negatives lean <span class="cite-jp">ように</span> almost without exception;

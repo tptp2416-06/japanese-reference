@@ -114,8 +114,8 @@ Appear to look X; explicitly frames an impression as visual
 **Form:** `A-stem + そうに見える`
 {: .form }
 
-- **The impression, explicitly visual** — <span class="cite-jp">高そうに見える</span><span class="gl-en"> — it looks</span>
-  expensive. Plain <span class="cite-jp">そうだ</span> already means seems, so adding <span class="cite-jp">に見える</span>
+- **The impression, explicitly visual** — <span class="cite-jp">高そうに見える</span><span class="gl-en"> — it looks
+  expensive</span>. Plain <span class="cite-jp">そうだ</span> already means seems, so adding <span class="cite-jp">に見える</span>
   foregrounds the at-a-glance nature, often with a faint hedge that looks
   may deceive.
 
