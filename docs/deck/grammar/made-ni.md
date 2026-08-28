@@ -31,8 +31,8 @@ By a deadline; the action must occur no later than that time
 
 - **A deadline, not a stretch** — the action, event or result must happen by that
   time. Earlier is fine, and nothing is claimed about the hours in between.
-- **Compare** — 5<span class="cite-jp">時までに帰る</span> — be home by five — names a point you have to be
-  inside. 5<span class="cite-jp">時まで働く</span> — work until five — fills the hours up to it.
+- **Compare** — 5<span class="cite-jp">時までに帰る</span><span class="gl-en"> — be home by five — </span>names a point you have to be
+  inside. 5<span class="cite-jp">時まで働く</span><span class="gl-en"> — work until five — </span>fills the hours up to it.
 - **A clause can name the deadline** — a dictionary-form verb before <span class="cite-jp">までに</span> names
   the moment exactly as a time noun would, so the deadline can be an event rather
   than a time.
@@ -67,7 +67,7 @@ state that continues up to it.
 
 ??? note "When a point event stretches out — 30<span class="cite-jp">歳まで結婚しない</span>"
     Negation can turn what normally looks like a point event into a continuing
-    non-event. 30<span class="cite-jp">歳まで結婚しない</span> — I won't get married until I'm thirty — takes
+    non-event. 30<span class="cite-jp">歳まで結婚しない</span><span class="gl-en"> — I won't get married until I'm thirty — </span>takes
     plain <span class="cite-jp">まで</span>, not <span class="cite-jp">までに</span>.
 
     <span class="cite-jp">結婚する</span> is normally point-like, but not being married is a state, and it
@@ -95,8 +95,8 @@ No later than the stated deadline, with emphasis — by X at the latest.
 - **Plain <span class="cite-jp">までに</span> states the deadline neutrally** — <span class="cite-jp">までには</span> highlights it, often
   with a sense such as "by X, at least" or "by X at the latest". Which of those
   it lands on depends on the situation.
-- **The minimal pair** — <span class="cite-jp">金曜日までに終わります</span> — it will be finished by Friday
-  — is a neutral deadline; <span class="cite-jp">金曜日までには終わります</span> — it will be finished by
+- **The minimal pair** — <span class="cite-jp">金曜日までに終わります</span><span class="gl-en"> — it will be finished by Friday</span>
+  — is a neutral deadline; <span class="cite-jp">金曜日までには終わります</span><span class="gl-en"> — it will be finished by</span>
   Friday at the latest — emphasises that deadline or sets it against other
   possibilities.
 

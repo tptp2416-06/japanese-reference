@@ -26,7 +26,7 @@ Think of a question word as opening a list of possible answers.
 With common forms like these, add <span class="cite-jp">も</span> and make the predicate negative, and every
 possible answer is ruled out:
 
-<div class="eg-micro"><div class="eg-jp" lang="ja"><ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べない</div><div class="ex-en">do not eat anything, eat nothing</div></div>
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べない</div><div class="ex-en">do not eat anything, eat nothing</div></div>
 
 The sentence does not choose one particular thing and negate it. It says that
 **none of the possible things qualify**.
@@ -48,7 +48,7 @@ Question word plus も with a negative predicate denies every case: 何も nothi
 {: .form }
 
 - **The negative predicate rules out every possible answer** — <span class="cite-jp">誰も来なかった</span>
-  means nobody came: no person in the relevant group satisfies <span class="cite-jp">来た</span> — came.
+  means nobody came: no person in the relevant group satisfies <span class="cite-jp">来た</span><span class="gl-en"> — came</span>.
 - **<span class="cite-jp">も</span> does not by itself mean nobody or nothing here** — the negative
   predicate completes that reading. <span class="cite-jp">誰も</span> identifies the range being
   considered; <span class="cite-jp">来なかった</span> rules everyone in that range out.
@@ -81,12 +81,12 @@ With <span class="cite-jp">何</span>, the contrast is especially easy to see:
   predicate understood from context.
 - **Politeness generally attaches to the predicate, not to <span class="cite-jp">も</span> itself** —
   <span class="cite-jp">誰もいらっしゃいませんでした</span> is a formal, written-register way to say
-  <span class="cite-jp">誰も来なかった</span> — nobody came; the range-marking <span class="cite-jp">も</span> does not change.
+  <span class="cite-jp">誰も来なかった</span><span class="gl-en"> — nobody came</span>; the range-marking <span class="cite-jp">も</span> does not change.
 
 ### Which particles <span class="cite-jp">も</span> replaces
 
-- **<span class="cite-jp">が</span> and <span class="cite-jp">を</span> normally give way to <span class="cite-jp">も</span>** — <span class="cite-jp">誰も来なかった</span> — nobody came — and
-  <span class="cite-jp">何も買わなかった</span> — I bought nothing — do not need an additional <span class="cite-jp">が</span> or <span class="cite-jp">を</span>. <span class="cite-jp">も</span>
+- **<span class="cite-jp">が</span> and <span class="cite-jp">を</span> normally give way to <span class="cite-jp">も</span>** — <span class="cite-jp">誰も来なかった</span><span class="gl-en"> — nobody came — </span>and
+  <span class="cite-jp">何も買わなかった</span><span class="gl-en"> — I bought nothing — </span>do not need an additional <span class="cite-jp">が</span> or <span class="cite-jp">を</span>. <span class="cite-jp">も</span>
   takes the place where <span class="cite-jp">が</span> or <span class="cite-jp">を</span> would otherwise appear.
 - **Other case particles can remain before <span class="cite-jp">も</span>** — <span class="cite-jp">誰にも会わなかった</span>, I did
   not meet anyone, <span class="cite-jp">誰とも話さなかった</span>, I did not speak with anyone, and

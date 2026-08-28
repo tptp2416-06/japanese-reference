@@ -32,20 +32,20 @@ Still or not yet; state continues relative to expectations
 - **The earlier situation continues** — <span class="cite-jp">まだ寝ている</span> — is still sleeping —
   while <span class="cite-jp">まだ雨だ</span> shows the same pattern: an expected change hasn't displaced
   the current state.
-- **The endpoint can feel close** — <span class="cite-jp">まだ大丈夫</span> — it is still okay — guarantees
+- **The endpoint can feel close** — <span class="cite-jp">まだ大丈夫</span><span class="gl-en"> — it is still okay — </span>guarantees
   the current state, not its future. In the right setting, that can reassure
   and warn at the same time.
-- **The approaching limit is contextual** — <span class="cite-jp">まだ若い</span> — is still young — may
+- **The approaching limit is contextual** — <span class="cite-jp">まだ若い</span><span class="gl-en"> — is still young — </span>may
   contrast the present with a later stage, but <span class="cite-jp">まだ</span> itself does not calculate
   when that stage will arrive.
 
-<div class="eg-micro"><div class="eg-jp" lang="ja"><ruby>店<rt>みせ</rt></ruby>はまだ<ruby>開<rt>あ</rt></ruby>いている。</div><div class="ex-en">The shop is still open.</div></div>
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>店<rt>みせ</rt></ruby>はまだ<ruby>開<rt>あ</rt></ruby>いている。</div><div class="ex-en">The shop is still open.</div></div>
 
 ### <span class="cite-jp">まだ大丈夫</span> can reassure or warn
 
 It directly says only that things remain okay now. If the conversation has
 already put a limit in view, "still" can suggest that the margin is shrinking:
-<span class="cite-jp">まだ大丈夫</span> — it is still okay for now.
+<span class="cite-jp">まだ大丈夫</span><span class="gl-en"> — it is still okay for now</span>.
 
 Without that setting, it can be simple reassurance instead. The warning is an
 inference from context, not a second dictionary meaning built into <span class="cite-jp">まだ</span>.
@@ -64,7 +64,7 @@ Not yet; an expected action or state has still not come about
 {: .form }
 
 <span class="cite-jp">まだ</span> with a negative predicate says the change hasn't been reached:
-<span class="cite-jp">まだ終わっていない</span> — it hasn't finished yet. <span class="cite-jp">まだ決めていない</span> works the same way.
+<span class="cite-jp">まだ終わっていない</span><span class="gl-en"> — it hasn't finished yet</span>. <span class="cite-jp">まだ決めていない</span> works the same way.
 
 ### The negative belongs to the predicate, not <span class="cite-jp">まだ</span>
 
@@ -74,7 +74,7 @@ Not yet; an expected action or state has still not come about
 - **Yet often leaves the change open** — <span class="cite-jp">まだ来ていない</span> — hasn't arrived yet —
   commonly presents arrival as expected or relevant. It does not promise that
   the person will eventually arrive.
-- **Questions keep the same viewpoint** — <span class="cite-jp">まだ終わっていない？</span> — is it not
+- **Questions keep the same viewpoint** — <span class="cite-jp">まだ終わっていない？</span><span class="gl-en"> — is it not</span>
   finished yet? — asks whether the unreached state continues and may sound
   impatient if the situation supplies that expectation.
 
@@ -163,21 +163,21 @@ Already, another, or no longer, depending on context.
 **Form:** `もう + affirmative predicate` · `もう + negative predicate`
 {: .form }
 
-- **The relevant change is behind you** — <span class="cite-jp">もう大丈夫</span> — it is okay now — presents
+- **The relevant change is behind you** — <span class="cite-jp">もう大丈夫</span><span class="gl-en"> — it is okay now — </span>presents
   becoming okay as reached, and <span class="cite-jp">もう遅い</span> does the same for a limit already passed.
-- **Negation changes what is true beyond the line** — <span class="cite-jp">もう使わない</span> — I won't use
+- **Negation changes what is true beyond the line** — <span class="cite-jp">もう使わない</span><span class="gl-en"> — I won't use</span>
   it anymore — and <span class="cite-jp">もう寒くない</span> place things on the earlier side the same way.
 - **Expectation colors the reading** — <span class="cite-jp">もう</span> can convey surprise that the line
   was crossed early, impatience that it should be crossed now, or no special
   emotion at all. The sentence and situation supply that tone.
 
-<div class="eg-micro"><div class="eg-jp" lang="ja">もうここには<ruby>住<rt>す</rt></ruby>んでいない。</div><div class="ex-en">I don&#x27;t live here anymore.</div></div>
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja">もうここには<ruby>住<rt>す</rt></ruby>んでいない。</div><div class="ex-en">I don&#x27;t live here anymore.</div></div>
 
 ### Polarity, not <span class="cite-jp">もう</span>, decides the English word
 
 Already fits when the predicate names the new situation directly: <span class="cite-jp">もう終わった</span>
 — it has already finished. When the predicate is negative, the same viewpoint
-means the old situation no longer holds: <span class="cite-jp">もう開いていない</span> — it is not open
+means the old situation no longer holds: <span class="cite-jp">もう開いていない</span><span class="gl-en"> — it is not open</span>
 anymore.
 
 The grammar has not reversed. <span class="cite-jp">もう</span> keeps placing the viewpoint beyond a
@@ -202,7 +202,7 @@ Already did; もう with a past predicate.
 The past form makes the crossed line especially easy to see. An event has
 happened, and <span class="cite-jp">もう</span> presents it as reached by now or by another reference time.
 
-- **In a statement, English usually says already** — <span class="cite-jp">もう予約した</span> — I've
+- **In a statement, English usually says already** — <span class="cite-jp">もう予約した</span><span class="gl-en"> — I've</span>
   already made a reservation.
 - **In a question, English often says yet** — Japanese asks with <span class="cite-jp">もう</span> whether
   the event side has been reached; English normally phrases the same neutral
@@ -215,9 +215,9 @@ happened, and <span class="cite-jp">もう</span> presents it as reached by now 
 
 ### The answer's polarity flips the adverb
 
-Asked <span class="cite-jp">もう食べた？</span> — have you eaten yet? — a positive answer can be
-<span class="cite-jp">うん、もう食べた</span> — yes, I've already eaten; a negative one is normally
-<span class="cite-jp">いや、まだ食べていない</span> — no, I haven't eaten yet.
+Asked <span class="cite-jp">もう食べた？</span><span class="gl-en"> — have you eaten yet</span>? — a positive answer can be
+<span class="cite-jp">うん、もう食べた</span><span class="gl-en"> — yes, I've already eaten</span>; a negative one is normally
+<span class="cite-jp">いや、まだ食べていない</span><span class="gl-en"> — no, I haven't eaten yet</span>.
 
 The answer changes the adverb because it changes the side of the line being
 reported: reached with <span class="cite-jp">もう</span>, still unreached with <span class="cite-jp">まだ</span>.

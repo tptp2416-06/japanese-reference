@@ -19,12 +19,12 @@ In order to achieve a goal; marks deliberate purpose
 {: .form }
 
 - **Deliberate aim** — the actor does A in order to achieve B:
-  <span class="cite-jp">日本語を勉強するために、アプリを入れた。</span> — I installed the app in order
+  <span class="cite-jp">日本語を勉強するために、アプリを入れた。</span><span class="gl-en"> — I installed the app in order</span>
   to study Japanese.
-- **Benefit reading with nouns** — <span class="cite-jp">家族のために働いてる</span> — for my family's
+- **Benefit reading with nouns** — <span class="cite-jp">家族のために働いてる</span><span class="gl-en"> — for my family's</span>
   sake — describes a benefit, not a plan. Context decides, and the readings
   sit close enough that this rarely causes trouble.
-- **Casual clip** — the <span class="cite-jp">に</span> often drops: <span class="cite-jp">何のため？</span> — what for?
+- **Casual clip** — the <span class="cite-jp">に</span> often drops: <span class="cite-jp">何のため？</span><span class="gl-en"> — what for</span>?
 
 <div class="dlg"><div class="dlg-note">what licenses the casual 何のため？ — B&#x27;s question presupposes A already has a goal in mind, and just wants it named.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>毎朝<rt>まいあさ</rt></ruby><ruby>走<rt>はし</rt></ruby>ってるんだ。</div><div class="ex-en">I&#x27;ve been running every morning.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">え、<ruby>何<rt>なに</rt></ruby>のため？</div><div class="ex-en">Oh, what for?</div></div></div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">マラソンに<ruby>出<rt>で</rt></ruby>るために。</div><div class="ex-en">In order to run a marathon.</div></div></div></div>
 
@@ -33,10 +33,10 @@ In order to achieve a goal; marks deliberate purpose
 !!! warning "Pitfall"
     <span class="cite-jp">ために</span> wants a goal the subject can pursue directly. For outcomes you
     can't simply will — not forgetting, becoming able to — Japanese reaches
-    for <span class="cite-jp">ように</span>: <span class="cite-jp">忘れないようにメモした。</span> — I made a note so I wouldn't forget.
+    for <span class="cite-jp">ように</span>: <span class="cite-jp">忘れないようにメモした。</span><span class="gl-en"> — I made a note so I wouldn't forget</span>.
 
 ??? note "<span class="cite-jp">ために</span> vs <span class="cite-jp">ように</span>, the fuller picture"
-    The line is control. <span class="cite-jp">合格するために勉強する</span> — studying is your deliberate
+    The line is control. <span class="cite-jp">合格するために勉強する</span><span class="gl-en"> — studying is your deliberate</span>
     means — contrasts with <span class="cite-jp">聞こえるように大きい声で話す</span>, where being audible
     is an outcome you aim speech at, not an act you perform.
 

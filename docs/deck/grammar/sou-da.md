@@ -41,7 +41,7 @@ Looks or seems likely based on direct visual evidence. Attaches to the verb stem
 
 !!! warning "Pitfall"
     Not for things you've confirmed. Once you've tasted it, it's <span class="cite-jp">美味しい</span>,
-    not <span class="cite-jp">美味しそう</span> — keeping <span class="cite-jp">そう</span> where you have direct knowledge reads as
+    not <span class="cite-jp">美味しそう</span><span class="gl-en"> — keeping </span><span class="cite-jp">そう</span> where you have direct knowledge reads as
     oddly noncommittal.
 
 <div class="dlg"><div class="dlg-note">what licenses 高そうに見える — B&#x27;s own eyes are the evidence, before any bill confirms it.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">この<ruby>新<rt>あたら</rt></ruby>しいレストラン、<ruby>高<rt>たか</rt></ruby>そうに<ruby>見<rt>み</rt></ruby>えるね。</div><div class="ex-en">This new restaurant looks expensive.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">だよね。でも<ruby>意外<rt>いがい</rt></ruby>と<ruby>安<rt>やす</rt></ruby>いらしいよ。</div><div class="ex-en">Right? But apparently it&#x27;s surprisingly cheap.</div></div></div></div>
@@ -98,7 +98,7 @@ Nearly reaches a state or comes close to an event occurring
 **Form:** `V-stem + そうになる`, almost always past: <span class="cite-jp">そうになった</span>
 {: .form }
 
-- **Came to the brink and didn't** — <span class="cite-jp">転びそうになった</span> — I nearly fell. The
+- **Came to the brink and didn't** — <span class="cite-jp">転びそうになった</span><span class="gl-en"> — I nearly fell</span>. The
   implicit non-occurrence is why the past tense dominates.
 
 ## そうに見える — the explicitly visual impression { #sou-ni-mieru }
@@ -114,7 +114,7 @@ Appear to look X; explicitly frames an impression as visual
 **Form:** `A-stem + そうに見える`
 {: .form }
 
-- **The impression, explicitly visual** — <span class="cite-jp">高そうに見える</span> — it looks
+- **The impression, explicitly visual** — <span class="cite-jp">高そうに見える</span><span class="gl-en"> — it looks</span>
   expensive. Plain <span class="cite-jp">そうだ</span> already means seems, so adding <span class="cite-jp">に見える</span>
   foregrounds the at-a-glance nature, often with a faint hedge that looks
   may deceive.
@@ -133,7 +133,7 @@ Does not look or seem X; negative appearance judgment
 {: .form }
 
 - **The adjective-side negative** — <span class="cite-jp">美味しくなさそう</span> — doesn't look tasty —
-  and <span class="cite-jp">問題なさそう</span> — looks like no problem.
+  and <span class="cite-jp">問題なさそう</span><span class="gl-en"> — looks like no problem</span>.
 - Compare <span class="cite-jp">そうにない</span> above for denying that an event looks likely.
 
 <div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>

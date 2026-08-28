@@ -44,11 +44,11 @@ In what feels like no time; emphasizes surprisingly quick completion
 
 - **It is also different from <span class="cite-jp">いつの間にか</span>** — <span class="cite-jp">あっという間に</span> says the
   interval seemed very short. <span class="cite-jp">いつの間にか</span> says that the change happened
-  without the speaker noticing exactly when: <span class="cite-jp">いつの間にか寝ていた</span> — before I
+  without the speaker noticing exactly when: <span class="cite-jp">いつの間にか寝ていた</span><span class="gl-en"> — before I</span>
   knew it, I had fallen asleep.
 - **Compared with <span class="cite-jp">すぐ</span>, <span class="cite-jp">あっという間に</span> adds a sense of the time disappearing**
   — <span class="cite-jp">すぐ終わった</span> simply reports the timing, it ended quickly;
-  <span class="cite-jp">あっという間に終わった</span> — it was over in no time — presents that same
+  <span class="cite-jp">あっという間に終わった</span><span class="gl-en"> — it was over in no time — </span>presents that same
   interval as strikingly brief.
 
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [すぐ](<sugu.md> "すぐ — Immediately or right away") <span class="xref-reason">&mdash; reports timing as quick without measuring how the interval felt</span></div>
@@ -56,8 +56,8 @@ In what feels like no time; emphasizes surprisingly quick completion
 - **The expression doesn't say how the speaker feels about the speed** — happy
   or unhappy is read from context, not from <span class="cite-jp">あっという間に</span> itself.
 - **The same phrase reports good news and bad news alike** —
-  <span class="cite-jp">休日はあっという間に終わった</span> — the day off was over in no time — can sound
-  disappointed; <span class="cite-jp">切符はあっという間に売り切れた</span> — the tickets sold out almost
+  <span class="cite-jp">休日はあっという間に終わった</span><span class="gl-en"> — the day off was over in no time — </span>can sound
+  disappointed; <span class="cite-jp">切符はあっという間に売り切れた</span><span class="gl-en"> — the tickets sold out almost</span>
   immediately — simply reports the pace.
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>話<rt>はな</rt></ruby>しているうちに、<ruby>二時間<rt>にじかん</rt></ruby>が<span class="pat">あっという<ruby>間<rt>ま</rt></ruby>に</span><ruby>過<rt>す</rt></ruby>ぎた。</div><div class="ex-en">&ldquo;While we were talking, two hours went by in no time.&rdquo;</div><div class="ex-note">The clock measured two hours; あっという間 reports that the stretch felt surprisingly short.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>話<rt>はな</rt></ruby>しているうちに、</span><span class="g">while we were talking</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>二時間<rt>にじかん</rt></ruby>が</span><span class="g">two hours</span></div><div class="bd-seg hit"><span class="j" lang="ja">あっという<ruby>間<rt>ま</rt></ruby>に</span><span class="g">in no time</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>過<rt>す</rt></ruby>ぎた</span><span class="g">went by</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">あっという間に + completed event</span></div></div></details></div>
@@ -74,19 +74,19 @@ or change is complete, but there is nothing inherently past about the
 expression.
 
 - **A general tendency can be non-past** —
-  <span class="cite-jp">楽しい時間はあっという間に過ぎる</span> — good times pass in no time.
+  <span class="cite-jp">楽しい時間はあっという間に過ぎる</span><span class="gl-en"> — good times pass in no time</span>.
 - **A future prediction can also be non-past** —
-  <span class="cite-jp">来週もあっという間に終わる</span> — next week will be over before we know it.
+  <span class="cite-jp">来週もあっという間に終わる</span><span class="gl-en"> — next week will be over before we know it</span>.
 
 ??? note "<span class="cite-jp">あっという間</span> without <span class="cite-jp">に</span>"
     <span class="cite-jp">あっという間</span> does not always need <span class="cite-jp">に</span>. The underlying idea of a surprisingly
     short interval remains, but its grammatical job changes.
 
     With <span class="cite-jp">の</span>, it modifies a noun:
-    <span class="cite-jp">あっという間の出来事</span> — an event that was over in moments.
+    <span class="cite-jp">あっという間の出来事</span><span class="gl-en"> — an event that was over in moments</span>.
 
     It can also be the predicate:
-    <span class="cite-jp">三日間はあっという間だった</span> — the three days flew by.
+    <span class="cite-jp">三日間はあっという間だった</span><span class="gl-en"> — the three days flew by</span>.
 
     Use <span class="cite-jp">あっという間に</span> when the phrase frames an action or change as taking place
     within that surprisingly short interval. Without <span class="cite-jp">に</span>, <span class="cite-jp">あっという間</span> can instead

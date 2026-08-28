@@ -79,9 +79,9 @@ The same <span class="cite-jp">ないで</span> shape can also carry an intimate
 
 Conversation often shortens further, dropping shared arguments and particles along with <span class="cite-jp">ください</span>:
 
-- <span class="cite-jp">行かないで。</span> — Don't go.
-- <span class="cite-jp">忘れないでね。</span> — Don't forget, okay?
-- <span class="cite-jp">それ触らないで。</span> — Don't touch that.
+- <span class="cite-jp">行かないで。</span><span class="gl-en"> — Don't go</span>.
+- <span class="cite-jp">忘れないでね。</span><span class="gl-en"> — Don't forget, okay</span>?
+- <span class="cite-jp">それ触らないで。</span><span class="gl-en"> — Don't touch that</span>.
 
 The negative request survives every one of these cuts.
 

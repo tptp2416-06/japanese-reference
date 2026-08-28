@@ -9,7 +9,7 @@
     <span class="cite-jp">んだから</span>, <span class="cite-jp">んだけど</span>, <span class="cite-jp">んだって</span>, <span class="cite-jp">んだよね</span> and <span class="cite-jp">んですか</span> each build a more
     particular use on that same base.
 
-A bare statement in Japanese reports something: <span class="cite-jp">変わる</span> — it changes. <span class="cite-jp">んだ</span>
+A bare statement in Japanese reports something: <span class="cite-jp">変わる</span><span class="gl-en"> — it changes</span>. <span class="cite-jp">んだ</span>
 presents that same fact as connected to some relevant situation — an
 explanation, a realization, background — rather than as an isolated
 assertion.
@@ -75,10 +75,10 @@ those readings share is that the information has been received.
     On a plain fact with nothing riding on it, it can sound like the speaker
     is explaining themselves unprompted.
 
-    <span class="cite-jp">今日</span>[<span class="cite-jp">きょう</span>]<span class="cite-jp">は月曜日</span>[<span class="cite-jp">げつようび</span>]<span class="cite-jp">だ。</span> — it's Monday today — states a fact
+    <span class="cite-jp">今日</span>[<span class="cite-jp">きょう</span>]<span class="cite-jp">は月曜日</span>[<span class="cite-jp">げつようび</span>]<span class="cite-jp">だ。</span><span class="gl-en"> — it's Monday today — </span>states a fact
     plainly.
 
-    <span class="cite-jp">だから授業</span>[<span class="cite-jp">じゅぎょう</span>]<span class="cite-jp">があるんだ</span> — that's why there's class — works
+    <span class="cite-jp">だから授業</span>[<span class="cite-jp">じゅぎょう</span>]<span class="cite-jp">があるんだ</span><span class="gl-en"> — that's why there's class — </span>works
     because <span class="cite-jp">だから</span> has already stated the causal connection; <span class="cite-jp">んだ</span> then
     frames the result as explanatory background, not the other way around.
 
@@ -104,7 +104,7 @@ Given that X is true; strongly presents it as explanatory background
   a reminder.
 - **The tone follows the situation, not the grammar** — the same
   "established reason" move can read as gentle support or as pointed
-  reproach. <span class="cite-jp">もう子供じゃないんだから、自分でやりなさい</span> — you're not a child
+  reproach. <span class="cite-jp">もう子供じゃないんだから、自分でやりなさい</span><span class="gl-en"> — you're not a child</span>
   anymore, so do it yourself — leans firmly toward the second.
 
 <div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [から (reason)](<kara.md#reason> "から — reason, and the particle for source and time") <span class="xref-reason">&mdash; から&#x27;s own reason-marking, which んだから treats as already established</span></div>
@@ -132,7 +132,7 @@ Provides background or softens a request, explanation, or topic introduction
   it leaves the implication for the listener to pick up, which often
   functions as a low-pressure way to open a topic.
 
-<div class="eg-micro"><div class="eg-jp" lang="ja"><ruby>実<rt>じつ</rt></ruby>は、<ruby>話<rt>はな</rt></ruby>したいことがあるんだけど。</div><div class="ex-en">Actually, there&#x27;s something I want to talk to you about.</div></div>
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>実<rt>じつ</rt></ruby>は、<ruby>話<rt>はな</rt></ruby>したいことがあるんだけど。</div><div class="ex-en">Actually, there&#x27;s something I want to talk to you about.</div></div>
 
 
 ## んだって — relaying what you heard { #n-datte }
@@ -207,9 +207,9 @@ Asks for explanation with contextual interest; polite explanatory question
 
 ### <span class="cite-jp">んですか</span> against a plain <span class="cite-jp">ですか</span> question
 
-- **The contrast is audible** — <span class="cite-jp">どこに行きますか</span> — where are you going? —
+- **The contrast is audible** — <span class="cite-jp">どこに行きますか</span><span class="gl-en"> — where are you going</span>? —
   asks fairly directly.
-- **<span class="cite-jp">んですか</span> adds nothing to the words** — <span class="cite-jp">どこに行くんですか</span> — where are you
+- **<span class="cite-jp">んですか</span> adds nothing to the words** — <span class="cite-jp">どこに行くんですか</span><span class="gl-en"> — where are you</span>
   going? — asks the same question, word for word, but presents it as
   prompted by something the speaker noticed, like seeing you with a bag.
 
@@ -220,7 +220,7 @@ Asks for explanation with contextual interest; polite explanatory question
     the speaker's style — not inherently confrontational, but carrying more
     of that risk than a plain question.
 
-    <span class="cite-jp">何</span>[<span class="cite-jp">なに</span>]<span class="cite-jp">を食</span>[<span class="cite-jp">た</span>]<span class="cite-jp">べるんだ？</span> — what are you eating? — pressed harder than
+    <span class="cite-jp">何</span>[<span class="cite-jp">なに</span>]<span class="cite-jp">を食</span>[<span class="cite-jp">た</span>]<span class="cite-jp">べるんだ？</span><span class="gl-en"> — what are you eating</span>? — pressed harder than
     asked neutrally.
 
     <span class="cite-jp">んですか</span> is often the safer choice when politeness or the relationship

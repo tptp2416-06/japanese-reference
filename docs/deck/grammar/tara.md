@@ -9,7 +9,7 @@
 
 <span class="cite-jp">たら</span> turns the past-tense shape of a verb, adjective or noun into a clause that sets something else up, rather than reporting that the action is already finished.
 
-<span class="cite-jp">電気をつけたら</span> is built on <span class="cite-jp">つけた</span>, the ordinary past tense of <span class="cite-jp">つける</span> — turn on — but it points forward to whatever comes next instead of reporting that the light is already on.
+<span class="cite-jp">電気をつけたら</span> is built on <span class="cite-jp">つけた</span>, the ordinary past tense of <span class="cite-jp">つける</span><span class="gl-en"> — turn on — </span>but it points forward to whatever comes next instead of reporting that the light is already on.
 
 What comes next decides what that pointing-forward was for. <span class="cite-jp">電気をつけたら、部屋が明るくなる</span> predicts what happens once the switch is flipped: the room gets bright, and it hasn't yet.
 
@@ -34,7 +34,7 @@ If or when a condition is met, the following result applies
 {: .form }
 
 - **A hypothesis about something that hasn't happened yet** — <span class="cite-jp">電気をつけたら、部屋が明るくなる</span> simply predicts that the room will get bright once the light goes on, nothing more.
-- **Any predicate type attaches the same way** — an <span class="cite-jp">い</span>-adjective or <span class="cite-jp">な</span>-adjective/noun takes <span class="cite-jp">だった</span> before <span class="cite-jp">ら</span>: <span class="cite-jp">忙しかったら</span> — if I'm busy, <span class="cite-jp">静かだったら</span> — if it's quiet, <span class="cite-jp">学生だったら</span> — if they're a student.
+- **Any predicate type attaches the same way** — an <span class="cite-jp">い</span>-adjective or <span class="cite-jp">な</span>-adjective/noun takes <span class="cite-jp">だった</span> before <span class="cite-jp">ら</span>: <span class="cite-jp">忙しかったら</span><span class="gl-en"> — if I'm busy, </span><span class="cite-jp">静かだったら</span><span class="gl-en"> — if it's quiet, </span><span class="cite-jp">学生だったら</span><span class="gl-en"> — if they're a student</span>.
 - **The main clause can be almost anything** — a statement, a question, a request, an invitation or a command all follow comfortably.
 - **Its whole length sits inside the condition's scope** — however long the main clause runs, all of it is what the <span class="cite-jp">たら</span>-clause is conditioning.
 - **Negation just flips which condition is true** — <span class="cite-jp">宿題が終わらなかったら、今日は遊びに行けない</span> states that unfinished homework blocks going out today, exactly as directly as the affirmative version would state the opposite.
@@ -179,9 +179,9 @@ Why don't you...?; casual suggestion.
 
 The consequence drops out once context already supplies it:
 
-- <span class="cite-jp">行けたら行くね。</span> — I'll go if I can.
-- <span class="cite-jp">時間があったら。</span> — If I get time. The rest is left unsaid, the same omission that makes <span class="cite-jp">たら？</span> work as a suggestion.
-- <span class="cite-jp">これでよかったら、どうぞ。</span> — If this works, here you go.
+- <span class="cite-jp">行けたら行くね。</span><span class="gl-en"> — I'll go if I can</span>.
+- <span class="cite-jp">時間があったら。</span><span class="gl-en"> — If I get time</span>. The rest is left unsaid, the same omission that makes <span class="cite-jp">たら？</span> work as a suggestion.
+- <span class="cite-jp">これでよかったら、どうぞ。</span><span class="gl-en"> — If this works, here you go</span>.
 
 ## 気づいたら — a change caught only after the fact { #kizuitara }
 
@@ -196,7 +196,7 @@ Before one realizes it; sudden awareness of an already changed situation
 **Form:** `気づいたら + [a clause describing what had already changed]`
 {: .form }
 
-- **The set phrase is built on <span class="cite-jp">気づく</span> — notice — plus discovery <span class="cite-jp">たら</span>** — literally once I noticed, used to frame a change as already complete by the time anyone caught up with it.
+- **The set phrase is built on <span class="cite-jp">気づく</span><span class="gl-en"> — notice — </span>plus discovery <span class="cite-jp">たら</span>** — literally once I noticed, used to frame a change as already complete by the time anyone caught up with it.
 - **The moment of noticing is never dated** — <span class="cite-jp">気づいたら</span> doesn't say how long the change took or exactly when it happened, only that it was already true by the time it was noticed.
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>話<rt>はなし</rt></ruby>に<ruby>夢中<rt>むちゅう</rt></ruby>になっていて、<span class="pat"><ruby>気<rt>き</rt></ruby>づいたら</span><ruby>電車<rt>でんしゃ</rt></ruby>を<ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしていた。</div><div class="ex-en">&ldquo;I was absorbed in the conversation, and before I knew it, I&#x27;d missed my stop.&rdquo; <span class="lit">&mdash; lit. I was absorbed in the talk, and when I noticed, I had already ridden past</span></div><div class="ex-note">気づいたら doesn&#x27;t say when the moment of noticing happened — only that whatever changed had already happened by the time the speaker caught up with it.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>話<rt>はなし</rt></ruby>に</span><span class="g">the conversation</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>夢中<rt>むちゅう</rt></ruby>になっていて、</span><span class="g">absorbed in it, and</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>気<rt>き</rt></ruby>づいたら</span><span class="g">before I knew it</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>電車<rt>でんしゃ</rt></ruby>を</span><span class="g">my train</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>乗<rt>の</rt></ruby>り<ruby>過<rt>す</rt></ruby>ごしていた</span><span class="g">I&#x27;d missed it</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">気づいたら + already-changed situation</span></div></div></details></div>

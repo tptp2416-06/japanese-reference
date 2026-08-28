@@ -10,7 +10,7 @@
 
 Japanese has a way of marking that something is finished, all the way, with no walking it back.
 
-<span class="cite-jp">メールを送った</span> — I sent the email — simply reports the sending. <span class="cite-jp">メールを送ってしまった</span> — I went and sent the email — reports the same event, but with something added: it's done, and there's no taking it back.
+<span class="cite-jp">メールを送った</span><span class="gl-en"> — I sent the email — </span>simply reports the sending. <span class="cite-jp">メールを送ってしまった</span><span class="gl-en"> — I went and sent the email — </span>reports the same event, but with something added: it's done, and there's no taking it back.
 
 That "done, no taking it back" feeling isn't always the same flavor.
 
@@ -49,7 +49,7 @@ One shape shows up anyway: V-<span class="cite-jp">てしまわないと</span>.
 
 Instead, <span class="cite-jp">と</span> turns the whole clause into an elliptical "if this doesn't happen, trouble" — the completion sense of <span class="cite-jp">しまう</span> sits inside that conditional, rather than being negated by it.
 
-<div class="eg-micro"><div class="eg-jp" lang="ja">明日までにレポートを書いてしまわないと。</div><div class="ex-en">I have to get the report written by tomorrow.</div></div>
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja">明日までにレポートを書いてしまわないと。</div><div class="ex-en">I have to get the report written by tomorrow.</div></div>
 
 <div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [ないと (obligation)](<nakereba-naranai.md#nai-to> "なければならない — must, have to, and don't have to") <span class="xref-reason">&mdash; the same elliptical &quot;if this doesn&#x27;t happen, trouble&quot; pattern しまわないと borrows</span></div>
 
@@ -59,7 +59,7 @@ The two often turn up in the same story — one preparing what the other later d
 
 <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [ておく](<te-oku.md> "ておく — doing something in advance, with the とく contraction") <span class="xref-reason">&mdash; the forward-looking partner: getting something ready in advance, not marking it as finished</span></div>
 
-Register climbs further still. A notice might read <span class="cite-jp">締め切ってしまいます</span> — we'll be closing applications — plain <span class="cite-jp">てしまう</span>, dressed in the polite -<span class="cite-jp">ます</span> ending, doing formal work without becoming a different construction.
+Register climbs further still. A notice might read <span class="cite-jp">締め切ってしまいます</span><span class="gl-en"> — we'll be closing applications — </span>plain <span class="cite-jp">てしまう</span>, dressed in the polite -<span class="cite-jp">ます</span> ending, doing formal work without becoming a different construction.
 
 *Compare:* [ておく・てある・ている・てしまう — prepared, resulting, finished](<../contrasts/te-oku-te-aru-te-iru-te-shimau.md> "prepared, resulting, finished")
 {: .compare }
@@ -79,7 +79,7 @@ Unfortunately do something, conveying regret, annoyance, or an unwanted outcome
 {: .form }
 
 - **Regret-flavored <span class="cite-jp">しまう</span> usually attaches to something unwanted** — a mistake, a loss, a turn of events nobody asked for — framed the same way completion is: done, and no taking it back.
-- **The speaker doesn't have to be at fault** — <span class="cite-jp">電車が遅れてしまった</span> — the train ended up running late — frames the lateness as an unwelcome, unavoidable done deal, with nobody in the sentence causing it.
+- **The speaker doesn't have to be at fault** — <span class="cite-jp">電車が遅れてしまった</span><span class="gl-en"> — the train ended up running late — </span>frames the lateness as an unwelcome, unavoidable done deal, with nobody in the sentence causing it.
 
 <div class="ex"><div class="ex-jp" lang="ja">大事な写真を<span class="pat">消してしまった</span>。</div><div class="ex-en">&ldquo;I deleted an important photo.&rdquo; <span class="lit">&mdash; lit. an important photo, went and erased</span></div><div class="ex-note">てしまう doesn&#x27;t just report the deleting — it frames it as complete and impossible to undo, and that framing is what makes this land as regret.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">大事な写真を</span><span class="g">the important photo</span></div><div class="bd-seg hit"><span class="j" lang="ja">消してしまった</span><span class="g">ended up erasing</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-てしまう, an ending that can&#x27;t be walked back</span></div></div></details></div>
 
@@ -124,13 +124,13 @@ End up doing or do completely; contraction of てしまう.
 
     They're one construction at two registers, not two different ones. Going polite uncontracts it rather than swapping in a different ending.
 
-    <span class="cite-jp">忘れちゃった</span> — I went and forgot it — becomes <span class="cite-jp">忘れてしまいました</span> — I'm afraid I forgot it. The completion-or-regret meaning travels across unchanged.
+    <span class="cite-jp">忘れちゃった</span><span class="gl-en"> — I went and forgot it — </span>becomes <span class="cite-jp">忘れてしまいました</span><span class="gl-en"> — I'm afraid I forgot it</span>. The completion-or-regret meaning travels across unchanged.
 
 ### The real choice: finished and irreversible, or not
 
 The choice that matters is not which flavor to reach for. It's whether to mark the event as finished and irreversible at all — reach for <span class="cite-jp">ちゃう</span> when that's the point, and leave it off for a plain report of what happened.
 
-<div class="eg-micro"><div class="eg-jp" lang="ja">返信、もう出しちゃった。</div><div class="ex-en">Already sent the reply.</div></div>
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja">返信、もう出しちゃった。</div><div class="ex-en">Already sent the reply.</div></div>
 
 
 ## ちゃった — where completion and regret actually show up { #chatta }
@@ -195,7 +195,7 @@ Might end up doing; casual possibility involving an unintended or regrettable re
 
 <div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [かも](<kamo.md> "かも — Might") <span class="xref-reason">&mdash; the casual conjecture ちゃうかも borrows its uncertainty from</span></div>
 
-<div class="eg-micro"><div class="eg-jp" lang="ja">返信、忘れちゃうかも。</div><div class="ex-en">I might end up forgetting to reply.</div></div>
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja">返信、忘れちゃうかも。</div><div class="ex-en">I might end up forgetting to reply.</div></div>
 
 Line the whole family up by how formal it sounds, and the difference the ear can't skip becomes visible:
 
@@ -207,11 +207,11 @@ Line the whole family up by how formal it sounds, and the difference the ear can
 
 ### In conversation
 
-<span class="cite-jp">しまった</span> alone stands as a whole reaction, no verb needed, because <span class="cite-jp">しまう</span> itself does the reacting: <span class="cite-jp">しまった！</span> — Oh no!
+<span class="cite-jp">しまった</span> alone stands as a whole reaction, no verb needed, because <span class="cite-jp">しまう</span> itself does the reacting: <span class="cite-jp">しまった！</span><span class="gl-en"> — Oh no</span>!
 
-And once the rest is obvious, a whole clause shrinks to just the ending: <span class="cite-jp">もう食べちゃった？</span> — Already eaten?
+And once the rest is obvious, a whole clause shrinks to just the ending: <span class="cite-jp">もう食べちゃった？</span><span class="gl-en"> — Already eaten</span>?
 
-The reply shrinks the same way: <span class="cite-jp">食べちゃった。</span> — Yeah, already did.
+The reply shrinks the same way: <span class="cite-jp">食べちゃった。</span><span class="gl-en"> — Yeah, already did</span>.
 
 <div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
 

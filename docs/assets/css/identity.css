@@ -46,6 +46,13 @@
   --acc-wash:    rgba(244, 113, 31, .09);
   --acc-on:      #FFF9F2;
   --ruby:        #C84800;
+  /* R161 (Tim: option C, 2026-08-28): the TRANSLATION role's terracotta.
+     #A85428 was the picked swatch; darkened one step to clear WCAG AA for
+     small text with headroom — 5.08:1 on --bg, 5.60:1 on --card (the
+     swatch itself sat at 4.53:1, passing by 0.03). Same hue family as the
+     accent ON PURPOSE: link text in prose is always JAPANESE (R32), so
+     language + position disambiguate before colour does. */
+  --tr:          #9C4E24;
   --shadow:      5px 5px 0 var(--ink);
   --shadow-sm:   3px 3px 0 var(--ink);
   --shadow-acc:  5px 5px 0 var(--acc-deep);
@@ -90,6 +97,7 @@ html { zoom: var(--ui-scale); }
   --acc-wash:    rgba(244, 113, 31, .12);
   --acc-on:      #171613;
   --ruby:        #FB7742;
+  --tr:          #DA8250;  /* translation terracotta, 5.60:1 on --card */
   --shadow:      none;
   --shadow-sm:   none;
   --shadow-acc:  none;
@@ -375,9 +383,12 @@ body,
 
 
 /* ──────────────────────────────────────────────────────────────
-   4 · THE TWO AFFORDANCES — PRESENTATION-SPEC §4
+   4 · THE THREE AFFORDANCES — PRESENTATION-SPEC §4 (third added R161)
    Tangerine text = go somewhere.  Dotted underline = meaning here.
+   Terracotta English = what it means (`--tr`; never interactive).
    Nothing else is underlined and there is no third hover behaviour.
+   Confusion with links is excluded by LANGUAGE, not hue distance:
+   prose link text is always Japanese (R32); translations are English.
    ────────────────────────────────────────────────────────────── */
 
 .md-typeset a {
@@ -1179,8 +1190,11 @@ body,
   word-break: auto-phrase;
 }
 .md-typeset .ex-jp .pat { color: var(--acc); font-weight: 700; }
-.md-typeset .ex-en { font-size: 15px; color: var(--muted); margin-top: 2px; line-height: 1.6; }
-.md-typeset .ex-en .lit { color: var(--muted); }
+.md-typeset .ex-en { font-size: 15px; color: var(--tr); margin-top: 2px; line-height: 1.6; }
+.md-typeset .ex-en .lit { color: var(--tr); }
+/* R160/R161: the inline em-dash gloss, wrapped by the generator, takes the
+   same translation terracotta — ONE role, one treatment, everywhere. */
+.md-typeset .gl-en { color: var(--tr); }
 .md-typeset .ex-note { font-size: 14.5px; color: var(--ink-2); margin-top: 6px; }
 
 /* 分解 BREAKDOWN — a <details>, so it opens with JS off and the print sheet
@@ -1400,6 +1414,17 @@ body,
    ────────────────────────────────────────────────────────────── */
 
 .md-typeset .eg-micro { margin: 10px 0 20px 18px; }
+/* R159: the micro example announces its KIND — same label language as
+   `.xref-rel`, in the small-text-safe accent so it reads as a role tag,
+   not a link (it is not interactive and never underlines). */
+.md-typeset .eg-eye {
+  font-family: var(--font-px);
+  font-size: 8.5px;
+  letter-spacing: .1em;
+  color: var(--acc-text);
+  text-transform: uppercase;
+  margin-bottom: 1px;
+}
 .md-typeset .eg-jp {
   font-family: var(--font-jp);
   font-size: 18px;
@@ -1487,13 +1512,16 @@ body,
    ────────────────────────────────────────────────────────────── */
 
 body.deck-hide-furigana .md-typeset rt { visibility: hidden; }
-body.deck-hide-english .md-typeset .ex-en {
+body.deck-hide-english .md-typeset .ex-en,
+body.deck-hide-english .md-typeset .gl-en {
   filter: blur(5px);
   cursor: pointer;
   user-select: none;
 }
 body.deck-hide-english .md-typeset .ex-en:hover,
-body.deck-hide-english .md-typeset .ex-en:focus-within { filter: none; }
+body.deck-hide-english .md-typeset .ex-en:focus-within,
+body.deck-hide-english .md-typeset .gl-en:hover,
+body.deck-hide-english .md-typeset .gl-en:focus-within { filter: none; }
 
 
 /* ──────────────────────────────────────────────────────────────
@@ -1580,7 +1608,8 @@ body.deck-hide-english .md-typeset .ex-en:focus-within { filter: none; }
   .md-content__inner,
   .md-grid { margin: 0 !important; padding: 0 !important; max-width: 100% !important; }
   body.deck-hide-furigana .md-typeset rt,
-  body.deck-hide-english .md-typeset .ex-en { visibility: visible; filter: none; }
+  body.deck-hide-english .md-typeset .ex-en,
+  body.deck-hide-english .md-typeset .gl-en { visibility: visible; filter: none; }
 }
 
 

@@ -166,7 +166,7 @@ Must do; casual contraction often used in spontaneous speech
   <span class="cite-jp">なくては</span> contracts to <span class="cite-jp">なくちゃ</span>.
 - **It can stand alone or keep the result** — <span class="cite-jp">薬を飲まなくちゃ</span> says I've got
   to take my medicine with the consequence left understood, while
-  <span class="cite-jp">薬を飲まなくちゃいけない</span> — I have to take my medicine — states it
+  <span class="cite-jp">薬を飲まなくちゃいけない</span><span class="gl-en"> — I have to take my medicine — </span>states it
   explicitly.
 - **<span class="cite-jp">なきゃ</span> and <span class="cite-jp">なくちゃ</span> overlap heavily** — both are ordinary casual ways to
   express "have to." Speaker preference, rhythm and the surrounding expression
@@ -193,14 +193,14 @@ Need not do; grants permission to omit an action
 
 ### Granting permission, not just describing it
 
-- **This is different from prohibition** — <span class="cite-jp">来なくてもいい</span> — you do not have
+- **This is different from prohibition** — <span class="cite-jp">来なくてもいい</span><span class="gl-en"> — you do not have</span>
   to come — leaves both choices open; <span class="cite-jp">来てはいけない</span> — you must not come —
   rules coming out.
 
 <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [てはいけない](<te-wa-ikenai.md> "てはいけない — must not, with the ちゃだめ contractions") <span class="xref-reason">&mdash; a prohibition, not an absence of obligation</span></div>
 
 - **The final expression changes the speaker's stance** — <span class="cite-jp">なくても大丈夫</span>
-  sounds reassuring — it is fine if you do not. <span class="cite-jp">なくてもかまわない</span> — it
+  sounds reassuring — it is fine if you do not. <span class="cite-jp">なくてもかまわない</span><span class="gl-en"> — it</span>
   does not matter if you do not — is more detached and often more formal.
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>は<span class="pat"><ruby>来<rt>こ</rt></ruby>なくてもいい</span>よ。</div><div class="ex-en">&ldquo;You don&#x27;t have to come tomorrow.&rdquo;</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>明日<rt>あした</rt></ruby>は</span><span class="g">tomorrow</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>来<rt>こ</rt></ruby>なくてもいい</span><span class="g">do not have to come</span></div><div class="bd-seg"><span class="j" lang="ja">よ</span><span class="g">you know</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">negative て-form + も + いい</span></div></div></details></div>
@@ -257,7 +257,7 @@ Must do; full plain-form expression of strong necessity
   translation method** — once familiar, the expression should be understood
   directly as an obligation.
 - **The full form is careful and somewhat formal, not only written** —
-  <span class="cite-jp">明日は早く起きなければならない</span> — I have to get up early tomorrow — is
+  <span class="cite-jp">明日は早く起きなければならない</span><span class="gl-en"> — I have to get up early tomorrow — </span>is
   natural spoken Japanese when the speaker chooses a fuller form.
 - **The same form is common on signs, notices and printed rules** —
   <span class="cite-jp">会員は年会費を支払わなければならない</span> — members must pay the annual fee —

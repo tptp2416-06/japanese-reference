@@ -51,8 +51,8 @@ Can do something; expresses ability or situational possibility
 A potential verb makes one claim and then stops: the action is available. It
 does not say what made it available.
 
-- **Skill and circumstance take the same shape** — <span class="cite-jp">ハルは泳げる</span> — Haru can swim
-  — is a fact about Haru; <span class="cite-jp">この川では泳げる</span> — you can swim in this river — is a
+- **Skill and circumstance take the same shape** — <span class="cite-jp">ハルは泳げる</span><span class="gl-en"> — Haru can swim</span>
+  — is a fact about Haru; <span class="cite-jp">この川では泳げる</span><span class="gl-en"> — you can swim in this river — </span>is a
   fact about the river, which hands nobody a swimming ability.
 - **Nothing in the form separates them** — the verb is identical in both, and
   everything that distinguishes them sits elsewhere in the sentence.
@@ -85,7 +85,7 @@ through nothing at all, because the situation has already made it obvious.
 
 ### <span class="cite-jp">ら抜き言葉</span>: the dropped <span class="cite-jp">ら</span>
 
-- **<span class="cite-jp">ら抜き言葉</span> — the <span class="cite-jp">ら</span> drops out** — <span class="cite-jp">食べられる</span> → <span class="cite-jp">食べれる</span>, <span class="cite-jp">見られる</span> → <span class="cite-jp">見れる</span>,
+- **<span class="cite-jp">ら抜き言葉</span><span class="gl-en"> — the </span><span class="cite-jp">ら</span> drops out** — <span class="cite-jp">食べられる</span> → <span class="cite-jp">食べれる</span>, <span class="cite-jp">見られる</span> → <span class="cite-jp">見れる</span>,
   <span class="cite-jp">来られる</span> → <span class="cite-jp">来れる</span>.
 - **Common in casual speech, with real variation** — how common depends on the
   speaker, the region, the verb and the setting.
@@ -106,13 +106,13 @@ through nothing at all, because the situation has already made it obvious.
     concern being able to carry out the deliberate act: having the opportunity,
     access or circumstances to watch or listen.
 
-    - <span class="cite-jp">山が見える。</span> — the mountain is visible
-    - <span class="cite-jp">この映画は今日見られる。</span> — I can watch this film today
-    - <span class="cite-jp">音が聞こえる。</span> — I can hear a sound
-    - <span class="cite-jp">この番組はアプリで聞ける。</span> — I can listen to this program in the app
+    - <span class="cite-jp">山が見える。</span><span class="gl-en"> — the mountain is visible</span>
+    - <span class="cite-jp">この映画は今日見られる。</span><span class="gl-en"> — I can watch this film today</span>
+    - <span class="cite-jp">音が聞こえる。</span><span class="gl-en"> — I can hear a sound</span>
+    - <span class="cite-jp">この番組はアプリで聞ける。</span><span class="gl-en"> — I can listen to this program in the app</span>
 
     Glasses are the edge case worth holding on to. <span class="cite-jp">眼鏡をかければ黒板が見える</span>
-    — with my glasses on, the blackboard is visible — keeps <span class="cite-jp">見える</span> — glasses
+    — with my glasses on, the blackboard is visible — keeps <span class="cite-jp">見える</span><span class="gl-en"> — glasses</span>
     restore ordinary sight rather than making seeing deliberate.
 
 <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [見える](<mieru.md> "見える — Be visible or come into view naturally") <span class="xref-reason">&mdash; visibility with no deliberate act, the construction the Pitfall above is about</span></div>
@@ -123,12 +123,12 @@ through nothing at all, because the situation has already made it obvious.
     Three separate points share the ichidan potential's shape, and the sentence
     normally settles which one you are looking at. Ask, in order:
 
-    - **Can someone do it?** <span class="cite-jp">魚が食べられる</span> — I can eat fish — potential.
-    - **Did something happen to the subject?** <span class="cite-jp">魚が猫に食べられた</span> — the fish was
+    - **Can someone do it?** <span class="cite-jp">魚が食べられる</span><span class="gl-en"> — I can eat fish — </span>potential.
+    - **Did something happen to the subject?** <span class="cite-jp">魚が猫に食べられた</span><span class="gl-en"> — the fish was</span>
       eaten by the cat — passive. An agent marked <span class="cite-jp">に</span> is a strong clue, though
       passive sentences often leave the agent out.
     - **Is someone's action being described respectfully?**
-      <span class="cite-jp">先生はもう帰られました</span> — the teacher has already left — honorific. Nothing
+      <span class="cite-jp">先生はもう帰られました</span><span class="gl-en"> — the teacher has already left — </span>honorific. Nothing
       happened to the teacher, and nobody is reporting that leaving was
       possible.
 
@@ -165,7 +165,7 @@ Potential form commonly marks the object with が instead of を
 
 ### <span class="cite-jp">を</span> is not wrong, just less explicit
 
-No. <span class="cite-jp">日本語を話せる</span> — I can speak Japanese — is said and written often, and it
+No. <span class="cite-jp">日本語を話せる</span><span class="gl-en"> — I can speak Japanese — </span>is said and written often, and it
 keeps rather more of <span class="cite-jp">話す</span>'s ordinary relationship to its object.
 
 It sits closer to "I'm able to perform the action of speaking Japanese" than to
@@ -185,19 +185,19 @@ test expects, but treating <span class="cite-jp">を</span> as an error will mis
     This helps motivate the traditional use of <span class="cite-jp">が</span>, but it does not by itself
     predict every modern use of <span class="cite-jp">が</span> and <span class="cite-jp">を</span>.
 
-??? note "<span class="cite-jp">が</span> or <span class="cite-jp">を</span> — what actually differs"
+??? note "<span class="cite-jp">が</span> or <span class="cite-jp">を</span><span class="gl-en"> — what actually differs"</span>
     Both occur naturally, and the difference is usually framing rather than
     meaning.
 
     <span class="cite-jp">が</span> sits especially well where the potential is being presented as a
-    capability or a state: <span class="cite-jp">ピアノが弾ける</span> — I can play the piano — and
-    <span class="cite-jp">この漢字が読める</span> — I can read this kanji.
+    capability or a state: <span class="cite-jp">ピアノが弾ける</span><span class="gl-en"> — I can play the piano — </span>and
+    <span class="cite-jp">この漢字が読める</span><span class="gl-en"> — I can read this kanji</span>.
 
     <span class="cite-jp">を</span> becomes easy once the verb is embedded in a longer sentence, where the
     speaker has a particular act in mind.
 
     <span class="cite-jp">この本を一日で読めると思う</span> — I think I can read this book in a day —
-    and <span class="cite-jp">明日ならその仕事を終えられる</span> — if it's tomorrow, I can finish that job.
+    and <span class="cite-jp">明日ならその仕事を終えられる</span><span class="gl-en"> — if it's tomorrow, I can finish that job</span>.
 
     Both of those are about carrying something out under particular conditions
     rather than about a standing ability. The overlap is substantial, and
