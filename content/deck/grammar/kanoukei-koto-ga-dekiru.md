@@ -20,30 +20,32 @@ nominalise the action and say that it is possible — 読むことができる. 
 inflected potential is the everyday choice; ことができる is the explicit one, at
 home in notices, rules and writing.
 
-@@ kanoukei
+@@ kanoukei — one form for skill and circumstance alike
 
 **Form:** `godan: -u → -eru` · `ichidan: -る → -られる` · `する → できる` ·
 `来る → 来られる`
 
 | class | the change | dictionary → potential |
 |---|---|---|
-| godan | final `-u` sound becomes the matching `-eru` sound | 読む → **読める** · 書く → **書ける** · 話す → **話せる** |
-| ichidan | `る` → `られる` | 食べる → **食べられる** · 見る → **見られる** |
-| する | replaced outright by できる | 運転する → **運転できる** |
-| 来る | irregular | 来る → **来られる** |
+| godan | final `-u` sound becomes the matching `-eru` sound | 読む (read) → **読める** (can read) · 書く (write) → **書ける** (can write) · 話す (speak) → **話せる** (can speak) |
+| ichidan | `る` → `られる` | 食べる (eat) → **食べられる** (can eat) · 見る (see) → **見られる** (can see) |
+| する | replaced outright by できる | 運転する (drive) → **運転できる** (can drive) |
+| 来る | irregular | 来る (come) → **来られる** (can come) |
 
 A potential verb makes one claim and then stops: the action is available. It
 does not say what made it available.
 
-- **Skill and circumstance take the same shape** — ハルは泳げる "Haru can swim"
-  is a fact about Haru; この川では泳げる "you can swim in this river" is a fact
-  about the river, which hands nobody a swimming ability.
+- **Skill and circumstance take the same shape** — ハルは泳げる — Haru can swim
+  — is a fact about Haru; この川では泳げる — you can swim in this river — is a
+  fact about the river, which hands nobody a swimming ability.
 - **Nothing in the form separates them** — the verb is identical in both, and
   everything that distinguishes them sits elsewhere in the sentence.
 - **A useful underlying model is "possible"** — even though natural English
   will often still say "can" or "be able to". Permission, access, an
   opportunity, a workable set of circumstances and a trained skill all arrive
   in this one form.
+- **Negating it just flips the polarity** — 泳げない simply says swimming isn't
+  possible; the skill/circumstance ambiguity above doesn't change.
 
 ```ex
 この川[かわ]では泳[およ]げる。
@@ -55,8 +57,18 @@ note: The sentence most naturally presents the river as the condition that
 bd: この川|this river / では|as for here / 泳げる*|swimming is possible
 pat: circumstance, not skill
 ```
+```dialog
+note: what licenses the skill reading — A asks about Haru's ability, so 泳げる reports a fact about Haru.
+A: ハルは泳[およ]げるの？ | Can Haru swim?
+B: うん、子供[こども]の頃[ころ]から泳[およ]げるよ。 | Yeah, he's been able to swim since he was a kid.
+```
+```dialog
+note: what licenses the circumstance reading — A asks about the river, so 泳げる reports a fact about the water.
+A: この川[かわ]、泳[およ]げる？ | Can you swim in this river?
+B: うん、今[いま]は水[みず]がきれいだから泳[およ]げるよ。 | Yeah, the water's clean right now, so you can.
+```
 
-### Where does the possibility come from?
+### Context, not the verb, supplies the possibility
 
 From the rest of the sentence, and often from the topic. 泳げる puts swimming on
 the table; what put it there is something the sentence has to say.
@@ -70,7 +82,7 @@ through nothing at all, because the situation has already made it obvious.
     real and worth having — it is simply not one the verb ending makes.
     Context resolves it.
 
-### Why do you hear 食べれる rather than 食べられる?
+### ら抜き言葉: the dropped ら
 
 - **ら抜き言葉 — the ら drops out** — 食べられる → 食べれる, 見られる → 見れる,
   来られる → 来れる.
@@ -91,32 +103,38 @@ through nothing at all, because the situation has already made it obvious.
     concern being able to carry out the deliberate act: having the opportunity,
     access or circumstances to watch or listen.
 
-    - 山が見える。 "the mountain is visible"
-    - この映画は今日見られる。 "I can watch this film today"
-    - 音が聞こえる。 "I can hear a sound"
-    - この番組はアプリで聞ける。 "I can listen to this program in the app"
+    - 山が見える。 — the mountain is visible
+    - この映画は今日見られる。 — I can watch this film today
+    - 音が聞こえる。 — I can hear a sound
+    - この番組はアプリで聞ける。 — I can listen to this program in the app
 
     Glasses are the edge case worth holding on to. 眼鏡をかければ黒板が見える
-    "with my glasses on, the blackboard is visible" keeps 見える — glasses
+    — with my glasses on, the blackboard is visible — keeps 見える — glasses
     restore ordinary sight rather than making seeing deliberate.
+
+-> Contrast: [[mieru]] — visibility with no deliberate act, the construction the Pitfall above is about
+-> Contrast: [[kikoeru]] — audibility with no deliberate act, the same shape as 見える
 
 ??? note "Which られる is this — potential, passive, or honorific?"
     Three separate points share the ichidan potential's shape, and the sentence
     normally settles which one you are looking at. Ask, in order:
 
-    - **Can someone do it?** 魚が食べられる "I can eat fish" — potential.
-    - **Did something happen to the subject?** 魚が猫に食べられた "the fish was
-      eaten by the cat" — passive. An agent marked に is a strong clue, though
+    - **Can someone do it?** 魚が食べられる — I can eat fish — potential.
+    - **Did something happen to the subject?** 魚が猫に食べられた — the fish was
+      eaten by the cat — passive. An agent marked に is a strong clue, though
       passive sentences often leave the agent out.
     - **Is someone's action being described respectfully?**
-      先生はもう帰られました "the teacher has already left" — honorific. Nothing
+      先生はもう帰られました — the teacher has already left — honorific. Nothing
       happened to the teacher, and nobody is reporting that leaving was
       possible.
 
     In speech the question often does not arise, because a ら抜き form is
     potential and nothing else: the passive and the honorific never drop the ら.
 
-@@ kanoukei-ga
+-> Contrast: [[rareru#neutral-passive]] — the passive reading of this same shape
+-> Contrast: [[reru-rareru]] — the honorific reading of this same shape
+
+@@ kanoukei-ga — が marks what's possible, not who acts
 
 **Form:** `N が + V-potential`
 
@@ -138,9 +156,9 @@ bd: 日本語|Japanese / が*|marks what is possible / 読める*|is readable
 pat: N が + potential verb
 ```
 
-### Is を wrong, then?
+### を is not wrong, just less explicit
 
-No. 日本語を話せる "I can speak Japanese" is said and written often, and it
+No. 日本語を話せる — I can speak Japanese — is said and written often, and it
 keeps rather more of 話す's ordinary relationship to its object.
 
 It sits closer to "I'm able to perform the action of speaking Japanese" than to
@@ -165,25 +183,26 @@ test expects, but treating を as an error will mislead you about what you hear.
     meaning.
 
     が sits especially well where the potential is being presented as a
-    capability or a state: ピアノが弾ける "I can play the piano",
-    この漢字が読める "I can read this kanji".
+    capability or a state: ピアノが弾ける — I can play the piano — and
+    この漢字が読める — I can read this kanji.
 
-    を becomes easy when the speaker has a particular act in mind, which
-    happens once the verb is embedded in a longer sentence:
-    この本を一日で読めると思う "I think I can read this book in a day",
-    明日ならその仕事を終えられる "if it's tomorrow, I can finish that job".
+    を becomes easy once the verb is embedded in a longer sentence, where the
+    speaker has a particular act in mind.
+
+    この本を一日で読めると思う — I think I can read this book in a day —
+    and 明日ならその仕事を終えられる — if it's tomorrow, I can finish that job.
 
     Both of those are about carrying something out under particular conditions
     rather than about a standing ability. The overlap is substantial, and
     neither version is the odd one.
 
-@@ koto-ga-dekiru
+@@ koto-ga-dekiru — stating possibility explicitly
 
 **Form:** `V-dict + こと + が + できる`
 
 - **Read it literally once and its range falls out** — こと turns the verb into
   a thing, が marks that thing, できる says it is possible. Underneath,
-  日本語を話すことができる is "the speaking of Japanese is possible".
+  日本語を話すことができる reads literally as the speaking of Japanese is possible.
 - **The literal reading is a tool, not a translation** — you would never render
   it that way in English. It is useful because it shows why the expression
   states permissions and procedures as comfortably as it states abilities.
@@ -202,7 +221,7 @@ bd: このカードで|with this card / 支払う|pay / こと*|the act of / が
 pat: V-dict + こと + が + できる
 ```
 
-### When would I reach for it instead of the potential form?
+### Choosing ことができる over the plain potential
 
 Not often in ordinary conversation. 日本語が話せる is shorter and more natural
 than 日本語を話すことができる, and in a simple casual exchange the long form can
