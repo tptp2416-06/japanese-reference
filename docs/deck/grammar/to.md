@@ -44,7 +44,9 @@ In the ordinary predictive use described here, the consequence is presented as s
 
 <div class="eg-contrast"><div class="eg-member"><div class="eg-label">regular result</div><div class="eg-jp" lang="ja"><ruby>春<rt>はる</rt></ruby>になると、<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く</div><div class="ex-en">When spring comes, the cherry trees bloom.</div></div><div class="eg-member"><div class="eg-jp" lang="ja">speaker&#x27;s plan: <ruby>春<rt>はる</rt></ruby>になったら、<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>こう</div><div class="ex-en">When spring comes, let&#x27;s go to Kyoto.</div></div></div>
 
-The second sentence uses <span class="cite-jp">たら</span> because going is a proposal, not an automatic consequence of spring arriving. This is a strong production default, not a claim that every sentence containing human action is impossible with <span class="cite-jp">と</span>; habits and procedures can still be presented as regular outcomes.
+The second sentence uses <span class="cite-jp">たら</span> because going is a proposal, not an automatic consequence of spring arriving.
+
+This is a strong production default, not a claim that every sentence containing human action is impossible with <span class="cite-jp">と</span>. Habits and procedures can still be presented as regular outcomes.
 
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [たら (conditional)](<tara.md#conditional> "たら — the tara-conditional: condition, discovery, time, and suggestion") <span class="xref-reason">&mdash; the four conditionals side by side</span></div>
 
@@ -61,7 +63,7 @@ The second sentence uses <span class="cite-jp">たら</span> because going is a 
 
 ### Negative conditions in conversation
 
-Speech often leaves off the consequence when it is obvious. <span class="cite-jp">もう行かないと</span> literally opens “if I don't go now…”; with the bad result understood, it naturally means I have to go now or I'd better go.
+Speech often leaves off the consequence when it is obvious. <span class="cite-jp">もう行かないと</span> literally opens — if I don't go now… — with the bad result understood, it naturally means I have to go now or I'd better go.
 
 <div class="eg-contrast"><div class="eg-member"><div class="eg-jp" lang="ja">もう<ruby>寝<rt>ね</rt></ruby>ないと</div><div class="ex-en">I have to get to bed.</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>急<rt>いそ</rt></ruby>がないと</div><div class="ex-en">We have to hurry.</div></div></div>
 
@@ -117,7 +119,13 @@ Upon doing X, find Y; an immediate, often unexpected discovery
 **Form:** `Action in plain form + と + discovered state / scene`
 {: .form }
 
-In its discovery use, <span class="cite-jp">と</span> presents what comes into view after an action: opening something reveals a scene, turning a corner reveals a landmark, or checking repeatedly produces the same finding. The action still comes first, but the second clause is not something the subject intentionally causes.
+In its discovery use, <span class="cite-jp">と</span> presents what comes into view after an action:
+
+- **Opening something** — reveals a scene.
+- **Turning a corner** — reveals a landmark.
+- **Checking repeatedly** — produces the same finding.
+
+The action still comes first, but the second clause is not something the subject intentionally causes.
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>朝<rt>あさ</rt></ruby>、カーテンを<span class="pat"><ruby>開<rt>あ</rt></ruby>けると、</span>いつも<ruby>山<rt>やま</rt></ruby>が<ruby>見<rt>み</rt></ruby>えた。</div><div class="ex-en">&ldquo;In the morning, whenever I opened the curtains, I could always see the mountains.&rdquo;</div><div class="ex-note">The mountains are a finding after the action, and いつも makes the repeated pattern explicit.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>朝<rt>あさ</rt></ruby>、</span><span class="g">in the morning</span></div><div class="bd-seg"><span class="j" lang="ja">カーテンを</span><span class="g">the curtains</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>開<rt>あ</rt></ruby>けると、</span><span class="g">whenever I opened</span></div><div class="bd-seg"><span class="j" lang="ja">いつも</span><span class="g">always</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>山<rt>やま</rt></ruby>が</span><span class="g">the mountains</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>見<rt>み</rt></ruby>えた</span><span class="g">could be seen</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">action + と, repeated discovery</span></div></div></details></div>
 
@@ -204,3 +212,5 @@ With naturally mutual actions such as <span class="cite-jp">話す</span><span c
 The rest of the sentence may be omitted when the activity is understood. <span class="cite-jp">誰と？</span><span class="gl-en"> — with whom — </span>or <span class="cite-jp">友達と</span><span class="gl-en"> — with a friend — </span>are natural short turns. The particle survives because it carries the relationship the question is asking about.
 
 <div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
+
+<div class="prov">Authored by GPT-5 Codex - High &bull; 2026-08-28; Reviewed by Claude Sonnet 5 &bull; 2026-08-28</div>

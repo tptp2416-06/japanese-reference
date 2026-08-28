@@ -44,7 +44,9 @@ regular result: 春[はる]になると、桜[さくら]が咲[さ]く | When sp
 speaker's plan: 春[はる]になったら、京都[きょうと]へ行[い]こう | When spring comes, let's go to Kyoto.
 ```
 
-The second sentence uses たら because going is a proposal, not an automatic consequence of spring arriving. This is a strong production default, not a claim that every sentence containing human action is impossible with と; habits and procedures can still be presented as regular outcomes.
+The second sentence uses たら because going is a proposal, not an automatic consequence of spring arriving.
+
+This is a strong production default, not a claim that every sentence containing human action is impossible with と. Habits and procedures can still be presented as regular outcomes.
 
 -> Compare: [[tara#conditional]] — the four conditionals side by side
 
@@ -59,7 +61,7 @@ The second sentence uses たら because going is a proposal, not an automatic co
 
 ### Negative conditions in conversation
 
-Speech often leaves off the consequence when it is obvious. もう行かないと literally opens “if I don't go now…”; with the bad result understood, it naturally means I have to go now or I'd better go.
+Speech often leaves off the consequence when it is obvious. もう行かないと literally opens — if I don't go now… — with the bad result understood, it naturally means I have to go now or I'd better go.
 
 ```eg
 もう寝[ね]ないと | I have to get to bed.
@@ -104,7 +106,13 @@ Here the human action is natural because the entire sentence describes a habit. 
 
 **Form:** `Action in plain form + と + discovered state / scene`
 
-In its discovery use, と presents what comes into view after an action: opening something reveals a scene, turning a corner reveals a landmark, or checking repeatedly produces the same finding. The action still comes first, but the second clause is not something the subject intentionally causes.
+In its discovery use, と presents what comes into view after an action:
+
+- **Opening something** — reveals a scene.
+- **Turning a corner** — reveals a landmark.
+- **Checking repeatedly** — produces the same finding.
+
+The action still comes first, but the second clause is not something the subject intentionally causes.
 
 ```ex
 朝[あさ]、カーテンを開[あ]けると、いつも山[やま]が見[み]えた。
