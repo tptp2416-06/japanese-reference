@@ -6,7 +6,7 @@
 
 !!! tip "At a glance"
 
-    `start + から + endpoint + まで` marks a whole span "from A through／to B". It
+    `start + から + endpoint + まで` marks a whole span — from A through／to B. It
     works for time, space and other ordered ranges, with <span class="cite-jp">まで</span> including the endpoint.
 
 <span class="cite-jp">から</span> marks where a span begins, and <span class="cite-jp">まで</span> marks the endpoint it runs through.
@@ -16,7 +16,7 @@ on a route, or any other ordered range.
 **See also:** [まで](<made.md> "まで — up to, as far as, and even") — the paired form that fixes both ends of the same stretch
 {: .seealso }
 
-## から〜まで (range) { #range }
+## から〜まで (range) — measuring a whole span, start to end { #range }
 
 Marks a range from its starting point through its endpoint
 {: .pt-gloss }
@@ -24,25 +24,35 @@ Marks a range from its starting point through its endpoint
 **Form:** `start + から + endpoint + まで + predicate`
 {: .form }
 
-- **Time becomes one stretch** — 9<span class="cite-jp">時から</span>5<span class="cite-jp">時まで働く</span> "work from nine to five"
-  presents the working period from its starting point through its endpoint.
-- **Space uses the same frame** — <span class="cite-jp">東京から大阪まで行く</span> "go from Tokyo to Osaka"
-  traces the route between two places.
-- **The endpoint belongs to the span** — <span class="cite-jp">月曜日から金曜日まで</span> "from Monday
-  through Friday" includes Friday rather than stopping before it.
-- **Other ordered ranges work too** — 1<span class="cite-jp">ページから</span>10<span class="cite-jp">ページまで読む</span> "read from
-  page one through page ten" treats numbered pages as a continuous span.
+- **Time becomes one stretch** — 9<span class="cite-jp">時から</span>5<span class="cite-jp">時まで働く</span> — work from nine to five
+  — presents the working period from its starting point through its endpoint.
+- **Space uses the same frame** — <span class="cite-jp">東京から大阪まで行く</span> — go from Tokyo to Osaka
+  — traces the route between two places.
+- **The endpoint belongs to the span** — <span class="cite-jp">月曜日から金曜日まで</span> — from Monday
+  through Friday — includes Friday rather than stopping before it.
+- **Other ordered ranges work too** — 1<span class="cite-jp">ページから</span>10<span class="cite-jp">ページまで読む</span> — read from
+  page one through page ten — treats numbered pages as a continuous span.
 
 <div class="ex"><div class="ex-jp" lang="ja"><span class="pat"><ruby>月曜日<rt>げつようび</rt></ruby>から<ruby>金曜日<rt>きんようび</rt></ruby>まで</span><ruby>働<rt>はたら</rt></ruby>く。</div><div class="ex-en">&ldquo;I work from Monday through Friday.&rdquo;</div><div class="ex-note">Both endpoints are named, and Friday is included in the working span.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="j" lang="ja"><ruby>月曜日<rt>げつようび</rt></ruby>から</span><span class="g">from Monday</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>金曜日<rt>きんようび</rt></ruby>まで</span><span class="g">through Friday</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>働<rt>はたら</rt></ruby>く</span><span class="g">work</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">start + から + endpoint + まで</span></div></div></details></div>
 
-### Can either end be left unstated?
+<div class="dlg"><div class="dlg-note">what licenses stating both ends — A asks for the whole schedule, so B answers with から〜まで.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>何時<rt>なんじ</rt></ruby>から<ruby>何時<rt>なんじ</rt></ruby>まで<ruby>開<rt>あ</rt></ruby>いてる？</div><div class="ex-en">What hours are you open, start to finish?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">10<ruby>時<rt>じ</rt></ruby>から7<ruby>時<rt>じ</rt></ruby>まで<ruby>開<rt>あ</rt></ruby>いてるよ。</div><div class="ex-en">We&#x27;re open from ten to seven.</div></div></div></div>
 
-Yes. 9<span class="cite-jp">時から働く</span> "work from nine" names only the start; 5<span class="cite-jp">時まで働く</span> "work
-until five" names only the endpoint. Each particle has uses of its own, while
+### Either end can stand alone
+
+Yes. 9<span class="cite-jp">時から働く</span> — work from nine — names only the start; 5<span class="cite-jp">時まで働く</span> — work
+until five — names only the endpoint. Each particle has uses of its own, while
 the paired frame is what explicitly measures the whole span end to end.
 
-Do not replace this durative <span class="cite-jp">まで</span> with deadline <span class="cite-jp">までに</span>. 5<span class="cite-jp">時まで働く</span> "work until
-five" continues through the interval; 5<span class="cite-jp">時までに終える</span> "finish by five" requires
-the result no later than that point and says nothing about filling the interval.
+<div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [から (temporal since)](<kara.md#temporal-since> "から — reason, and the particle for source and time") <span class="xref-reason">&mdash; から alone, marking only where a span starts</span></div>
+
+<div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [まで (extent)](<made.md#extent> "まで — up to, as far as, and even") <span class="xref-reason">&mdash; まで alone, marking only the endpoint it reaches</span></div>
+
+Do not replace this durative <span class="cite-jp">まで</span> with deadline <span class="cite-jp">までに</span>. 5<span class="cite-jp">時まで働く</span> — work until
+five — continues through the interval; 5<span class="cite-jp">時までに終える</span> — finish by five —
+requires the result no later than that point and says nothing about filling the
+interval.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [までに](<made-ni.md> "までに — by a deadline") <span class="xref-reason">&mdash; a deadline that must be reached by, not a stretch filled up to</span></div>
+
 
 <div class="prov">Authored by Codex 5.6 Sol - High &bull; 2026-08-23</div>
