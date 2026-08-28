@@ -1,4 +1,4 @@
-A bare statement in Japanese reports something: 変わる, "it changes." んだ
+A bare statement in Japanese reports something: 変わる — it changes. んだ
 presents that same fact as connected to some relevant situation — an
 explanation, a realization, background — rather than as an isolated
 assertion.
@@ -27,8 +27,9 @@ particular use on that same base.
   worth explaining, worth noticing, tied to what's going on.
 - **の and だ combine into one frame** — の turns the clause into a thing
   you can point at (変わる → 変わるの), だ asserts it, and the explanatory
-  feel is a property of the pair, not either piece alone. A model for the
-  shape, not the meaning. の contracts to ん in speech.
+  feel is a property of the pair, not either piece alone.
+- **This is a model for the shape, not the meaning** — の contracts to ん in
+  speech.
 - **It can mark a realization landing in real time, not only a reason given**
   — the sentence doesn't have to answer "why"; it can simply register that
   the speaker's own understanding has just shifted.
@@ -48,7 +49,7 @@ pat: んだ marking a realization, completed by a reaction
 reg: casual|そんなに変わるんだ、すごい。 / polite|そんなに変わるんですね、すごいですね。
 ```
 
-### Why does this read as a realization rather than an explanation?
+### The two-beat pattern that signals realization
 
 A two-beat pattern often carries this reading: んだ registers the fact, a
 reaction follows. The sense comes from んだ plus context and intonation
@@ -61,14 +62,19 @@ those readings share is that the information has been received.
 
 !!! warning "Pitfall"
     んだ normally signals a statement is relevant as explanation, context
-    or realization — connected to the situation, not standing alone. On a
-    plain fact with nothing riding on it, it can sound like the speaker is
-    explaining themselves unprompted.
+    or realization — connected to the situation, not standing alone.
 
-    今日[きょう]は月曜日[げつようび]だ。 states a fact plainly.
-    だから授業[じゅぎょう]があるんだ works because だから has already stated
-    the causal connection; んだ then frames the result as explanatory
-    background, not the other way around.
+    On a plain fact with nothing riding on it, it can sound like the speaker
+    is explaining themselves unprompted.
+
+    今日[きょう]は月曜日[げつようび]だ。 — it's Monday today — states a fact
+    plainly.
+
+    だから授業[じゅぎょう]があるんだ — that's why there's class — works
+    because だから has already stated the causal connection; んだ then
+    frames the result as explanatory background, not the other way around.
+
+    -> Compare: [[da-kara#main]] — だから's own job as a sentence-opening connective, which this んだ leans on rather than repeats
 
 @@ n-da-kara
 
@@ -80,8 +86,10 @@ those readings share is that the information has been received.
   a reminder.
 - **The tone follows the situation, not the grammar** — the same
   "established reason" move can read as gentle support or as pointed
-  reproach. もう子供じゃないんだから、自分でやりなさい "you're not a child
-  anymore, so do it yourself" leans firmly toward the second.
+  reproach. もう子供じゃないんだから、自分でやりなさい — you're not a child
+  anymore, so do it yourself — leans firmly toward the second.
+
+-> Prerequisite: [[kara#reason]] — から's own reason-marking, which んだから treats as already established
 
 ```ex
 疲[つか]れてるんだから、今日[きょう]はもう休[やす]もう。
@@ -107,29 +115,24 @@ pat: んだ + から, reason treated as already established
   it leaves the implication for the listener to pick up, which often
   functions as a low-pressure way to open a topic.
 
-```ex
-実[じつ]は、話[はな]したいことがあるんだけど。
-en: Actually, there's something I want to talk to you about.
-lit: actually, there's a thing [I] want to talk about [as background]
-note: んだけど doesn't need a continuation to do its job here. Ending the turn
-  right there leaves the implication — there's more to this — for the
-  listener to pick up, which works as a quiet invitation on its own.
-bd: 実は、|actually, / 話したいことがあるんだけど*|there's something to talk about [as background]
-pat: んだ + けど, trailing off as an opening
+```eg
+実[じつ]は、話[はな]したいことがあるんだけど。 | Actually, there's something I want to talk to you about.
 ```
 
 @@ n-datte
 
 **Form:** `plain form + んだって`
 
-- **って marks reported information — roughly "I heard that…"** — presenting
-  the proposition as relayed rather than asserted firsthand. The speaker
-  need not have missed witnessing it; reporting it is a choice of
-  presentation, not a fact about what they know.
+- **って marks reported information** — roughly "I heard that…", presenting
+  the proposition as relayed rather than asserted firsthand.
+- **The speaker need not have missed witnessing it** — reporting it is a
+  choice of presentation, not a fact about what they know.
 - **Distance from the source, not from belief** — って spaces the speaker's
   assertion from the reported fact, without implying doubt. It marks the
   information as coming from elsewhere, which is why news and gossip both
   reach for it.
+
+-> Continue with: [[tte#quote]] — って's own page, the fuller range of its reporting job outside んだ
 
 ```ex
 リホ、来月[らいげつ]引[ひ]っ越[こ]すんだって。
@@ -150,10 +153,12 @@ pat: んだ + って, reported information framed as background
   stacked onto んだ, the combination often presents the speaker's
   explanation or situation while inviting the listener to recognize it too.
   (Rough shorthand: よ pushes, ね pulls.)
-- **One common effect is thinking out loud** — 最近ちょっと忙しいんだよね
-  "I've been a bit busy lately, you know" leaves room for the listener to
+- **One common effect is thinking out loud** — 最近ちょっと忙しいんだよね —
+  I've been a bit busy lately, you know — leaves room for the listener to
   receive it gently. んだよね also fits self-reflection and remembering
   aloud — a nod is common, not the rule.
+
+-> Continue with: [[ne#yo-ne]] — よね's own dynamics, the half of this combination んだ doesn't supply
 
 @@ n-desu-ka
 
@@ -163,10 +168,11 @@ pat: んだ + って, reported information framed as background
   fairly directly; んですか frames the same question as connected to some
   situation the speaker is trying to understand, without necessarily asking
   for a reason.
-- **The contrast is audible** — どこに行きますか asks fairly directly.
-  どこに行くんですか asks the same question — where, rather than why — but
-  presents it as prompted by something the speaker noticed, like seeing you
-  with a bag.
+- **The contrast is audible** — どこに行きますか — where are you going? —
+  asks fairly directly.
+- **んですか adds nothing to the words** — どこに行くんですか — where are you
+  going? — asks the same question, word for word, but presents it as
+  prompted by something the speaker noticed, like seeing you with a bag.
 
 ```ex
 どうしたんですか。
@@ -186,10 +192,12 @@ pat: んです + か, polite explanatory question
     the speaker's style — not inherently confrontational, but carrying more
     of that risk than a plain question.
 
-    何[なに]を食[た]べるんだ？ can come across as "what are you eating?"
-    pressed harder than asked neutrally.
+    何[なに]を食[た]べるんだ？ — what are you eating? — pressed harder than
+    asked neutrally.
 
     んですか is often the safer choice when politeness or the relationship
-    is unclear — though not a universal substitute, since it presupposes
-    context and can itself sound probing where plain ですか would not.
-    Reach for it when the situation actually prompted the question.
+    is unclear.
+
+    Though not a universal substitute, since it presupposes context and can
+    itself sound probing where plain ですか would not — reach for it when the
+    situation actually prompted the question.
