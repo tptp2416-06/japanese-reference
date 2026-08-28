@@ -2,15 +2,64 @@
      Prose belongs in content/deck/grammar/nara.md -->
 # なら — the nara-conditional, topic, and advice
 
+!!! tip "At a glance"
+
+    <span class="cite-jp">なら</span> accepts a mentioned or imagined situation as the premise for a response. The premise does not have to happen first—or happen at all.
+    Use it to react with advice, evaluation, or a comment about the topic someone has brought into view.
+
+<span class="cite-jp">なら</span> takes a situation already in view and makes it the basis for what comes next. Someone mentions Kyoto, asks about going, or imagines not attending; <span class="cite-jp">なら</span> responds, roughly, “if that is the situation we're considering.”
+
+This lets the response come before the imagined event. <span class="cite-jp">京都に行くなら、今ホテルを予約して</span><span class="gl-en"> — if you're going to Kyoto, reserve a hotel now — </span>gives advice now about a trip that has not happened.
+
+The same logic explains topic <span class="cite-jp">なら</span>. It does not create a completely neutral topic; it picks up a subject as the relevant case and comments within that frame.
+
 If it is X; sets a contextual condition on what follows.
 {: .h1-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
 
+**Form:** `Plain clause + なら` · `N / na-adjective stem + なら` · emphatic or formal `ならば`
+{: .form }
+
+- **Start from a live premise** — <span class="cite-jp">行くなら、今決めて</span><span class="gl-en"> — if you're going, decide now — </span>treats going as the possibility under discussion and responds to it.
+- **Do not wait for the premise to happen** — the response may be advice or preparation that must occur beforehand. <span class="cite-jp">なら</span> does not require the trigger to have happened first.
+- **Choose it by asking what situation you are reacting to** — if the listener has mentioned, implied, or invited you to suppose X, attach <span class="cite-jp">なら</span> to X and give the response that follows from considering X.
+- **Negation changes the premise, not the mechanism** — <span class="cite-jp">行かないなら、予約を取り消そう</span><span class="gl-en"> — if you're not going, let's cancel the reservation — </span>reacts to the possibility of not going.
+- **The construction is broadly register-neutral** — <span class="cite-jp">なら</span> is common in conversation and ordinary writing; <span class="cite-jp">ならば</span> sounds more explicit, emphatic, or formal.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>京都<rt>きょうと</rt></ruby>に<span class="pat"><ruby>行<rt>い</rt></ruby>くなら、</span><ruby>今<rt>いま</rt></ruby>ホテルを<ruby>予約<rt>よやく</rt></ruby>して。</div><div class="ex-en">&ldquo;If you&#x27;re going to Kyoto, reserve a hotel now.&rdquo; <span class="lit">&mdash; lit. if going to Kyoto is the situation, reserve a hotel now</span></div><div class="ex-note">The reservation must happen before the trip, so なら cannot mean “after you go.” It reacts to the proposed trip as a premise.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>京都<rt>きょうと</rt></ruby>に</span><span class="g">to Kyoto</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>行<rt>い</rt></ruby>くなら、</span><span class="g">if you&#x27;re going</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>今<rt>いま</rt></ruby></span><span class="g">now</span></div><div class="bd-seg"><span class="j" lang="ja">ホテルを</span><span class="g">a hotel</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>予約<rt>よやく</rt></ruby>して</span><span class="g">reserve</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">proposed situation + なら, response can come first</span></div></div></details></div>
+
+The premise often comes from the previous turn rather than from the <span class="cite-jp">なら</span> sentence alone:
+
+<div class="dlg"><div class="dlg-note">A puts a possible Kyoto trip into the conversation; B accepts that premise and responds with relevant information.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>秋<rt>あき</rt></ruby>に<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>こうかな。</div><div class="ex-en">I&#x27;m thinking I might go to Kyoto in autumn.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>京都<rt>きょうと</rt></ruby>なら、<ruby>十月<rt>じゅうがつ</rt></ruby>がいいよ。</div><div class="ex-en">If it&#x27;s Kyoto, October is a good time.</div></div></div></div>
+
+### Timing is not sequence
+
+With <span class="cite-jp">たら</span>, the main clause is commonly understood after the condition has been met. <span class="cite-jp">なら</span> instead works from the possibility itself, so its response can describe something earlier: <span class="cite-jp">日本へ行くなら、出発前に保険に入って</span><span class="gl-en"> — if you're going to Japan, get insurance before departure</span>.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [たら (conditional)](<tara.md#conditional> "たら — the tara-conditional: condition, discovery, time, and suggestion") <span class="xref-reason">&mdash; the four conditionals side by side</span></div>
+
+This difference is about how the speaker frames the premise, not a guarantee that every <span class="cite-jp">なら</span> sentence reverses chronological order. <span class="cite-jp">京都に着くなら、駅から連絡して</span><span class="gl-en"> — if you're going to arrive in Kyoto, contact me from the station — </span>can still describe events in their natural order.
+
+### Context can supply the premise
+
+In conversation, the clause before <span class="cite-jp">なら</span> may shrink to one noun: <span class="cite-jp">京都なら</span><span class="gl-en"> — if it's Kyoto / speaking of Kyoto</span>. A short turn such as <span class="cite-jp">明日なら？</span><span class="gl-en"> — what about tomorrow — </span>proposes tomorrow as the case to evaluate.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>なら<ruby>大丈夫<rt>だいじょうぶ</rt></ruby></div><div class="ex-en">Tomorrow would work for me.</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>行<rt>い</rt></ruby>かないなら、<ruby>私<rt>わたし</rt></ruby>も<ruby>行<rt>い</rt></ruby>かない</div><div class="ex-en">If you&#x27;re not going, I won&#x27;t go either.</div></div></div>
+
+In careful prose, the premise is more often stated in full. <span class="cite-jp">ならば</span> can make the logical step explicit: <span class="cite-jp">条件が同じならば、結果も同じだ</span><span class="gl-en"> — if the conditions are the same, the result is also the same</span>.
+
+<div id="trap-english-trap" class="trap-anchor"></div>
+
+!!! warning "English Trap"
+    Translating <span class="cite-jp">なら</span> as a generic “if” hides its conversational job. It normally treats its condition as the case currently being considered, often because context has just made that case relevant.
+
+    Do not infer that the <span class="cite-jp">なら</span> event must occur before the response. Advice, preparation, and judgment can all come first.
+
 *Compare:* [たら・ば・と・なら — the conditional quartet](<../contrasts/tara-ba-to-nara.md> "the conditional quartet")
 {: .compare }
 
-## なら (advice) { #advice }
+## なら (advice) — advice from an accepted premise { #advice }
 
 If that is the situation, then offers context-based advice or recommendation
 {: .pt-gloss }
@@ -20,7 +69,29 @@ If that is the situation, then offers context-based advice or recommendation
 **Builds on:** [なら (conditional)](<nara.md> "If it is X; sets a contextual condition on what follows.")
 {: .fam }
 
-## なら (topic) { #topic }
+**Form:** `Goal / situation + なら + advice, evaluation, or recommendation`
+{: .form }
+
+<span class="cite-jp">なら</span> is especially natural for advice because it accepts the listener's goal without claiming the goal is already real. Once A says <span class="cite-jp">日本で働きたい</span><span class="gl-en"> — I want to work in Japan — </span>B can respond <span class="cite-jp">日本で働くなら、敬語も勉強して</span><span class="gl-en"> — if you're going to work in Japan, study honorific language too</span>.
+
+<div class="dlg"><div class="dlg-note">A supplies a goal, and B&#x27;s advice is relevant only under that accepted premise.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>来年<rt>らいねん</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたい。</div><div class="ex-en">I want to work in Japan next year.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>日本<rt>にほん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>くなら、<ruby>今<rt>いま</rt></ruby>から<ruby>会話<rt>かいわ</rt></ruby>を<ruby>練習<rt>れんしゅう</rt></ruby>して。</div><div class="ex-en">If you&#x27;re going to work in Japan, start practicing conversation now.</div></div></div></div>
+
+### Helpful or presumptuous
+
+When the listener supplied the goal, <span class="cite-jp">なら</span> advice can feel responsive: it works inside their chosen frame. If the speaker invents the premise, the same form can sound as though they are assigning the listener a goal or identity.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">raised by the listener</div><div class="eg-jp" lang="ja"><ruby>留学<rt>りゅうがく</rt></ruby>するなら、この<ruby>奨学金<rt>しょうがくきん</rt></ruby>を<ruby>調<rt>しら</rt></ruby>べて</div><div class="ex-en">If you&#x27;re going to study abroad, look into this scholarship.</div></div><div class="eg-member"><div class="eg-label">introduced by the speaker</div><div class="eg-jp" lang="ja"><ruby>留学<rt>りゅうがく</rt></ruby>するなら、もっと<ruby>勉強<rt>べんきょう</rt></ruby>して</div><div class="ex-en">If you&#x27;re going to study abroad, study harder.</div></div></div>
+
+The second sentence may be welcome in an established discussion, but abrupt without one. The grammar does not encode rudeness; the social effect comes from treating an unconfirmed premise as already relevant.
+
+### Advice can precede the condition
+
+This is the practical contrast to remember. <span class="cite-jp">駅に着いたら電話して</span><span class="gl-en"> — call me when you reach the station — </span>places the call after arrival. <span class="cite-jp">電車に乗るなら今電話して</span><span class="gl-en"> — if you're going to take the train, call now — </span>reacts to the plan before boarding.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [たら (conditional)](<tara.md#conditional> "たら — the tara-conditional: condition, discovery, time, and suggestion") <span class="xref-reason">&mdash; conditions whose consequence commonly follows after completion</span></div>
+
+
+## なら (topic) — a topic already in play { #topic }
 
 As for the stated topic, frames a comment specifically about it
 {: .pt-gloss }
@@ -29,3 +100,30 @@ As for the stated topic, frames a comment specifically about it
 
 **Builds on:** [なら (conditional)](<nara.md> "If it is X; sets a contextual condition on what follows.")
 {: .fam }
+
+**Form:** `N + なら + comment` · `Clause + なら + comment`
+{: .form }
+
+Topic <span class="cite-jp">なら</span> is the conditional use aimed at the conversation itself. It says, in effect, “if this is the subject or case we're talking about, here is my comment.” That is why it naturally picks up something another speaker has just raised.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">neutral topic</div><div class="eg-jp" lang="ja"><ruby>京都<rt>きょうと</rt></ruby>は<ruby>寺<rt>てら</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い</div><div class="ex-en">Kyoto has many temples.</div></div><div class="eg-member"><div class="eg-label">picked-up topic</div><div class="eg-jp" lang="ja"><ruby>京都<rt>きょうと</rt></ruby>なら<ruby>寺<rt>てら</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い</div><div class="ex-en">If Kyoto is what we&#x27;re talking about, it has many temples.</div></div></div>
+
+<span class="cite-jp">は</span> establishes Kyoto as the topic and says something about it. <span class="cite-jp">なら</span> makes the comment conditional on Kyoto being the relevant case, so it often implies a comparison with other possible places or topics.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [は (topic)](<wa.md#topic> "は — topic, contrast, and scope") <span class="xref-reason">&mdash; the neutral topic marker</span></div>
+
+### A topic supplied by context
+
+<div class="dlg"><div class="dlg-note">A names the subject first, allowing B to use なら as a compact topic-setting response.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>京都<rt>きょうと</rt></ruby>の<ruby>紅葉<rt>こうよう</rt></ruby>はどう？</div><div class="ex-en">What about the autumn leaves in Kyoto?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>京都<rt>きょうと</rt></ruby>なら、<ruby>十一月<rt>じゅういちがつ</rt></ruby>ごろがきれいだよ。</div><div class="ex-en">For Kyoto, around November is beautiful.</div></div></div></div>
+
+With no prior mention, <span class="cite-jp">なら</span> can still work when the situation itself makes the alternatives obvious. A clerk's <span class="cite-jp">お支払いは？</span><span class="gl-en"> — how will you pay — </span>asks for a choice, and <span class="cite-jp">カードなら使えます</span><span class="gl-en"> — cards are accepted, if that's the option — </span>evaluates one available case.
+
+The broader rule is not “another person must say the noun first.” The topic must already be recoverable as a relevant possibility from words, circumstances, or a visible set of alternatives.
+
+### In conversation and writing
+
+Conversation readily leaves only the proposed case: <span class="cite-jp">明日なら</span><span class="gl-en"> — tomorrow would work</span>; <span class="cite-jp">電車なら？</span><span class="gl-en"> — what about the train</span>? Intonation and the previous turn supply whether the speaker is answering, proposing, or asking for evaluation.
+
+Formal prose tends to state the premise more fully and may use <span class="cite-jp">ならば</span>. Ordinary <span class="cite-jp">なら</span> remains common in written recommendations and headings that address a known need: <span class="cite-jp">初めてなら、このコース</span><span class="gl-en"> — if it's your first time, choose this course</span>.
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
