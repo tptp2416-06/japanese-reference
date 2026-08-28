@@ -260,3 +260,5 @@ Particles fall away as often as the vowel does. <span class="cite-jp">ドア、�
 
 
 <div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
+
+<div class="prov">Authored by Claude Sonnet 5 &bull; 2026-08-28; Reviewed by gpt-5.6-sol - High &bull; 2026-08-28</div>

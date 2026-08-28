@@ -127,3 +127,5 @@ Conversation readily leaves only the proposed case: <span class="cite-jp">明日
 Formal prose tends to state the premise more fully and may use <span class="cite-jp">ならば</span>. Ordinary <span class="cite-jp">なら</span> remains common in written recommendations and headings that address a known need: <span class="cite-jp">初めてなら、このコース</span><span class="gl-en"> — if it's your first time, choose this course</span>.
 
 <div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
+
+<div class="prov">Authored by GPT-5 Codex - High &bull; 2026-08-28; Reviewed by Claude Sonnet 5 &bull; 2026-08-28</div>

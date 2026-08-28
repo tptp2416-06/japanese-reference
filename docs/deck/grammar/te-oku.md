@@ -126,3 +126,5 @@ Casual contraction meaning do something in advance or leave it prepared
 ### In conversation
 
 <span class="cite-jp">とく</span> carries over into its own volitional and negative forms the same way <span class="cite-jp">ておく</span> does: <span class="cite-jp">とこう</span><span class="gl-en"> — I'll get it done — </span><span class="cite-jp">とかない</span><span class="gl-en"> — I won't bother preparing it — </span>both keeping the same preparation sense, just contracted.
+
+<div class="prov">Authored by Claude Sonnet 5 &bull; 2026-08-28; Reviewed by gpt-5.6-sol - High &bull; 2026-08-28</div>

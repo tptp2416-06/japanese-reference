@@ -360,3 +360,5 @@ Fragments carry the whole request once context supplies the rest:
 <span class="cite-jp">くれない</span> alone, with no question mark and falling intonation, reads as the plain statement noting an absence, not a request — the fragment keeps whichever reading its intonation gives it in speech.
 
 <div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
+
+<div class="prov">Authored by Claude Sonnet 5 &bull; 2026-08-28; Reviewed by gpt-5.6-sol - High &bull; 2026-08-28</div>

@@ -116,3 +116,5 @@ Go somewhere and return; a round trip viewed as a single unit
 ### In conversation
 
 <span class="cite-jp">てくる</span> and <span class="cite-jp">ていく</span> both compress in fast speech: <span class="cite-jp">持っていく</span><span class="gl-en"> — take it with you — </span>becomes <span class="cite-jp">持ってく</span><span class="gl-en"> — take it, and </span><span class="cite-jp">やっていく</span><span class="gl-en"> — keep doing it, going forward — </span>becomes <span class="cite-jp">やってく</span><span class="gl-en"> — go ahead and do it</span>. The compression drops <span class="cite-jp">いく</span>'s <span class="cite-jp">い</span> the same way <span class="cite-jp">ている</span> drops its own <span class="cite-jp">い</span> in <span class="cite-jp">てる</span><span class="gl-en"> — a familiar contraction pattern, applied to a different verb</span>. Writing keeps the full <span class="cite-jp">てくる</span> and <span class="cite-jp">ていく</span><span class="gl-en"> — signs, notices and formal prose don't contract them</span>.
+
+<div class="prov">Authored by Claude Sonnet 5 &bull; 2026-08-28; Reviewed by gpt-5.6-sol - High &bull; 2026-08-28</div>

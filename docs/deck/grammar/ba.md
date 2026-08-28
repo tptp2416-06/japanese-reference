@@ -193,3 +193,6 @@ Politeness attaches to the evaluation: <span class="cite-jp">もっと早く相�
 <span class="cite-jp">てしまった</span> can present an action as completed and let context add regret: <span class="cite-jp">言ってしまった</span><span class="gl-en"> — I ended up saying it</span>. <span class="cite-jp">ばよかった</span> instead names the unrealized condition the speaker now judges better: <span class="cite-jp">言わなければよかった</span><span class="gl-en"> — I shouldn't have said it</span>.
 
 <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [てしまう (regret)](<te-shimau.md#regret> "てしまう — completion and regret, with the ちゃう contractions") <span class="xref-reason">&mdash; completed-event regret versus a counterfactual better choice</span></div>
+
+
+<div class="prov">Authored by GPT-5 Codex - High &bull; 2026-08-28; Reviewed by Claude Sonnet 5 &bull; 2026-08-28</div>
