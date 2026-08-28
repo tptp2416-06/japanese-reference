@@ -19,7 +19,7 @@ With an affirmative predicate, <span class="cite-jp">もう</span> usually becom
 The line is set by the conversation. It might be the end of a task, the start of
 a new state, or simply the point at which someone expected things to change.
 
-## まだ { #mada }
+## まだ — the earlier situation continues { #mada }
 
 Still or not yet; state continues relative to expectations
 {: .pt-gloss }
@@ -53,7 +53,7 @@ inference from context, not a second dictionary meaning built into <span class="
 *Compare:* [まだ vs もう — still vs already](<../contrasts/mada-vs-mou.md> "still vs already")
 {: .compare }
 
-## まだ〜ない { #mada-nai }
+## まだ〜ない — the change not yet reached { #mada-nai }
 
 Not yet; an expected action or state has still not come about
 {: .pt-gloss }
@@ -66,6 +66,8 @@ Not yet; an expected action or state has still not come about
 <span class="cite-jp">まだ</span> with a negative predicate says the change hasn't been reached:
 <span class="cite-jp">まだ終わっていない</span> — it hasn't finished yet. <span class="cite-jp">まだ決めていない</span> works the same way.
 
+### The negative belongs to the predicate, not <span class="cite-jp">まだ</span>
+
 - **The negative belongs to the predicate** — <span class="cite-jp">まだ</span> does not itself mean "not";
   it holds the viewpoint before the change, and the negative says that the new
   event or state is absent there.
@@ -75,6 +77,8 @@ Not yet; an expected action or state has still not come about
 - **Questions keep the same viewpoint** — <span class="cite-jp">まだ終わっていない？</span> — is it not
   finished yet? — asks whether the unreached state continues and may sound
   impatient if the situation supplies that expectation.
+
+<div class="dlg"><div class="dlg-note">what licenses まだ in the reply — B&#x27;s answer keeps the viewpoint on the near side of the line A&#x27;s question raised.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>宿題<rt>しゅくだい</rt></ruby>、もう<ruby>終<rt>お</rt></ruby>わった？</div><div class="ex-en">Have you finished your homework yet?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ううん、まだ<ruby>終<rt>お</rt></ruby>わってない。</div><div class="ex-en">No, not yet.</div></div></div></div>
 
 <div id="trap-pitfall" class="trap-anchor"></div>
 
@@ -97,7 +101,7 @@ Not yet; an expected action or state has still not come about
 | before the change | affirmative | <span class="cite-jp">まだ働いている</span> — is still working |
 | before the change | negative | <span class="cite-jp">まだ終わっていない</span> — hasn't finished yet |
 
-## まだ＋ている { #mada-te-iru }
+## まだ＋ている — layering onto ている's own reading { #mada-te-iru }
 
 Still doing X; emphasizes continuation beyond an expected point
 {: .pt-gloss }
@@ -146,7 +150,7 @@ hidden inside <span class="cite-jp">ている</span>.
     <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [もう＋counter (one more)](<mou-counter.md#one-more> "もう＋counter — One more unit of something") <span class="xref-reason">&mdash; もう counting an extra unit instead of marking a threshold crossed</span></div>
 
 
-## もう { #mou }
+## もう — the change already reached { #mou }
 
 Already, another, or no longer, depending on context.
 {: .pt-gloss }
@@ -182,7 +186,7 @@ contextual change; affirmation or negation determines what holds there.
 *Compare:* [まだ vs もう — still vs already](<../contrasts/mada-vs-mou.md> "still vs already")
 {: .compare }
 
-## もう＋過去 { #mou-kako }
+## もう＋過去 — already, reached by now { #mou-kako }
 
 Already did; もう with a past predicate.
 {: .pt-gloss }

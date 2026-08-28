@@ -15,7 +15,7 @@ a new state, or simply the point at which someone expected things to change.
 change. Affirmative: もう becomes already or now, まだ becomes still. Negative:
 もう becomes not anymore, まだ becomes not yet.
 
-@@ mou
+@@ mou — the change already reached
 
 **Form:** `もう + affirmative predicate` · `もう + negative predicate`
 
@@ -41,7 +41,7 @@ anymore.
 The grammar has not reversed. もう keeps placing the viewpoint beyond a
 contextual change; affirmation or negation determines what holds there.
 
-@@ mou-kako
+@@ mou-kako — already, reached by now
 
 **Form:** `もう + V-た`
 
@@ -74,7 +74,7 @@ Asked もう食べた？ — have you eaten yet? — a positive answer can be
 The answer changes the adverb because it changes the side of the line being
 reported: reached with もう, still unreached with まだ.
 
-@@ mada
+@@ mada — the earlier situation continues
 
 **Form:** `まだ + affirmative predicate`
 
@@ -101,12 +101,14 @@ already put a limit in view, "still" can suggest that the margin is shrinking:
 Without that setting, it can be simple reassurance instead. The warning is an
 inference from context, not a second dictionary meaning built into まだ.
 
-@@ mada-nai
+@@ mada-nai — the change not yet reached
 
 **Form:** `まだ + negative predicate`
 
 まだ with a negative predicate says the change hasn't been reached:
 まだ終わっていない — it hasn't finished yet. まだ決めていない works the same way.
+
+### The negative belongs to the predicate, not まだ
 
 - **The negative belongs to the predicate** — まだ does not itself mean "not";
   it holds the viewpoint before the change, and the negative says that the new
@@ -117,6 +119,12 @@ inference from context, not a second dictionary meaning built into まだ.
 - **Questions keep the same viewpoint** — まだ終わっていない？ — is it not
   finished yet? — asks whether the unreached state continues and may sound
   impatient if the situation supplies that expectation.
+
+```dialog
+note: what licenses まだ in the reply — B's answer keeps the viewpoint on the near side of the line A's question raised.
+A: 宿題[しゅくだい]、もう終[お]わった？ | Have you finished your homework yet?
+B: ううん、まだ終[お]わってない。 | No, not yet.
+```
 
 !!! warning "Pitfall"
     Do not assign one English word to each adverb before looking at the
@@ -137,7 +145,7 @@ inference from context, not a second dictionary meaning built into まだ.
 | before the change | affirmative | まだ働いている — is still working |
 | before the change | negative | まだ終わっていない — hasn't finished yet |
 
-@@ mada-te-iru
+@@ mada-te-iru — layering onto ている's own reading
 
 **Form:** `まだ + V-ている` · `まだ + V-ていない`
 
