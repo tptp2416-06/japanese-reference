@@ -2,6 +2,16 @@
      Prose belongs in content/deck/grammar/te-oku.md -->
 # ておく — doing something in advance, with the とく contraction
 
+!!! tip "At a glance"
+
+    <span class="cite-jp">ておく</span> marks an action done now so it's ready, settled, or out of the way later.
+    <span class="cite-jp">とく</span> is how <span class="cite-jp">ておく</span> is actually said in casual speech.
+    <span class="cite-jp">ておこう</span> is that same preparation as a decision the speaker is making right now — one form within the volitional paradigm, not a rule about volitionals generally.
+
+<span class="cite-jp">ておく</span> adds an action done now for the sake of later, set aside and left that way. <span class="cite-jp">予約しておく</span><span class="gl-en"> — make the reservation now — </span>isn't just doing the reservation; it's doing it AND setting it aside as handled, so future-you doesn't have to think about it again.
+
+The action itself can be anything; what <span class="cite-jp">ておく</span> adds is always the same — do this now, so it's ready, done, or out of the way by the time it matters.
+
 Do something in advance or leave it in a resulting state
 {: .h1-gloss }
 
@@ -13,10 +23,20 @@ Do something in advance or leave it in a resulting state
 **Compounds:** [ておく＋と (tip frame)](<te-oku.md#te-oku-to> "Doing X in advance leads to Y; conventional practical-tip frame")
 {: .fam }
 
+**Form:** `V-て + おく`
+{: .form }
+
+- **<span class="cite-jp">ておく</span> marks a present action as preparation for a later need** — <span class="cite-jp">予約しておく</span><span class="gl-en"> — I'll make the reservation [now, so it's set] — </span>the reservation itself is ordinary; <span class="cite-jp">ておく</span> is what frames it as advance work.
+- **The later need doesn't have to be named** — <span class="cite-jp">言っておく</span><span class="gl-en"> — I'll mention it [and leave it handled] — </span>works whether or not the sentence says what the mention is preparing for.
+- **<span class="cite-jp">ておく</span> can also mean leaving something as it is, on purpose, rather than actively preparing it** — <span class="cite-jp">そのままにしておく</span><span class="gl-en"> — leave it as it is — </span>treats not touching it as the deliberate choice being set aside for later.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>来週<rt>らいしゅう</rt></ruby>は<ruby>出張<rt>しゅっちょう</rt></ruby>だから、<span class="pat"><ruby>資料<rt>しりょう</rt></ruby>をコピーしておいた</span>。</div><div class="ex-en">&ldquo;Since I&#x27;ve got a business trip next week, I made copies of the materials in advance.&rdquo;</div><div class="ex-note">The copying happens now; ておいた frames it as already handled, ready for a need that hasn&#x27;t arrived yet.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>来週<rt>らいしゅう</rt></ruby>は<ruby>出張<rt>しゅっちょう</rt></ruby>だから、</span><span class="g">since I&#x27;ve got a business trip next week</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>資料<rt>しりょう</rt></ruby>をコピーしておいた</span><span class="g">I made copies in advance</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-ておく, preparation for a stated later need</span></div></div></details></div>
+
+
 *Compare:* [ておく・てある・ている・てしまう — prepared, resulting, finished](<../contrasts/te-oku-te-aru-te-iru-te-shimau.md> "prepared, resulting, finished")
 {: .compare }
 
-## ておいた { #te-oita }
+## ておいた — ておいた, the preparation already made { #te-oita }
 
 Did something in advance; past preparatory action for a later need
 {: .pt-gloss }
@@ -27,7 +47,16 @@ Did something in advance; past preparatory action for a later need
 **From:** inflection of [ておく](<te-oku.md> "Do something in advance or leave it in a resulting state")
 {: .fam }
 
-## ておく＋と (tip frame) { #te-oku-to }
+**Form:** `V-ておいた` (past)
+{: .form }
+
+- **<span class="cite-jp">ておいた</span> is where the preparation shows up as a completed fact** — most real <span class="cite-jp">ておく</span> sentences describing what's already been done use this past form, since being prepared is usually a claim about something that already happened.
+- **It survives register changes untouched** — <span class="cite-jp">セットしておいた</span><span class="gl-en"> — I set it up in advance — </span>stays <span class="cite-jp">セットしておきました</span><span class="gl-en"> — I set it up in advance — </span>in polite speech; only the ending changes, not the preparation itself.
+
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>準備<rt>じゅんび</rt></ruby>しておいた。</div><div class="ex-en">I got it ready in advance.</div></div>
+
+
+## ておく＋と (tip frame) — ておくと, framing a tip { #te-oku-to }
 
 Doing X in advance leads to Y; conventional practical-tip frame
 {: .pt-gloss }
@@ -37,7 +66,18 @@ Doing X in advance leads to Y; conventional practical-tip frame
 **From:** compound of [ておく](<te-oku.md> "Do something in advance or leave it in a resulting state")
 {: .fam }
 
-## ておこう { #te-okou }
+**Form:** `V-ておく + と`
+{: .form }
+
+- **<span class="cite-jp">ておくと</span> presents the preparation as leading naturally to a stated benefit** — <span class="cite-jp">早めに出しておくと、間に合うよ</span><span class="gl-en"> — if you send it early, you'll make it in time — </span>states the preparatory action, then <span class="cite-jp">と</span> carries it straight into what naturally follows from having done it.
+- **This is <span class="cite-jp">と</span>'s own natural-consequence job, just built on top of <span class="cite-jp">ておく</span>** — one line is enough here: <span class="cite-jp">と</span> states that doing the first thing leads, as a matter of course, to the second.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [と (natural consequence)](<to.md#natural-consequence> "と — the conditional, and the particle for listing and accompaniment") <span class="xref-reason">&mdash; と&#x27;s natural-consequence reading, which this tip frame is built on</span></div>
+
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>早<rt>はや</rt></ruby>めに<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んでおくと、<ruby>楽<rt>らく</rt></ruby>になるよ。</div><div class="ex-en">If you take the medicine ahead of time, you&#x27;ll feel better.</div></div>
+
+
+## ておこう — ておこう, deciding to prepare now { #te-okou }
 
 Let's do it in advance or in preparation.
 {: .pt-gloss }
@@ -48,7 +88,18 @@ Let's do it in advance or in preparation.
 **From:** inflection of [ておく](<te-oku.md> "Do something in advance or leave it in a resulting state")
 {: .fam }
 
-## とく (ておく contraction) { #toku }
+**Form:** `V-ておこう` (volitional)
+{: .form }
+
+- **<span class="cite-jp">ておこう</span> is the speaker committing to the preparation right now, not just describing it** — <span class="cite-jp">干しておこう</span><span class="gl-en"> — I'll get this aired out [while I can] — </span>decides to do the preparatory action, rather than reporting that it was or will be done.
+- **This is <span class="cite-jp">ておく</span> riding on the volitional form, one point within that larger paradigm** — the volitional itself, what it does on every other verb, is its own construction with its own page.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [意向形](<ikoukei.md> "意向形 — the volitional: intention, invitation, and ましょう") <span class="xref-reason">&mdash; the volitional form ておこう is built on</span></div>
+
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>布団<rt>ふとん</rt></ruby>を<ruby>干<rt>ほ</rt></ruby>しておこう。</div><div class="ex-en">Let&#x27;s get the futon aired out before the rainy season starts.</div></div>
+
+
+## とく (ておく contraction) — とく, how ておく actually gets said { #toku }
 
 Casual contraction meaning do something in advance or leave it prepared
 {: .pt-gloss }
@@ -58,3 +109,17 @@ Casual contraction meaning do something in advance or leave it prepared
 **Builds on:** [ておく](<te-oku.md> "Do something in advance or leave it in a resulting state")  
 **From:** contraction of [ておく](<te-oku.md> "Do something in advance or leave it in a resulting state")
 {: .fam }
+
+**Form:** `V-て + おく → V-とく`
+{: .form }
+
+- **<span class="cite-jp">とく</span> is simply <span class="cite-jp">ておく</span> said in casual conversation** — dropping the <span class="cite-jp">お</span> and merging it into the <span class="cite-jp">て</span> is not a separate word; it's the everyday pronunciation.
+- **The contraction attaches to every reading above** — <span class="cite-jp">買っとく</span><span class="gl-en"> — I'll pick it up [in advance] — </span><span class="cite-jp">言っとく</span><span class="gl-en"> — I'll mention it [and leave it handled] — </span>carrying preparation, tip framing, and the volitional <span class="cite-jp">とこう</span> all at the casual register.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">polite</div><div class="eg-jp" lang="ja">ビールを<ruby>買<rt>か</rt></ruby>っておきます。</div><div class="ex-en">I&#x27;ll go buy some beer, ready for later.</div></div><div class="eg-member"><div class="eg-label">casual</div><div class="eg-jp" lang="ja">ビール<ruby>買<rt>か</rt></ruby>っとく。</div><div class="ex-en">I&#x27;ll grab some beer.</div></div></div>
+
+<div class="dlg"><div class="dlg-note">B&#x27;s とく carries the same advance-preparation reading as ておく, just said the way it actually comes out between people who live together.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>今夜<rt>こんや</rt></ruby>、<ruby>飲<rt>の</rt></ruby>む？</div><div class="ex-en">Drinking tonight?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">いいね。ビール<ruby>買<rt>か</rt></ruby>っとくよ。<ruby>冷<rt>ひ</rt></ruby>やしとくから。</div><div class="ex-en">Sounds good — I&#x27;ll grab some beer and get it chilling.</div></div></div></div>
+
+### In conversation
+
+<span class="cite-jp">とく</span> carries over into its own volitional and negative forms the same way <span class="cite-jp">ておく</span> does: <span class="cite-jp">とこう</span><span class="gl-en"> — I'll get it done — </span><span class="cite-jp">とかない</span><span class="gl-en"> — I won't bother preparing it — </span>both keeping the same preparation sense, just contracted.
