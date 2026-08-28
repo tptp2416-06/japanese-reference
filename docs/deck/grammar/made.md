@@ -6,14 +6,14 @@
 
     <span class="cite-jp">まで</span> marks the endpoint or outer limit of a range or extent — normally
     understood as included, as in <span class="cite-jp">駅まで歩く</span>. The same particle also marks the
-    far end of a range that surprises you (<span class="cite-jp">子供まで知っている</span> "even the kids").
+    far end of a range that surprises you (<span class="cite-jp">子供まで知っている</span> — even the kids).
 
 <span class="cite-jp">まで</span> marks the endpoint or outer limit of a range or extent. In ordinary
 range expressions, that endpoint is normally understood as part of the
-range: <span class="cite-jp">駅まで歩く</span> "walk to the station", 5<span class="cite-jp">時まで働く</span>.
+range: <span class="cite-jp">駅まで歩く</span> — walk to the station — 5<span class="cite-jp">時まで働く</span>.
 
 The same particle also marks the far end of a range that surprises you
-(<span class="cite-jp">子供まで知っている</span> "even the kids").
+(<span class="cite-jp">子供まで知っている</span> — even the kids).
 
 The deadline cousin <span class="cite-jp">までに</span> is a separate point.
 
@@ -21,7 +21,7 @@ The deadline cousin <span class="cite-jp">までに</span> is a separate point.
 [から〜まで](<kara-made.md> "から〜まで — Marks a range from its starting point through its endpoint") — the paired form that fixes both ends of the same stretch
 {: .seealso }
 
-## まで (extent) { #extent }
+## まで (extent) — reaching an endpoint or limit { #extent }
 
 As far as or up to an extent.
 {: .pt-gloss }
@@ -34,28 +34,41 @@ As far as or up to an extent.
 - **The limit is inside the stretch** — 5<span class="cite-jp">時まで働く</span> is work through five
   o'clock, and <span class="cite-jp">駅まで歩く</span> gets you to the station. Whatever <span class="cite-jp">まで</span> names is
   reached, not merely approached.
-- **A clause before <span class="cite-jp">まで</span> names the endpoint event, which needn't "last"** —
-  <span class="cite-jp">彼が来るまで待つ</span> "wait until he comes" uses a punctual event (<span class="cite-jp">来る</span>) to mark
-  the endpoint. What continues up to that point is the MAIN clause — <span class="cite-jp">待つ</span> —
-  not the clause naming when it ends.
-- **"To the point of"** — <span class="cite-jp">声が出なくなるまで歌った</span> "sang until my voice gave
-  out" uses the same pattern: the endpoint can be temporal, resultant or
+- **A clause before <span class="cite-jp">まで</span> names the endpoint event** — <span class="cite-jp">彼が来るまで待つ</span> — wait
+  until he comes — uses a punctual event (<span class="cite-jp">来る</span>) to mark the endpoint.
+- **What continues up to that point is the main clause, not the endpoint
+  clause** — <span class="cite-jp">待つ</span> runs up to that point; <span class="cite-jp">来る</span> itself needn't "last."
+- **"To the point of"** — <span class="cite-jp">声が出なくなるまで歌った</span> — sang until my voice gave
+  out — uses the same pattern: the endpoint can be temporal, resultant or
   scalar depending on the sentence, not only a place.
 - **Stacked particles narrow it** — <span class="cite-jp">までは</span> sets the stretch against what comes
-  after it (<span class="cite-jp">ここまでは分かる</span> "I follow it this far"). The base reading doesn't
+  after it (<span class="cite-jp">ここまでは分かる</span> — I follow it this far). The base reading doesn't
   change; the added particle does its usual work.
+- **A durative <span class="cite-jp">まで</span> is not a deadline** — the interval up to the endpoint is
+  filled, not merely reached by. That is the whole difference from <span class="cite-jp">までに</span>.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [までに](<made-ni.md> "までに — by a deadline") <span class="xref-reason">&mdash; a deadline reached by, rather than a stretch filled up to</span></div>
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [から〜まで (range)](<kara-made.md#range> "から〜まで — Marks a range from its starting point through its endpoint") <span class="xref-reason">&mdash; pairing まで with から to measure the whole span</span></div>
+
+<div class="dlg"><div class="dlg-note">what licenses the bare まで — A asks how long the meeting runs; B names the endpoint it fills up to.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>会議<rt>かいぎ</rt></ruby>、<ruby>何時<rt>なんじ</rt></ruby>まで？</div><div class="ex-en">Until what time is the meeting?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">5<ruby>時<rt>じ</rt></ruby>まで。<ruby>長<rt>なが</rt></ruby>いよ。</div><div class="ex-en">Until five. It&#x27;s a long one.</div></div></div></div>
+
+### An upper limit, not an estimate
 
 <div id="trap-pitfall" class="trap-anchor"></div>
 
 !!! warning "Pitfall"
     With quantities, <span class="cite-jp">まで</span> can mark an upper limit rather than an estimate:
-    10<span class="cite-jp">人まで</span> means up to ten and no more. For "about ten people" you want
+    10<span class="cite-jp">人まで</span> means up to ten and no more. For about ten people you want
     10<span class="cite-jp">人ぐらい</span>, and the two are easy to swap when the English is loose.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [ぐらい (approximation)](<gurai.md#approximation> "ぐらい — approximation, and the minimal 'only about'") <span class="xref-reason">&mdash; an estimate, not the upper limit まで marks</span></div>
+
 
 *Compare:* [まで vs までに — extent vs deadline](<../contrasts/made-vs-made-ni.md> "extent vs deadline")
 {: .compare }
 
-## まで (even) { #even }
+## まで (even) — the surprising far edge { #even }
 
 Even someone or something surprising; extends inclusion to an unexpected extreme
 {: .pt-gloss }
@@ -72,16 +85,19 @@ Even someone or something surprising; extends inclusion to an unexpected extreme
 - **It is the extent reading, on a social scale** — the range runs from the
   obvious cases out to this one, and <span class="cite-jp">まで</span> marks where it stopped. Same
   particle, same idea.
-- **<span class="cite-jp">さえ</span> overlaps with <span class="cite-jp">まで</span> in its scalar "even" use** — <span class="cite-jp">子供さえ知っている</span> is
-  itself an ordinary "even children know" reading. The two aren't cleanly
-  split by meaning here; which one a speaker reaches for often comes down to
-  register or emphasis.
+- **<span class="cite-jp">さえ</span> overlaps with <span class="cite-jp">まで</span> in its scalar "even" use** — <span class="cite-jp">子供さえ知っている</span>
+  — even children know — is itself an ordinary reading of <span class="cite-jp">さえ</span>. The two
+  aren't cleanly split by meaning here; which one a speaker reaches for often
+  comes down to register or emphasis.
 - **<span class="cite-jp">さえ</span> has a second job <span class="cite-jp">まで</span> doesn't share** — in X<span class="cite-jp">さえ</span>〜<span class="cite-jp">ば</span>, <span class="cite-jp">さえ</span> marks X as
-  a sufficient condition: <span class="cite-jp">ハルさえ来れば大丈夫</span> "as long as Haru comes, it'll be
-  fine". <span class="cite-jp">まで</span> doesn't do this conditional work.
+  a sufficient condition: <span class="cite-jp">ハルさえ来れば大丈夫</span> — as long as Haru comes, it'll
+  be fine. <span class="cite-jp">まで</span> doesn't do this conditional work.
 - **It carries feeling, and that can misfire** — the surprise in <span class="cite-jp">まで</span> about a
   person reads as warmth or as dismay depending on who is being included, so
-  <span class="cite-jp">まで</span> about a person can land as "even them".
+  <span class="cite-jp">まで</span> about a person can land as an inclusion of someone unexpected.
+
+<div class="dlg"><div class="dlg-note">what まで&#x27;s surprise adds — B&#x27;s まで signals even the person named already knows.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>誰<rt>だれ</rt></ruby>がそのニュース<ruby>知<rt>し</rt></ruby>ってるの？</div><div class="ex-en">Who knows about that news?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">え、<ruby>子供<rt>こども</rt></ruby>まで<ruby>知<rt>し</rt></ruby>ってるよ。</div><div class="ex-en">Even the kids know about it.</div></div></div></div>
+
 
 <div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
 
