@@ -118,7 +118,9 @@ End up doing or do completely; contraction of てしまう.
 !!! warning "Pitfall"
     Because <span class="cite-jp">ちゃう</span> sounds so casual, it's tempting to treat it as a looser, separate construction from <span class="cite-jp">てしまう</span> — something to swap out for a "real" grammar point once the conversation turns polite.
 
-    They're one construction at two registers, not two different ones. Going polite just uncontracts it — <span class="cite-jp">忘れちゃった</span> becomes <span class="cite-jp">忘れてしまいました</span> — rather than swapping in a different ending. The completion-or-regret meaning travels across unchanged.
+    They're one construction at two registers, not two different ones. Going polite uncontracts it rather than swapping in a different ending.
+
+    <span class="cite-jp">忘れちゃった</span> — I went and forgot it — becomes <span class="cite-jp">忘れてしまいました</span> — I'm afraid I forgot it. The completion-or-regret meaning travels across unchanged.
 
 The choice that matters is not which flavor to reach for. It's whether to mark the event as finished and irreversible at all — reach for <span class="cite-jp">ちゃう</span> when that's the point, and leave it off for a plain report of what happened.
 

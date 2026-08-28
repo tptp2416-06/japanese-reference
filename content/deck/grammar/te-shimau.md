@@ -85,7 +85,9 @@ A different construction reaches a similar unwanted feeling by another route: th
 !!! warning "Pitfall"
     Because ちゃう sounds so casual, it's tempting to treat it as a looser, separate construction from てしまう — something to swap out for a "real" grammar point once the conversation turns polite.
 
-    They're one construction at two registers, not two different ones. Going polite just uncontracts it — 忘れちゃった becomes 忘れてしまいました — rather than swapping in a different ending. The completion-or-regret meaning travels across unchanged.
+    They're one construction at two registers, not two different ones. Going polite uncontracts it rather than swapping in a different ending.
+
+    忘れちゃった — I went and forgot it — becomes 忘れてしまいました — I'm afraid I forgot it. The completion-or-regret meaning travels across unchanged.
 
 The choice that matters is not which flavor to reach for. It's whether to mark the event as finished and irreversible at all — reach for ちゃう when that's the point, and leave it off for a plain report of what happened.
 

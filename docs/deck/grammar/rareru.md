@@ -200,7 +200,9 @@ With <span class="cite-jp">られる</span>'s jobs now in view, here's the other
 
 Both <span class="cite-jp">られる</span> and <span class="cite-jp">させる</span> mark the "other party" with <span class="cite-jp">に</span>, and they're never the same party.
 
-<span class="cite-jp">生徒が先生にほめられた</span> marks the person who acted on the subject. <span class="cite-jp">先生が生徒に本を読ませた</span> marks the person who was made to act. Before assuming a <span class="cite-jp">に</span> phrase means "by" or "for," check which of these two sentences you're actually in.
+<span class="cite-jp">生徒が先生にほめられた</span> — the student was praised by the teacher. Here <span class="cite-jp">に</span> marks the person who acted on the subject.
+
+<span class="cite-jp">先生が生徒に本を読ませた</span> — the teacher made the student read the book. Here <span class="cite-jp">に</span> marks the person who was made to act. Before assuming a <span class="cite-jp">に</span> phrase means "by" or "for," check which of these two sentences you're actually in.
 
 ## させられる (caus.-passive) { #saserareru }
 
@@ -229,20 +231,11 @@ Both endings attach the same way to any verb, once you know which pattern to loo
 
 | verb class | dictionary form | passive (<span class="cite-jp">られる</span>) | causative (<span class="cite-jp">させる</span>) | causative-passive (full) | causative-passive (contracted) |
 |---|---|---|---|---|---|
-| godan (<span class="cite-jp">う</span>) | <span class="cite-jp">買う</span> | <span class="cite-jp">買われる</span> | <span class="cite-jp">買わせる</span> | <span class="cite-jp">買わせられる</span> | <span class="cite-jp">買わされる</span> |
-| godan (<span class="cite-jp">く</span>) | <span class="cite-jp">書く</span> | <span class="cite-jp">書かれる</span> | <span class="cite-jp">書かせる</span> | <span class="cite-jp">書かせられる</span> | <span class="cite-jp">書かされる</span> |
-| ichidan | <span class="cite-jp">食べる</span> | <span class="cite-jp">食べられる</span> | <span class="cite-jp">食べさせる</span> | <span class="cite-jp">食べさせられる</span> | — |
-| <span class="cite-jp">する</span> | <span class="cite-jp">心配する</span> | <span class="cite-jp">心配される</span> | <span class="cite-jp">心配させる</span> | <span class="cite-jp">心配させられる</span> | — |
-| <span class="cite-jp">来る</span> | <span class="cite-jp">来る</span> | <span class="cite-jp">来られる</span> | <span class="cite-jp">来させる</span> | <span class="cite-jp">来させられる</span> | — |
-
-Reading straight across the <span class="cite-jp">買う</span> row:
-
-- <span class="cite-jp">買われる</span> — is bought.
-- <span class="cite-jp">買わせる</span> — makes or lets someone buy.
-- <span class="cite-jp">買わせられる</span> — is made to buy.
-- <span class="cite-jp">買わされる</span> — the same meaning, one syllable shorter.
-
-The other rows follow the same pattern for their own verb.
+| godan (<span class="cite-jp">う</span>) | <span class="cite-jp">買う</span> — buy | <span class="cite-jp">買われる</span> — is bought | <span class="cite-jp">買わせる</span> — makes or lets someone buy | <span class="cite-jp">買わせられる</span> — is made to buy | <span class="cite-jp">買わされる</span> — is made to buy, one syllable shorter |
+| godan (<span class="cite-jp">く</span>) | <span class="cite-jp">書く</span> — write | <span class="cite-jp">書かれる</span> — is written | <span class="cite-jp">書かせる</span> — makes or lets someone write | <span class="cite-jp">書かせられる</span> — is made to write | <span class="cite-jp">書かされる</span> — is made to write, one syllable shorter |
+| ichidan | <span class="cite-jp">食べる</span> — eat | <span class="cite-jp">食べられる</span> — is eaten | <span class="cite-jp">食べさせる</span> — makes or lets someone eat | <span class="cite-jp">食べさせられる</span> — is made to eat | — |
+| <span class="cite-jp">する</span> | <span class="cite-jp">心配する</span> — worry | <span class="cite-jp">心配される</span> — is worried about | <span class="cite-jp">心配させる</span> — makes someone worry | <span class="cite-jp">心配させられる</span> — is made to worry | — |
+| <span class="cite-jp">来る</span> | <span class="cite-jp">来る</span> — come | <span class="cite-jp">来られる</span> — has someone come, unwanted | <span class="cite-jp">来させる</span> — makes someone come | <span class="cite-jp">来させられる</span> — is made to come | — |
 
 The contracted column is empty for three of these five rows on purpose — not every verb can shorten this far. <span class="cite-jp">される</span>, next, covers which ones do and why.
 

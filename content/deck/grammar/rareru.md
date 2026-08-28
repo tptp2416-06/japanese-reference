@@ -165,7 +165,9 @@ let: 誕生日[たんじょうび]だからケーキを好[す]きなだけ食[�
 
 Both られる and させる mark the "other party" with に, and they're never the same party.
 
-生徒が先生にほめられた marks the person who acted on the subject. 先生が生徒に本を読ませた marks the person who was made to act. Before assuming a に phrase means "by" or "for," check which of these two sentences you're actually in.
+生徒が先生にほめられた — the student was praised by the teacher. Here に marks the person who acted on the subject.
+
+先生が生徒に本を読ませた — the teacher made the student read the book. Here に marks the person who was made to act. Before assuming a に phrase means "by" or "for," check which of these two sentences you're actually in.
 
 @@ saserareru
 
@@ -192,20 +194,11 @@ Both endings attach the same way to any verb, once you know which pattern to loo
 
 | verb class | dictionary form | passive (られる) | causative (させる) | causative-passive (full) | causative-passive (contracted) |
 |---|---|---|---|---|---|
-| godan (う) | 買う | 買われる | 買わせる | 買わせられる | 買わされる |
-| godan (く) | 書く | 書かれる | 書かせる | 書かせられる | 書かされる |
-| ichidan | 食べる | 食べられる | 食べさせる | 食べさせられる | — |
-| する | 心配する | 心配される | 心配させる | 心配させられる | — |
-| 来る | 来る | 来られる | 来させる | 来させられる | — |
-
-Reading straight across the 買う row:
-
-- 買われる — is bought.
-- 買わせる — makes or lets someone buy.
-- 買わせられる — is made to buy.
-- 買わされる — the same meaning, one syllable shorter.
-
-The other rows follow the same pattern for their own verb.
+| godan (う) | 買う — buy | 買われる — is bought | 買わせる — makes or lets someone buy | 買わせられる — is made to buy | 買わされる — is made to buy, one syllable shorter |
+| godan (く) | 書く — write | 書かれる — is written | 書かせる — makes or lets someone write | 書かせられる — is made to write | 書かされる — is made to write, one syllable shorter |
+| ichidan | 食べる — eat | 食べられる — is eaten | 食べさせる — makes or lets someone eat | 食べさせられる — is made to eat | — |
+| する | 心配する — worry | 心配される — is worried about | 心配させる — makes someone worry | 心配させられる — is made to worry | — |
+| 来る | 来る — come | 来られる — has someone come, unwanted | 来させる — makes someone come | 来させられる — is made to come | — |
 
 The contracted column is empty for three of these five rows on purpose — not every verb can shorten this far. される, next, covers which ones do and why.
 
