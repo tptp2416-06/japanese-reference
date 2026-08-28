@@ -1,15 +1,20 @@
 あげる, くれる and もらう start out as ordinary verbs of giving and receiving: 花をあげる — give flowers — もらう — receive something — くれる — someone gives something to me. Each one already fixes a direction: あげる and もらう can point in either direction depending on who the subject is, but くれる only ever points toward the speaker.
 
-Attach any of the three to a te-form, and the same directions apply to an ACTION instead of an object. 手伝ってあげる isn't help handed over as a thing — it's the helping itself, done as a favor, in that direction. The verb that follows て tells you what got done; the auxiliary tells you who it was done for.
+Attach any of the three to a te-form, and the same directions apply to an ACTION instead of an object. 手伝ってあげる isn't help handed over as a thing — it's the helping itself, done as a favor, in that direction.
+
+The verb that follows て tells you what got done; the auxiliary tells you who it was done for.
 
 That's the whole system: every sentence built this way names an action AND states who benefited from it. English can leave the beneficiary unsaid — I helped doesn't say who for. Japanese, once one of these three auxiliaries is in the sentence, cannot.
 
-Before reaching for one, decide two things: who benefits — you, or someone else — and, if you're asking for the favor rather than reporting it, how much deference the moment calls for. The first choice picks あげる, くれる or もらう; the second climbs or drops the register from there.
+Before reaching for one, decide two things:
+
+- **Who benefits** — you, or someone else. This choice picks あげる, くれる or もらう.
+- **How much deference the moment calls for** — relevant when you're asking for the favor rather than reporting it. This climbs or drops the register from there.
 
 @@ tldr
 
 てあげる, てくれる and てもらう mark who an action was done FOR — the auxiliary names the beneficiary, not just the doer.
-てくれる: someone did it for me. てもらう: I received the favor of someone doing it. てあげる: I did it for someone else.
+てくれる — someone did it for me. てもらう — I received the favor of someone doing it. てあげる — I did it for someone else.
 Requests built on these — てくれる？ up to ていただけないでしょうか — are one system at climbing levels of deference, not fourteen unrelated forms.
 
 @@ te-ageru — doing something for someone else
@@ -17,7 +22,8 @@ Requests built on these — てくれる？ up to ていただけないでしょ
 **Form:** `V-て + あげる`
 
 - **あげる frames the action as a favor the speaker extends** — 教えてあげる — I'll teach them — presents the teaching as something given, not just done.
-- **It fits peers and juniors, and can sound patronizing higher up** — offering to help a boss or a teacher with てあげる can come across as generosity from a position of ability, aimed down rather than across. お手伝いしましょうか — shall I help you? — built without あげる at all, is the safer offer toward someone senior.
+- **It fits peers and juniors, and can sound patronizing higher up** — offering to help a boss or a teacher with てあげる can come across as generosity from a position of ability, aimed down rather than across.
+- **お手伝いしましょうか — shall I help you? — is the safer offer toward someone senior**, built without あげる at all.
 - **Nothing about あげる implies the favor was asked for** — 弟にお菓子を買ってあげた — I bought my little brother some sweets — can be entirely unprompted generosity.
 
 -> Compare: [[ikoukei#mashou]] — the volitional offer this page's superior-register alternative is built on
@@ -71,6 +77,8 @@ B: あ、ごめん。 | Oh, sorry.
 - **くれる can attach to a sustained ている state instead of a single action, by way of ていて** — 待っていてくれる？ — will you keep waiting for me? — asks the listener to maintain a state across a stretch of time, not just perform one action once.
 - **The extra ていて layer is what carries the duration** — 待ってくれる？ asks for the act of waiting; 待っていてくれる？ asks for that waiting to be sustained, often paired with a condition like でも that makes the duration explicit.
 
+-> Prerequisite: [[te-iru]] — the sustained state くれる attaches to here
+
 ```eg
 one action: 待[ま]ってくれる？* | Will you wait for me?
 sustained state: 待[ま]っていてくれる？* | Will you keep waiting for me?
@@ -90,8 +98,8 @@ sustained state: 待[ま]っていてくれる？* | Will you keep waiting for m
 
 **Form:** `V-て + くれない？`
 
-- **The negative-potential shape softens the ask within casual register** — 手伝ってくれない？ offers a gentler way to decline than plain 手伝ってくれる？, the same cushioning もらえない？ and いただけないでしょうか build on at higher registers.
-- **Still entirely casual** — the softening comes from the negative-potential shape, not from any added politeness marker.
+- **Asking くれる in the negative softens the request within casual register** — 手伝ってくれない？ offers a gentler way to decline than plain 手伝ってくれる？; もらえない？ and いただけないでしょうか lean on the same softening idea at higher registers, there through the negative of a potential form (もらえる, いただける) rather than plain くれる.
+- **Still entirely casual** — the softening comes from asking in the negative, not from any added politeness marker.
 
 ```eg
 casual direct: 手伝[てつだ]ってくれる？* | Will you help me?
@@ -115,7 +123,7 @@ casual softened: 手伝[てつだ]ってくれない？* | Won't you help me?
 
 もらう keeps the same favor, but tells it from the other side.
 
-- **The geometry reverses** — てくれる puts the giver in the subject role; てもらう puts the receiver there instead, marking the giver with に. 友達が手伝ってくれた and 友達に手伝ってもらった describe the identical event from opposite grammatical sides.
+- **The geometry reverses** — てくれる puts the giver in the subject role; てもらう puts the receiver there instead, marking the giver with に. The same event can be described from either side, as the pair below shows.
 - **もらう structurally asks whether the speaker may receive the action from the listener, which is why it reads as humbler than plain くれる requests** — even before any keigo is added, the receiving frame itself does some of the softening.
 
 ```eg
@@ -151,7 +159,7 @@ B: いいよ。 | Sure.
 **Form:** `V-て + いただく`
 
 - **いただく is もらう lowered into 謙譲語** — the receiving geometry is unchanged; only the speaker's own position drops, which is what elevates the giver by comparison.
-- **It reports a favor received, the same way もらう does, just at a more deferential register** — 先生に教えていただいた — I had my teacher teach me — describes the identical event 教えてもらった does, spoken more humbly.
+- **It reports a favor received, the same way もらう does, just at a more deferential register** — 先生に教えていただいた — I had my teacher teach me — describes the same event as 教えてもらった — I had someone teach me — just spoken more humbly.
 
 ```eg
 先生[せんせい]に日本語[にほんご]を教[おし]えていただいた。 | I was taught Japanese by my teacher.
@@ -206,20 +214,27 @@ Line the whole family up, and the movement from friend to stranger to imposed-up
 
 | form | frame | how it lands |
 |---|---|---|
-| ていただけないでしょうか | humble receiving, doubly cushioned | most deferential; apologizing for an imposition, business and service contexts |
-| ていただけませんか | humble receiving, softened | deferential; common in polite workplace and service requests |
-| ていただけますか | humble receiving | polite and direct; a shade less cushioned than ませんか |
-| てもらえますか | plain receiving | standard polite; safe with strangers and acquaintances |
-| てもらえない？ | plain receiving, casual | casual, softened; close acquaintances |
-| てくれない？ | plain giving, casual | casual, softened; friends and family |
-| てくれる？ | plain giving, casual | very common in conversation; friends and family, no cushioning needed |
+| ていただけないでしょうか — could you possibly...? | humble receiving, doubly cushioned | most deferential; apologizing for an imposition, business and service contexts |
+| ていただけませんか — could you possibly...? | humble receiving, softened | deferential; common in polite workplace and service requests |
+| ていただけますか — could you...? | humble receiving | polite and direct; a shade less cushioned than ませんか |
+| てもらえますか — could you...? | plain receiving | standard polite; safe with strangers and acquaintances |
+| てもらえない？ — could you...? | plain receiving, casual | casual, softened; close acquaintances |
+| てくれない？ — won't you...? | plain giving, casual | casual, softened; friends and family |
+| てくれる？ — will you...? | plain giving, casual | very common in conversation; friends and family, no cushioning needed |
 
 None of these seven forms is a weaker version of another — each is what a speaker actually reaches for at its own social distance. The casual bottom rung isn't a shortcut around politeness; it's the form the relationship calls for.
 
 !!! warning "English Trap"
     てもらう often comes out in English translation sounding passive — having something done to you, getting someone to do something — and that resemblance pulls learners toward Japanese's actual passive, られる, for the same idea. The two are not interchangeable.
 
-    てもらう reports a favor the speaker asked for or benefited from: 髪を切ってもらった — I had my hair cut [and arranged it, and it helped me]. られる can report something that happened TO the speaker, often unwelcome, with no request or benefit involved: 電車で足を踏まれた — someone stepped on my foot on the train. Both can mark the other party with に, which is exactly what invites the confusion — but one names a favor, and the other doesn't.
+    てもらう reports a favor the speaker asked for or benefited from. られる can report something that happened TO the speaker, often unwelcome, with no request or benefit involved.
+
+    ```eg
+    favor: 髪[かみ]を切[き]ってもらった。* | I had my hair cut [and arranged it, and it helped me].
+    adversity: 電車[でんしゃ]で足[あし]を踏[ふ]まれた。* | Someone stepped on my foot on the train.
+    ```
+
+    Both can mark the other party with に, which is exactly what invites the confusion — but one names a favor, and the other doesn't.
 
 -> Contrast: [[rareru#adversity-passive]] — an event that happens to the speaker, often unwelcome, with no benefit implied
 
@@ -227,7 +242,7 @@ None of these seven forms is a weaker version of another — each is what a spea
 
 Fragments carry the whole request once context supplies the rest:
 
-- 手伝って？ — Help? [with くれる implied]
+- 手伝って？ — Help? [reads as a favor for the speaker, the sense くれる would add]
 - お願いできますか？ — Could I ask you? [without naming the favor at all]
 - いいよ。 — Sure. [accepting any of the forms above]
 
