@@ -149,7 +149,9 @@ The same stance difference appears when a volitional is built on ちゃう: ち�
 
 ### Social pressure
 
-Among close friends, 行こうよ can sound supportive or playfully eager. Said after a refusal, or by someone with institutional power, it may pressure the listener. The particle does not encode hostility; it strengthens the speaker's push toward the action.
+- **Among close friends** — 行こうよ can sound supportive or playfully eager.
+- **After a refusal, or from someone with institutional power** — it may pressure the listener.
+- **The particle itself does not encode hostility** — it strengthens the speaker's push toward the action.
 
 In formal invitations, ましょうか — shall we — or 行きませんか — would you like to — usually leaves more room. In private self-talk, かな moves in the opposite direction and turns the choice inward.
 

@@ -161,7 +161,9 @@ The same stance difference appears when a volitional is built on <span class="ci
 
 ### Social pressure
 
-Among close friends, <span class="cite-jp">行こうよ</span> can sound supportive or playfully eager. Said after a refusal, or by someone with institutional power, it may pressure the listener. The particle does not encode hostility; it strengthens the speaker's push toward the action.
+- **Among close friends** — <span class="cite-jp">行こうよ</span> can sound supportive or playfully eager.
+- **After a refusal, or from someone with institutional power** — it may pressure the listener.
+- **The particle itself does not encode hostility** — it strengthens the speaker's push toward the action.
 
 In formal invitations, <span class="cite-jp">ましょうか</span><span class="gl-en"> — shall we — </span>or <span class="cite-jp">行きませんか</span><span class="gl-en"> — would you like to — </span>usually leaves more room. In private self-talk, <span class="cite-jp">かな</span> moves in the opposite direction and turns the choice inward.
 
@@ -237,3 +239,5 @@ The past form places the intention in an earlier mental state. The speaker may s
 Casual speech often says <span class="cite-jp">帰ろうと思ってた</span><span class="gl-en"> — I was thinking of going home, while polite speech uses </span><span class="cite-jp">帰ろうと思っていました</span><span class="gl-en"> — I had been thinking of going home</span>. Written narratives favor the full form and often follow it with <span class="cite-jp">けれど</span> or <span class="cite-jp">が</span> to explain what changed.
 
 Negation works at the same two levels as in the present: <span class="cite-jp">行こうと思っていなかった</span><span class="gl-en"> — I had not been thinking of going — </span>denies an earlier intention, while <span class="cite-jp">行かないと思っていた</span><span class="gl-en"> — I thought I wouldn't go — </span>reports an earlier prediction.
+
+<div class="prov">Authored by GPT-5 Codex - High &bull; 2026-08-28; Reviewed by Claude Sonnet 5 &bull; 2026-08-28</div>
