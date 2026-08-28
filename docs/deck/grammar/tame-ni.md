@@ -6,9 +6,9 @@
 
 !!! tip "At a glance"
 
-    Deliberate purpose: "in order to". Dictionary-form verb or noun + <span class="cite-jp">の</span> in
-    front; the same subject controls both halves. If the goal isn't something
-    you can just decide to do, you want <span class="cite-jp">ように</span> instead.
+    Deliberate purpose — doing one thing in order to achieve another. Dictionary-
+    form verb or noun + <span class="cite-jp">の</span> in front; the same subject controls both halves. If
+    the goal isn't something you can just decide to do, you want <span class="cite-jp">ように</span> instead.
 
 ## ために (purpose) { #purpose }
 
@@ -19,26 +19,31 @@ In order to achieve a goal; marks deliberate purpose
 {: .form }
 
 - **Deliberate aim** — the actor does A in order to achieve B:
-  <span class="cite-jp">日本語を勉強するために、アプリを入れた。</span>
-- **Benefit reading with nouns** — <span class="cite-jp">家族のために働いてる</span> is "for my family's
-  sake", not a plan. Context decides, and the readings sit close enough that
-  this rarely causes trouble.
-- **Casual clip** — the <span class="cite-jp">に</span> often drops: <span class="cite-jp">何のため？</span> — "what for?"
+  <span class="cite-jp">日本語を勉強するために、アプリを入れた。</span> — I installed the app in order
+  to study Japanese.
+- **Benefit reading with nouns** — <span class="cite-jp">家族のために働いてる</span> — for my family's
+  sake — describes a benefit, not a plan. Context decides, and the readings
+  sit close enough that this rarely causes trouble.
+- **Casual clip** — the <span class="cite-jp">に</span> often drops: <span class="cite-jp">何のため？</span> — what for?
 
 <div id="trap-pitfall" class="trap-anchor"></div>
 
 !!! warning "Pitfall"
     <span class="cite-jp">ために</span> wants a goal the subject can pursue directly. For outcomes you
     can't simply will — not forgetting, becoming able to — Japanese reaches
-    for <span class="cite-jp">ように</span>: <span class="cite-jp">忘れないようにメモした。</span>
+    for <span class="cite-jp">ように</span>: <span class="cite-jp">忘れないようにメモした。</span> — I made a note so I wouldn't forget.
 
 ??? note "<span class="cite-jp">ために</span> vs <span class="cite-jp">ように</span>, the fuller picture"
-    The line is control. <span class="cite-jp">合格するために勉強する</span> (studying is your deliberate
-    means) vs <span class="cite-jp">聞こえるように大きい声で話す</span> (being audible is an outcome you
-    aim speech at, not an act you perform). Verbs of ability and negatives
-    lean <span class="cite-jp">ように</span> almost without exception; volitional action verbs lean
-    <span class="cite-jp">ために</span>. Both translate "so that / in order to", which is why English
-    can't be the guide.
+    The line is control. <span class="cite-jp">合格するために勉強する</span> — studying is your deliberate
+    means — contrasts with <span class="cite-jp">聞こえるように大きい声で話す</span>, where being audible
+    is an outcome you aim speech at, not an act you perform.
+
+    Verbs of ability and negatives lean <span class="cite-jp">ように</span> almost without exception;
+    volitional action verbs lean <span class="cite-jp">ために</span>. Both translate "so that / in order
+    to", which is why English can't be the guide.
+
+    <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [ように (so that)](<you-ni.md#so-that> "ように — so that, and taking care not to") <span class="xref-reason">&mdash; ように for outcomes you aim at rather than a goal you can pursue directly</span></div>
+
 
 *Compare:* [ために・ように・のに・Vstem＋に — the purpose family](<../contrasts/tame-ni-you-ni-noni-vstem-ni.md> "the purpose family")
 {: .compare }
