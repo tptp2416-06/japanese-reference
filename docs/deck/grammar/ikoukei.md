@@ -2,6 +2,17 @@
      Prose belongs in content/deck/grammar/ikoukei.md -->
 # 意向形 — the volitional: intention, invitation, and ましょう
 
+!!! tip "At a glance"
+
+    The volitional presents an action as one to move toward: I'll do it or let's do it.
+    <span class="cite-jp">か</span> opens a proposal, <span class="cite-jp">よ</span> urges, <span class="cite-jp">ましょう</span> adds polite distance, and <span class="cite-jp">と思っている</span> turns the volitional choice into a current intention.
+
+The volitional form lets a speaker lean into an action: decide “I'll do it,” invite someone with “let's,” or place that choice inside a continuing intention such as <span class="cite-jp">行こうと思っている</span><span class="gl-en"> — I'm thinking of going</span>.
+
+Those readings share one core. The speaker presents the action as something to move toward, then context decides whose movement is involved: the speaker's own, the group's, or a plan still being considered.
+
+Register and sentence ending matter especially in invitations. <span class="cite-jp">行こう</span><span class="gl-en"> — let's go — </span>is bare; <span class="cite-jp">行こうか</span><span class="gl-en"> — shall we go — </span>opens a proposal. <span class="cite-jp">行こうよ</span><span class="gl-en"> — come on, let's go — </span>urges, while <span class="cite-jp">行きましょうか</span><span class="gl-en"> — shall we go — </span>adds polite distance.
+
 Let's do something, or I will do it; expresses volition or suggestion
 {: .h1-gloss }
 
@@ -11,7 +22,45 @@ Let's do something, or I will do it; expresses volition or suggestion
 **Compounds:** [意向形＋か](<ikoukei.md#ikoukei-ka> "Shall I or shall we? Casual proposal formed with the volitional") · [意向形＋と思っている](<ikoukei.md#ikoukei-to-omotte-iru> "Be thinking of doing; volitional form plus と思っている.") · [意向形＋よ](<ikoukei.md#ikoukei-yo> "Let's do X; volitional plus emphatic particle encourages joint action")
 {: .fam }
 
-## ましょう { #mashou }
+**Form:** `Godan final -u → corresponding long -ō` · `ichidan -る → -よう` · `する → しよう` · `来る → 来よう`
+{: .form }
+
+| verb type — how it changes | dictionary form — meaning | volitional form — usual meaning |
+|---|---|---|
+| godan — final <span class="cite-jp">く</span> becomes <span class="cite-jp">こう</span> | <span class="cite-jp">行く</span> — go | <span class="cite-jp">行こう</span> — I'll go / let's go |
+| godan — final <span class="cite-jp">す</span> becomes <span class="cite-jp">そう</span> | <span class="cite-jp">話す</span> — speak | <span class="cite-jp">話そう</span> — I'll speak / let's speak |
+| godan — final <span class="cite-jp">つ</span> becomes <span class="cite-jp">とう</span> | <span class="cite-jp">待つ</span> — wait | <span class="cite-jp">待とう</span> — I'll wait / let's wait |
+| ichidan — replace <span class="cite-jp">る</span> with <span class="cite-jp">よう</span> | <span class="cite-jp">食べる</span> — eat | <span class="cite-jp">食べよう</span> — I'll eat / let's eat |
+| irregular — fixed form | <span class="cite-jp">する</span> — do | <span class="cite-jp">しよう</span> — I'll do it / let's do it |
+| irregular — fixed form | <span class="cite-jp">来る</span> — come | <span class="cite-jp">来よう</span> — I'll come / let's come |
+
+- **Present an action as a choice to move toward** — <span class="cite-jp">よし、始めよう</span><span class="gl-en"> — all right, let's begin — </span>commits the speaker to starting and may invite others along.
+- **Choose it after asking whose decision is being voiced** — in self-talk it can mean I'll do it; with a shared activity it can mean let's do it. Context, not the ending alone, supplies the participants.
+- **The plain form is casual to neutral** — it is natural with oneself and close others. In a formal invitation, the <span class="cite-jp">ましょう</span> family gives the relationship more room.
+- **The volitional is not a future tense** — <span class="cite-jp">明日行こう</span> can concern tomorrow, but the form contributes decision or proposal, not time by itself.
+- **There is no ordinary matching negative ending** — everyday Japanese does not turn <span class="cite-jp">行かない</span> into a simple negative volitional. It chooses another predicate, such as <span class="cite-jp">今日は行くのをやめよう</span><span class="gl-en"> — I'll decide not to go today</span>.
+
+<div class="ex"><div class="ex-jp" lang="ja">よし、<ruby>今日<rt>きょう</rt></ruby>はここまでに<span class="pat">しよう</span>。</div><div class="ex-en">&ldquo;All right, let&#x27;s stop here for today.&rdquo; <span class="lit">&mdash; lit. all right, let&#x27;s make it up to here today</span></div><div class="ex-note">The speaker turns a possible stopping point into a decision for the group.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">よし、</span><span class="g">all right</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>今日<rt>きょう</rt></ruby>は</span><span class="g">today</span></div><div class="bd-seg"><span class="j" lang="ja">ここまでに</span><span class="g">up to here</span></div><div class="bd-seg hit"><span class="j" lang="ja">しよう</span><span class="g">let&#x27;s make it</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">plain volitional as a decision or shared proposal</span></div></div></details></div>
+
+### One form, two participants
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">self-directed</div><div class="eg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>、<ruby>早<rt>はや</rt></ruby>く<ruby>起<rt>お</rt></ruby>きよう</div><div class="ex-en">I&#x27;ll get up early tomorrow.</div></div><div class="eg-member"><div class="eg-label">shared</div><div class="eg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>勉強<rt>べんきょう</rt></ruby>しよう</div><div class="ex-en">Let&#x27;s study together tomorrow.</div></div></div>
+
+The first speaker directs themself toward an action. <span class="cite-jp">一緒に</span> in the second makes shared action explicit, but a shared situation can license the invitation without that word.
+
+### Choosing not to act
+
+To decide to leave something undone, Japanese often places the volitional on another predicate. <span class="cite-jp">行かないでおこう</span><span class="gl-en"> — I'll leave it at not going — </span>uses the volitional of <span class="cite-jp">ておく</span> rather than a negative volitional ending on <span class="cite-jp">行く</span>.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [ておく](<te-oku.md> "ておく — doing something in advance, with the とく contraction") <span class="xref-reason">&mdash; leaving an action undone or preparing in advance with ておく</span></div>
+
+### Plain volitionals in conversation
+
+Plain volitionals often stand alone: <span class="cite-jp">帰ろう</span><span class="gl-en"> — let's go home / I'll head home</span>. Rising intonation can turn the same form toward the listener: <span class="cite-jp">帰ろう？</span><span class="gl-en"> — shall we go home</span>?
+
+Fast speech especially compresses forms before <span class="cite-jp">か</span> or <span class="cite-jp">かな</span>. <span class="cite-jp">行こうか</span><span class="gl-en"> — shall we go — </span>becomes <span class="cite-jp">行こっか</span><span class="gl-en"> — shall we go</span>; <span class="cite-jp">食べようかな</span><span class="gl-en"> — maybe I'll eat — </span>becomes <span class="cite-jp">食べよっかな</span><span class="gl-en"> — maybe I'll eat</span>. These are spoken reductions, not new conjugations.
+
+## ましょう — polite decisions and invitations { #mashou }
 
 Let's do...; polite volitional invitation.
 {: .pt-gloss }
@@ -22,7 +71,29 @@ Let's do...; polite volitional invitation.
 **From:** inflection of [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")
 {: .fam }
 
-## 意向形＋か { #ikoukei-ka }
+**Form:** `V-ます stem + ましょう` · proposal `V-ます stem + ましょうか`
+{: .form }
+
+<span class="cite-jp">ましょう</span> is the polite volitional. Without <span class="cite-jp">か</span>, it can announce a shared course of action or guide the listener: <span class="cite-jp">次を見ましょう</span><span class="gl-en"> — let's look at the next one</span>. With <span class="cite-jp">か</span>, it more explicitly offers the proposal for joint consideration.
+
+<div class="dlg"><div class="dlg-note">A checks whether the group is ready; B accepts and turns beginning into a polite shared decision.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">そろそろ<ruby>始<rt>はじ</rt></ruby>めますか。</div><div class="ex-en">Shall we get started soon?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">はい、<ruby>始<rt>はじ</rt></ruby>めましょう。</div><div class="ex-en">Yes, let&#x27;s begin.</div></div></div></div>
+
+### Invitation distance
+
+These forms can all invite, but they do not give the listener the same amount of room.
+
+| form — meaning | what the speaker does — meaning | how it lands — social effect |
+|---|---|---|
+| <span class="cite-jp">行こう？</span> — shall we go? | checks willingness through intonation — casual invitation | intimate and light — common with close others |
+| <span class="cite-jp">行こうか</span> — shall we go? | states a proposal and asks about it — casual joint decision | casual but explicit — the speaker initiates |
+| <span class="cite-jp">行きましょうか</span> — shall we go? | offers a polite shared proposal — joint decision with distance | neutral polite — suitable beyond close relationships |
+| <span class="cite-jp">行きませんか</span> — would you like to go? | invites through a negative question — leaves refusal more room | polite and less presumptive — often the most deferential here |
+
+This ladder is about how the invitation lands, not about learner difficulty. <span class="cite-jp">行こう？</span> is not a lesser or advanced version; it is the ordinary form many learners hear first among friends.
+
+<span class="cite-jp">ましょう</span> without <span class="cite-jp">か</span> can sound more directive because it presents the shared course as ready to adopt. Teachers, guides, and instructional writing use it naturally: <span class="cite-jp">では、例を見ましょう</span><span class="gl-en"> — now, let's look at an example</span>.
+
+## 意向形＋か — opening a proposal { #ikoukei-ka }
 
 Shall I or shall we? Casual proposal formed with the volitional
 {: .pt-gloss }
@@ -33,17 +104,68 @@ Shall I or shall we? Casual proposal formed with the volitional
 **From:** compound of [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")
 {: .fam }
 
-## 意向形＋と思っていた { #ikoukei-to-omotte-ita }
+**Form:** `Volitional + か` · inward deliberation `Volitional + かな` · spoken `-おうか / -ようか → -おっか / -よっか`
+{: .form }
 
-Had been thinking of doing X; earlier intention viewed retrospectively
+In an invitation, <span class="cite-jp">か</span> turns the volitional into an explicit proposal for consideration. <span class="cite-jp">行こうか</span><span class="gl-en"> — shall we go — </span>initiates a possible shared action and lets the other person respond.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">intonation only</div><div class="eg-jp" lang="ja">そろそろ<ruby>行<rt>い</rt></ruby>こう？</div><div class="ex-en">Shall we get going?</div></div><div class="eg-member"><div class="eg-jp" lang="ja">explicit か: そろそろ<ruby>行<rt>い</rt></ruby>こうか</div><div class="ex-en">Shall we get going?</div></div></div>
+
+The first is lighter and relies on questioning intonation. The second packages the idea more clearly as the speaker's proposal. Neither difference is a fixed politeness level; voice, relationship, and situation still matter.
+
+### Spoken compression
+
+<span class="cite-jp">行こうか</span> commonly becomes <span class="cite-jp">行こっか</span> in casual speech, and <span class="cite-jp">食べようか</span> becomes <span class="cite-jp">食べよっか</span>. The small <span class="cite-jp">っ</span> reflects the compressed sound before <span class="cite-jp">か</span>; careful writing normally keeps the full form.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">full casual</div><div class="eg-jp" lang="ja">もう<ruby>帰<rt>かえ</rt></ruby>ろうか</div><div class="ex-en">Shall we head home now?</div></div><div class="eg-member"><div class="eg-label">compressed speech</div><div class="eg-jp" lang="ja">もう<ruby>帰<rt>かえ</rt></ruby>ろっか</div><div class="ex-en">Shall we head home now?</div></div></div>
+
+When the volitional stacks on contracted <span class="cite-jp">ちゃう</span>, <span class="cite-jp">ちゃおっか</span><span class="gl-en"> — shall we just do it — </span>often suggests yielding to momentum already present, while plain <span class="cite-jp">行こっか</span><span class="gl-en"> — shall we go — </span>can simply initiate going.
+
+The related page follows the compression <span class="cite-jp">てしまおうか</span><span class="gl-en"> — shall we just do it — </span>to <span class="cite-jp">ちゃおうか</span><span class="gl-en"> — shall we just do it — </span>to <span class="cite-jp">ちゃおっか</span><span class="gl-en"> — shall we just do it</span>. Each step is more casual, and the last is limited to speech.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [ちゃおう](<te-shimau.md#chaou> "てしまう — completion and regret, with the ちゃう contractions") <span class="xref-reason">&mdash; the ちゃおうか forms that yield to momentum already present</span></div>
+
+### Deliberating with <span class="cite-jp">かな</span>
+
+Adding <span class="cite-jp">な</span> after <span class="cite-jp">か</span> turns the question inward. <span class="cite-jp">行こうかな</span><span class="gl-en"> — maybe I'll go / I wonder if I should go — </span>lets the speaker consider their own next move without directly inviting an answer.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">self-talk</div><div class="eg-jp" lang="ja"><ruby>週末<rt>しゅうまつ</rt></ruby>は<ruby>海<rt>うみ</rt></ruby>へ<ruby>行<rt>い</rt></ruby>こうかな</div><div class="ex-en">Maybe I&#x27;ll go to the sea this weekend.</div></div><div class="eg-member"><div class="eg-label">compressed self-talk</div><div class="eg-jp" lang="ja">そろそろ<ruby>行<rt>い</rt></ruby>こっかな</div><div class="ex-en">Maybe I&#x27;ll get going soon.</div></div></div>
+
+Another person may still respond, but the form presents the deliberation as self-directed. In quick speech, <span class="cite-jp">行こっかな</span> is casual and intimate; the full <span class="cite-jp">行こうかな</span> is neutral enough for a wider range of conversation.
+
+## 意向形＋よ — encouragement and insistence { #ikoukei-yo }
+
+Let's do X; volitional plus emphatic particle encourages joint action
 {: .pt-gloss }
 
-<span class="card-tag lv">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">invitation</span> <span class="card-tag">plain-marked</span>
 
-**Builds on:** [意向形＋と思っている](<ikoukei.md#ikoukei-to-omotte-iru> "Be thinking of doing; volitional form plus と思っている.")
+**Builds on:** [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")  
+**From:** compound of [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")
 {: .fam }
 
-## 意向形＋と思っている { #ikoukei-to-omotte-iru }
+**Form:** `Volitional + よ`
+{: .form }
+
+In an invitation, <span class="cite-jp">よ</span> presents the proposed action with extra confidence and pushes it toward the listener. <span class="cite-jp">行こうよ</span> is often warm encouragement—come on, let's go—but it can become insistence when the listener is reluctant.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">open proposal</div><div class="eg-jp" lang="ja"><ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>こうか</div><div class="ex-en">Shall we go together?</div></div><div class="eg-member"><div class="eg-label">urging proposal</div><div class="eg-jp" lang="ja"><ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>行<rt>い</rt></ruby>こうよ</div><div class="ex-en">Come on, let&#x27;s go together.</div></div></div>
+
+<span class="cite-jp">か</span> asks whether to adopt the proposal. <span class="cite-jp">よ</span> presents the action as the direction the speaker wants the pair or group to take. That makes <span class="cite-jp">よ</span> useful for enthusiasm and persuasion, but also riskier when the listener has already resisted.
+
+<div class="dlg"><div class="dlg-note">A&#x27;s hesitation gives B&#x27;s よ something to push against; the line is encouragement rather than a neutral question.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">まだ<ruby>行<rt>い</rt></ruby>くか<ruby>迷<rt>まよ</rt></ruby>ってる。</div><div class="ex-en">I&#x27;m still not sure whether to go.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>行<rt>い</rt></ruby>こうよ。きっと<ruby>楽<rt>たの</rt></ruby>しいよ。</div><div class="ex-en">Come on, let&#x27;s go. It&#x27;ll be fun.</div></div></div></div>
+
+The same stance difference appears when a volitional is built on <span class="cite-jp">ちゃう</span>: <span class="cite-jp">ちゃおうよ</span><span class="gl-en"> — come on, let's just do it — </span>urges, while <span class="cite-jp">ちゃおうか</span><span class="gl-en"> — shall we just do it — </span>proposes. The <span class="cite-jp">てしまう</span> page owns those contracted forms.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [ちゃおう](<te-shimau.md#chaou> "てしまう — completion and regret, with the ちゃう contractions") <span class="xref-reason">&mdash; ちゃおうか and ちゃおうよ inside the てしまう system</span></div>
+
+### Social pressure
+
+Among close friends, <span class="cite-jp">行こうよ</span> can sound supportive or playfully eager. Said after a refusal, or by someone with institutional power, it may pressure the listener. The particle does not encode hostility; it strengthens the speaker's push toward the action.
+
+In formal invitations, <span class="cite-jp">ましょうか</span><span class="gl-en"> — shall we — </span>or <span class="cite-jp">行きませんか</span><span class="gl-en"> — would you like to — </span>usually leaves more room. In private self-talk, <span class="cite-jp">かな</span> moves in the opposite direction and turns the choice inward.
+
+## 意向形＋と思っている — a current intention { #ikoukei-to-omotte-iru }
 
 Be thinking of doing; volitional form plus と思っている.
 {: .pt-gloss }
@@ -54,13 +176,64 @@ Be thinking of doing; volitional form plus と思っている.
 **From:** compound of [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")
 {: .fam }
 
-## 意向形＋よ { #ikoukei-yo }
+**Form:** `Volitional + と + 思っている` · polite `Volitional + と思っています` · conversational `Volitional + と思ってる`
+{: .form }
 
-Let's do X; volitional plus emphatic particle encourages joint action
+This construction presents the volitional choice as a thought the speaker currently holds. <span class="cite-jp">行こうと思っている</span> naturally means I'm thinking of going or I intend to go: the decision has taken shape, but the sentence still presents it through the speaker's thinking.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>来年<rt>らいねん</rt></ruby>、<ruby>日本<rt>にほん</rt></ruby>で<span class="pat"><ruby>働<rt>はたら</rt></ruby>こう</span>と<span class="pat"><ruby>思<rt>おも</rt></ruby>っています</span>。</div><div class="ex-en">&ldquo;I&#x27;m thinking of working in Japan next year.&rdquo; <span class="lit">&mdash; lit. I am holding the thought “I will work in Japan next year”</span></div><div class="ex-note">The volitional supplies the chosen direction, and 思っている presents that thought as current.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>来年<rt>らいねん</rt></ruby>、</span><span class="g">next year</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>日本<rt>にほん</rt></ruby>で</span><span class="g">in Japan</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>働<rt>はたら</rt></ruby>こう</span><span class="g">I will work</span></div><div class="bd-seg"><span class="j" lang="ja">と</span><span class="g">that</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>思<rt>おも</rt></ruby>っています</span><span class="g">am thinking</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">volitional choice + と + current state of thought</span></div></div></details></div><div class="reg"><div><div class="rlbl">casual</div><span lang="ja">来年、日本で働こうと思ってる。</span></div><div><div class="rlbl">polite</div><span lang="ja">来年、日本で働こうと思っています。</span></div></div>
+
+### The thought is ongoing
+
+The <span class="cite-jp">ている</span> belongs to <span class="cite-jp">思う</span>: it presents the intention as a thought currently maintained, not the intended action as already in progress. <span class="cite-jp">来年働こうと思っている</span> does not say the work has begun.
+
+With the first person, it reports the speaker's own intention directly. With someone else, context needs a basis for knowing their intention: <span class="cite-jp">本人は参加しようと思っているそうだ</span><span class="gl-en"> — apparently, they intend to participate</span>.
+
+### A leaning and a settled plan
+
+<span class="cite-jp">意向形</span>＋<span class="cite-jp">と思っている</span> often sounds like a current leaning or intention taking shape around now. <span class="cite-jp">つもり</span> presents the plan as more settled. This is a useful contrast, not a scale that fixes how certain every speaker must be.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [つもり](<tsumori.md> "つもり — Intend to do something") <span class="xref-reason">&mdash; a settled intention</span></div>
+
+### Negating the intention
+
+Negating <span class="cite-jp">思っている</span> denies that the intention is currently held. Negating the quoted clause produces a prediction instead, so the position of the negative matters.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">intention denied</div><div class="eg-jp" lang="ja"><ruby>行<rt>い</rt></ruby>こうと<ruby>思<rt>おも</rt></ruby>っていない</div><div class="ex-en">I&#x27;m not thinking of going.</div></div><div class="eg-member"><div class="eg-label">negative prediction</div><div class="eg-jp" lang="ja"><ruby>行<rt>い</rt></ruby>かないと<ruby>思<rt>おも</rt></ruby>っている</div><div class="ex-en">I think I won&#x27;t go.</div></div></div>
+
+The second sentence does not create a negative volitional. Its content is plain <span class="cite-jp">行かない</span><span class="gl-en"> — won't go — </span>inside an ordinary thought.
+
+### Current intentions in conversation and writing
+
+Conversation commonly drops the <span class="cite-jp">い</span> in <span class="cite-jp">思っている</span>: <span class="cite-jp">留学しようと思ってる</span><span class="gl-en"> — I'm thinking of studying abroad</span>. Polite speech uses <span class="cite-jp">留学しようと思っています</span><span class="gl-en"> — I'm thinking of studying abroad — </span>and careful writing normally keeps the full <span class="cite-jp">思っている</span>.
+
+The construction can report a firm intention, especially with decisive context. Do not treat “thinking of” as a required weak translation; it is a natural English default that preserves the form's perspective.
+
+## 意向形＋と思っていた — an earlier intention { #ikoukei-to-omotte-ita }
+
+Had been thinking of doing X; earlier intention viewed retrospectively
 {: .pt-gloss }
 
-<span class="card-tag lv">N4-upper</span> <span class="card-tag">verb-inflection-volitional</span> <span class="card-tag">invitation</span> <span class="card-tag">plain-marked</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">periphrastic-construction</span> <span class="card-tag">intention-volition</span>
 
-**Builds on:** [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")  
-**From:** compound of [意向形](<ikoukei.md> "Let's do something, or I will do it; expresses volition or suggestion")
+**Builds on:** [意向形＋と思っている](<ikoukei.md#ikoukei-to-omotte-iru> "Be thinking of doing; volitional form plus と思っている.")
 {: .fam }
+
+**Form:** `Volitional + と + 思っていた` · polite `Volitional + と思っていました` · conversational `Volitional + と思ってた`
+{: .form }
+
+Changing <span class="cite-jp">思っている</span> to <span class="cite-jp">思っていた</span> moves the held intention into the past. It often introduces a plan that circumstances changed, but cancellation is an inference from context, not part of the grammar.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>早<rt>はや</rt></ruby>く<span class="pat"><ruby>帰<rt>かえ</rt></ruby>ろう</span>と<span class="pat"><ruby>思<rt>おも</rt></ruby>っていた</span>けど、<ruby>会議<rt>かいぎ</rt></ruby>が<ruby>長引<rt>ながび</rt></ruby>いた。</div><div class="ex-en">&ldquo;I had intended to go home early, but the meeting ran long.&rdquo; <span class="lit">&mdash; lit. I had been holding the thought “I&#x27;ll go home early,” but the meeting ran long</span></div><div class="ex-note">The second clause explains why the earlier intention was not carried out.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>早<rt>はや</rt></ruby>く</span><span class="g">early</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>帰<rt>かえ</rt></ruby>ろう</span><span class="g">I will go home</span></div><div class="bd-seg"><span class="j" lang="ja">と</span><span class="g">that</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>思<rt>おも</rt></ruby>っていた</span><span class="g">had been thinking</span></div><div class="bd-seg"><span class="j" lang="ja">けど、</span><span class="g">but</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>会議<rt>かいぎ</rt></ruby>が</span><span class="g">the meeting</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>長引<rt>ながび</rt></ruby>いた</span><span class="g">ran long</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">volitional choice + past state of thought</span></div></div></details></div>
+
+### Current and earlier plans
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">current</div><div class="eg-jp" lang="ja"><ruby>来年<rt>らいねん</rt></ruby>、<ruby>留学<rt>りゅうがく</rt></ruby>しようと<ruby>思<rt>おも</rt></ruby>っている</div><div class="ex-en">I&#x27;m thinking of studying abroad next year.</div></div><div class="eg-member"><div class="eg-label">earlier</div><div class="eg-jp" lang="ja"><ruby>来年<rt>らいねん</rt></ruby>、<ruby>留学<rt>りゅうがく</rt></ruby>しようと<ruby>思<rt>おも</rt></ruby>っていた</div><div class="ex-en">I had been thinking of studying abroad next year.</div></div></div>
+
+The past form places the intention in an earlier mental state. The speaker may still intend to study abroad, may have abandoned the plan, or may be contrasting an old plan with a new one; the following context decides.
+
+### Earlier intentions in conversation and writing
+
+Casual speech often says <span class="cite-jp">帰ろうと思ってた</span><span class="gl-en"> — I was thinking of going home, while polite speech uses </span><span class="cite-jp">帰ろうと思っていました</span><span class="gl-en"> — I had been thinking of going home</span>. Written narratives favor the full form and often follow it with <span class="cite-jp">けれど</span> or <span class="cite-jp">が</span> to explain what changed.
+
+Negation works at the same two levels as in the present: <span class="cite-jp">行こうと思っていなかった</span><span class="gl-en"> — I had not been thinking of going — </span>denies an earlier intention, while <span class="cite-jp">行かないと思っていた</span><span class="gl-en"> — I thought I wouldn't go — </span>reports an earlier prediction.
