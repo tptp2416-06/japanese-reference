@@ -83,7 +83,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="hou/">ほう — The one, side, or alternative selected from a contrast</a></h3><p>The one, side, or alternative selected from a contrast</p></div>
 <div class="card-grid-item"><h3><a href="ichiban/">一番 — The most or number one</a></h3><p>The most or number one.</p></div>
 <div class="card-grid-item"><h3><a href="ichigo-ni/">位置語＋に — Marks a position such as above or below with に</a></h3><p>Marks a position such as above or below with に.</p></div>
-<div class="card-grid-item"><h3><a href="ikoukei/">意向形 — the volitional: intention, invitation, and ましょう</a></h3><p>Let&#x27;s do...; polite volitional invitation.</p></div>
+<div class="card-grid-item"><h3><a href="ikoukei/">意向形 — the volitional: intention, invitation, and ましょう</a></h3><p>Let&#x27;s do something, or I will do it; expresses volition or suggestion</p></div>
 <div class="card-grid-item"><h3><a href="iru-aru/">いる-ある — Indicates existence: animate beings use one form</a></h3><p>Indicates existence: animate beings use one form, inanimate things the other</p></div>
 <div class="card-grid-item"><h3><a href="issho-ni/">一緒に — Together with</a></h3><p>Together with.</p></div>
 <div class="card-grid-item"><h3><a href="itsu-mo/">いつも — Always or habitually</a></h3><p>Always or habitually; occurring on every relevant occasion</p></div>
@@ -148,14 +148,14 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="tai/">〜たい — wanting to do something</a></h3><p>Want to do something; expresses the speaker&#x27;s own desire</p></div>
 <div class="card-grid-item"><h3><a href="tama-ni/">たまに — Occasionally</a></h3><p>Occasionally; happening at irregular and relatively infrequent times</p></div>
 <div class="card-grid-item"><h3><a href="tari-tari-suru/">たり〜たりする — Lists representative actions or states</a></h3><p>Lists representative actions or states, implying the list is not exhaustive</p></div>
-<div class="card-grid-item"><h3><a href="te-iru/">ている — progressive, resultant state, habit, and the てる contractions</a></h3><p>Was doing or used to do; past progressive or habitual state</p></div>
+<div class="card-grid-item"><h3><a href="te-iru/">ている — progressive, resultant state, habit, and the てる contractions</a></h3><p>Describes an action happening right now or around the reference time</p></div>
 <div class="card-grid-item"><h3><a href="te-kara/">てから — after doing, and ever since</a></h3><p>After completing one action, then perform the following action</p></div>
 <div class="card-grid-item"><h3><a href="te-kudasai/">てください — Please do</a></h3><p>Please do.</p></div>
 <div class="card-grid-item"><h3><a href="te-mo-ii/">てもいい — asking and giving permission</a></h3><p>May I do...?; casual permission question.</p></div>
 <div class="card-grid-item"><h3><a href="te-ne/">てね — Do this</a></h3><p>Do this, okay? Soft casual request seeking cooperative follow-through</p></div>
 <div class="card-grid-item"><h3><a href="te-wa-ikenai/">てはいけない — must not, with the ちゃだめ contractions</a></h3><p>Must not do; casual contraction of てはいけない.</p></div>
 <div class="card-grid-item"><h3><a href="tekei/">て形 — the te-form: linking, sequence, cause, and request</a></h3><p>Links a cause or reason to its result with the て-form.</p></div>
-<div class="card-grid-item"><h3><a href="to/">と — the conditional, and the particle for listing and accompaniment</a></h3><p>Given X or if X is the case; sets a conditional frame</p></div>
+<div class="card-grid-item"><h3><a href="to/">と — the conditional, and the particle for listing and accompaniment</a></h3><p>When or if X happens, Y follows.</p></div>
 <div class="card-grid-item"><h3><a href="totemo/">とても — Very</a></h3><p>Very.</p></div>
 <div class="card-grid-item"><h3><a href="tsui/">つい — Unintentionally or despite oneself</a></h3><p>Unintentionally or despite oneself.</p></div>
 <div class="card-grid-item"><h3><a href="tsumori/">つもり — Intend to do something</a></h3><p>Intend to do something; expresses a considered personal plan</p></div>
@@ -258,14 +258,14 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="ta-ato-de/">たあとで — After doing X</a></h3><p>After doing X; places another event later in sequence</p></div>
 <div class="card-grid-item"><h3><a href="tara/">たら — the tara-conditional: condition, discovery, time, and suggestion</a></h3><p>If or when a condition is met, the following result applies</p></div>
 <div class="card-grid-item"><h3><a href="tariru/">足りる — Be sufficient or enough</a></h3><p>Be sufficient or enough; required amount is met</p></div>
-<div class="card-grid-item"><h3><a href="te-ageru-te-kureru-te-morau/">てあげる・てくれる・てもらう — doing something for someone</a></h3><p>If or when you do something for someone; also a casual suggestion — 手伝ってあげたら？ (why not help them?).</p></div>
+<div class="card-grid-item"><h3><a href="te-ageru-te-kureru-te-morau/">てあげる・てくれる・てもらう — doing something for someone</a></h3><p>Do something for someone else as a favor from the giver&#x27;s viewpoint</p></div>
 <div class="card-grid-item"><h3><a href="te-arigatou/">て＋ありがとう — Thanks for doing</a></h3><p>Thanks for doing...; て-form action followed by ありがとう.</p></div>
 <div class="card-grid-item"><h3><a href="te-atta/">てあった — A deliberately created state existed in the past</a></h3><p>A deliberately created state existed in the past; result remained in place</p></div>
 <div class="card-grid-item"><h3><a href="te-hoshii/">てほしい — Want another person to do something</a></h3><p>Want another person to do something; expresses the speaker&#x27;s desired action</p></div>
 <div class="card-grid-item"><h3><a href="te-kaeru/">て帰る — Do something and return afterward</a></h3><p>Do something and return afterward; action occurs before coming back</p></div>
-<div class="card-grid-item"><h3><a href="te-kuru-te-iku/">てくる・ていく — movement and change, toward or away from now</a></h3><p>Continue changing from now onward; development proceeds away from the present</p></div>
+<div class="card-grid-item"><h3><a href="te-kuru-te-iku/">てくる・ていく — movement and change, toward or away from now</a></h3><p>Motion or arrival toward the speaker or the deictic centre.</p></div>
 <div class="card-grid-item"><h3><a href="te-mo/">ても — even if, however much</a></h3><p>Even if something happens or holds, the result remains unchanged</p></div>
-<div class="card-grid-item"><h3><a href="te-oku/">ておく — doing something in advance, with the とく contraction</a></h3><p>Did something in advance; past preparatory action for a later need</p></div>
+<div class="card-grid-item"><h3><a href="te-oku/">ておく — doing something in advance, with the とく contraction</a></h3><p>Do something in advance or leave it in a resulting state</p></div>
 <div class="card-grid-item"><h3><a href="te-shimau/">てしまう — completion and regret, with the ちゃう contractions</a></h3><p>Finish doing something completely, emphasizing completion rather than regret</p></div>
 <div class="card-grid-item"><h3><a href="to-omou/">と思う — Think that something is true</a></h3><p>Think that something is true, or express an opinion or intention</p></div>
 <div class="card-grid-item"><h3><a href="toka-toka/">とか〜とか — Gives representative examples such as X and Y</a></h3><p>Gives representative examples such as X and Y, without exhausting the list</p></div>

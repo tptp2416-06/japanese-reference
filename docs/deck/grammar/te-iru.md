@@ -14,61 +14,6 @@ The verb decides which job is in play. <span class="cite-jp">食べている</sp
 
 Ask first whether the verb names a process with duration, or a change that happens at a moment. That question, more than anything else, decides which of <span class="cite-jp">ている</span>'s readings you're looking at.
 
-## ていた — ていた, a state at a past reference point { #te-ita }
-
-Was doing or used to do; past progressive or habitual state
-{: .pt-gloss }
-
-<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
-
-**Builds on:** [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")  
-**From:** inflection of [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")
-{: .fam }
-
-**Form:** `V-ていた`
-{: .form }
-
-- **<span class="cite-jp">ていた</span> places the resulting state, or the ongoing action, at a point in the past rather than now** — <span class="cite-jp">着いたときにはもう電気が消えていた</span><span class="gl-en"> — by the time I arrived, the lights were already off — </span>puts that off state at the moment of arriving, not at the moment of speaking.
-- **<span class="cite-jp">た</span> alone reports the event; <span class="cite-jp">ていた</span> reports the state that event left, viewed from a later point** — <span class="cite-jp">電気が消えた</span><span class="gl-en"> — the light went out — </span>names the event itself; <span class="cite-jp">電気が消えていた</span><span class="gl-en"> — the light was off — </span>describes the state still holding at some reference moment.
-
-<div class="eg-contrast"><div class="eg-member"><div class="eg-label">event</div><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>が<ruby>消<rt>き</rt></ruby>えた。</div><div class="ex-en">The light went out.</div></div><div class="eg-member"><div class="eg-label">state at a reference point</div><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>が<ruby>消<rt>き</rt></ruby>えていた。</div><div class="ex-en">The light was off.</div></div></div>
-
-
-## ています — ています, the polite form { #te-imasu }
-
-Polite ongoing, habitual, or resultant state; exact sense depends on the verb
-{: .pt-gloss }
-
-<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">polite-marked</span>
-
-**Builds on:** [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")  
-**From:** inflection of [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")
-{: .fam }
-
-**Form:** `V-ています`
-{: .form }
-
-<span class="cite-jp">ています</span> is <span class="cite-jp">ている</span> with the ordinary polite -<span class="cite-jp">ます</span> ending attached — a register change, not a different reading. Every job <span class="cite-jp">ている</span> does above, <span class="cite-jp">ています</span> does at the polite register: <span class="cite-jp">走っています</span><span class="gl-en"> — is running — </span><span class="cite-jp">開いています</span><span class="gl-en"> — is open — </span><span class="cite-jp">住んでいます</span><span class="gl-en"> — lives [in]</span>.
-
-## ている (habit) — a repeated pattern, not one instance { #habit }
-
-Describes a regular habit or repeated ongoing practice
-{: .pt-gloss }
-
-<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
-
-**Form:** `V-て + いる` (with a frequency adverb or habitual context)
-{: .form }
-
-- **The same <span class="cite-jp">ている</span> form covers a repeated pattern, not just one instance of an action or one resulting state** — <span class="cite-jp">毎日走っている</span><span class="gl-en"> — I run every day — </span>reports a habit, not a single run in progress right now.
-- **A frequency word usually keeps the habitual reading from collapsing into the progressive one** — <span class="cite-jp">最近よく食べている</span><span class="gl-en"> — I've been eating a lot lately — </span>leans on <span class="cite-jp">最近よく</span> to signal a pattern rather than this exact moment.
-
-<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>毎日<rt>まいにち</rt></ruby><ruby>走<rt>はし</rt></ruby>っている。</div><div class="ex-en">I run every day.</div></div>
-
-
-*Compare:* [ている — progressive, habit, result, status](<../contrasts/te-iru.md> "progressive, habit, result, status")
-{: .compare }
-
 ## ている (progressive) — an action happening right now { #progressive }
 
 Describes an action happening right now or around the reference time
@@ -89,25 +34,6 @@ Describes an action happening right now or around the reference time
 - **The action has a beginning and an end somewhere off-screen** — <span class="cite-jp">ている</span> only claims that the moment described falls somewhere between them.
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>今<rt>いま</rt></ruby><ruby>部屋<rt>へや</rt></ruby>を<span class="pat"><ruby>掃除<rt>そうじ</rt></ruby>していますから、</span><ruby>後<rt>あと</rt></ruby>でかけ<ruby>直<rt>なお</rt></ruby>しますね。</div><div class="ex-en">&ldquo;I&#x27;m cleaning my room right now, so I&#x27;ll call you back later.&rdquo;</div><div class="ex-note">掃除しています names what&#x27;s happening at this exact moment, and that&#x27;s the whole justification the sentence needs for calling back later.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>今<rt>いま</rt></ruby><ruby>部屋<rt>へや</rt></ruby>を</span><span class="g">right now</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>掃除<rt>そうじ</rt></ruby>していますから、</span><span class="g">since I&#x27;m cleaning</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>後<rt>あと</rt></ruby>でかけ<ruby>直<rt>なお</rt></ruby>しますね</span><span class="g">I&#x27;ll call back later</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">durative V-ている, action in progress</span></div></div></details></div>
-
-
-*Compare:* [ている — progressive, habit, result, status](<../contrasts/te-iru.md> "progressive, habit, result, status")
-{: .compare }
-
-## ている (record／status) — a standing fact, stated like a record { #record-status }
-
-Describes a continuing personal fact, record, or social status
-{: .pt-gloss }
-
-<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
-
-**Form:** `V-て + いる` (verbs of status, possession, resemblance, residence)
-{: .form }
-
-- **Some verbs describe a standing fact about someone rather than an event with a clear before and after** — <span class="cite-jp">東京に住んでいる</span><span class="gl-en"> — lives in Tokyo — </span><span class="cite-jp">犬を飼っている</span><span class="gl-en"> — has a dog — </span><span class="cite-jp">母に似ている</span><span class="gl-en"> — resembles my mother — </span>read like entries on a profile, not like something that just happened.
-- **These verbs rarely appear in plain form for a present fact** — ×<span class="cite-jp">母に似る</span>, meaning to resemble my mother, sounds unfinished; the standing-fact reading needs <span class="cite-jp">ている</span> to be there at all.
-
-<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる。</div><div class="ex-en">I live in Tokyo.</div></div>
 
 
 *Compare:* [ている — progressive, habit, result, status](<../contrasts/te-iru.md> "progressive, habit, result, status")
@@ -146,23 +72,98 @@ A related construction, <span class="cite-jp">てある</span>, makes deliberate
 *Compare:* [ている — progressive, habit, result, status](<../contrasts/te-iru.md> "progressive, habit, result, status") · [ておく・てある・ている・てしまう — prepared, resulting, finished](<../contrasts/te-oku-te-aru-te-iru-te-shimau.md> "prepared, resulting, finished")
 {: .compare }
 
-## てた (ていた contraction) — how ていた actually gets said { #teta }
+## ている (habit) — a repeated pattern, not one instance { #habit }
 
-Was doing; casual contraction of the past progressive or habitual form
+Describes a regular habit or repeated ongoing practice
 {: .pt-gloss }
 
-<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
 
-**Builds on:** [ていた](<te-iru.md#te-ita> "Was doing or used to do; past progressive or habitual state")  
+**Form:** `V-て + いる` (with a frequency adverb or habitual context)
+{: .form }
+
+- **The same <span class="cite-jp">ている</span> form covers a repeated pattern, not just one instance of an action or one resulting state** — <span class="cite-jp">毎日走っている</span><span class="gl-en"> — I run every day — </span>reports a habit, not a single run in progress right now.
+- **A frequency word usually keeps the habitual reading from collapsing into the progressive one** — <span class="cite-jp">最近よく食べている</span><span class="gl-en"> — I've been eating a lot lately — </span>leans on <span class="cite-jp">最近よく</span> to signal a pattern rather than this exact moment.
+
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>毎日<rt>まいにち</rt></ruby><ruby>走<rt>はし</rt></ruby>っている。</div><div class="ex-en">I run every day.</div></div>
+
+
+*Compare:* [ている — progressive, habit, result, status](<../contrasts/te-iru.md> "progressive, habit, result, status")
+{: .compare }
+
+## ている (record／status) — a standing fact, stated like a record { #record-status }
+
+Describes a continuing personal fact, record, or social status
+{: .pt-gloss }
+
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+
+**Form:** `V-て + いる` (verbs of status, possession, resemblance, residence)
+{: .form }
+
+- **Some verbs describe a standing fact about someone rather than an event with a clear before and after** — <span class="cite-jp">東京に住んでいる</span><span class="gl-en"> — lives in Tokyo — </span><span class="cite-jp">犬を飼っている</span><span class="gl-en"> — has a dog — </span><span class="cite-jp">母に似ている</span><span class="gl-en"> — resembles my mother — </span>read like entries on a profile, not like something that just happened.
+- **These verbs rarely appear in plain form for a present fact** — ×<span class="cite-jp">母に似る</span>, meaning to resemble my mother, sounds unfinished; the standing-fact reading needs <span class="cite-jp">ている</span> to be there at all.
+
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる。</div><div class="ex-en">I live in Tokyo.</div></div>
+
+
+*Compare:* [ている — progressive, habit, result, status](<../contrasts/te-iru.md> "progressive, habit, result, status")
+{: .compare }
+
+## ていた — ていた, a state at a past reference point { #te-ita }
+
+Was doing or used to do; past progressive or habitual state
+{: .pt-gloss }
+
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span>
+
+**Builds on:** [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")  
+**From:** inflection of [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")
+{: .fam }
+
+**Form:** `V-ていた`
+{: .form }
+
+- **<span class="cite-jp">ていた</span> places the resulting state, or the ongoing action, at a point in the past rather than now** — <span class="cite-jp">着いたときにはもう電気が消えていた</span><span class="gl-en"> — by the time I arrived, the lights were already off — </span>puts that off state at the moment of arriving, not at the moment of speaking.
+- **<span class="cite-jp">た</span> alone reports the event; <span class="cite-jp">ていた</span> reports the state that event left, viewed from a later point** — <span class="cite-jp">電気が消えた</span><span class="gl-en"> — the light went out — </span>names the event itself; <span class="cite-jp">電気が消えていた</span><span class="gl-en"> — the light was off — </span>describes the state still holding at some reference moment.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">event</div><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>が<ruby>消<rt>き</rt></ruby>えた。</div><div class="ex-en">The light went out.</div></div><div class="eg-member"><div class="eg-label">state at a reference point</div><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>が<ruby>消<rt>き</rt></ruby>えていた。</div><div class="ex-en">The light was off.</div></div></div>
+
+
+## ています — ています, the polite form { #te-imasu }
+
+Polite ongoing, habitual, or resultant state; exact sense depends on the verb
+{: .pt-gloss }
+
+<span class="card-tag lv">N5</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">polite-marked</span>
+
+**Builds on:** [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")  
+**From:** inflection of [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")
+{: .fam }
+
+**Form:** `V-ています`
+{: .form }
+
+<span class="cite-jp">ています</span> is <span class="cite-jp">ている</span> with the ordinary polite -<span class="cite-jp">ます</span> ending attached — a register change, not a different reading. Every job <span class="cite-jp">ている</span> does above, <span class="cite-jp">ています</span> does at the polite register: <span class="cite-jp">走っています</span><span class="gl-en"> — is running — </span><span class="cite-jp">開いています</span><span class="gl-en"> — is open — </span><span class="cite-jp">住んでいます</span><span class="gl-en"> — lives [in]</span>.
+
+## てる (contraction) — how ている actually gets said { #teru }
+
+Casual contraction of ている for an ongoing or resultant state.
+{: .pt-gloss }
+
+<span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
+
+**Builds on:** [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")  
 **From:** contraction of [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")
 {: .fam }
 
-**Form:** `V-ていた → V-てた`
+**Form:** `V-ている → V-てる`
 {: .form }
 
-<span class="cite-jp">てた</span> is <span class="cite-jp">ていた</span> said casually — <span class="cite-jp">開いてた</span><span class="gl-en"> — was open — </span><span class="cite-jp">走ってた</span><span class="gl-en"> — was running — </span>carrying <span class="cite-jp">ていた</span>'s past-reference-point reading at conversational register, exactly as <span class="cite-jp">てる</span> carries <span class="cite-jp">ている</span>'s.
+- **<span class="cite-jp">てる</span> is simply how <span class="cite-jp">ている</span> is actually said in casual conversation** — dropping the <span class="cite-jp">い</span> is not slang or careless speech; it's the default pronunciation once the setting is casual.
+- **Every reading of <span class="cite-jp">ている</span> survives the contraction unchanged** — <span class="cite-jp">食べてる</span> still reads as progressive, <span class="cite-jp">開いてる</span> still reads as resultant state; only the register drops.
 
-<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja">さっきまで<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってた。</div><div class="ex-en">It was raining until a little while ago.</div></div>
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">polite</div><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>がついています。</div><div class="ex-en">The light is on.</div></div><div class="eg-member"><div class="eg-label">casual</div><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>がついてる。</div><div class="ex-en">The light&#x27;s on.</div></div></div>
 
 
 ## てて (ていて contraction) — chaining a state into what follows { #tete }
@@ -187,24 +188,23 @@ Keep doing or stay in a state; contracted ていて.
 <div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>座<rt>すわ</rt></ruby>っていて、テレビを<ruby>見<rt>み</rt></ruby>てる。</div><div class="ex-en">I&#x27;m sitting and watching TV.</div></div>
 
 
-## てる (contraction) — how ている actually gets said { #teru }
+## てた (ていた contraction) — how ていた actually gets said { #teta }
 
-Casual contraction of ている for an ongoing or resultant state.
+Was doing; casual contraction of the past progressive or habitual form
 {: .pt-gloss }
 
-<span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
 
-**Builds on:** [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")  
+**Builds on:** [ていた](<te-iru.md#te-ita> "Was doing or used to do; past progressive or habitual state")  
 **From:** contraction of [ている (progressive)](<te-iru.md#progressive> "Describes an action happening right now or around the reference time")
 {: .fam }
 
-**Form:** `V-ている → V-てる`
+**Form:** `V-ていた → V-てた`
 {: .form }
 
-- **<span class="cite-jp">てる</span> is simply how <span class="cite-jp">ている</span> is actually said in casual conversation** — dropping the <span class="cite-jp">い</span> is not slang or careless speech; it's the default pronunciation once the setting is casual.
-- **Every reading of <span class="cite-jp">ている</span> survives the contraction unchanged** — <span class="cite-jp">食べてる</span> still reads as progressive, <span class="cite-jp">開いてる</span> still reads as resultant state; only the register drops.
+<span class="cite-jp">てた</span> is <span class="cite-jp">ていた</span> said casually — <span class="cite-jp">開いてた</span><span class="gl-en"> — was open — </span><span class="cite-jp">走ってた</span><span class="gl-en"> — was running — </span>carrying <span class="cite-jp">ていた</span>'s past-reference-point reading at conversational register, exactly as <span class="cite-jp">てる</span> carries <span class="cite-jp">ている</span>'s.
 
-<div class="eg-contrast"><div class="eg-member"><div class="eg-label">polite</div><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>がついています。</div><div class="ex-en">The light is on.</div></div><div class="eg-member"><div class="eg-label">casual</div><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>がついてる。</div><div class="ex-en">The light&#x27;s on.</div></div></div>
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja">さっきまで<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってた。</div><div class="ex-en">It was raining until a little while ago.</div></div>
 
 
 ## できている — できている, ready and remaining that way { #dekite-iru }

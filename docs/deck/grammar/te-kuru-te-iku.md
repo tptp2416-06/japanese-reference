@@ -14,6 +14,27 @@ The same directions extend from space into time. Once the verb names a change ra
 
 Ask which side of now the sentence is pointing at. A change moving toward the present, closing in on where you are, takes <span class="cite-jp">てくる</span>; a change or an action continuing onward from here takes <span class="cite-jp">ていく</span>.
 
+## てくる (directional) — physical movement toward the speaker { #directional }
+
+Motion or arrival toward the speaker or the deictic centre.
+{: .pt-gloss }
+
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">spatial-relation-movement</span>
+
+**From:** sense of [てくる (gradual change)](<te-kuru-te-iku.md#gradual-change> "Change develops toward the present or becomes noticeable over time")  
+**Compounds:** [行ってくる](<te-kuru-te-iku.md#itte-kuru> "Go somewhere and return; a round trip viewed as a single unit")
+{: .fam }
+
+**Form:** `V-て + くる`
+{: .form }
+
+- **<span class="cite-jp">てくる</span> adds a return toward the speaker's location onto a verb** — <span class="cite-jp">買ってくる</span><span class="gl-en"> — buy it and bring it back — </span>reports both the errand and its return.
+- **Without <span class="cite-jp">てくる</span>, the return is left open** — <span class="cite-jp">図書館に行く</span><span class="gl-en"> — going to the library — </span>makes no promise about when or whether the speaker comes back; <span class="cite-jp">図書館に行ってくる</span> makes the round trip part of the sentence.
+- **<span class="cite-jp">持ってくる</span> brings an object toward the speaker; <span class="cite-jp">連れてくる</span> brings a person** — both attach the same return-toward-here direction, just to different kinds of things being brought.
+
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja">プレゼントを<ruby>買<rt>か</rt></ruby>ってくる。</div><div class="ex-en">I&#x27;ll go buy a present [and come back with it].</div></div>
+
+
 ## ていく (change forward) — ていく, continuing onward from here { #change-forward }
 
 Continue changing from now onward; development proceeds away from the present
@@ -35,27 +56,6 @@ The difference shows most clearly next to plain <span class="cite-jp">ばいい<
 <div class="eg-contrast"><div class="eg-member"><div class="eg-label">single sufficient action</div><div class="eg-jp" lang="ja"><span class="pat">やればいい。</span></div><div class="ex-en">Just do it.</div></div><div class="eg-member"><div class="eg-label">sufficient ongoing process</div><div class="eg-jp" lang="ja"><span class="pat">やっていけばいい。</span></div><div class="ex-en">Just keep doing it — that&#x27;s enough.</div></div></div>
 
 <div class="dlg"><div class="dlg-note">B reframes A&#x27;s one-time worry as an ongoing, sustainable process rather than a single task to get right immediately.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>全部<rt>ぜんぶ</rt></ruby><ruby>覚<rt>おぼ</rt></ruby>えないと、と<ruby>思<rt>おも</rt></ruby>って。</div><div class="ex-en">I feel like I have to memorize everything.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>覚<rt>おぼ</rt></ruby>えていけばいいよ。</div><div class="ex-en">You can just pick it up little by little, going forward.</div></div></div></div>
-
-
-## てくる (directional) — physical movement toward the speaker { #directional }
-
-Motion or arrival toward the speaker or the deictic centre.
-{: .pt-gloss }
-
-<span class="card-tag lv">N4-lower</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">spatial-relation-movement</span>
-
-**From:** sense of [てくる (gradual change)](<te-kuru-te-iku.md#gradual-change> "Change develops toward the present or becomes noticeable over time")  
-**Compounds:** [行ってくる](<te-kuru-te-iku.md#itte-kuru> "Go somewhere and return; a round trip viewed as a single unit")
-{: .fam }
-
-**Form:** `V-て + くる`
-{: .form }
-
-- **<span class="cite-jp">てくる</span> adds a return toward the speaker's location onto a verb** — <span class="cite-jp">買ってくる</span><span class="gl-en"> — buy it and bring it back — </span>reports both the errand and its return.
-- **Without <span class="cite-jp">てくる</span>, the return is left open** — <span class="cite-jp">図書館に行く</span><span class="gl-en"> — going to the library — </span>makes no promise about when or whether the speaker comes back; <span class="cite-jp">図書館に行ってくる</span> makes the round trip part of the sentence.
-- **<span class="cite-jp">持ってくる</span> brings an object toward the speaker; <span class="cite-jp">連れてくる</span> brings a person** — both attach the same return-toward-here direction, just to different kinds of things being brought.
-
-<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja">プレゼントを<ruby>買<rt>か</rt></ruby>ってくる。</div><div class="ex-en">I&#x27;ll go buy a present [and come back with it].</div></div>
 
 
 ## てくる (gradual change) — てくる, a change arriving at now { #gradual-change }
