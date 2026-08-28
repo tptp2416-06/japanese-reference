@@ -17,13 +17,15 @@ before the line — that is plain まで's job.
 
 - **A deadline, not a stretch** — the action, event or result must happen by that
   time. Earlier is fine, and nothing is claimed about the hours in between.
-- **Compare** — 5時までに帰る "be home by five" names a point you have to be
-  inside. 5時まで働く "work until five" fills the hours up to it.
+- **Compare** — 5時までに帰る — be home by five — names a point you have to be
+  inside. 5時まで働く — work until five — fills the hours up to it.
 - **A clause can name the deadline** — a dictionary-form verb before までに names
   the moment exactly as a time noun would, so the deadline can be an event rather
   than a time.
 - **The register is ordinary** — までに is as much at home in conversation as in
   a contract. Any formality you hear comes from the rest of the sentence.
+
+-> Contrast: [[made#extent]] — plain まで for a stretch that runs up to the endpoint, until に narrows it to a deadline
 
 ```ex
 出発[しゅっぱつ]するまでに準備[じゅんび]を終[お]わらせる。
@@ -35,7 +37,7 @@ bd: 出発する|leave / までに*|by the time / 準備を|the preparations / �
 pat: V-dict + までに, completive predicate
 ```
 
-### What kind of situation does までに want?
+### までに wants a result, not a stretch
 
 までに goes with something presented as a completed event, an achieved result or
 an occurrence. Plain まで normally goes with an activity or state presented as
@@ -53,19 +55,14 @@ state that continues up to it.
 - **Strong tendencies, not verb classes** — the same verb goes either way once
   the situation changes.
 
-```ex
-11時[じ]までに寝[ね]る。
-en: Go to bed by eleven.
-note: One verb, both patterns. 11時まで寝ている "stay asleep until eleven" is
-  the same 寝る describing a state that runs up to the endpoint, which is why it
-  takes plain まで.
-bd: 11時|eleven o'clock / までに*|by / 寝る|go to bed
-pat: same verb, まで vs までに
+```eg
+までに: 11時[じ]までに寝[ね]る。 | Go to bed by eleven.
+まで: 11時[じ]まで寝[ね]ている。 | Stay asleep until eleven.
 ```
 
 ??? note "When a point event stretches out — 30歳まで結婚しない"
     Negation can turn what normally looks like a point event into a continuing
-    non-event. 30歳まで結婚しない "I won't get married until I'm thirty" takes
+    non-event. 30歳まで結婚しない — I won't get married until I'm thirty — takes
     plain まで, not までに.
 
     結婚する is normally point-like, but not being married is a state, and it
@@ -81,9 +78,12 @@ pat: same verb, まで vs までに
 - **Plain までに states the deadline neutrally** — までには highlights it, often
   with a sense such as "by X, at least" or "by X at the latest". Which of those
   it lands on depends on the situation.
-- **The minimal pair** — 金曜日までに終わります "it will be finished by Friday"
-  is a neutral deadline; 金曜日までには終わります "it will be finished by Friday
-  at the latest" emphasises that deadline or sets it against other possibilities.
+- **The minimal pair** — 金曜日までに終わります — it will be finished by Friday
+  — is a neutral deadline; 金曜日までには終わります — it will be finished by
+  Friday at the latest — emphasises that deadline or sets it against other
+  possibilities.
+
+-> Continue with: [[wa#contrast]] — は's own contrastive job, the mechanism までには borrows here
 
 ```ex
 木曜日[もくようび]は難[むずか]しいですが、金曜日[きんようび]までには終[お]わります。

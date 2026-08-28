@@ -31,17 +31,19 @@ By a deadline; the action must occur no later than that time
 
 - **A deadline, not a stretch** — the action, event or result must happen by that
   time. Earlier is fine, and nothing is claimed about the hours in between.
-- **Compare** — 5<span class="cite-jp">時までに帰る</span> "be home by five" names a point you have to be
-  inside. 5<span class="cite-jp">時まで働く</span> "work until five" fills the hours up to it.
+- **Compare** — 5<span class="cite-jp">時までに帰る</span> — be home by five — names a point you have to be
+  inside. 5<span class="cite-jp">時まで働く</span> — work until five — fills the hours up to it.
 - **A clause can name the deadline** — a dictionary-form verb before <span class="cite-jp">までに</span> names
   the moment exactly as a time noun would, so the deadline can be an event rather
   than a time.
 - **The register is ordinary** — <span class="cite-jp">までに</span> is as much at home in conversation as in
   a contract. Any formality you hear comes from the rest of the sentence.
 
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [まで (extent)](<made.md#extent> "まで — up to, as far as, and even") <span class="xref-reason">&mdash; plain まで for a stretch that runs up to the endpoint, until に narrows it to a deadline</span></div>
+
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>出発<rt>しゅっぱつ</rt></ruby>する<span class="pat">までに</span><ruby>準備<rt>じゅんび</rt></ruby>を<ruby>終<rt>お</rt></ruby>わらせる。</div><div class="ex-en">&ldquo;I&#x27;ll get everything ready before we leave.&rdquo; <span class="lit">&mdash; lit. by the time we leave, finish the preparations</span></div><div class="ex-note">The deadline is an event rather than a clock time. 終わらせる rather than 終わる, because the sentence is about someone getting it done in time.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>出発<rt>しゅっぱつ</rt></ruby>する</span><span class="g">leave</span></div><div class="bd-seg hit"><span class="j" lang="ja">までに</span><span class="g">by the time</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>準備<rt>じゅんび</rt></ruby>を</span><span class="g">the preparations</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>終<rt>お</rt></ruby>わらせる</span><span class="g">get finished</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-dict + までに, completive predicate</span></div></div></details></div>
 
-### What kind of situation does <span class="cite-jp">までに</span> want?
+### <span class="cite-jp">までに</span> wants a result, not a stretch
 
 <span class="cite-jp">までに</span> goes with something presented as a completed event, an achieved result or
 an occurrence. Plain <span class="cite-jp">まで</span> normally goes with an activity or state presented as
@@ -59,11 +61,11 @@ state that continues up to it.
 - **Strong tendencies, not verb classes** — the same verb goes either way once
   the situation changes.
 
-<div class="ex"><div class="ex-jp" lang="ja">11<ruby>時<rt>じ</rt></ruby><span class="pat">までに</span><ruby>寝<rt>ね</rt></ruby>る。</div><div class="ex-en">&ldquo;Go to bed by eleven.&rdquo;</div><div class="ex-note">One verb, both patterns. 11時まで寝ている &quot;stay asleep until eleven&quot; is the same 寝る describing a state that runs up to the endpoint, which is why it takes plain まで.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">11<ruby>時<rt>じ</rt></ruby></span><span class="g">eleven o&#x27;clock</span></div><div class="bd-seg hit"><span class="j" lang="ja">までに</span><span class="g">by</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>寝<rt>ね</rt></ruby>る</span><span class="g">go to bed</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">same verb, まで vs までに</span></div></div></details></div>
+<div class="eg-contrast"><div class="eg-member"><div class="eg-jp" lang="ja">までに: 11<ruby>時<rt>じ</rt></ruby>までに<ruby>寝<rt>ね</rt></ruby>る。</div><div class="ex-en">Go to bed by eleven.</div></div><div class="eg-member"><div class="eg-jp" lang="ja">まで: 11<ruby>時<rt>じ</rt></ruby>まで<ruby>寝<rt>ね</rt></ruby>ている。</div><div class="ex-en">Stay asleep until eleven.</div></div></div>
 
 ??? note "When a point event stretches out — 30<span class="cite-jp">歳まで結婚しない</span>"
     Negation can turn what normally looks like a point event into a continuing
-    non-event. 30<span class="cite-jp">歳まで結婚しない</span> "I won't get married until I'm thirty" takes
+    non-event. 30<span class="cite-jp">歳まで結婚しない</span> — I won't get married until I'm thirty — takes
     plain <span class="cite-jp">まで</span>, not <span class="cite-jp">までに</span>.
 
     <span class="cite-jp">結婚する</span> is normally point-like, but not being married is a state, and it
@@ -91,9 +93,12 @@ No later than the stated deadline, with emphasis — by X at the latest.
 - **Plain <span class="cite-jp">までに</span> states the deadline neutrally** — <span class="cite-jp">までには</span> highlights it, often
   with a sense such as "by X, at least" or "by X at the latest". Which of those
   it lands on depends on the situation.
-- **The minimal pair** — <span class="cite-jp">金曜日までに終わります</span> "it will be finished by Friday"
-  is a neutral deadline; <span class="cite-jp">金曜日までには終わります</span> "it will be finished by Friday
-  at the latest" emphasises that deadline or sets it against other possibilities.
+- **The minimal pair** — <span class="cite-jp">金曜日までに終わります</span> — it will be finished by Friday
+  — is a neutral deadline; <span class="cite-jp">金曜日までには終わります</span> — it will be finished by
+  Friday at the latest — emphasises that deadline or sets it against other
+  possibilities.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [は (contrast)](<wa.md#contrast> "は — topic, contrast, and scope") <span class="xref-reason">&mdash; は&#x27;s own contrastive job, the mechanism までには borrows here</span></div>
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>木曜日<rt>もくようび</rt></ruby>は<ruby>難<rt>むずか</rt></ruby>しいですが、<ruby>金曜日<rt>きんようび</rt></ruby><span class="pat">までには</span><ruby>終<rt>お</rt></ruby>わります。</div><div class="ex-en">&ldquo;Thursday will be difficult, but I&#x27;ll have it finished by Friday at the latest.&rdquo;</div><div class="ex-note">Friday is being contrasted with Thursday, which the sentence has just named. That is what the は is doing here, and it is easier to feel in a sentence that supplies the alternative than to take on trust.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>木曜日<rt>もくようび</rt></ruby></span><span class="g">Thursday</span></div><div class="bd-seg"><span class="j" lang="ja">は</span><span class="g">as for</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>難<rt>むずか</rt></ruby>しいですが、</span><span class="g">is difficult, but</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>金曜日<rt>きんようび</rt></ruby></span><span class="g">Friday</span></div><div class="bd-seg hit"><span class="j" lang="ja">までには</span><span class="g">by, at the latest</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>終<rt>お</rt></ruby>わります</span><span class="g">will be finished</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">までに + contrastive は</span></div></div></details></div>
 
