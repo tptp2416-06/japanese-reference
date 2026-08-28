@@ -1,13 +1,15 @@
 One form, ている, covers several jobs that English splits across different grammar: an action happening right now, a state a change left behind, a habit, and a standing fact about someone's life.
 
-The verb decides which job is in play. 食べている — durative, something that takes time — reads as progressive: eating is happening right now. 開いている — punctual, something that happens at a moment — reads as resultant: the opening already happened, and the open state is what remains.
+The verb is the main clue to which job is in play.
 
-Ask first whether the verb names a process with duration, or a change that happens at a moment. That question, more than anything else, decides which of ている's readings you're looking at.
+食べている — durative, something that takes time — reads as progressive: eating is happening right now. 開いている — punctual, something that happens at a moment — reads as resultant: the opening already happened, and the open state is what remains.
+
+Ask first whether the verb names a process with duration, or a change that happens at a moment. That question is the main clue to which of ている's readings you're looking at.
 
 @@ tldr
 
 ている covers several jobs: an action in progress, a state a change left behind, a habit, and a standing fact.
-Ask first whether the verb names a durative process (食べる, 走る → in progress) or a punctual change (開く, 死ぬ → resultant state). The verb decides the reading, not ている itself.
+Ask first whether the verb names a durative process (食べる, 走る → in progress) or a punctual change (開く, 死ぬ → resultant state). The verb is the main clue to the reading, not ている itself.
 Contractions — てる, てて, てた — are how ている, ていて and ていた actually get said in conversation.
 
 @@ progressive — an action happening right now
@@ -40,15 +42,24 @@ durative verb, progressive reading: 子供[こども]が走[はし]っている 
 ```
 
 !!! warning "English Trap"
-    English "is doing" tempts a learner to read every ている as progressive. With a punctual verb, that reading is simply wrong: 死んでいる means the person is already dead, not that they're in the process of dying — English's "is dying" describes an ongoing process, and Japanese has no ongoing process left to describe once 死ぬ has already happened.
+    English "is doing" tempts a learner to read every ている as progressive. With a punctual verb, that reading is simply wrong: 死んでいる means the person is already dead, not that they're in the process of dying.
+
+    English's "is dying" describes an ongoing process, and Japanese has no ongoing process left to describe once 死ぬ has already happened.
+
+### なる changes and てある
 
 Change-of-state verbs built on なる work the same way. もう暗くなっている — it's already dark — presents the darkening as already complete, with the dark state now the reality; the darkening itself was なる's job, a moment earlier.
 
-- **なっている resists future predictions** — 明日は雨になっている — tomorrow has become rain — is odd, because tomorrow's rain hasn't happened yet for ている to present a state of. なる or なりそうだ — it looks like it'll rain — carries the prediction instead; なっている is reserved for a change that has already occurred.
+- **なっている resists future predictions** — 明日は雨になっている — tomorrow has become rain — is odd, because tomorrow's rain hasn't happened yet for ている to present a state of.
+- **なる or なりそうだ carries the prediction instead** — it looks like it'll rain — while なっている typically presents a change that has already occurred, unless the sentence anchors it at a future reference point that licenses treating the change as already settled by then.
 
 -> Compare: [[sou-da#imminence]] — そうだ's own way of signalling a change that looks about to happen, before it has
 
-A related construction, てある, makes deliberateness explicit rather than leaving it implicit. 窓が開いている simply presents the window as open — nobody's intent is in the sentence at all. 窓が開けてある additionally claims someone opened it on purpose and left it that way. This site has no page of てある to link to yet; JLPT and outside references cover it under N4 grammar, and Bunpro's てある entry is the fullest treatment currently available.
+A related construction, てある, makes deliberateness explicit rather than leaving it implicit.
+
+窓が開いている simply presents the window as open — nobody's intent is in the sentence at all. 窓が開けてある additionally claims someone opened it on purpose and left it that way.
+
+This site has no page of てある to link to yet; JLPT and outside references cover it under N4 grammar, and Bunpro's てある entry is the fullest treatment currently available.
 
 @@ habit — a repeated pattern, not one instance
 
@@ -65,14 +76,16 @@ A related construction, てある, makes deliberateness explicit rather than lea
 
 **Form:** `V-て + いる` (verbs of status, possession, resemblance, residence)
 
-- **Some verbs describe a standing fact about someone rather than an event with a clear before and after** — 東京に住んでいる — lives in Tokyo — 犬を飼っている — has a dog — 母に似ている — resembles my mother — read like entries on a profile, not like something that just happened.
+- **Some verbs describe a standing fact about someone rather than an event with a clear before and after** — these read like entries on a profile, not like something that just happened.
 - **These verbs rarely appear in plain form for a present fact** — ×母に似る, meaning to resemble my mother, sounds unfinished; the standing-fact reading needs ている to be there at all.
 
 ```eg
 東京[とうきょう]に住[す]んでいる。 | I live in Tokyo.
+犬[いぬ]を飼[か]っている。 | I have a dog.
+母[はは]に似[に]ている。 | I resemble my mother.
 ```
 
-@@ te-ita — ていた, a state at a past reference point
+@@ te-ita — a state at a past reference point
 
 **Form:** `V-ていた`
 
@@ -84,18 +97,19 @@ event: 電気[でんき]が消[き]えた。 | The light went out.
 state at a reference point: 電気[でんき]が消[き]えていた。 | The light was off.
 ```
 
-@@ te-imasu — ています, the polite form
+@@ te-imasu — the polite form
 
 **Form:** `V-ています`
 
 ています is ている with the ordinary polite -ます ending attached — a register change, not a different reading. Every job ている does above, ています does at the polite register: 走っています — is running — 開いています — is open — 住んでいます — lives [in].
 
-@@ teru — how ている actually gets said
+@@ teru — how it actually gets said
 
 **Form:** `V-ている → V-てる`
 
 - **てる is simply how ている is actually said in casual conversation** — dropping the い is not slang or careless speech; it's the default pronunciation once the setting is casual.
-- **Every reading of ている survives the contraction unchanged** — 食べてる still reads as progressive, 開いてる still reads as resultant state; only the register drops.
+- **Every reading of ている survives the contraction unchanged** — 食べてる — is eating — still reads as progressive, and 開いてる — is open — still reads as resultant state; only the register drops.
+- **Writing keeps the full ている** — signs, notices and formal prose don't contract to てる; the full form is what appears in writing.
 
 ```eg
 polite: 電気[でんき]がついています。 | The light is on.
@@ -109,13 +123,14 @@ casual: 電気[でんき]がついてる。 | The light's on.
 てて is the same contraction applied to ていて, ている's own te-form — used when ている needs to connect to something that follows, from another clause to another verb.
 
 - **座ってて — stay sitting — chains the state into an instruction or a continuing clause**, the same job ていて does at full length.
-- **A contracted てて can also be where a sentence trails off**, the て left doing double duty: still holding the state, and standing in as the unfinished connective a speaker leaves hanging. 電車が混んでて。 — the train was crowded, and — can stop right there, letting the listener fill in what followed.
+- **A contracted てて can also be where a sentence trails off**, the て left doing double duty: still holding the state, and standing in as the unfinished connective a speaker leaves hanging.
+- **電車が混んでて。 — the train was crowded, and — can stop right there**, letting the listener fill in what followed.
 
 ```eg
 座[すわ]っていて、テレビを見[み]てる。 | I'm sitting and watching TV.
 ```
 
-@@ teta — how ていた actually gets said
+@@ teta — how it actually gets said
 
 **Form:** `V-ていた → V-てた`
 
@@ -125,7 +140,7 @@ casual: 電気[でんき]がついてる。 | The light's on.
 さっきまで雨[あめ]が降[ふ]ってた。 | It was raining until a little while ago.
 ```
 
-@@ dekite-iru — できている, ready and remaining that way
+@@ dekite-iru — ready and remaining that way
 
 **Form:** `V(potential/できる) + ている`
 
@@ -138,7 +153,7 @@ casual: 電気[でんき]がついてる。 | The light's on.
 
 ### What ている doesn't cover here
 
-Two related ideas belong to other pages, on purpose. A state arriving through change over time — 寒くなってきた, 慣れてきた — asks a different question, about motion toward or away from the present rather than about the state itself.
+Two related ideas belong to other pages, on purpose. A state arriving through change over time — 寒くなってきた, 慣れてきた — it's getting cold, getting used to it — asks a different question, about motion toward or away from the present rather than about the state itself.
 
 -> Compare: [[te-kuru-te-iku]] — change arriving over time, as opposed to the resulting state this page covers
 

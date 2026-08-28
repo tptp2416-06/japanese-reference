@@ -5,14 +5,16 @@
 !!! tip "At a glance"
 
     <span class="cite-jp">ている</span> covers several jobs: an action in progress, a state a change left behind, a habit, and a standing fact.
-    Ask first whether the verb names a durative process (<span class="cite-jp">食べる</span>, <span class="cite-jp">走る</span> → in progress) or a punctual change (<span class="cite-jp">開く</span>, <span class="cite-jp">死ぬ</span> → resultant state). The verb decides the reading, not <span class="cite-jp">ている</span> itself.
+    Ask first whether the verb names a durative process (<span class="cite-jp">食べる</span>, <span class="cite-jp">走る</span> → in progress) or a punctual change (<span class="cite-jp">開く</span>, <span class="cite-jp">死ぬ</span> → resultant state). The verb is the main clue to the reading, not <span class="cite-jp">ている</span> itself.
     Contractions — <span class="cite-jp">てる</span>, <span class="cite-jp">てて</span>, <span class="cite-jp">てた</span> — are how <span class="cite-jp">ている</span>, <span class="cite-jp">ていて</span> and <span class="cite-jp">ていた</span> actually get said in conversation.
 
 One form, <span class="cite-jp">ている</span>, covers several jobs that English splits across different grammar: an action happening right now, a state a change left behind, a habit, and a standing fact about someone's life.
 
-The verb decides which job is in play. <span class="cite-jp">食べている</span><span class="gl-en"> — durative, something that takes time — </span>reads as progressive: eating is happening right now. <span class="cite-jp">開いている</span><span class="gl-en"> — punctual, something that happens at a moment — </span>reads as resultant: the opening already happened, and the open state is what remains.
+The verb is the main clue to which job is in play.
 
-Ask first whether the verb names a process with duration, or a change that happens at a moment. That question, more than anything else, decides which of <span class="cite-jp">ている</span>'s readings you're looking at.
+<span class="cite-jp">食べている</span><span class="gl-en"> — durative, something that takes time — </span>reads as progressive: eating is happening right now. <span class="cite-jp">開いている</span><span class="gl-en"> — punctual, something that happens at a moment — </span>reads as resultant: the opening already happened, and the open state is what remains.
+
+Ask first whether the verb names a process with duration, or a change that happens at a moment. That question is the main clue to which of <span class="cite-jp">ている</span>'s readings you're looking at.
 
 ## ている (progressive) — an action happening right now { #progressive }
 
@@ -59,15 +61,24 @@ Describes the state resulting from a completed change or arrival
 <div id="trap-english-trap" class="trap-anchor"></div>
 
 !!! warning "English Trap"
-    English "is doing" tempts a learner to read every <span class="cite-jp">ている</span> as progressive. With a punctual verb, that reading is simply wrong: <span class="cite-jp">死んでいる</span> means the person is already dead, not that they're in the process of dying — English's "is dying" describes an ongoing process, and Japanese has no ongoing process left to describe once <span class="cite-jp">死ぬ</span> has already happened.
+    English "is doing" tempts a learner to read every <span class="cite-jp">ている</span> as progressive. With a punctual verb, that reading is simply wrong: <span class="cite-jp">死んでいる</span> means the person is already dead, not that they're in the process of dying.
+
+    English's "is dying" describes an ongoing process, and Japanese has no ongoing process left to describe once <span class="cite-jp">死ぬ</span> has already happened.
+
+### <span class="cite-jp">なる</span> changes and <span class="cite-jp">てある</span>
 
 Change-of-state verbs built on <span class="cite-jp">なる</span> work the same way. <span class="cite-jp">もう暗くなっている</span><span class="gl-en"> — it's already dark — </span>presents the darkening as already complete, with the dark state now the reality; the darkening itself was <span class="cite-jp">なる</span>'s job, a moment earlier.
 
-- **<span class="cite-jp">なっている</span> resists future predictions** — <span class="cite-jp">明日は雨になっている</span><span class="gl-en"> — tomorrow has become rain — </span>is odd, because tomorrow's rain hasn't happened yet for <span class="cite-jp">ている</span> to present a state of. <span class="cite-jp">なる</span> or <span class="cite-jp">なりそうだ</span><span class="gl-en"> — it looks like it'll rain — </span>carries the prediction instead; <span class="cite-jp">なっている</span> is reserved for a change that has already occurred.
+- **<span class="cite-jp">なっている</span> resists future predictions** — <span class="cite-jp">明日は雨になっている</span><span class="gl-en"> — tomorrow has become rain — </span>is odd, because tomorrow's rain hasn't happened yet for <span class="cite-jp">ている</span> to present a state of.
+- **<span class="cite-jp">なる</span> or <span class="cite-jp">なりそうだ</span> carries the prediction instead** — it looks like it'll rain — while <span class="cite-jp">なっている</span> typically presents a change that has already occurred, unless the sentence anchors it at a future reference point that licenses treating the change as already settled by then.
 
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [そうだ (imminence)](<sou-da.md#imminence> "そうだ — looks like, seems, and about to") <span class="xref-reason">&mdash; そうだ&#x27;s own way of signalling a change that looks about to happen, before it has</span></div>
 
-A related construction, <span class="cite-jp">てある</span>, makes deliberateness explicit rather than leaving it implicit. <span class="cite-jp">窓が開いている</span> simply presents the window as open — nobody's intent is in the sentence at all. <span class="cite-jp">窓が開けてある</span> additionally claims someone opened it on purpose and left it that way. This site has no page of <span class="cite-jp">てある</span> to link to yet; JLPT and outside references cover it under N4 grammar, and Bunpro's <span class="cite-jp">てある</span> entry is the fullest treatment currently available.
+A related construction, <span class="cite-jp">てある</span>, makes deliberateness explicit rather than leaving it implicit.
+
+<span class="cite-jp">窓が開いている</span> simply presents the window as open — nobody's intent is in the sentence at all. <span class="cite-jp">窓が開けてある</span> additionally claims someone opened it on purpose and left it that way.
+
+This site has no page of <span class="cite-jp">てある</span> to link to yet; JLPT and outside references cover it under N4 grammar, and Bunpro's <span class="cite-jp">てある</span> entry is the fullest treatment currently available.
 
 *Compare:* [ている — progressive, habit, result, status](<../contrasts/te-iru.md> "progressive, habit, result, status") · [ておく・てある・ている・てしまう — prepared, resulting, finished](<../contrasts/te-oku-te-aru-te-iru-te-shimau.md> "prepared, resulting, finished")
 {: .compare }
@@ -101,16 +112,16 @@ Describes a continuing personal fact, record, or social status
 **Form:** `V-て + いる` (verbs of status, possession, resemblance, residence)
 {: .form }
 
-- **Some verbs describe a standing fact about someone rather than an event with a clear before and after** — <span class="cite-jp">東京に住んでいる</span><span class="gl-en"> — lives in Tokyo — </span><span class="cite-jp">犬を飼っている</span><span class="gl-en"> — has a dog — </span><span class="cite-jp">母に似ている</span><span class="gl-en"> — resembles my mother — </span>read like entries on a profile, not like something that just happened.
+- **Some verbs describe a standing fact about someone rather than an event with a clear before and after** — these read like entries on a profile, not like something that just happened.
 - **These verbs rarely appear in plain form for a present fact** — ×<span class="cite-jp">母に似る</span>, meaning to resemble my mother, sounds unfinished; the standing-fact reading needs <span class="cite-jp">ている</span> to be there at all.
 
-<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる。</div><div class="ex-en">I live in Tokyo.</div></div>
+<div class="eg-contrast"><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>東京<rt>とうきょう</rt></ruby>に<ruby>住<rt>す</rt></ruby>んでいる。</div><div class="ex-en">I live in Tokyo.</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>犬<rt>いぬ</rt></ruby>を<ruby>飼<rt>か</rt></ruby>っている。</div><div class="ex-en">I have a dog.</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>母<rt>はは</rt></ruby>に<ruby>似<rt>に</rt></ruby>ている。</div><div class="ex-en">I resemble my mother.</div></div></div>
 
 
 *Compare:* [ている — progressive, habit, result, status](<../contrasts/te-iru.md> "progressive, habit, result, status")
 {: .compare }
 
-## ていた — ていた, a state at a past reference point { #te-ita }
+## ていた — a state at a past reference point { #te-ita }
 
 Was doing or used to do; past progressive or habitual state
 {: .pt-gloss }
@@ -130,7 +141,7 @@ Was doing or used to do; past progressive or habitual state
 <div class="eg-contrast"><div class="eg-member"><div class="eg-label">event</div><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>が<ruby>消<rt>き</rt></ruby>えた。</div><div class="ex-en">The light went out.</div></div><div class="eg-member"><div class="eg-label">state at a reference point</div><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>が<ruby>消<rt>き</rt></ruby>えていた。</div><div class="ex-en">The light was off.</div></div></div>
 
 
-## ています — ています, the polite form { #te-imasu }
+## ています — the polite form { #te-imasu }
 
 Polite ongoing, habitual, or resultant state; exact sense depends on the verb
 {: .pt-gloss }
@@ -146,7 +157,7 @@ Polite ongoing, habitual, or resultant state; exact sense depends on the verb
 
 <span class="cite-jp">ています</span> is <span class="cite-jp">ている</span> with the ordinary polite -<span class="cite-jp">ます</span> ending attached — a register change, not a different reading. Every job <span class="cite-jp">ている</span> does above, <span class="cite-jp">ています</span> does at the polite register: <span class="cite-jp">走っています</span><span class="gl-en"> — is running — </span><span class="cite-jp">開いています</span><span class="gl-en"> — is open — </span><span class="cite-jp">住んでいます</span><span class="gl-en"> — lives [in]</span>.
 
-## てる (contraction) — how ている actually gets said { #teru }
+## てる (contraction) — how it actually gets said { #teru }
 
 Casual contraction of ている for an ongoing or resultant state.
 {: .pt-gloss }
@@ -161,7 +172,8 @@ Casual contraction of ている for an ongoing or resultant state.
 {: .form }
 
 - **<span class="cite-jp">てる</span> is simply how <span class="cite-jp">ている</span> is actually said in casual conversation** — dropping the <span class="cite-jp">い</span> is not slang or careless speech; it's the default pronunciation once the setting is casual.
-- **Every reading of <span class="cite-jp">ている</span> survives the contraction unchanged** — <span class="cite-jp">食べてる</span> still reads as progressive, <span class="cite-jp">開いてる</span> still reads as resultant state; only the register drops.
+- **Every reading of <span class="cite-jp">ている</span> survives the contraction unchanged** — <span class="cite-jp">食べてる</span><span class="gl-en"> — is eating — </span>still reads as progressive, and <span class="cite-jp">開いてる</span><span class="gl-en"> — is open — </span>still reads as resultant state; only the register drops.
+- **Writing keeps the full <span class="cite-jp">ている</span>** — signs, notices and formal prose don't contract to <span class="cite-jp">てる</span>; the full form is what appears in writing.
 
 <div class="eg-contrast"><div class="eg-member"><div class="eg-label">polite</div><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>がついています。</div><div class="ex-en">The light is on.</div></div><div class="eg-member"><div class="eg-label">casual</div><div class="eg-jp" lang="ja"><ruby>電気<rt>でんき</rt></ruby>がついてる。</div><div class="ex-en">The light&#x27;s on.</div></div></div>
 
@@ -183,12 +195,13 @@ Keep doing or stay in a state; contracted ていて.
 <span class="cite-jp">てて</span> is the same contraction applied to <span class="cite-jp">ていて</span>, <span class="cite-jp">ている</span>'s own te-form — used when <span class="cite-jp">ている</span> needs to connect to something that follows, from another clause to another verb.
 
 - **<span class="cite-jp">座ってて</span><span class="gl-en"> — stay sitting — </span>chains the state into an instruction or a continuing clause**, the same job <span class="cite-jp">ていて</span> does at full length.
-- **A contracted <span class="cite-jp">てて</span> can also be where a sentence trails off**, the <span class="cite-jp">て</span> left doing double duty: still holding the state, and standing in as the unfinished connective a speaker leaves hanging. <span class="cite-jp">電車が混んでて。</span><span class="gl-en"> — the train was crowded, and — </span>can stop right there, letting the listener fill in what followed.
+- **A contracted <span class="cite-jp">てて</span> can also be where a sentence trails off**, the <span class="cite-jp">て</span> left doing double duty: still holding the state, and standing in as the unfinished connective a speaker leaves hanging.
+- **<span class="cite-jp">電車が混んでて。</span><span class="gl-en"> — the train was crowded, and — </span>can stop right there**, letting the listener fill in what followed.
 
 <div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>座<rt>すわ</rt></ruby>っていて、テレビを<ruby>見<rt>み</rt></ruby>てる。</div><div class="ex-en">I&#x27;m sitting and watching TV.</div></div>
 
 
-## てた (ていた contraction) — how ていた actually gets said { #teta }
+## てた (ていた contraction) — how it actually gets said { #teta }
 
 Was doing; casual contraction of the past progressive or habitual form
 {: .pt-gloss }
@@ -207,7 +220,7 @@ Was doing; casual contraction of the past progressive or habitual form
 <div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja">さっきまで<ruby>雨<rt>あめ</rt></ruby>が<ruby>降<rt>ふ</rt></ruby>ってた。</div><div class="ex-en">It was raining until a little while ago.</div></div>
 
 
-## できている — できている, ready and remaining that way { #dekite-iru }
+## できている — ready and remaining that way { #dekite-iru }
 
 Be made or constructed from something; describes the resulting composition
 {: .pt-gloss }
@@ -227,7 +240,7 @@ Be made or constructed from something; describes the resulting composition
 
 ### What <span class="cite-jp">ている</span> doesn't cover here
 
-Two related ideas belong to other pages, on purpose. A state arriving through change over time — <span class="cite-jp">寒くなってきた</span>, <span class="cite-jp">慣れてきた</span> — asks a different question, about motion toward or away from the present rather than about the state itself.
+Two related ideas belong to other pages, on purpose. A state arriving through change over time — <span class="cite-jp">寒くなってきた</span>, <span class="cite-jp">慣れてきた</span><span class="gl-en"> — it's getting cold, getting used to it — </span>asks a different question, about motion toward or away from the present rather than about the state itself.
 
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [てくる・ていく](<te-kuru-te-iku.md> "てくる・ていく — movement and change, toward or away from now") <span class="xref-reason">&mdash; change arriving over time, as opposed to the resulting state this page covers</span></div>
 
