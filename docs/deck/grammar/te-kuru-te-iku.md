@@ -2,7 +2,19 @@
      Prose belongs in content/deck/grammar/te-kuru-te-iku.md -->
 # てくる・ていく — movement and change, toward or away from now
 
-## ていく (change forward) { #change-forward }
+!!! tip "At a glance"
+
+    <span class="cite-jp">てくる</span> and <span class="cite-jp">ていく</span> extend <span class="cite-jp">て</span> with direction: <span class="cite-jp">くる</span> toward the speaker, <span class="cite-jp">いく</span> away.
+    Applied to a change rather than a location, that same direction becomes temporal — <span class="cite-jp">てきた</span> for a change arriving at now, <span class="cite-jp">ていく</span> for something continuing forward from now.
+    <span class="cite-jp">行ってくる</span> is the fixed way to announce leaving with the promise of return.
+
+<span class="cite-jp">くる</span> and <span class="cite-jp">いく</span> start as verbs of physical movement — <span class="cite-jp">くる</span>, come, moves toward the speaker; <span class="cite-jp">いく</span>, go, moves away. Attach either to a te-form, and that same direction attaches to an action: <span class="cite-jp">買ってくる</span><span class="gl-en"> — go buy something and come back — </span><span class="cite-jp">持っていく</span><span class="gl-en"> — take something away with you</span>.
+
+The same directions extend from space into time. Once the verb names a change rather than a location, <span class="cite-jp">てくる</span> and <span class="cite-jp">ていく</span> stop describing where someone walked and start describing which way a change is moving relative to now: toward the present, or forward past it.
+
+Ask which side of now the sentence is pointing at. A change moving toward the present, closing in on where you are, takes <span class="cite-jp">てくる</span>; a change or an action continuing onward from here takes <span class="cite-jp">ていく</span>.
+
+## ていく (change forward) — ていく, continuing onward from here { #change-forward }
 
 Continue changing from now onward; development proceeds away from the present
 {: .pt-gloss }
@@ -12,7 +24,20 @@ Continue changing from now onward; development proceeds away from the present
 **Builds on:** [て形 (sequencing)](<tekei.md#sequencing> "Do one action and then another, linking events in sequence")
 {: .fam }
 
-## てくる (directional) { #directional }
+**Form:** `V-て + いく`
+{: .form }
+
+- **The physical sense carries an object or a decision away from the speaker** — <span class="cite-jp">持っていく</span><span class="gl-en"> — take it with you — </span><span class="cite-jp">置いていく</span><span class="gl-en"> — leave it behind [as you go] — </span>both move something away from where the speaker currently is.
+- **Applied to an ongoing effort, <span class="cite-jp">ていく</span> reframes it as a continuing process rather than a single completed action** — <span class="cite-jp">やっていく</span><span class="gl-en"> — keep doing it, going forward — </span><span class="cite-jp">覚えていく</span><span class="gl-en"> — pick it up bit by bit, going forward — </span>treats the doing as a throughline rather than a task with a finish line.
+
+The difference shows most clearly next to plain <span class="cite-jp">ばいい</span>. <span class="cite-jp">やればいい</span> points at one sufficient action: do this, and that's enough. <span class="cite-jp">やっていけばいい</span> points at a sufficient ongoing process instead: keep doing this, and that's enough — no single action closes it out.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">single sufficient action</div><div class="eg-jp" lang="ja"><span class="pat">やればいい。</span></div><div class="ex-en">Just do it.</div></div><div class="eg-member"><div class="eg-label">sufficient ongoing process</div><div class="eg-jp" lang="ja"><span class="pat">やっていけばいい。</span></div><div class="ex-en">Just keep doing it — that&#x27;s enough.</div></div></div>
+
+<div class="dlg"><div class="dlg-note">B reframes A&#x27;s one-time worry as an ongoing, sustainable process rather than a single task to get right immediately.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>全部<rt>ぜんぶ</rt></ruby><ruby>覚<rt>おぼ</rt></ruby>えないと、と<ruby>思<rt>おも</rt></ruby>って。</div><div class="ex-en">I feel like I have to memorize everything.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>覚<rt>おぼ</rt></ruby>えていけばいいよ。</div><div class="ex-en">You can just pick it up little by little, going forward.</div></div></div></div>
+
+
+## てくる (directional) — physical movement toward the speaker { #directional }
 
 Motion or arrival toward the speaker or the deictic centre.
 {: .pt-gloss }
@@ -23,7 +48,17 @@ Motion or arrival toward the speaker or the deictic centre.
 **Compounds:** [行ってくる](<te-kuru-te-iku.md#itte-kuru> "Go somewhere and return; a round trip viewed as a single unit")
 {: .fam }
 
-## てくる (gradual change) { #gradual-change }
+**Form:** `V-て + くる`
+{: .form }
+
+- **<span class="cite-jp">てくる</span> adds a return toward the speaker's location onto a verb** — <span class="cite-jp">買ってくる</span><span class="gl-en"> — buy it and bring it back — </span>reports both the errand and its return.
+- **Without <span class="cite-jp">てくる</span>, the return is left open** — <span class="cite-jp">図書館に行く</span><span class="gl-en"> — going to the library — </span>makes no promise about when or whether the speaker comes back; <span class="cite-jp">図書館に行ってくる</span> makes the round trip part of the sentence.
+- **<span class="cite-jp">持ってくる</span> brings an object toward the speaker; <span class="cite-jp">連れてくる</span> brings a person** — both attach the same return-toward-here direction, just to different kinds of things being brought.
+
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja">プレゼントを<ruby>買<rt>か</rt></ruby>ってくる。</div><div class="ex-en">I&#x27;ll go buy a present [and come back with it].</div></div>
+
+
+## てくる (gradual change) — てくる, a change arriving at now { #gradual-change }
 
 Change develops toward the present or becomes noticeable over time
 {: .pt-gloss }
@@ -34,7 +69,22 @@ Change develops toward the present or becomes noticeable over time
 **Senses:** [てくる (directional)](<te-kuru-te-iku.md#directional> "Motion or arrival toward the speaker or the deictic centre.")
 {: .fam }
 
-## 行ってくる { #itte-kuru }
+**Form:** `V-て + くる` (grammaticalized, attached to a change verb or an adjective + <span class="cite-jp">なる</span>)
+{: .form }
+
+- **The same toward-here direction, applied to a change instead of a location, reads as that change approaching the present** — <span class="cite-jp">寒くなってきた</span><span class="gl-en"> — it's getting cold — </span>presents the cold as something that has been arriving, reaching the speaker's present moment rather than sitting fully in the past or fully in the future.
+- **<span class="cite-jp">慣れてきた</span><span class="gl-en"> — I'm getting used to it — </span>reports the same kind of approach, applied to an internal adjustment rather than the weather.**
+
+The physical and the temporal senses sit on one ladder, not as two unrelated ideas: <span class="cite-jp">買ってくる</span><span class="gl-en"> — go buy something and come back — </span>is the plain spatial sense, the kind of <span class="cite-jp">てくる</span> taught first; <span class="cite-jp">慣れてきた</span><span class="gl-en"> — coming to be used to it — </span>is the same toward-here direction, grammaticalized onto an internal change instead of a location. Seeing the ladder whole is what makes the abstract sense feel like an extension of the concrete one rather than a coincidence of spelling.
+
+This is also where <span class="cite-jp">てくる</span> and <span class="cite-jp">ている</span> part ways on the same material. <span class="cite-jp">寒くなっている</span> presents the cold as a settled state, already in effect — the arriving is over, and what's left is the state. <span class="cite-jp">寒くなってきた</span> presents the same cold as still arriving, the process of getting there still felt in the sentence.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">settled state</div><div class="eg-jp" lang="ja"><span class="pat"><ruby>寒<rt>さむ</rt></ruby>くなっている。</span></div><div class="ex-en">It&#x27;s [now] cold.</div></div><div class="eg-member"><div class="eg-label">change still arriving</div><div class="eg-jp" lang="ja"><span class="pat"><ruby>寒<rt>さむ</rt></ruby>くなってきた。</span></div><div class="ex-en">It&#x27;s getting cold.</div></div></div>
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [ている (resultant state)](<te-iru.md#resultant-state> "ている — progressive, resultant state, habit, and the てる contractions") <span class="xref-reason">&mdash; the settled state a change left behind, as opposed to the change still arriving here</span></div>
+
+
+## 行ってくる — 行ってくる, leaving with the promise of return { #itte-kuru }
 
 Go somewhere and return; a round trip viewed as a single unit
 {: .pt-gloss }
@@ -43,3 +93,15 @@ Go somewhere and return; a round trip viewed as a single unit
 
 **From:** compound of [てくる (directional)](<te-kuru-te-iku.md#directional> "Motion or arrival toward the speaker or the deictic centre.")
 {: .fam }
+
+**Form:** `行く + てくる` (lexicalized as a fixed expression)
+{: .form }
+
+- **<span class="cite-jp">行ってくる</span> is what you say leaving the house** — go, and come back — announcing the trip and the return in one fixed phrase, rather than a productive combination built fresh each time.
+- **The reply <span class="cite-jp">行ってらっしゃい</span> answers it as a set pair** — the two exist as a matched departure-and-send-off ritual, not as ordinary sentences built from scratch.
+
+<div class="dlg"><div class="dlg-note">The departure-and-send-off pair is fixed; neither line is built fresh from the grammar each time.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>行<rt>い</rt></ruby>ってきます。</div><div class="ex-en">I&#x27;m off [and I&#x27;ll be back].</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>行<rt>い</rt></ruby>ってらっしゃい。</div><div class="ex-en">Take care — see you later.</div></div></div></div>
+
+### In conversation
+
+<span class="cite-jp">てくる</span> and <span class="cite-jp">ていく</span> both compress in fast speech: <span class="cite-jp">持ってく</span><span class="gl-en"> — take it — </span>for <span class="cite-jp">持っていく</span>, <span class="cite-jp">やってく</span><span class="gl-en"> — go ahead and do it — </span>for <span class="cite-jp">やっていく</span>. The compression drops <span class="cite-jp">く</span>'s <span class="cite-jp">い</span> the same way <span class="cite-jp">ている</span> drops its own <span class="cite-jp">い</span> in <span class="cite-jp">てる</span><span class="gl-en"> — a familiar contraction pattern, applied to a different verb</span>.
