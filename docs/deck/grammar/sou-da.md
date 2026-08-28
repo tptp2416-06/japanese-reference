@@ -10,7 +10,14 @@
     appearance, <span class="cite-jp">そうにない</span> for events. Hearsay <span class="cite-jp">そうだ</span> (plain clause + <span class="cite-jp">そうだ</span>)
     is a different pattern and not this page.
 
-## そうだ (appearance) { #appearance }
+**Decide what kind of evidence you have, then pick the form for it** — what
+your own eyes tell you (appearance), what looks about to happen (imminence),
+or what someone else told you (hearsay, a separate pattern below).
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [そうだ-hearsay](<sou-da-hearsay.md> "そうだ (hearsay) — I hear that, they say that") <span class="xref-reason">&mdash; the same そうだ spelling, reporting what someone said rather than what the evidence shows</span></div>
+
+
+## そうだ (appearance) — how something seems, on sight { #appearance }
 
 Looks or seems likely based on direct visual evidence. Attaches to the verb stem or adjective stem.
 {: .pt-gloss }
@@ -27,6 +34,8 @@ Looks or seems likely based on direct visual evidence. Attaches to the verb stem
 - **Visual judgment, still a judgment** — you haven't tasted it yet, which
   is exactly what the form signals.
 - **Irregular** — <span class="cite-jp">いい</span> → <span class="cite-jp">よさそう</span>; <span class="cite-jp">ない</span> → <span class="cite-jp">なさそう</span>.
+- **<span class="cite-jp">そう</span> itself carries no register** — <span class="cite-jp">美味しそうです</span> is simply the polite
+  version of <span class="cite-jp">美味しそう</span>; politeness comes from <span class="cite-jp">だ</span>／<span class="cite-jp">です</span>, not from <span class="cite-jp">そう</span>.
 
 <div id="trap-pitfall" class="trap-anchor"></div>
 
@@ -35,10 +44,13 @@ Looks or seems likely based on direct visual evidence. Attaches to the verb stem
     not <span class="cite-jp">美味しそう</span> — keeping <span class="cite-jp">そう</span> where you have direct knowledge reads as
     oddly noncommittal.
 
+<div class="dlg"><div class="dlg-note">what licenses 高そうに見える — B&#x27;s own eyes are the evidence, before any bill confirms it.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">この<ruby>新<rt>あたら</rt></ruby>しいレストラン、<ruby>高<rt>たか</rt></ruby>そうに<ruby>見<rt>み</rt></ruby>えるね。</div><div class="ex-en">This new restaurant looks expensive.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">だよね。でも<ruby>意外<rt>いがい</rt></ruby>と<ruby>安<rt>やす</rt></ruby>いらしいよ。</div><div class="ex-en">Right? But apparently it&#x27;s surprisingly cheap.</div></div></div></div>
+
+
 *Compare:* [ようだ・そうだ・らしい・みたい — appearance, inference, hearsay](<../contrasts/you-da-sou-da-rashii-mitai.md> "appearance, inference, hearsay")
 {: .compare }
 
-## そうだ (imminence) { #imminence }
+## そうだ (imminence) — about to happen { #imminence }
 
 Looks just about to happen, based on an immediately visible situation
 {: .pt-gloss }
@@ -52,10 +64,13 @@ Looks just about to happen, based on an immediately visible situation
 - **Which reading you get follows from the attachment**: adjective →
   appearance, verb → imminence. Same <span class="cite-jp">そう</span>, one machine.
 
+<div class="dlg"><div class="dlg-note">what licenses 転びそう — B&#x27;s visible stumble is the evidence, not a report of what happened.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">あ、<ruby>危<rt>あぶ</rt></ruby>ない、<ruby>転<rt>ころ</rt></ruby>びそう！</div><div class="ex-en">Whoa, careful, you&#x27;re about to fall!</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">え、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>、<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。</div><div class="ex-en">Oh, I&#x27;m fine, I&#x27;m fine.</div></div></div></div>
+
+
 *Compare:* [ようだ・そうだ・らしい・みたい — appearance, inference, hearsay](<../contrasts/you-da-sou-da-rashii-mitai.md> "appearance, inference, hearsay")
 {: .compare }
 
-## そうにない { #sou-ni-nai }
+## そうにない — no sign of it { #sou-ni-nai }
 
 Does not look likely to happen; negative judgment from present evidence
 {: .pt-gloss }
@@ -65,12 +80,12 @@ Does not look likely to happen; negative judgment from present evidence
 **Form:** `V-stem + そうにない`
 {: .form }
 
-- **The verb-side negative** — <span class="cite-jp">終わりそうにない</span> "no sign it's going to
-  end". Stronger than a plain negative guess: there's visible evidence
+- **The verb-side negative** — <span class="cite-jp">終わりそうにない</span>, no sign it's going to end,
+  is stronger than a plain negative guess: there is visible evidence
   against.
 - Not the mirror of <span class="cite-jp">なさそう</span>, which negates appearance, not likelihood.
 
-## そうになる { #sou-ni-naru }
+## そうになる — came to the brink { #sou-ni-naru }
 
 Nearly reaches a state or comes close to an event occurring
 {: .pt-gloss }
@@ -83,10 +98,10 @@ Nearly reaches a state or comes close to an event occurring
 **Form:** `V-stem + そうになる`, almost always past: <span class="cite-jp">そうになった</span>
 {: .form }
 
-- **Came to the brink and didn't** — <span class="cite-jp">転びそうになった</span> "I nearly fell". The
+- **Came to the brink and didn't** — <span class="cite-jp">転びそうになった</span>, I nearly fell. The
   implicit non-occurrence is why the past tense dominates.
 
-## そうに見える { #sou-ni-mieru }
+## そうに見える — the explicitly visual impression { #sou-ni-mieru }
 
 Appear to look X; explicitly frames an impression as visual
 {: .pt-gloss }
@@ -99,12 +114,12 @@ Appear to look X; explicitly frames an impression as visual
 **Form:** `A-stem + そうに見える`
 {: .form }
 
-- **The impression, explicitly visual** — <span class="cite-jp">高そうに見える</span> "it looks
-  expensive". Plain <span class="cite-jp">そうだ</span> already means "seems", so adding <span class="cite-jp">に見える</span>
+- **The impression, explicitly visual** — <span class="cite-jp">高そうに見える</span>, it looks
+  expensive. Plain <span class="cite-jp">そうだ</span> already means seems, so adding <span class="cite-jp">に見える</span>
   foregrounds the at-a-glance nature, often with a faint hedge that looks
   may deceive.
 
-## なさそう { #nasasou }
+## なさそう — the adjective-side negative { #nasasou }
 
 Does not look or seem X; negative appearance judgment
 {: .pt-gloss }
@@ -117,8 +132,8 @@ Does not look or seem X; negative appearance judgment
 **Form:** `A-stem + なさそう` · `N + が + なさそう`
 {: .form }
 
-- **The adjective-side negative** — <span class="cite-jp">美味しくなさそう</span> "doesn't look tasty",
-  <span class="cite-jp">問題なさそう</span> "looks like no problem".
+- **The adjective-side negative** — <span class="cite-jp">美味しくなさそう</span>, doesn't look tasty,
+  and <span class="cite-jp">問題なさそう</span>, looks like no problem.
 - Compare <span class="cite-jp">そうにない</span> above for denying that an event looks likely.
 
 <div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
