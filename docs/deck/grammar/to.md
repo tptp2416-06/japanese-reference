@@ -2,24 +2,18 @@
      Prose belongs in content/deck/grammar/to.md -->
 # と — the conditional, and the particle for listing and accompaniment
 
-## だと (conditional) { #da-to }
+!!! tip "At a glance"
 
-Given X or if X is the case; sets a conditional frame
-{: .pt-gloss }
+    Conditional <span class="cite-jp">と</span> presents the second event as the regular, automatic, or readily predictable result of the first.
+    With nouns, <span class="cite-jp">と</span> instead joins listed items or marks the person you do something with. Context tells these two lives apart.
 
-<span class="card-tag lv">N4-upper</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
+<span class="cite-jp">と</span> has two lives that grow from the same basic idea: it joins one thing to another. With nouns, it joins people or items. With clauses, it joins two events so tightly that the second is presented as the regular or automatic result of the first.
 
-**From:** compound of [と (natural consequence)](<to.md#natural-consequence> "Whenever X occurs, Y follows automatically or predictably")
-{: .fam }
+That tight connection is the key to choosing conditional <span class="cite-jp">と</span>. Use it when you want the listener to treat the result as built into the condition: a machine responds, a season brings a change, or one repeated action reliably leads to another.
 
-## と (accompaniment) { #accompaniment }
+This is also why <span class="cite-jp">と</span> is a poor default for every English “if.” In its ordinary condition-result use, it does not simply imagine a possibility; it presents what follows as dependable.
 
-With; marks accompaniment.
-{: .pt-gloss }
-
-<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
-
-## と (conditional) { #conditional }
+## と (conditional) — automatic results { #conditional }
 
 When or if X happens, Y follows.
 {: .pt-gloss }
@@ -29,24 +23,54 @@ When or if X happens, Y follows.
 **From:** sense of [と (natural consequence)](<to.md#natural-consequence> "Whenever X occurs, Y follows automatically or predictably")
 {: .fam }
 
+**Form:** `V-plain + と` · `i-adjective + と` · `N / na-adjective + だと`
+{: .form }
+
+- **Present the link as dependable** — <span class="cite-jp">このボタンを押すと、画面が明るくなる</span><span class="gl-en"> — when you press this button, the screen gets brighter — </span>treats the response as part of how the button works.
+- **Choose it after asking what reliably follows** — if your point is that the same condition normally produces the same result, <span class="cite-jp">と</span> lets you present that connection without reopening it for negotiation.
+- **Time usually moves forward** — the condition is met first, and the consequence follows. The two clauses are not merely two unrelated facts joined by “and.”
+- **The form itself is register-neutral** — it works in conversation, instructions, explanations, and formal writing. Politeness appears elsewhere in the sentence: <span class="cite-jp">押すと分かります</span><span class="gl-en"> — when you press it, you will understand</span>.
+- **Negation keeps the same logic** — <span class="cite-jp">急がないと間に合わない</span><span class="gl-en"> — if we don't hurry, we won't make it — </span>presents missing the deadline as the expected consequence of not hurrying.
+
+<div class="ex"><div class="ex-jp" lang="ja">このボタンを<span class="pat"><ruby>押<rt>お</rt></ruby>すと、</span><ruby>画面<rt>がめん</rt></ruby>が<ruby>明<rt>あか</rt></ruby>るくなる。</div><div class="ex-en">&ldquo;When you press this button, the screen gets brighter.&rdquo;</div><div class="ex-note">The speaker presents the response as part of the device&#x27;s regular operation, not as a one-time guess.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">このボタンを</span><span class="g">this button</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>押<rt>お</rt></ruby>すと、</span><span class="g">when you press</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>画面<rt>がめん</rt></ruby>が</span><span class="g">the screen</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>明<rt>あか</rt></ruby>るくなる</span><span class="g">gets brighter</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">condition + と, dependable consequence</span></div></div></details></div>
+
+The surrounding question often makes that dependable-result reading useful:
+
+<div class="dlg"><div class="dlg-note">A asks how the control works, so B gives the button&#x27;s regular result.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">このボタン、<ruby>何<rt>なに</rt></ruby>？</div><div class="ex-en">What does this button do?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>押<rt>お</rt></ruby>すと、<ruby>画面<rt>がめん</rt></ruby>が<ruby>明<rt>あか</rt></ruby>るくなるよ。</div><div class="ex-en">When you press it, the screen gets brighter.</div></div></div></div>
+
+### Consequences outside the speaker's control
+
+In the ordinary predictive use described here, the consequence is presented as something that follows rather than something the speaker decides on the spot. That makes commands, requests, invitations, and personal intentions a poor fit in the result clause.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">regular result</div><div class="eg-jp" lang="ja"><ruby>春<rt>はる</rt></ruby>になると、<ruby>桜<rt>さくら</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>く</div><div class="ex-en">When spring comes, the cherry trees bloom.</div></div><div class="eg-member"><div class="eg-jp" lang="ja">speaker&#x27;s plan: <ruby>春<rt>はる</rt></ruby>になったら、<ruby>京都<rt>きょうと</rt></ruby>へ<ruby>行<rt>い</rt></ruby>こう</div><div class="ex-en">When spring comes, let&#x27;s go to Kyoto.</div></div></div>
+
+The second sentence uses <span class="cite-jp">たら</span> because going is a proposal, not an automatic consequence of spring arriving. This is a strong production default, not a claim that every sentence containing human action is impossible with <span class="cite-jp">と</span>; habits and procedures can still be presented as regular outcomes.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [たら (conditional)](<tara.md#conditional> "たら — the tara-conditional: condition, discovery, time, and suggestion") <span class="xref-reason">&mdash; the four conditionals side by side</span></div>
+
+<span class="cite-jp">なら</span> is useful when the condition picks up a situation someone has mentioned and the response is advice or evaluation, rather than an automatic next event.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [なら](<nara.md> "なら — the nara-conditional, topic, and advice") <span class="xref-reason">&mdash; a condition that reacts to the situation under discussion</span></div>
+
+<div id="trap-english-trap" class="trap-anchor"></div>
+
+!!! warning "English Trap"
+    English “if” does not tell you which Japanese conditional to choose. Conditional <span class="cite-jp">と</span> adds a specific commitment: within the speaker's framing, the consequence follows regularly or predictably.
+
+    If the result is a request, decision, invitation, or one-time plan, do not translate “if” mechanically with <span class="cite-jp">と</span>. First decide what relationship you want the two clauses to have.
+
+### Negative conditions in conversation
+
+Speech often leaves off the consequence when it is obvious. <span class="cite-jp">もう行かないと</span> literally opens “if I don't go now…”; with the bad result understood, it naturally means I have to go now or I'd better go.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-jp" lang="ja">もう<ruby>寝<rt>ね</rt></ruby>ないと</div><div class="ex-en">I have to get to bed.</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>急<rt>いそ</rt></ruby>がないと</div><div class="ex-en">We have to hurry.</div></div></div>
+
+This shortened use does not turn <span class="cite-jp">と</span> itself into an obligation marker. The pressure comes from the unfavorable consequence the listener supplies from context.
+
 *Compare:* [たら・ば・と・なら — the conditional quartet](<../contrasts/tara-ba-to-nara.md> "the conditional quartet")
 {: .compare }
 
-## と (discovery) { #discovery }
-
-Upon doing X, find Y; an immediate, often unexpected discovery
-{: .pt-gloss }
-
-<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">sequence</span>
-
-## と (listing) { #listing }
-
-And; exhaustively lists nouns.
-{: .pt-gloss }
-
-<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span> <span class="card-tag">baseline</span>
-
-## と (natural consequence) { #natural-consequence }
+## と (natural consequence) — regular and natural consequences { #natural-consequence }
 
 Whenever X occurs, Y follows automatically or predictably
 {: .pt-gloss }
@@ -56,3 +80,127 @@ Whenever X occurs, Y follows automatically or predictably
 **Compounds:** [だと (conditional)](<to.md#da-to> "Given X or if X is the case; sets a conditional frame")  
 **Senses:** [と (conditional)](<to.md#conditional> "When or if X happens, Y follows.")
 {: .fam }
+
+**Form:** `Condition in plain form + と + regular / natural consequence`
+{: .form }
+
+Use this pattern for relationships the speaker treats as repeatable: natural changes, operating instructions, habits, routes, and cause-and-effect explanations. The result need not be a scientific law; it only needs to be presented as stable in the situation being described.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>季節<rt>きせつ</rt></ruby>: <ruby>秋<rt>あき</rt></ruby>になると、<ruby>日<rt>ひ</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>くなる</div><div class="ex-en">When autumn comes, the days get shorter.</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>習慣<rt>しゅうかん</rt></ruby>: この<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くと、よく<ruby>眠<rt>ねむ</rt></ruby>れる</div><div class="ex-en">When I listen to this music, I sleep well.</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>道順<rt>みちじゅん</rt></ruby>: <ruby>次<rt>つぎ</rt></ruby>の<ruby>角<rt>かど</rt></ruby>を<ruby>曲<rt>ま</rt></ruby>がると、<ruby>駅<rt>えき</rt></ruby>が<ruby>見<rt>み</rt></ruby>える</div><div class="ex-en">When you turn at the next corner, you can see the station.</div></div></div>
+
+The speaker may be generalizing from personal experience rather than stating an exceptionless fact. <span class="cite-jp">この音楽を聞くと、よく眠れる</span> describes a dependable tendency for this speaker; it does not claim that the music guarantees sleep every time.
+
+Instructions and public information often favor <span class="cite-jp">と</span> because they describe what a control or route does: <span class="cite-jp">カードを入れると、ドアが開きます</span><span class="gl-en"> — when you insert the card, the door opens</span>. The polite ending changes how the explanation addresses the reader, not the conditional relationship.
+
+### Repeated past results
+
+The consequence can be past when the speaker is describing a former routine. <span class="cite-jp">子供のころ、夏になると海へ行った</span><span class="gl-en"> — when summer came, we would go to the sea — </span>presents the trip as a regular result within that past period.
+
+<div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>子供<rt>こども</rt></ruby>のころ、この<ruby>店<rt>みせ</rt></ruby>に<ruby>来<rt>く</rt></ruby>ると、いつもアイスを<ruby>買<rt>か</rt></ruby>った</div><div class="ex-en">When I came to this shop as a child, I always bought ice cream.</div></div>
+
+Here the human action is natural because the entire sentence describes a habit. The restriction on speaker-controlled consequences concerns an on-the-spot command, request, or decision, not every action performed by a person.
+
+### A nearby conditional
+
+<span class="cite-jp">ば</span> can also present a condition as sufficient for a result. Conditional <span class="cite-jp">と</span> more strongly invites the listener to see an event sequence or dependable response; <span class="cite-jp">ば</span> directs attention to the condition that would make the result hold.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [ば](<ba.md> "ば — the ba-conditional, ばいい and ばよかった") <span class="xref-reason">&mdash; conditions presented as sufficient or decisive</span></div>
+
+
+## と (discovery) — what regularly comes into view { #discovery }
+
+Upon doing X, find Y; an immediate, often unexpected discovery
+{: .pt-gloss }
+
+<span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">sequence</span>
+
+**Form:** `Action in plain form + と + discovered state / scene`
+{: .form }
+
+In its discovery use, <span class="cite-jp">と</span> presents what comes into view after an action: opening something reveals a scene, turning a corner reveals a landmark, or checking repeatedly produces the same finding. The action still comes first, but the second clause is not something the subject intentionally causes.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>朝<rt>あさ</rt></ruby>、カーテンを<span class="pat"><ruby>開<rt>あ</rt></ruby>けると、</span>いつも<ruby>山<rt>やま</rt></ruby>が<ruby>見<rt>み</rt></ruby>えた。</div><div class="ex-en">&ldquo;In the morning, whenever I opened the curtains, I could always see the mountains.&rdquo;</div><div class="ex-note">The mountains are a finding after the action, and いつも makes the repeated pattern explicit.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>朝<rt>あさ</rt></ruby>、</span><span class="g">in the morning</span></div><div class="bd-seg"><span class="j" lang="ja">カーテンを</span><span class="g">the curtains</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>開<rt>あ</rt></ruby>けると、</span><span class="g">whenever I opened</span></div><div class="bd-seg"><span class="j" lang="ja">いつも</span><span class="g">always</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>山<rt>やま</rt></ruby>が</span><span class="g">the mountains</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>見<rt>み</rt></ruby>えた</span><span class="g">could be seen</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">action + と, repeated discovery</span></div></div></details></div>
+
+For this page's core distinction, <span class="cite-jp">と</span> narrates a general or repeated discovery pattern, while <span class="cite-jp">たら</span> naturally foregrounds a one-time finding. The two can overlap in narrative contexts, but they guide attention differently: <span class="cite-jp">と</span> toward the recurring sequence, <span class="cite-jp">たら</span> toward what happened on that occasion.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [たら (discovery)](<tara.md#discovery> "たら — the tara-conditional: condition, discovery, time, and suggestion") <span class="xref-reason">&mdash; a one-time finding after the condition is met</span></div>
+
+The discovered scene can be surprising, but surprise is not built into <span class="cite-jp">と</span>. It comes from the content and context: <span class="cite-jp">箱を開けると、中はいつも空だった</span><span class="gl-en"> — whenever I opened the box, it was always empty inside — </span>can be a neutral report or an unwelcome finding.
+
+## だと (conditional) — conditions with nouns and な-adjectives { #da-to }
+
+Given X or if X is the case; sets a conditional frame
+{: .pt-gloss }
+
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
+
+**From:** compound of [と (natural consequence)](<to.md#natural-consequence> "Whenever X occurs, Y follows automatically or predictably")
+{: .fam }
+
+**Form:** `N + だと` · `na-adjective stem + だと` · negative `N / na-adjective + じゃないと`
+{: .form }
+
+Nouns and <span class="cite-jp">な</span>-adjectives need <span class="cite-jp">だ</span> before conditional <span class="cite-jp">と</span>. <span class="cite-jp">このままだと間に合わない</span><span class="gl-en"> — at this rate, we won't make it — </span>takes the current situation as the condition and presents lateness as its expected result.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">noun</div><div class="eg-jp" lang="ja"><ruby>平日<rt>へいじつ</rt></ruby>だと、<ruby>道<rt>みち</rt></ruby>が<ruby>混<rt>こ</rt></ruby>む</div><div class="ex-en">On weekdays, the roads get crowded.</div></div><div class="eg-member"><div class="eg-jp" lang="ja">な-adjective: <ruby>静<rt>しず</rt></ruby>かだと、<ruby>仕事<rt>しごと</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>できる</div><div class="ex-en">When it is quiet, I can concentrate on work.</div></div><div class="eg-member"><div class="eg-label">negative</div><div class="eg-jp" lang="ja"><ruby>静<rt>しず</rt></ruby>かじゃないと、<ruby>集中<rt>しゅうちゅう</rt></ruby>できない</div><div class="ex-en">If it isn&#x27;t quiet, I can&#x27;t concentrate.</div></div></div>
+
+The negative often makes a necessary condition salient: <span class="cite-jp">静かじゃないと集中できない</span> says concentration will not happen unless quiet is present. That interpretation comes from the negative result and the logic of the sentence, not from a separate meaning of <span class="cite-jp">と</span>.
+
+In careful or formal writing, <span class="cite-jp">でないと</span> may replace conversational <span class="cite-jp">じゃないと</span>: <span class="cite-jp">本人でないと受け取れません</span><span class="gl-en"> — unless you are the named person, you cannot receive it</span>. The conditional relationship is unchanged; only the expression of the negative copula becomes more formal.
+
+!!! note "Conditional <span class="cite-jp">だと</span> and quotation"
+    The <span class="cite-jp">だ</span> in <span class="cite-jp">このままだと</span> belongs to a noun or <span class="cite-jp">な</span>-adjective predicate before conditional <span class="cite-jp">と</span>. Japanese also has a separate quote-marking <span class="cite-jp">と</span> in expressions built around saying or thinking.
+
+    Those roles can look identical at the boundary, so identify what follows: a predictable consequence supports the conditional reading, while a speech or thought predicate supports the quotation reading.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [って (quote)](<tte.md#quote> "って — the casual quote, topic marker, and だって") <span class="xref-reason">&mdash; the casual quote marker, a separate role from conditional と</span></div>
+
+
+## と (listing) — joining named items { #listing }
+
+And; exhaustively lists nouns.
+{: .pt-gloss }
+
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">listing-addition</span> <span class="card-tag">baseline</span>
+
+**Form:** `N と N` · `N と N と ...`
+{: .form }
+
+Between nouns, <span class="cite-jp">と</span> joins explicitly named members: <span class="cite-jp">コーヒーと紅茶</span><span class="gl-en"> — coffee and tea</span>. In a request such as <span class="cite-jp">コーヒーと紅茶をください</span><span class="gl-en"> — coffee and tea, please — </span>both items belong to the requested list.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-jp" lang="ja">パンと<ruby>卵<rt>たまご</rt></ruby>を<ruby>買<rt>か</rt></ruby>った</div><div class="ex-en">I bought bread and eggs.</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>月曜日<rt>げつようび</rt></ruby>と<ruby>水曜日<rt>すいようび</rt></ruby>に<ruby>授業<rt>じゅぎょう</rt></ruby>がある</div><div class="ex-en">I have classes on Monday and Wednesday.</div></div></div>
+
+This listing use is concrete and does not create a condition. It names the members the speaker is joining for the current sentence; it does not, by itself, make a claim about every other item that may exist in the world.
+
+The same <span class="cite-jp">と</span> may appear after each item in an emphatic or contrastive list, but repeating it is not required in an ordinary two-item phrase. The particle is register-neutral and remains common in both speech and writing.
+
+### Short lists in conversation
+
+If the second item is already obvious, a speaker may leave the shared noun or predicate unstated, but <span class="cite-jp">と</span> cannot normally stand as a complete list without context. A short reply such as <span class="cite-jp">パンと卵</span><span class="gl-en"> — bread and eggs — </span>works because the question supplies what is being bought.
+
+<div class="dlg"><div class="dlg-note">The question supplies the omitted predicate, so B can answer with the joined items alone.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>朝<rt>あさ</rt></ruby>ご<ruby>飯<rt>はん</rt></ruby>、<ruby>何<rt>なに</rt></ruby>を<ruby>買<rt>か</rt></ruby>う？</div><div class="ex-en">What should we buy for breakfast?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">パンと<ruby>卵<rt>たまご</rt></ruby>。</div><div class="ex-en">Bread and eggs.</div></div></div></div>
+
+
+## と (accompaniment) — doing something with someone { #accompaniment }
+
+With; marks accompaniment.
+{: .pt-gloss }
+
+<span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">manner-means</span> <span class="card-tag">baseline</span>
+
+**Form:** `Person / group + と + action` · `Person / group + と一緒に + action`
+{: .form }
+
+After a person or group, <span class="cite-jp">と</span> presents that participant as the companion or counterpart in an action. <span class="cite-jp">友達と映画を見た</span><span class="gl-en"> — I watched a film with a friend — </span>describes a shared activity, while <span class="cite-jp">先生と話した</span><span class="gl-en"> — I spoke with the teacher — </span>presents the teacher as the other participant in the conversation.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>姉<rt>あね</rt></ruby>と<ruby>旅行<rt>りょこう</rt></ruby>した</div><div class="ex-en">I traveled with my older sister.</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>同僚<rt>どうりょう</rt></ruby>と<ruby>相談<rt>そうだん</rt></ruby>した</div><div class="ex-en">I discussed it with a coworker.</div></div></div>
+
+With naturally mutual actions such as <span class="cite-jp">話す</span><span class="gl-en"> — talk — </span>both participants take part in the event. With an action such as <span class="cite-jp">映画を見る</span><span class="gl-en"> — watch a film — </span><span class="cite-jp">と</span> simply says the person accompanied you; it does not imply that each person acted on the other.
+
+<span class="cite-jp">一緒に</span> can make the shared nature explicit: <span class="cite-jp">家族と一緒に住んでいる</span><span class="gl-en"> — I live together with my family</span>. It adds emphasis but is not required for the accompaniment reading.
+
+### Companions in conversation
+
+The rest of the sentence may be omitted when the activity is understood. <span class="cite-jp">誰と？</span><span class="gl-en"> — with whom — </span>or <span class="cite-jp">友達と</span><span class="gl-en"> — with a friend — </span>are natural short turns. The particle survives because it carries the relationship the question is asking about.
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
