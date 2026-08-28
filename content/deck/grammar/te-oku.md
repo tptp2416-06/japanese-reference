@@ -2,7 +2,7 @@
 
 The action itself can be anything; what ておく adds is always the same — do this now, so it's ready, done, or out of the way by the time it matters.
 
-Ask whether a later moment will be easier because of what you do now. If doing it now buys you something later, ておく frames the action that way; if there's no later payoff in view, the plain form is enough.
+Ask whether a later moment will be easier because of what you do now. If it will, ておく frames the action that way; if there's no later payoff in view, the plain form is enough.
 
 @@ tldr
 
@@ -26,7 +26,7 @@ bd: 来週は出張だから、|since I've got a business trip next week / 資�
 pat: V-ておく, preparation for a stated later need
 ```
 
-@@ te-oita — ておいた, the preparation already made
+@@ te-oita — the preparation already made
 
 **Form:** `V-ておいた` (past)
 
@@ -37,7 +37,7 @@ pat: V-ておく, preparation for a stated later need
 準備[じゅんび]しておいた。 | I got it ready in advance.
 ```
 
-@@ te-oku-to — ておくと, framing a tip
+@@ te-oku-to — framing a tip
 
 **Form:** `V-ておく + と`
 
@@ -50,7 +50,7 @@ pat: V-ておく, preparation for a stated later need
 早[はや]めに薬[くすり]を飲[の]んでおくと、楽[らく]になるよ。 | If you take the medicine ahead of time, you'll feel better.
 ```
 
-@@ te-okou — ておこう, deciding to prepare now
+@@ te-okou — deciding to prepare now
 
 **Form:** `V-ておこう` (volitional)
 
@@ -63,12 +63,13 @@ pat: V-ておく, preparation for a stated later need
 梅雨[つゆ]に入[はい]る前[まえ]に、布団[ふとん]を干[ほ]しておこう。 | Let's get the futon aired out before the rainy season starts.
 ```
 
-@@ toku — とく, how ておく actually gets said
+@@ toku — how it actually gets said
 
 **Form:** `V-て + おく → V-とく`
 
 - **とく is simply ておく said in casual conversation** — dropping the お and merging it into the て is not a separate word; it's the everyday pronunciation.
 - **The contraction attaches to every reading above** — 買っとく — I'll pick it up [in advance] — 言っとく — I'll mention it [and leave it handled] — carrying preparation, tip framing, and the volitional とこう all at the casual register.
+- **Writing keeps the full ておく** — signs, notices and formal prose don't contract to とく; the full form is what appears in writing.
 
 ```eg
 polite: ビールを買[か]っておきます。 | I'll go buy some beer, ready for later.

@@ -12,7 +12,7 @@
 
 The action itself can be anything; what <span class="cite-jp">ておく</span> adds is always the same — do this now, so it's ready, done, or out of the way by the time it matters.
 
-Ask whether a later moment will be easier because of what you do now. If doing it now buys you something later, <span class="cite-jp">ておく</span> frames the action that way; if there's no later payoff in view, the plain form is enough.
+Ask whether a later moment will be easier because of what you do now. If it will, <span class="cite-jp">ておく</span> frames the action that way; if there's no later payoff in view, the plain form is enough.
 
 Do something in advance or leave it in a resulting state
 {: .h1-gloss }
@@ -38,7 +38,7 @@ Do something in advance or leave it in a resulting state
 *Compare:* [ておく・てある・ている・てしまう — prepared, resulting, finished](<../contrasts/te-oku-te-aru-te-iru-te-shimau.md> "prepared, resulting, finished")
 {: .compare }
 
-## ておいた — ておいた, the preparation already made { #te-oita }
+## ておいた — the preparation already made { #te-oita }
 
 Did something in advance; past preparatory action for a later need
 {: .pt-gloss }
@@ -58,7 +58,7 @@ Did something in advance; past preparatory action for a later need
 <div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>準備<rt>じゅんび</rt></ruby>しておいた。</div><div class="ex-en">I got it ready in advance.</div></div>
 
 
-## ておく＋と (tip frame) — ておくと, framing a tip { #te-oku-to }
+## ておく＋と (tip frame) — framing a tip { #te-oku-to }
 
 Doing X in advance leads to Y; conventional practical-tip frame
 {: .pt-gloss }
@@ -79,7 +79,7 @@ Doing X in advance leads to Y; conventional practical-tip frame
 <div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>早<rt>はや</rt></ruby>めに<ruby>薬<rt>くすり</rt></ruby>を<ruby>飲<rt>の</rt></ruby>んでおくと、<ruby>楽<rt>らく</rt></ruby>になるよ。</div><div class="ex-en">If you take the medicine ahead of time, you&#x27;ll feel better.</div></div>
 
 
-## ておこう — ておこう, deciding to prepare now { #te-okou }
+## ておこう — deciding to prepare now { #te-okou }
 
 Let's do it in advance or in preparation.
 {: .pt-gloss }
@@ -101,7 +101,7 @@ Let's do it in advance or in preparation.
 <div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>梅雨<rt>つゆ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に、<ruby>布団<rt>ふとん</rt></ruby>を<ruby>干<rt>ほ</rt></ruby>しておこう。</div><div class="ex-en">Let&#x27;s get the futon aired out before the rainy season starts.</div></div>
 
 
-## とく (ておく contraction) — とく, how ておく actually gets said { #toku }
+## とく (ておく contraction) — how it actually gets said { #toku }
 
 Casual contraction meaning do something in advance or leave it prepared
 {: .pt-gloss }
@@ -117,6 +117,7 @@ Casual contraction meaning do something in advance or leave it prepared
 
 - **<span class="cite-jp">とく</span> is simply <span class="cite-jp">ておく</span> said in casual conversation** — dropping the <span class="cite-jp">お</span> and merging it into the <span class="cite-jp">て</span> is not a separate word; it's the everyday pronunciation.
 - **The contraction attaches to every reading above** — <span class="cite-jp">買っとく</span><span class="gl-en"> — I'll pick it up [in advance] — </span><span class="cite-jp">言っとく</span><span class="gl-en"> — I'll mention it [and leave it handled] — </span>carrying preparation, tip framing, and the volitional <span class="cite-jp">とこう</span> all at the casual register.
+- **Writing keeps the full <span class="cite-jp">ておく</span>** — signs, notices and formal prose don't contract to <span class="cite-jp">とく</span>; the full form is what appears in writing.
 
 <div class="eg-contrast"><div class="eg-member"><div class="eg-label">polite</div><div class="eg-jp" lang="ja">ビールを<ruby>買<rt>か</rt></ruby>っておきます。</div><div class="ex-en">I&#x27;ll go buy some beer, ready for later.</div></div><div class="eg-member"><div class="eg-label">casual</div><div class="eg-jp" lang="ja">ビール<ruby>買<rt>か</rt></ruby>っとく。</div><div class="ex-en">I&#x27;ll grab some beer.</div></div></div>
 
