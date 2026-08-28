@@ -2,7 +2,18 @@
      Prose belongs in content/deck/grammar/ba.md -->
 # ば — the ba-conditional, ばいい and ばよかった
 
-## ば (conditional) { #conditional }
+!!! tip "At a glance"
+
+    <span class="cite-jp">ば</span> presents a condition as sufficient or decisive for the result under discussion.
+    Its inflection changes with verbs and <span class="cite-jp">い</span>-adjectives; <span class="cite-jp">ばいい</span> turns sufficiency into advice, and <span class="cite-jp">ばよかった</span> looks back at a better unrealized choice.
+
+<span class="cite-jp">ば</span> asks the listener to accept a condition and see what follows if that condition is met. It often directs attention to the condition as the decisive piece: meet this requirement, and the result becomes available.
+
+That makes <span class="cite-jp">ば</span> useful for general conditions, logical relationships, advice built around one sufficient action, and reflection on a choice that would have produced a better result.
+
+The form changes with the word before it. Learn the conjugation, then ask a production question: am I presenting this condition as enough to make the result hold?
+
+## ば (conditional) — sufficient conditions { #conditional }
 
 If X, then Y; presents X as the condition enabling Y
 {: .pt-gloss }
@@ -13,17 +24,90 @@ If X, then Y; presents X as the condition enabling Y
 **Compounds:** [ばいい](<ba.md#ba-ii> "It would be good to do X; advice or tentative decision") · [ばよかった (regret)](<ba.md#ba-yokatta> "Should have done X; expresses regret about an unrealized past action")
 {: .fam }
 
+**Form:** `Godan final -u → corresponding -e + ば` · `ichidan -る → -れば` · `する → すれば` · `来る → 来れば` · negative `-ない → -なければ`
+{: .form }
+
+| verb type — how it changes | dictionary form — meaning | <span class="cite-jp">ば</span>-form — meaning |
+|---|---|---|
+| godan — final u-row sound becomes e-row + <span class="cite-jp">ば</span> | <span class="cite-jp">書く</span> — write | <span class="cite-jp">書けば</span> — if someone writes |
+| godan — final u-row sound becomes e-row + <span class="cite-jp">ば</span> | <span class="cite-jp">話す</span> — speak | <span class="cite-jp">話せば</span> — if someone speaks |
+| ichidan — replace <span class="cite-jp">る</span> with <span class="cite-jp">れば</span> | <span class="cite-jp">食べる</span> — eat | <span class="cite-jp">食べれば</span> — if someone eats |
+| irregular — fixed form | <span class="cite-jp">する</span> — do | <span class="cite-jp">すれば</span> — if someone does |
+| irregular — fixed form | <span class="cite-jp">来る</span> — come | <span class="cite-jp">来れば</span> — if someone comes |
+| negative — replace final <span class="cite-jp">い</span> of <span class="cite-jp">ない</span> with <span class="cite-jp">ければ</span> | <span class="cite-jp">行かない</span> — not go | <span class="cite-jp">行かなければ</span> — if someone does not go |
+
+- **Focus on what is enough** — <span class="cite-jp">このカードがあれば入れる</span><span class="gl-en"> — if you have this card, you can enter — </span>presents possession of the card as the condition that makes entry possible.
+- **Choose it after identifying the decisive condition** — ask what would have to be true for the result to hold, then put that condition before <span class="cite-jp">ば</span>.
+- **The result need not be automatic in time** — <span class="cite-jp">ば</span> can express a logical, evaluative, or hypothetical dependency without narrating one event immediately triggering the next.
+- **Negation puts absence in the condition** — <span class="cite-jp">時間がなければ、明日にしよう</span><span class="gl-en"> — if we don't have time, let's do it tomorrow — </span>makes lack of time the premise.
+- **The construction is register-neutral** — full forms suit conversation and writing; contractions belong mainly to casual speech.
+
+<div class="ex"><div class="ex-jp" lang="ja">このカードが<span class="pat">あれば、</span><ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>はい</rt></ruby>れます。</div><div class="ex-en">&ldquo;If you have this card, you can enter.&rdquo; <span class="lit">&mdash; lit. if this card exists for you, entering becomes possible</span></div><div class="ex-note">The card is presented as the sufficient condition for access, not as an event that mechanically causes entry.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">このカードが</span><span class="g">this card</span></div><div class="bd-seg hit"><span class="j" lang="ja">あれば、</span><span class="g">if you have</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>中<rt>なか</rt></ruby>に</span><span class="g">inside</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>入<rt>はい</rt></ruby>れます</span><span class="g">can enter</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">condition + ば, result made available</span></div></div></details></div>
+
+### Requests and decisions in the result
+
+With a controllable action as the <span class="cite-jp">ば</span> condition, a request, command, invitation, or on-the-spot intention in the result often feels constrained. A completion-based conditional is usually more natural for a simple one-time sequence.
+
+This is not a blanket ban on volitional results. If the condition is a state or something outside the speaker's immediate control, a request can be natural: <span class="cite-jp">分からなければ、先生に聞いてください</span><span class="gl-en"> — if you don't understand, ask the teacher</span>.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">state condition</div><div class="eg-jp" lang="ja"><ruby>安<rt>やす</rt></ruby>ければ、<ruby>買<rt>か</rt></ruby>いましょう</div><div class="ex-en">If it&#x27;s inexpensive, let&#x27;s buy it.</div></div><div class="eg-member"><div class="eg-label">controlled sequence</div><div class="eg-jp" lang="ja"><ruby>店<rt>みせ</rt></ruby>に<ruby>行<rt>い</rt></ruby>ったら、<ruby>買<rt>か</rt></ruby>いましょう</div><div class="ex-en">When we go to the shop, let&#x27;s buy it.</div></div></div>
+
+The useful default is to use <span class="cite-jp">たら</span> for a one-time sequence followed by someone's chosen action, and <span class="cite-jp">ば</span> when the condition itself is the point that makes the choice reasonable.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [たら (conditional)](<tara.md#conditional> "たら — the tara-conditional: condition, discovery, time, and suggestion") <span class="xref-reason">&mdash; the four conditionals side by side</span></div>
+
+### Contracted conditions in conversation
+
+Negative <span class="cite-jp">なければ</span> often contracts after the full form has been learned. When the consequence is obvious, it may disappear entirely.
+
+| form — meaning | derivation — meaning | how it lands — meaning |
+|---|---|---|
+| <span class="cite-jp">行かなければ</span> — if I don't go | full <span class="cite-jp">なければ</span> form — unreduced conditional | neutral or careful — common in speech and writing |
+| <span class="cite-jp">行かなきゃ</span> — if I don't go / I have to go | contraction of <span class="cite-jp">行かなければ</span> — same condition | very common casual speech — the bad consequence is often omitted |
+| <span class="cite-jp">行かなけりゃ</span> — if I don't go | rougher contraction of <span class="cite-jp">行かなければ</span> — same condition | casual and compressed — more limited by speaker and setting |
+
+<span class="cite-jp">行かなきゃ</span> by itself naturally means I have to go or I'd better go because the listener supplies an unfavorable result such as being late. The contraction does not add obligation on its own.
+
+Conditional <span class="cite-jp">と</span> has a similar conversational pattern with <span class="cite-jp">行かないと</span>. Both leave the consequence to context, but their full conditional structures remain different.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [と](<to.md> "と — the conditional, and the particle for listing and accompaniment") <span class="xref-reason">&mdash; automatic consequences and the shortened negative conditional</span></div>
+
+### Formal conditions
+
+Formal notices and careful prose often use <span class="cite-jp">であれば</span> after a noun or <span class="cite-jp">な</span>-adjective: <span class="cite-jp">必要であれば、ご連絡ください</span><span class="gl-en"> — if necessary, please contact us</span>. It belongs to the same <span class="cite-jp">ば</span> family but is more explicit and formal than conversational <span class="cite-jp">なら</span>.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [なら](<nara.md> "なら — the nara-conditional, topic, and advice") <span class="xref-reason">&mdash; the conversational conditional that reacts to a live premise</span></div>
+
+
 *Compare:* [たら・ば・と・なら — the conditional quartet](<../contrasts/tara-ba-to-nara.md> "the conditional quartet")
 {: .compare }
 
-## ば (i-adjective) { #i-adjective }
+## ば (i-adjective) — conditions with い-adjectives { #i-adjective }
 
 If it is a stated quality; conditional form used with i-adjectives
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">condition</span>
 
-## ばいい { #ba-ii }
+**Form:** `i-adjective final -い → -ければ` · negative `-くない → -くなければ` · irregular `いい → よければ`
+{: .form }
+
+| adjective form — meaning | <span class="cite-jp">ば</span>-form — meaning | point to remember — meaning |
+|---|---|---|
+| <span class="cite-jp">高い</span> — expensive / high | <span class="cite-jp">高ければ</span> — if it is expensive / high | replace final <span class="cite-jp">い</span> with <span class="cite-jp">ければ</span> — positive condition |
+| <span class="cite-jp">安い</span> — inexpensive | <span class="cite-jp">安ければ</span> — if it is inexpensive | replace final <span class="cite-jp">い</span> with <span class="cite-jp">ければ</span> — positive condition |
+| <span class="cite-jp">高くない</span> — not expensive / high | <span class="cite-jp">高くなければ</span> — if it is not expensive / high | negative <span class="cite-jp">ない</span> becomes <span class="cite-jp">なければ</span> — negative condition |
+| <span class="cite-jp">いい</span> — good | <span class="cite-jp">よければ</span> — if it is good / if you like | use <span class="cite-jp">よい</span> as the conjugating base — irregular everyday form |
+
+The adjective itself supplies the condition. <span class="cite-jp">安ければ買う</span><span class="gl-en"> — if it's inexpensive, I'll buy it — </span>does not need a copula between the adjective and <span class="cite-jp">ば</span>.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>部屋<rt>へや</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>ければ、ここに<ruby>住<rt>す</rt></ruby>みたい</div><div class="ex-en">If the room is spacious, I&#x27;d like to live here.</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>天気<rt>てんき</rt></ruby>がよければ、<ruby>公園<rt>こうえん</rt></ruby>で<ruby>食<rt>た</rt></ruby>べよう</div><div class="ex-en">If the weather is good, let&#x27;s eat in the park.</div></div></div>
+
+<span class="cite-jp">よければ</span> has also become a common courteous frame for offers and invitations: <span class="cite-jp">よければ、どうぞ</span><span class="gl-en"> — if you'd like, please go ahead</span>. It softens the approach by making the listener's willingness the condition.
+
+In speech, the full <span class="cite-jp">ければ</span> usually remains when clarity matters. Very compressed adjective forms exist, but they are not a general replacement a learner needs in order to produce ordinary <span class="cite-jp">ば</span> sentences.
+
+## ばいい — one sufficient action { #ba-ii }
 
 It would be good to do X; advice or tentative decision
 {: .pt-gloss }
@@ -34,7 +118,41 @@ It would be good to do X; advice or tentative decision
 **From:** compound of [ば (conditional)](<ba.md#conditional> "If X, then Y; presents X as the condition enabling Y")
 {: .fam }
 
-## ばよかった (regret) { #ba-yokatta }
+**Form:** `V-ば + いい` · negative `V-なければ + いい` · explanatory `V-ば + いい + から`
+{: .form }
+
+<span class="cite-jp">ばいい</span> says that meeting one condition is enough for a good or acceptable result. In advice, that often becomes you should do X or all you need to do is X, but sufficiency is the underlying idea.
+
+Negative V-<span class="cite-jp">なければいい</span> makes not doing the sufficient solution. <span class="cite-jp">食べなければいい</span> means all you need to do is not eat it; depending on tone, reducing the listener's choices this sharply can sound dismissive.
+
+<div class="dlg"><div class="dlg-note">A has too many possible starting points; B reduces the problem to one sufficient first action.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>、<ruby>何<rt>なに</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>めればいい？</div><div class="ex-en">Where should I start with studying Japanese?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">まず、この<ruby>一<rt>いち</rt></ruby>ページを<ruby>読<rt>よ</rt></ruby>めばいいよ。</div><div class="ex-en">You only need to read this one page first.</div></div></div></div>
+
+### Instruction or reassurance
+
+Bare <span class="cite-jp">ばいい</span> can sound like a direct solution: <span class="cite-jp">先生に聞けばいい</span><span class="gl-en"> — you should ask the teacher</span>. Tone and relationship decide whether that feels helpfully simple or dismissively obvious.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">direct solution</div><div class="eg-jp" lang="ja">まず<ruby>名前<rt>なまえ</rt></ruby>を<ruby>書<rt>か</rt></ruby>けばいい</div><div class="ex-en">First, you just need to write your name.</div></div><div class="eg-member"><div class="eg-label">reassurance</div><div class="eg-jp" lang="ja">これだけやればいいから、<ruby>心配<rt>しんぱい</rt></ruby>しないで</div><div class="ex-en">This is all you need to do, so don&#x27;t worry.</div></div></div>
+
+In <span class="cite-jp">ばいいから</span>, <span class="cite-jp">から</span> gives the listener a reason to stop worrying: this alone is enough. That can reassure a stressed friend, but the same simplification can sound dismissive when directed upward to a teacher or supervisor.
+
+### A task or an ongoing process
+
+<span class="cite-jp">ばいい</span> points naturally at one sufficient action. Adding <span class="cite-jp">ていく</span> can instead frame continued effort as the sufficient process.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">single task</div><div class="eg-jp" lang="ja"><ruby>今日<rt>きょう</rt></ruby>、<ruby>一<rt>いち</rt></ruby>ページ<ruby>読<rt>よ</rt></ruby>めばいい</div><div class="ex-en">You only need to read one page today.</div></div><div class="eg-member"><div class="eg-label">ongoing process</div><div class="eg-jp" lang="ja"><ruby>毎日<rt>まいにち</rt></ruby><ruby>少<rt>すこ</rt></ruby>しずつ<ruby>読<rt>よ</rt></ruby>んでいけばいい</div><div class="ex-en">You can keep going by reading a little each day.</div></div></div>
+
+The second sentence feels more like reassurance about a path forward than an instruction to complete one isolated task.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [てくる・ていく](<te-kuru-te-iku.md> "てくる・ていく — movement and change, toward or away from now") <span class="xref-reason">&mdash; how ていく presents a process extending forward</span></div>
+
+### A softer alternative
+
+<span class="cite-jp">先生に聞けばいい</span> gives a fairly direct solution. <span class="cite-jp">先生に聞いたら？</span><span class="gl-en"> — why don't you ask the teacher — </span>trails off after presenting the possibility and can leave more room for the listener to decide.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [たら？ (suggestion)](<tara.md#tara-q> "たら — the tara-conditional: condition, discovery, time, and suggestion") <span class="xref-reason">&mdash; the trailing-off suggestion with たら</span></div>
+
+
+## ばよかった (regret) — the better unrealized choice { #ba-yokatta }
 
 Should have done X; expresses regret about an unrealized past action
 {: .pt-gloss }
@@ -44,3 +162,34 @@ Should have done X; expresses regret about an unrealized past action
 **Builds on:** [ば (conditional)](<ba.md#conditional> "If X, then Y; presents X as the condition enabling Y")  
 **From:** compound of [ば (conditional)](<ba.md#conditional> "If X, then Y; presents X as the condition enabling Y")
 {: .fam }
+
+**Form:** `V-ば + よかった` · negative `V-なければ + よかった` · casual contractions such as `行けば → 行きゃ` and `すれば → すりゃ`
+{: .form }
+
+In its regret use, <span class="cite-jp">ばよかった</span> looks back and identifies a condition that would have led to a better result. The natural English is often should have or wish I had, but the Japanese structure is closer to “it would have been good if.”
+
+<div class="ex"><div class="ex-jp" lang="ja">もっと<ruby>早<rt>はや</rt></ruby>く<span class="pat"><ruby>相談<rt>そうだん</rt></ruby>すれば</span>よかった。</div><div class="ex-en">&ldquo;I should have asked for advice sooner.&rdquo; <span class="lit">&mdash; lit. it would have been good if I had consulted sooner</span></div><div class="ex-note">The speaker now treats earlier consultation as the better condition, implying that it did not happen.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">もっと</span><span class="g">more</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>早<rt>はや</rt></ruby>く</span><span class="g">soon</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>相談<rt>そうだん</rt></ruby>すれば</span><span class="g">if I had consulted</span></div><div class="bd-seg"><span class="j" lang="ja">よかった</span><span class="g">it would have been good</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">unrealized condition + ばよかった, retrospective regret</span></div></div></details></div>
+
+Positive and negative conditions point to opposite unrealized alternatives:
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">positive condition</div><div class="eg-jp" lang="ja"><ruby>行<rt>い</rt></ruby>けばよかった</div><div class="ex-en">I should have gone.</div></div><div class="eg-member"><div class="eg-label">negative condition</div><div class="eg-jp" lang="ja">あんなことを<ruby>言<rt>い</rt></ruby>わなければよかった</div><div class="ex-en">I shouldn&#x27;t have said that.</div></div></div>
+
+The first normally implies that the speaker did not go. The second normally implies that the speaker did say it and now prefers the alternative in which they did not.
+
+### Regret needs the outcome
+
+<div class="dlg"><div class="dlg-note">The sold-out ticket makes the earlier unchosen action look better now.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">コンサートの<ruby>切符<rt>きっぷ</rt></ruby>、<ruby>買<rt>か</rt></ruby>えた？</div><div class="ex-en">Were you able to buy a concert ticket?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>昨日<rt>きのう</rt></ruby><ruby>買<rt>か</rt></ruby>えばよかった。もう<ruby>売<rt>う</rt></ruby>り<ruby>切<rt>き</rt></ruby>れだ。</div><div class="ex-en">I should have bought it yesterday. It&#x27;s already sold out.</div></div></div></div>
+
+Without a context that makes the alternative better, V-<span class="cite-jp">ばよかった</span> can remain a literal evaluation rather than personal regret. The regret reading is common because speakers usually use this form after the opportunity has passed.
+
+### Regret in conversation
+
+Full <span class="cite-jp">ばよかった</span> is neutral and works in speech and writing. Casual speech may compress familiar verbs: <span class="cite-jp">行けばよかった</span> → <span class="cite-jp">行きゃよかった</span><span class="gl-en"> — I should have gone</span>; <span class="cite-jp">すればよかった</span> → <span class="cite-jp">すりゃよかった</span><span class="gl-en"> — I should have done it</span>. Careful writing keeps the full form.
+
+Politeness attaches to the evaluation: <span class="cite-jp">もっと早く相談すればよかったです</span><span class="gl-en"> — I should have asked for advice sooner</span>. The regret itself is unchanged.
+
+### A different kind of regret
+
+<span class="cite-jp">てしまった</span> can present an action as completed and let context add regret: <span class="cite-jp">言ってしまった</span><span class="gl-en"> — I ended up saying it</span>. <span class="cite-jp">ばよかった</span> instead names the unrealized condition the speaker now judges better: <span class="cite-jp">言わなければよかった</span><span class="gl-en"> — I shouldn't have said it</span>.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [てしまう (regret)](<te-shimau.md#regret> "てしまう — completion and regret, with the ちゃう contractions") <span class="xref-reason">&mdash; completed-event regret versus a counterfactual better choice</span></div>
