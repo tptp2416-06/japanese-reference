@@ -19,7 +19,7 @@ The page starts with られる by itself — first the plain, neutral use, then 
 られる puts the subject on the receiving end of an action; させる adds someone who makes or lets another person act. Combined, させられる reports being made to do something you didn't choose.
 Decide whose side of the event you're telling first — the actor, or the one it happened to — then, if you're the one arranging someone else's action, whether you're forcing it or allowing it.
 
-@@ neutral-passive
+@@ neutral-passive — the plain, uninvolved passive
 
 This is られる at its plainest, before inconvenience, an added causer, or a quote gets layered on top of it.
 
@@ -51,7 +51,7 @@ Godan verbs don't share this overlap — their potential form is built different
 -> Contrast: [[kanoukei-koto-ga-dekiru#kanoukei]] — the potential reading of this same shape
 -> Contrast: [[reru-rareru]] — the honorific reading, used to describe a respected person's own actions politely
 
-@@ adversity-passive
+@@ adversity-passive — something happened, and it got to you
 
 This is the same られる as above, in a different mood.
 
@@ -66,7 +66,7 @@ plain: 妹[いもうと]が私[わたし]の日記[にっき]を読[よ]んだ |
 affected: 妹[いもうと]に日記[にっき]を読[よ]まれた | My little sister read my diary, and it got to me.
 ```
 
-@@ intransitive-adversity
+@@ intransitive-adversity — an event that reaches you anyway
 
 The same adversity reading reaches even verbs that never had an object to lose.
 
@@ -100,7 +100,7 @@ B: 隣[となり]の部屋[へや]の人[ひと]に、夜中[よなか]に騒[�
 
 -> Compare: [[transitivity]] — choosing between the plain intransitive and the passive when nobody's identity needs to be in the sentence
 
-@@ iwareta
+@@ iwareta — reporting what you were told
 
 One more られる job before the page turns to させる: reporting what someone said.
 
@@ -134,7 +134,7 @@ pat: quoted command + と + 言われる, passive report
 
 None of these name who did it. Casual speech drops the agent whenever it's already obvious, leaving just the affected party and the passive verb to carry the whole sentence.
 
-@@ saseru
+@@ saseru — making, or letting, someone act
 
 With られる's jobs now in view, here's the other half of the pair.
 
@@ -169,7 +169,7 @@ Both られる and させる mark the "other party" with に, and they're never 
 
 先生が生徒に本を読ませた — the teacher made the student read the book. Here に marks the person who was made to act. Before assuming a に phrase means "by" or "for," check which of these two sentences you're actually in.
 
-@@ saserareru
+@@ saserareru — made to act, from your side
 
 Stack the two together, and this is what results.
 
@@ -202,7 +202,7 @@ Both endings attach the same way to any verb, once you know which pattern to loo
 
 The contracted column is empty for three of these five rows on purpose — not every verb can shorten this far. される, next, covers which ones do and why.
 
-@@ sareru
+@@ sareru — the shortened causative-passive
 
 One syllable shorter, and just as common.
 

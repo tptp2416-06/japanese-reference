@@ -16,7 +16,7 @@ That's a memory aid, not a strict rule. Nothing requires these three jobs to sha
 
 The question worth asking is which starting point you mean. Once you've decided that, <span class="cite-jp">から</span> attaches the same way every time — directly after whatever comes before it, with no change of form required.
 
-## から (reason) { #reason }
+## から (reason) — から as your own reason { #reason }
 
 Because; gives a reason.
 {: .pt-gloss }
@@ -68,7 +68,7 @@ Because; gives a reason.
 *Compare:* [から・ので・し — reason connectives](<../contrasts/kara-node-shi.md> "reason connectives")
 {: .compare }
 
-## から (postposed) { #postposed }
+## から (postposed) — から left standing alone { #postposed }
 
 Because, placed after the main clause as an added justification.
 {: .pt-gloss }
@@ -86,7 +86,7 @@ Because, placed after the main clause as an added justification.
 <div class="dlg"><div class="dlg-note">B never states the result — から alone signals &quot;that&#x27;s why I can&#x27;t,&quot; licensed by A&#x27;s invitation.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>今夜<rt>こんや</rt></ruby>、<ruby>飲<rt>の</rt></ruby>みに<ruby>行<rt>い</rt></ruby>かない？</div><div class="ex-en">Want to go for a drink tonight?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ごめん、<ruby>明日<rt>あした</rt></ruby><ruby>早<rt>はや</rt></ruby>いから。</div><div class="ex-en">Sorry, I&#x27;ve got an early start tomorrow.</div></div></div></div>
 
 
-## から (source) { #source }
+## から (source) — where something starts from { #source }
 
 From; marks a source or origin.
 {: .pt-gloss }
@@ -98,12 +98,15 @@ From; marks a source or origin.
 
 - **<span class="cite-jp">から</span> marks where something begins its path** — a place, a person, or a material something started as.
 - **With a place, <span class="cite-jp">から</span> looks back to the start; <span class="cite-jp">に</span> points ahead to the goal** — <span class="cite-jp">大阪から</span> — from Osaka — and <span class="cite-jp">大阪に</span> — to Osaka — describe the same trip from opposite ends.
-- **<span class="cite-jp">から</span> only ever marks the giver, never the receiver** — <span class="cite-jp">友達からもらった</span> — got it from a friend — takes <span class="cite-jp">から</span>; handing something the other way takes <span class="cite-jp">に</span>, never <span class="cite-jp">から</span>.
-- **The material sense marks a transformation** — <span class="cite-jp">米から酒を造る</span> — sake is brewed from rice — treats the rice as changed into something else entirely.
 
 <div class="eg-contrast"><div class="eg-member"><div class="eg-label">from</div><div class="eg-jp" lang="ja"><ruby>大阪<rt>おおさか</rt></ruby>から<ruby>来<rt>き</rt></ruby>た</div><div class="ex-en">Came from Osaka.</div></div><div class="eg-member"><div class="eg-label">to</div><div class="eg-jp" lang="ja"><ruby>大阪<rt>おおさか</rt></ruby>に<ruby>行<rt>い</rt></ruby>く</div><div class="ex-en">Going to Osaka.</div></div></div>
 
 <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [に (destination)](<ni.md#destination> "に — destination, arrival, recipient, purpose, and occasion") <span class="xref-reason">&mdash; に marking the goal a journey moves toward, から&#x27;s opposite end</span></div>
+
+### <span class="cite-jp">から</span> never marks the receiver
+
+- **<span class="cite-jp">から</span> only ever marks the giver, never the receiver** — <span class="cite-jp">友達からもらった</span> — got it from a friend — takes <span class="cite-jp">から</span>; handing something the other way takes <span class="cite-jp">に</span>, never <span class="cite-jp">から</span>.
+- **The material sense marks a transformation** — <span class="cite-jp">米から酒を造る</span> — sake is brewed from rice — treats the rice as changed into something else entirely.
 
 <div id="trap-english-trap" class="trap-anchor"></div>
 
@@ -117,7 +120,7 @@ Where the material stays recognizably itself in the result, <span class="cite-jp
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [から／で (material)](<kara-de.md#kara-de> "から-で — the material something is made from") <span class="xref-reason">&mdash; から versus で for what something is made from, depending on whether the material changes</span></div>
 
 
-## から (temporal since) { #temporal-since }
+## から (temporal since) — から marking a start time { #temporal-since }
 
 Since; marks a starting point in time.
 {: .pt-gloss }

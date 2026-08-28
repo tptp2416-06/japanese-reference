@@ -12,7 +12,7 @@ The question worth asking is which starting point you mean. Once you've decided 
 Attached to a clause it gives the reason for what follows; attached to a place or a time word it marks where something begins.
 Decide which starting point you mean, then attach から directly — no change to the form of whatever comes before it.
 
-@@ reason
+@@ reason — から as your own reason
 
 **Form:** `Clause (plain or polite) + から、result.` · `N／Na-adj + だから／ですから、result.`
 
@@ -63,7 +63,7 @@ A: どうしたの？元気[げんき]ないね。 | What's wrong? You seem down
 B: 昨夜[ゆうべ]よく眠[ねむ]れなかったから、ちょっと疲[つか]れてるんだ。 | I didn't sleep well last night, so I'm a bit tired.
 ```
 
-@@ postposed
+@@ postposed — から left standing alone
 
 **Form:** `[clause, plain or polite] + から。` — stands alone; the result is left unstated
 
@@ -78,14 +78,12 @@ A: 今夜[こんや]、飲[の]みに行[い]かない？ | Want to go for a dri
 B: ごめん、明日[あした]早[はや]いから。 | Sorry, I've got an early start tomorrow.
 ```
 
-@@ source
+@@ source — where something starts from
 
 **Form:** `N + から`
 
 - **から marks where something begins its path** — a place, a person, or a material something started as.
 - **With a place, から looks back to the start; に points ahead to the goal** — 大阪から — from Osaka — and 大阪に — to Osaka — describe the same trip from opposite ends.
-- **から only ever marks the giver, never the receiver** — 友達からもらった — got it from a friend — takes から; handing something the other way takes に, never から.
-- **The material sense marks a transformation** — 米から酒を造る — sake is brewed from rice — treats the rice as changed into something else entirely.
 
 ```eg
 from: 大阪[おおさか]から来[き]た | Came from Osaka.
@@ -93,6 +91,11 @@ to: 大阪[おおさか]に行[い]く | Going to Osaka.
 ```
 
 -> Contrast: [[ni#destination]] — に marking the goal a journey moves toward, から's opposite end
+
+### から never marks the receiver
+
+- **から only ever marks the giver, never the receiver** — 友達からもらった — got it from a friend — takes から; handing something the other way takes に, never から.
+- **The material sense marks a transformation** — 米から酒を造る — sake is brewed from rice — treats the rice as changed into something else entirely.
 
 !!! warning "English Trap"
     English "from" covers both directions of a gift or a message — "a letter from my mother", "a call from work" — which makes it tempting to reach for から when naming who something goes TO as well.
@@ -103,7 +106,7 @@ Where the material stays recognizably itself in the result, で takes over from 
 
 -> Compare: [[kara-de#kara-de]] — から versus で for what something is made from, depending on whether the material changes
 
-@@ temporal-since
+@@ temporal-since — から marking a start time
 
 **Form:** `Time-N + から` · `から〜まで` for a bounded range
 

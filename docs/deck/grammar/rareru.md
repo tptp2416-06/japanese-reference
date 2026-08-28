@@ -27,7 +27,7 @@ The page starts with <span class="cite-jp">られる</span> by itself — first 
 [Transitivity](<transitivity.md> "Transitivity — transitive and intransitive verb pairs") — English often reaches for a passive where Japanese uses the intransitive — られる is not the automatic substitute; see the pitfall
 {: .seealso }
 
-## られる (neutral passive) { #neutral-passive }
+## られる (neutral passive) — the plain, uninvolved passive { #neutral-passive }
 
 The subject receives an action, without implying harm or inconvenience
 {: .pt-gloss }
@@ -70,7 +70,7 @@ Godan verbs don't share this overlap — their potential form is built different
 <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [（ら）れる](<reru-rareru.md> "（ら）れる — honorific passive-shaped form") <span class="xref-reason">&mdash; the honorific reading, used to describe a respected person&#x27;s own actions politely</span></div>
 
 
-## られる (adversity passive) { #adversity-passive }
+## られる (adversity passive) — something happened, and it got to you { #adversity-passive }
 
 Someone's action affects the subject negatively or inconveniently
 {: .pt-gloss }
@@ -92,7 +92,7 @@ This is the same <span class="cite-jp">られる</span> as above, in a different
 <div class="eg-contrast"><div class="eg-member"><div class="eg-label">plain</div><div class="eg-jp" lang="ja"><ruby>妹<rt>いもうと</rt></ruby>が<ruby>私<rt>わたし</rt></ruby>の<ruby>日記<rt>にっき</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んだ</div><div class="ex-en">My little sister read my diary.</div></div><div class="eg-member"><div class="eg-label">affected</div><div class="eg-jp" lang="ja"><ruby>妹<rt>いもうと</rt></ruby>に<ruby>日記<rt>にっき</rt></ruby>を<ruby>読<rt>よ</rt></ruby>まれた</div><div class="ex-en">My little sister read my diary, and it got to me.</div></div></div>
 
 
-## られる (intransitive adversity) { #intransitive-adversity }
+## られる (intransitive adversity) — an event that reaches you anyway { #intransitive-adversity }
 
 An intransitive event indirectly causes the subject trouble or harm
 {: .pt-gloss }
@@ -131,7 +131,7 @@ Plenty of intransitive verbs work the same way as <span class="cite-jp">降る</
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [Transitivity](<transitivity.md> "Transitivity — transitive and intransitive verb pairs") <span class="xref-reason">&mdash; choosing between the plain intransitive and the passive when nobody&#x27;s identity needs to be in the sentence</span></div>
 
 
-## 言われた (passive quote) { #iwareta }
+## 言われた (passive quote) — reporting what you were told { #iwareta }
 
 Was told that...; passive reported-speech form.
 {: .pt-gloss }
@@ -168,7 +168,7 @@ Everything before <span class="cite-jp">と</span> or <span class="cite-jp">っ�
 
 None of these name who did it. Casual speech drops the agent whenever it's already obvious, leaving just the affected party and the passive verb to carry the whole sentence.
 
-## させる (causative) { #saseru }
+## させる (causative) — making, or letting, someone act { #saseru }
 
 Make or let someone do something, depending on context
 {: .pt-gloss }
@@ -204,7 +204,7 @@ Both <span class="cite-jp">られる</span> and <span class="cite-jp">させる<
 
 <span class="cite-jp">先生が生徒に本を読ませた</span> — the teacher made the student read the book. Here <span class="cite-jp">に</span> marks the person who was made to act. Before assuming a <span class="cite-jp">に</span> phrase means "by" or "for," check which of these two sentences you're actually in.
 
-## させられる (caus.-passive) { #saserareru }
+## させられる (caus.-passive) — made to act, from your side { #saserareru }
 
 Be made or forced to do something by another person
 {: .pt-gloss }
@@ -239,7 +239,7 @@ Both endings attach the same way to any verb, once you know which pattern to loo
 
 The contracted column is empty for three of these five rows on purpose — not every verb can shorten this far. <span class="cite-jp">される</span>, next, covers which ones do and why.
 
-## される (contracted caus.-passive) { #sareru }
+## される (contracted caus.-passive) — the shortened causative-passive { #sareru }
 
 Contracted spoken form meaning be made or forced to do something
 {: .pt-gloss }
