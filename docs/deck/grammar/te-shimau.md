@@ -24,7 +24,7 @@ Say it in an actual conversation, though, and it rarely comes out that way — <
 
 It comes right after <span class="cite-jp">てしまう</span>'s own sections here, not because it matters less, but because a contraction is easiest to learn once you've seen what it's contracting.
 
-## てしまう (completion) { #completion }
+## てしまう (completion) — finishing all the way through { #completion }
 
 Finish doing something completely, emphasizing completion rather than regret
 {: .pt-gloss }
@@ -40,6 +40,8 @@ Finish doing something completely, emphasizing completion rather than regret
 - **The uncontracted form leans formal or written** — narration, notices, and careful speech reach for <span class="cite-jp">しまう</span> where a text between friends would contract it to <span class="cite-jp">ちゃう</span>.
 - **Completion-flavored <span class="cite-jp">しまう</span> often comes with a deadline or a goal** — it frames finishing as getting all the way through something, not as an accident.
 - **Some verbs resist it** — <span class="cite-jp">ある</span>, <span class="cite-jp">いる</span>, <span class="cite-jp">わかる</span> describe a standing state rather than an event, so there's rarely a "finish" for <span class="cite-jp">しまう</span> to mark.
+
+### <span class="cite-jp">てしまう</span> rarely gets negated directly
 
 <span class="cite-jp">てしまう</span> rarely gets negated to mean "won't end up finishing." If nothing got finished, there's nothing left for the auxiliary to report — so Japanese usually just drops it and negates the plain verb instead.
 
@@ -62,7 +64,7 @@ Register climbs further still. A notice might read <span class="cite-jp">締め�
 *Compare:* [ておく・てある・ている・てしまう — prepared, resulting, finished](<../contrasts/te-oku-te-aru-te-iru-te-shimau.md> "prepared, resulting, finished")
 {: .compare }
 
-## てしまう (regret) { #regret }
+## てしまう (regret) — an unwanted, unwalked-back ending { #regret }
 
 Unfortunately do something, conveying regret, annoyance, or an unwanted outcome
 {: .pt-gloss }
@@ -81,6 +83,8 @@ Unfortunately do something, conveying regret, annoyance, or an unwanted outcome
 
 <div class="ex"><div class="ex-jp" lang="ja">大事な写真を<span class="pat">消してしまった</span>。</div><div class="ex-en">&ldquo;I deleted an important photo.&rdquo; <span class="lit">&mdash; lit. an important photo, went and erased</span></div><div class="ex-note">てしまう doesn&#x27;t just report the deleting — it frames it as complete and impossible to undo, and that framing is what makes this land as regret.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">大事な写真を</span><span class="g">the important photo</span></div><div class="bd-seg hit"><span class="j" lang="ja">消してしまった</span><span class="g">ended up erasing</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-てしまう, an ending that can&#x27;t be walked back</span></div></div></details></div>
 
+### Not built-in regret or apology
+
 <div id="trap-english-trap" class="trap-anchor"></div>
 
 !!! warning "English Trap"
@@ -93,7 +97,7 @@ A different construction reaches a similar unwanted feeling by another route: th
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [られる (adversity passive)](<rareru.md#adversity-passive> "られる・させる — passive, causative, and causative-passive") <span class="xref-reason">&mdash; the same unwanted-outcome feeling, reached by making the affected person the subject instead</span></div>
 
 
-## ちゃう (contraction) { #chau }
+## ちゃう (contraction) — how てしまう actually gets said { #chau }
 
 End up doing or do completely; contraction of てしまう.
 {: .pt-gloss }
@@ -122,12 +126,14 @@ End up doing or do completely; contraction of てしまう.
 
     <span class="cite-jp">忘れちゃった</span> — I went and forgot it — becomes <span class="cite-jp">忘れてしまいました</span> — I'm afraid I forgot it. The completion-or-regret meaning travels across unchanged.
 
+### The real choice: finished and irreversible, or not
+
 The choice that matters is not which flavor to reach for. It's whether to mark the event as finished and irreversible at all — reach for <span class="cite-jp">ちゃう</span> when that's the point, and leave it off for a plain report of what happened.
 
 <div class="eg-micro"><div class="eg-jp" lang="ja">返信、もう出しちゃった。</div><div class="ex-en">Already sent the reply.</div></div>
 
 
-## ちゃった { #chatta }
+## ちゃった — where completion and regret actually show up { #chatta }
 
 Ended up doing; past contraction of てしまった.
 {: .pt-gloss }
@@ -149,7 +155,7 @@ Ended up doing; past contraction of てしまった.
 <div class="dlg"><div class="dlg-note">what licenses ちゃった — A has already spotted the stain, so B&#x27;s ちゃった owns the mishap rather than introducing it.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">あれ、シャツに何かついてるよ。</div><div class="ex-en">Hey, there&#x27;s something on your shirt.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ああ、コーヒーこぼしちゃった。</div><div class="ex-en">Ugh, I spilled coffee.</div></div></div></div>
 
 
-## ちゃおう { #chaou }
+## ちゃおう — deciding to get it done now { #chaou }
 
 Expresses deciding to finish an action, often briskly or decisively
 {: .pt-gloss }
@@ -170,7 +176,7 @@ Expresses deciding to finish an action, often briskly or decisively
 <div class="dlg"><div class="dlg-note">what licenses ちゃおう — B turns down the offer to wait and commits to finishing right away.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">掃除、明日でいいよ。</div><div class="ex-en">The cleaning can wait until tomorrow.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ううん、今やっちゃおう。</div><div class="ex-en">No, let&#x27;s just get it done now.</div></div></div></div>
 
 
-## ちゃうかも { #chau-kamo }
+## ちゃうかも — guessing at an unwanted finish { #chau-kamo }
 
 Might end up doing; casual possibility involving an unintended or regrettable result
 {: .pt-gloss }

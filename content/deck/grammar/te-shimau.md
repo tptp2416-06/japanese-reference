@@ -20,13 +20,15 @@ It comes right after てしまう's own sections here, not because it matters le
 Whether that lands as satisfaction or as regret depends on what got finished, not on a different grammar point.
 Ask: am I just reporting what happened, or framing it as done and irreversible? That's the choice this auxiliary makes.
 
-@@ completion
+@@ completion — finishing all the way through
 
 **Form:** `V-て + しまう` (uncontracted; the form ちゃう contracts from)
 
 - **The uncontracted form leans formal or written** — narration, notices, and careful speech reach for しまう where a text between friends would contract it to ちゃう.
 - **Completion-flavored しまう often comes with a deadline or a goal** — it frames finishing as getting all the way through something, not as an accident.
 - **Some verbs resist it** — ある, いる, わかる describe a standing state rather than an event, so there's rarely a "finish" for しまう to mark.
+
+### てしまう rarely gets negated directly
 
 てしまう rarely gets negated to mean "won't end up finishing." If nothing got finished, there's nothing left for the auxiliary to report — so Japanese usually just drops it and negates the plain verb instead.
 
@@ -48,7 +50,7 @@ The two often turn up in the same story — one preparing what the other later d
 
 Register climbs further still. A notice might read 締め切ってしまいます — we'll be closing applications — plain てしまう, dressed in the polite -ます ending, doing formal work without becoming a different construction.
 
-@@ regret
+@@ regret — an unwanted, unwalked-back ending
 
 **Form:** `V-て + しまう` (same uncontracted form as completion; here regret or adversity is what colors it)
 
@@ -64,6 +66,8 @@ bd: 大事な写真を|the important photo / 消してしまった*|ended up era
 pat: V-てしまう, an ending that can't be walked back
 ```
 
+### Not built-in regret or apology
+
 !!! warning "English Trap"
     The textbook gloss "regret" makes it tempting to hear てしまう as an apology built into the grammar. That reflex mistranslates a neutral, even happy completion as if the speaker were sorry.
 
@@ -73,7 +77,7 @@ A different construction reaches a similar unwanted feeling by another route: th
 
 -> Compare: [[rareru#adversity-passive]] — the same unwanted-outcome feeling, reached by making the affected person the subject instead
 
-@@ chau
+@@ chau — how てしまう actually gets said
 
 **Form:** `V-て + しまう → V-ちゃう` · `V-で + しまう → V-じゃう`
 
@@ -89,13 +93,15 @@ A different construction reaches a similar unwanted feeling by another route: th
 
     忘れちゃった — I went and forgot it — becomes 忘れてしまいました — I'm afraid I forgot it. The completion-or-regret meaning travels across unchanged.
 
+### The real choice: finished and irreversible, or not
+
 The choice that matters is not which flavor to reach for. It's whether to mark the event as finished and irreversible at all — reach for ちゃう when that's the point, and leave it off for a plain report of what happened.
 
 ```eg
 返信、もう出しちゃった。 | Already sent the reply.
 ```
 
-@@ chatta
+@@ chatta — where completion and regret actually show up
 
 **Form:** `V-ちゃった` (past)
 
@@ -113,7 +119,7 @@ A: あれ、シャツに何かついてるよ。 | Hey, there's something on you
 B: ああ、コーヒーこぼしちゃった。 | Ugh, I spilled coffee.
 ```
 
-@@ chaou
+@@ chaou — deciding to get it done now
 
 **Form:** `V-ちゃおう` (the volitional しまおう, contracted)
 
@@ -128,7 +134,7 @@ A: 掃除、明日でいいよ。 | The cleaning can wait until tomorrow.
 B: ううん、今やっちゃおう。 | No, let's just get it done now.
 ```
 
-@@ chau-kamo
+@@ chau-kamo — guessing at an unwanted finish
 
 **Form:** `V-ちゃう + かも`
 

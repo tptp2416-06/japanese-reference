@@ -20,7 +20,7 @@ The shape itself never changes. Only the tense and content of what follows <span
 **See also:** [あっという間に](<atto-iu-ma-ni.md> "あっという間に — In what feels like no time") — 気づいたら is the neighbouring frame — the change noticed after the fact rather than watched
 {: .seealso }
 
-## たら (conditional) { #conditional }
+## たら (conditional) — a hypothesis about what hasn't happened yet { #conditional }
 
 If or when a condition is met, the following result applies
 {: .pt-gloss }
@@ -79,7 +79,7 @@ The row worth remembering is the last one: <span class="cite-jp">たら</span> i
 *Compare:* [たら・ば・と・なら — the conditional quartet](<../contrasts/tara-ba-to-nara.md> "the conditional quartet")
 {: .compare }
 
-## たら (discovery) { #discovery }
+## たら (discovery) — what you found once the trigger happened { #discovery }
 
 On doing X, discovered Y; a one-off past finding
 {: .pt-gloss }
@@ -97,6 +97,8 @@ On doing X, discovered Y; a one-off past finding
 - **The finding doesn't need to be dramatic** — a routine check that turns out to confirm something ordinary still counts, as long as the main clause reports what was actually found rather than a prediction.
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>財布<rt>さいふ</rt></ruby>を<span class="pat"><ruby>開<rt>あ</rt></ruby>けたら、</span>お<ruby>金<rt>かね</rt></ruby>が<ruby>一枚<rt>いちまい</rt></ruby>も<ruby>入<rt>はい</rt></ruby>っていなかった。</div><div class="ex-en">&ldquo;I opened my wallet, and there wasn&#x27;t a single bill inside.&rdquo; <span class="lit">&mdash; lit. if I opened my wallet, not one bill was inside</span></div><div class="ex-note">The clause looks like a hypothetical &quot;if,&quot; but 入っていなかった is a plain past-tense fact — the wallet was already checked, and this reports what turned out to be true.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>財布<rt>さいふ</rt></ruby>を</span><span class="g">the wallet</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>開<rt>あ</rt></ruby>けたら、</span><span class="g">I opened it, and</span></div><div class="bd-seg"><span class="j" lang="ja">お<ruby>金<rt>かね</rt></ruby>が</span><span class="g">money</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>一枚<rt>いちまい</rt></ruby>も</span><span class="g">even a single bill</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>入<rt>はい</rt></ruby>っていなかった</span><span class="g">wasn&#x27;t inside</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-たら + past-tense main clause, one-off discovery</span></div></div></details></div>
+
+### Discovery versus a hypothetical condition
 
 The same trigger, read two ways, shows the split directly:
 
@@ -118,7 +120,7 @@ The same trigger, read two ways, shows the split directly:
 
     Nothing in the verb form marks this as counterfactual. Only already knowing that the trip did not go this way tells the listener to read it that way.
 
-## たら (temporal) { #temporal }
+## たら (temporal) — a routine, not a single event { #temporal }
 
 When or after something happens.
 {: .pt-gloss }
@@ -146,7 +148,7 @@ The same shape turns fully polite by putting the <span class="cite-jp">ます</s
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [とき](<toki.md> "とき — When or at the time that") <span class="xref-reason">&mdash; names a shared timeframe rather than a trigger-and-result sequence</span></div>
 
 
-## たら？ (suggestion) { #tara-q }
+## たら？ (suggestion) — a suggestion, with the ending left off { #tara-q }
 
 Why don't you...?; casual suggestion.
 {: .pt-gloss }
@@ -181,7 +183,7 @@ The consequence drops out once context already supplies it:
 - <span class="cite-jp">時間があったら。</span> — If I get time. The rest is left unsaid, the same omission that makes <span class="cite-jp">たら？</span> work as a suggestion.
 - <span class="cite-jp">これでよかったら、どうぞ。</span> — If this works, here you go.
 
-## 気づいたら { #kizuitara }
+## 気づいたら — a change caught only after the fact { #kizuitara }
 
 Before one realizes it; sudden awareness of an already changed situation
 {: .pt-gloss }

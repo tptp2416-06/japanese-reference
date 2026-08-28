@@ -10,6 +10,7 @@ easiest of its members').
 <div class="recent-card" markdown="0">
 <p class="recent-eyebrow">RECENTLY UPDATED</p>
 <ul class="recent-list">
+<li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="kara/">から — reason, and the particle for source and time</a></li>
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="sou-da/">そうだ — looks like, seems, and about to</a></li>
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="tame-ni/">ために — In order to achieve a goal</a></li>
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="te-shimau/">てしまう — completion and regret, with the ちゃう contractions</a></li>
@@ -17,7 +18,6 @@ easiest of its members').
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="nakereba-naranai/">なければならない — must, have to, and don&#x27;t have to</a></li>
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="wa/">は — topic, contrast, and scope</a></li>
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="made-ni/">までに — by a deadline</a></li>
-<li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="mo/">も — Also or too</a></li>
 </ul>
 </div>
 

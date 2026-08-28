@@ -13,7 +13,7 @@ The shape itself never changes. Only the tense and content of what follows た�
 たら turns the past-tense shape of a verb, adjective or noun into a clause meaning roughly "if" or "when" — the same shape covers a hypothetical condition, a habitual sequence, a one-off discovery, and, with the consequence dropped, a casual suggestion.
 Context — mainly the tense of what follows — decides which one you're hearing. Very little restricts what kind of main clause a たら-clause can take, including a request or invitation, which is part of why it's the conditional Japanese reaches for most in conversation.
 
-@@ conditional
+@@ conditional — a hypothesis about what hasn't happened yet
 
 **Form:** `V-た + ら` · `Adj-かった + ら` · `Na-adj/N + だったら`
 
@@ -70,7 +70,7 @@ The row worth remembering is the last one: たら is the one that requires its o
 
 なら doesn't require the trigger to have happened at all — たら does, and that's the other half of the same decision.
 
-@@ discovery
+@@ discovery — what you found once the trigger happened
 
 **Form:** `V-た + ら` — the same shape as the conditional above; what marks this sense is a past-tense main clause reporting something the speaker actually found.
 
@@ -86,6 +86,8 @@ note: The clause looks like a hypothetical "if," but 入っていなかった is
 bd: 財布を|the wallet / 開けたら、*|I opened it, and / お金が|money / 一枚も|even a single bill / 入っていなかった|wasn't inside
 pat: V-たら + past-tense main clause, one-off discovery
 ```
+
+### Discovery versus a hypothetical condition
 
 The same trigger, read two ways, shows the split directly:
 
@@ -108,7 +110,7 @@ discovery: 窓[まど]を開[あ]けたら、外[そと]は雨[あめ]だった*
 
     Nothing in the verb form marks this as counterfactual. Only already knowing that the trip did not go this way tells the listener to read it that way.
 
-@@ temporal
+@@ temporal — a routine, not a single event
 
 **Form:** `V-た + ら` — again the same shape; here the main clause describes something the speaker does as a matter of routine, not a single finding.
 
@@ -128,7 +130,7 @@ polite: 到着[とうちゃく]しましたら、受付[うけつけ]までお�
 
 -> Compare: [[toki]] — names a shared timeframe rather than a trigger-and-result sequence
 
-@@ tara-q
+@@ tara-q — a suggestion, with the ending left off
 
 **Form:** `V-た + ら？` with the consequence clause left out and rising intonation standing in for it.
 
@@ -166,7 +168,7 @@ The consequence drops out once context already supplies it:
 - 時間があったら。 — If I get time. The rest is left unsaid, the same omission that makes たら？ work as a suggestion.
 - これでよかったら、どうぞ。 — If this works, here you go.
 
-@@ kizuitara
+@@ kizuitara — a change caught only after the fact
 
 **Form:** `気づいたら + [a clause describing what had already changed]`
 
