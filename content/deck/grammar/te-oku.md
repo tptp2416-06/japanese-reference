@@ -2,6 +2,8 @@
 
 The action itself can be anything; what ておく adds is always the same — do this now, so it's ready, done, or out of the way by the time it matters.
 
+Ask whether a later moment will be easier because of what you do now. If doing it now buys you something later, ておく frames the action that way; if there's no later payoff in view, the plain form is enough.
+
 @@ tldr
 
 ておく marks an action done now so it's ready, settled, or out of the way later.

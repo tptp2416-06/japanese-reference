@@ -12,6 +12,8 @@
 
 The action itself can be anything; what <span class="cite-jp">ておく</span> adds is always the same — do this now, so it's ready, done, or out of the way by the time it matters.
 
+Ask whether a later moment will be easier because of what you do now. If doing it now buys you something later, <span class="cite-jp">ておく</span> frames the action that way; if there's no later payoff in view, the plain form is enough.
+
 Do something in advance or leave it in a resulting state
 {: .h1-gloss }
 
