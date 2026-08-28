@@ -18,7 +18,7 @@ reason, a realization, background — rather than as an isolated assertion.
 んだから, んだけど, んだって, んだよね and んですか each build a more
 particular use on that same base.
 
-@@ explanatory
+@@ explanatory — connecting a fact to the situation
 
 **Form:** `plain form + んだ` · `N / な-adj + なんだ`
 
@@ -60,6 +60,12 @@ makes it clear.
 register realization, plain acknowledgment, surprise or mild interest; what
 those readings share is that the information has been received.
 
+```dialog
+note: what licenses そうなんだ — B's reply registers A's news as newly landing information, not something B already knew.
+A: 来月[らいげつ]、大阪[おおさか]に引[ひ]っ越[こ]すんだ。 | I'm moving to Osaka next month.
+B: え、そうなんだ！ | Oh, really?
+```
+
 !!! warning "Pitfall"
     んだ normally signals a statement is relevant as explanation, context
     or realization — connected to the situation, not standing alone.
@@ -76,7 +82,7 @@ those readings share is that the information has been received.
 
     -> Compare: [[da-kara#main]] — だから's own job as a sentence-opening connective, which this んだ leans on rather than repeats
 
-@@ n-da-kara
+@@ n-da-kara — a reason treated as already established
 
 **Form:** `plain form + んだから`
 
@@ -104,7 +110,7 @@ bd: 疲れてるんだから、*|since you're tired, [that's the situation] / �
 pat: んだ + から, reason treated as already established
 ```
 
-@@ n-da-kedo
+@@ n-da-kedo — background that leaves the door open
 
 **Form:** `plain form + んだけど`
 
@@ -119,7 +125,7 @@ pat: んだ + から, reason treated as already established
 実[じつ]は、話[はな]したいことがあるんだけど。 | Actually, there's something I want to talk to you about.
 ```
 
-@@ n-datte
+@@ n-datte — relaying what you heard
 
 **Form:** `plain form + んだって`
 
@@ -145,7 +151,7 @@ bd: リホ、|Riho, / 来月|next month / 引っ越すんだって*|I heard [she
 pat: んだ + って, reported information framed as background
 ```
 
-@@ n-da-yo-ne
+@@ n-da-yo-ne — explaining while inviting agreement
 
 **Form:** `plain form + んだよね`
 
@@ -160,7 +166,7 @@ pat: んだ + って, reported information framed as background
 
 -> Continue with: [[ne#yo-ne]] — よね's own dynamics, the half of this combination んだ doesn't supply
 
-@@ n-desu-ka
+@@ n-desu-ka — a question prompted by what you noticed
 
 **Form:** `plain form + んですか`
 
@@ -168,6 +174,9 @@ pat: んだ + って, reported information framed as background
   fairly directly; んですか frames the same question as connected to some
   situation the speaker is trying to understand, without necessarily asking
   for a reason.
+
+### んですか against a plain ですか question
+
 - **The contrast is audible** — どこに行きますか — where are you going? —
   asks fairly directly.
 - **んですか adds nothing to the words** — どこに行くんですか — where are you

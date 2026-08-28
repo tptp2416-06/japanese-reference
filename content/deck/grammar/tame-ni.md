@@ -4,7 +4,7 @@ Deliberate purpose — doing one thing in order to achieve another. Dictionary-
 form verb or noun + の in front; the same subject controls both halves. If
 the goal isn't something you can just decide to do, you want ように instead.
 
-@@ purpose
+@@ purpose — a deliberate goal, pursued on purpose
 
 **Form:** `V-dict + ために` · `N + のために`
 
@@ -15,6 +15,12 @@ the goal isn't something you can just decide to do, you want ように instead.
   sake — describes a benefit, not a plan. Context decides, and the readings
   sit close enough that this rarely causes trouble.
 - **Casual clip** — the に often drops: 何のため？ — what for?
+```dialog
+note: what licenses the casual 何のため？ — B's question presupposes A already has a goal in mind, and just wants it named.
+A: 毎朝[まいあさ]走[はし]ってるんだ。 | I've been running every morning.
+B: え、何[なに]のため？ | Oh, what for?
+A: マラソンに出[で]るために。 | In order to run a marathon.
+```
 
 !!! warning "Pitfall"
     ために wants a goal the subject can pursue directly. For outcomes you

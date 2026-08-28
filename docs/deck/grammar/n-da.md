@@ -22,7 +22,7 @@ Five related constructions build on that base: <span class="cite-jp">んだか�
 <span class="cite-jp">んだよね</span> and <span class="cite-jp">んですか</span>. Each is more particular than a single label can
 capture — the sections below go through them in turn.
 
-## んだ (explanatory) { #explanatory }
+## んだ (explanatory) — connecting a fact to the situation { #explanatory }
 
 Provides background, explanation, or emphasis in casual speech
 {: .pt-gloss }
@@ -64,6 +64,8 @@ makes it clear.
 register realization, plain acknowledgment, surprise or mild interest; what
 those readings share is that the information has been received.
 
+<div class="dlg"><div class="dlg-note">what licenses そうなんだ — B&#x27;s reply registers A&#x27;s news as newly landing information, not something B already knew.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>来月<rt>らいげつ</rt></ruby>、<ruby>大阪<rt>おおさか</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すんだ。</div><div class="ex-en">I&#x27;m moving to Osaka next month.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">え、そうなんだ！</div><div class="ex-en">Oh, really?</div></div></div></div>
+
 <div id="trap-pitfall" class="trap-anchor"></div>
 
 !!! warning "Pitfall"
@@ -83,7 +85,7 @@ those readings share is that the information has been received.
     <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [だから](<da-kara.md> "だから — So or therefore") <span class="xref-reason">&mdash; だから&#x27;s own job as a sentence-opening connective, which this んだ leans on rather than repeats</span></div>
 
 
-## んだから { #n-da-kara }
+## んだから — a reason treated as already established { #n-da-kara }
 
 Given that X is true; strongly presents it as explanatory background
 {: .pt-gloss }
@@ -110,7 +112,7 @@ Given that X is true; strongly presents it as explanatory background
 <div class="ex"><div class="ex-jp" lang="ja"><span class="pat"><ruby>疲<rt>つか</rt></ruby>れてるんだから、</span><ruby>今日<rt>きょう</rt></ruby>はもう<ruby>休<rt>やす</rt></ruby>もう。</div><div class="ex-en">&ldquo;You&#x27;re worn out — let&#x27;s call it a day.&rdquo; <span class="lit">&mdash; lit. [the fact is] you&#x27;re tired, so today let&#x27;s already rest</span></div><div class="ex-note">んだから doesn&#x27;t just state the reason — it treats &quot;you&#x27;re tired&quot; as something the speaker takes to be already established. That&#x27;s what lets the advice land as a natural next step here; the same construction can just as easily carry a sharper, more insistent edge in a different situation.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="j" lang="ja"><ruby>疲<rt>つか</rt></ruby>れてるんだから、</span><span class="g">since you&#x27;re tired, [that&#x27;s the situation]</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>今日<rt>きょう</rt></ruby>は</span><span class="g">today</span></div><div class="bd-seg"><span class="j" lang="ja">もう<ruby>休<rt>やす</rt></ruby>もう</span><span class="g">let&#x27;s already rest</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">んだ + から, reason treated as already established</span></div></div></details></div>
 
 
-## んだけど { #n-da-kedo }
+## んだけど — background that leaves the door open { #n-da-kedo }
 
 Provides background or softens a request, explanation, or topic introduction
 {: .pt-gloss }
@@ -133,7 +135,7 @@ Provides background or softens a request, explanation, or topic introduction
 <div class="eg-micro"><div class="eg-jp" lang="ja"><ruby>実<rt>じつ</rt></ruby>は、<ruby>話<rt>はな</rt></ruby>したいことがあるんだけど。</div><div class="ex-en">Actually, there&#x27;s something I want to talk to you about.</div></div>
 
 
-## んだって { #n-datte }
+## んだって — relaying what you heard { #n-datte }
 
 I heard that...; casual hearsay.
 {: .pt-gloss }
@@ -160,7 +162,7 @@ I heard that...; casual hearsay.
 <div class="ex"><div class="ex-jp" lang="ja">リホ、<ruby>来月<rt>らいげつ</rt></ruby><span class="pat"><ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すんだって</span>。</div><div class="ex-en">&ldquo;I heard Riho&#x27;s moving next month.&rdquo; <span class="lit">&mdash; lit. Riho, next month is moving [I heard, that&#x27;s the situation]</span></div><div class="ex-note">って marks this as reported information rather than a firsthand assertion. んだ frames it as relevant background, which is part of why hearsay so often arrives wrapped in んだって rather than a bare quote.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">リホ、</span><span class="g">Riho,</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>来月<rt>らいげつ</rt></ruby></span><span class="g">next month</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>引<rt>ひ</rt></ruby>っ<ruby>越<rt>こ</rt></ruby>すんだって</span><span class="g">I heard [she&#x27;s] moving [as background]</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">んだ + って, reported information framed as background</span></div></div></details></div>
 
 
-## んだよね { #n-da-yo-ne }
+## んだよね — explaining while inviting agreement { #n-da-yo-ne }
 
 You know...; explanatory statement seeking shared agreement.
 {: .pt-gloss }
@@ -185,7 +187,7 @@ You know...; explanatory statement seeking shared agreement.
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [よね](<ne.md#yo-ne> "ね — agreement and soft assertion") <span class="xref-reason">&mdash; よね&#x27;s own dynamics, the half of this combination んだ doesn&#x27;t supply</span></div>
 
 
-## んですか { #n-desu-ka }
+## んですか — a question prompted by what you noticed { #n-desu-ka }
 
 Asks for explanation with contextual interest; polite explanatory question
 {: .pt-gloss }
@@ -202,6 +204,9 @@ Asks for explanation with contextual interest; polite explanatory question
   fairly directly; <span class="cite-jp">んですか</span> frames the same question as connected to some
   situation the speaker is trying to understand, without necessarily asking
   for a reason.
+
+### <span class="cite-jp">んですか</span> against a plain <span class="cite-jp">ですか</span> question
+
 - **The contrast is audible** — <span class="cite-jp">どこに行きますか</span> — where are you going? —
   asks fairly directly.
 - **<span class="cite-jp">んですか</span> adds nothing to the words** — <span class="cite-jp">どこに行くんですか</span> — where are you

@@ -27,6 +27,12 @@ before the line — that is plain まで's job.
 
 -> Contrast: [[made#extent]] — plain まで for a stretch that runs up to the endpoint, until に narrows it to a deadline
 
+```dialog
+note: what licenses the bare までに — B commits to a result inside A's deadline, not to filling the time before it.
+A: レポート、いつまでに出[だ]せる？ | By when can you turn in the report?
+B: 金曜日[きんようび]までに出[だ]せます。 | I can have it in by Friday.
+```
+
 ```ex
 出発[しゅっぱつ]するまでに準備[じゅんび]を終[お]わらせる。
 en: I'll get everything ready before we leave.
@@ -69,7 +75,7 @@ state that continues up to it.
     is the state that runs up to thirty. The rule is about the situation the
     sentence describes, never about the verb as it sits in a dictionary.
 
-@@ made-ni-wa
+@@ made-ni-wa — the deadline, given extra emphasis
 
 **Form:** `N + までには`
 
