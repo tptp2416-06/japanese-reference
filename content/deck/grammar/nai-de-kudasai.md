@@ -1,20 +1,20 @@
-To ask someone not to do something, put the action in its plain negative form and follow it with でください: 心配しないでください "please don't worry".
+To ask someone not to do something, put the action in its plain negative form and follow it with でください: 心配しないでください — please don't worry.
 
 The request is polite, but its emotional force comes from the situation. The same structure can comfort someone or state a firm rule.
 
 @@ tldr
 
-`V-ない + でください` is a direct polite negative request: "please do not do".
+`V-ない + でください` is a direct polite negative request — please do not do.
 Conversation often drops ください; prohibitions and indirect requests use different forms because they make different social moves.
 
 @@ main
 
 **Form:** `V-ない + でください`
 
-- **Make the plain negative first** — 書かないでください "please do not write", 食べないでください "please do not eat", しないでください "please do not do it", 来ないでください "please do not come".
-- **The affirmative uses てください** — 入ってください "please come in" requests the action; 入らないでください "please do not come in" requests that the listener refrain from it.
-- **ください supplies politeness, not one fixed force** — 気にしないでください "please don't let it bother you" can be gentle reassurance, while a sign saying 触らないでください "please do not touch" functions as a prohibition.
-- **ね can invite agreement** — 心配しないでくださいね "please don't worry, okay?" often sounds softer, though tone and context can also make ね sound insistent.
+- **Make the plain negative first** — 書かないでください — please do not write; 食べないでください — please do not eat; しないでください — please do not do it; 来ないでください — please do not come.
+- **The affirmative uses てください** — 入ってください — please come in — requests the action; 入らないでください — please do not come in — requests that the listener refrain from it.
+- **ください supplies politeness, not one fixed force** — 気にしないでください — please don't let it bother you — can be gentle reassurance, while a sign saying 触らないでください — please do not touch — functions as a prohibition.
+- **ね can invite agreement** — 心配しないでくださいね — please don't worry, okay? — often sounds softer, though tone and context can also make ね sound insistent.
 
 ```ex
 この箱[はこ]に触[さわ]らないでください。
@@ -25,14 +25,14 @@ pat: V-ない + でください
 ```
 
 !!! note "What's in scope"
-    In 箱を開けないでください "please do not open the box", the negative belongs to the requested action: the listener is asked to refrain from opening it. The sentence does not negate ください or mean "don't please".
+    In 箱を開けないでください — please do not open the box — the negative belongs to the requested action: the listener is asked to refrain from opening it. The sentence does not negate ください or mean "don't please".
 
 ### なくてください is not the request form
 
 !!! warning "Pitfall"
-    Use 食べないでください "please do not eat", not × 食べなくてください. Here ないで is the linker that presents **not doing the action** to ください.
+    Use 食べないでください — please do not eat — not × 食べなくてください. Here ないで is the linker that presents **not doing the action** to ください.
 
-    なくて belongs to a different kind of clause connection and often gives a circumstance or cause, as in 朝ご飯を食べなくてお腹がすいた "I was hungry because I didn't eat breakfast"; it cannot replace request-forming ないで.
+    なくて belongs to a different kind of clause connection and often gives a circumstance or cause, as in 朝ご飯を食べなくてお腹がすいた — I was hungry because I didn't eat breakfast — it cannot replace request-forming ないで.
 
 -> Prerequisite: [[nai-de]] — the linker itself, and why ないで is the connector this form needs
 
@@ -54,7 +54,7 @@ Politeness level alone does not make these options interchangeable. Within each 
 | `ちゃだめ` | blunt spoken prohibition | says the action is no good | colloquial; common with children and in close relationships, but can sound sharp; see [[te-wa-ikenai]] |
 | `Vるな` | forceful prohibition | orders someone not to act | blunt and potentially harsh; common in warnings, commands and dramatic speech |
 
-The positive permission question 開けてもいいですか "may I open it?" is asked with different grammar; a negative request can still answer it without becoming a permission form itself.
+The positive permission question 開けてもいいですか — may I open it? — is asked with different grammar; a negative request can still answer it without becoming a permission form itself.
 
 -> Compare: [[te-mo-ii]] — the positive permission question this construction can answer without becoming one itself
 
@@ -74,7 +74,7 @@ B: もう気[き]にしないで。 | Don't worry about it anymore.
 
 ### In conversation
 
-来ないでください "please don't come" is polite. 来ないで "don't come" keeps the negative request but moves into casual speech — depending on the relationship and tone, it can sound intimate, urgent or blunt.
+来ないでください — please don't come — is polite. 来ないで — don't come — keeps the negative request but moves into casual speech — depending on the relationship and tone, it can sound intimate, urgent or blunt.
 
 ```eg
 polite: 来[こ]ないでください | Please don't come.
@@ -91,9 +91,9 @@ The negative request survives every one of these cuts.
 
 ### Notices, signs, and public rules
 
-触らないでください "please do not touch" is common on a sign and polite in form, even though the notice leaves little room to negotiate. More formal notices may instead say 手を触れないでください "please do not touch".
+触らないでください — please do not touch — is common on a sign and polite in form, even though the notice leaves little room to negotiate. More formal notices may instead say 手を触れないでください — please do not touch.
 
-Clipped public wording can abandon the request frame entirely: 立入禁止 "No entry" and 駐車禁止 "No parking" label the prohibited act as a rule rather than asking for anything.
+Clipped public wording can abandon the request frame entirely: 立入禁止 — No entry — and 駐車禁止 — No parking — label the prohibited act as a rule rather than asking for anything.
 
 ### Related patterns
 
