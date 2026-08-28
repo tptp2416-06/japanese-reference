@@ -29,6 +29,19 @@ noticed it described a superseded system, followed the specs instead and
 reported the conflict rather than guessing. That is the behaviour the lane
 asks for, and it is why this header exists.
 
+## The independent review pass (Tim, 2026-08-27 — both repos carry this rule)
+
+**Before reporting any substantive deliverable done — a page, a spec or doc
+edit, machinery, a batch apply — dispatch a reviewer subagent that did not
+author the work.** Hand it the specs and rulings the work claims to satisfy
+(for deck pages: `PAGE-SPEC.md` and `PRESENTATION-SPEC.md`) plus the actual
+diff; it re-derives claims rather than reading the author's report, and its
+findings land in the session report with what was fixed. This is the SEMANTIC
+half of verification. The mechanical half is whatever checker plays the gate's
+part for the job at hand — and per `jp-deck/LANES.md` §6, if the answer is
+"none yet", building one is the first task, not a reason to skip the step.
+Trivial mechanical edits may skip the pass — say so when they do.
+
 ---
 
 Personal MkDocs-based Japanese grammar reference site. Tokyo casual register, targeting N3–N4 level. Hosted via GitHub Pages.
