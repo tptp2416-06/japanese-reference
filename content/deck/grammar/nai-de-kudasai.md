@@ -52,7 +52,7 @@ Politeness level alone does not make these options interchangeable. Within each 
 | `ないでくれる？` | indirect spoken request | asks casually whether the listener will refrain for the speaker | conversational and relationship-sensitive; see [[te-ageru-te-kureru-te-morau]] |
 | `てはいけません` | rule or prohibition | says the action is not permitted | formal or instructional rather than a personal plea; see [[te-wa-ikenai]] |
 | `ちゃだめ` | blunt spoken prohibition | says the action is no good | colloquial; common with children and in close relationships, but can sound sharp; see [[te-wa-ikenai]] |
-| `Vるな` | forceful prohibition | orders someone not to act | blunt and potentially harsh; common in warnings, commands and dramatic speech |
+| `Vるな` | forceful prohibition | orders someone not to act | blunt and potentially harsh; common in warnings, commands and dramatic speech; see [[na-prohibition]] |
 
 The positive permission question 開けてもいいですか — may I open it? — is asked with different grammar; a negative request can still answer it without becoming a permission form itself.
 

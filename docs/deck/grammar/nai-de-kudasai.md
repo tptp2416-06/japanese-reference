@@ -59,7 +59,7 @@ Politeness level alone does not make these options interchangeable. Within each 
 | `ないでくれる？` | indirect spoken request | asks casually whether the listener will refrain for the speaker | conversational and relationship-sensitive; see [てあげる・てくれる・てもらう](<te-ageru-te-kureru-te-morau.md> "てあげる・てくれる・てもらう — doing something for someone") |
 | `てはいけません` | rule or prohibition | says the action is not permitted | formal or instructional rather than a personal plea; see [てはいけない](<te-wa-ikenai.md> "てはいけない — must not, with the ちゃだめ contractions") |
 | `ちゃだめ` | blunt spoken prohibition | says the action is no good | colloquial; common with children and in close relationships, but can sound sharp; see [てはいけない](<te-wa-ikenai.md> "てはいけない — must not, with the ちゃだめ contractions") |
-| `Vるな` | forceful prohibition | orders someone not to act | blunt and potentially harsh; common in warnings, commands and dramatic speech |
+| `Vるな` | forceful prohibition | orders someone not to act | blunt and potentially harsh; common in warnings, commands and dramatic speech; see [な (prohibition)](<na-prohibition.md> "な (prohibition) — Sentence-final な after the dictionary form forbids the action outright (諦めるな)") |
 
 The positive permission question <span class="cite-jp">開けてもいいですか</span><span class="gl-en"> — may I open it</span>? — is asked with different grammar; a negative request can still answer it without becoming a permission form itself.
 
