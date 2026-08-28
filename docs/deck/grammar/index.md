@@ -12,12 +12,12 @@ easiest of its members').
 <ul class="recent-list">
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="tame-ni/">ために — In order to achieve a goal</a></li>
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="te-shimau/">てしまう — completion and regret, with the ちゃう contractions</a></li>
+<li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="nakereba-naranai/">なければならない — must, have to, and don&#x27;t have to</a></li>
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="made-ni/">までに — by a deadline</a></li>
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="mou-mada/">もう・まだ — already, still, and not yet</a></li>
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="rareru/">られる・させる — passive, causative, and causative-passive</a></li>
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="n-da/">んだ — the explanatory のだ and its compounds</a></li>
 <li><span class="recent-date">2026-08-27</span><span class="card-tag lv">NEW</span><a href="kara/">から — reason, and the particle for source and time</a></li>
-<li><span class="recent-date">2026-08-27</span><span class="card-tag lv">NEW</span><a href="tara/">たら — the tara-conditional: condition, discovery, time, and suggestion</a></li>
 </ul>
 </div>
 

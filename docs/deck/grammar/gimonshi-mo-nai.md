@@ -7,12 +7,12 @@
 !!! tip "At a glance"
 
     With common forms such as <span class="cite-jp">何</span>, <span class="cite-jp">誰</span>, <span class="cite-jp">どこ</span> and <span class="cite-jp">どれ</span>,
-    `疑問詞 + も + negative predicate` produces a "nothing / nobody / nowhere /
-    none" type of meaning:
+    `疑問詞 + も + negative predicate` gives a nothing / nobody / nowhere / none
+    type of meaning:
 
-    <span class="cite-jp">何も食べない</span> "eat nothing / do not eat anything"
-    <span class="cite-jp">誰も来ない</span> "nobody comes"
-    <span class="cite-jp">どこも開いていない</span> "nowhere is open"
+    <span class="cite-jp">何も食べない</span> — eat nothing, do not eat anything
+    <span class="cite-jp">誰も来ない</span> — nobody comes
+    <span class="cite-jp">どこも開いていない</span> — nowhere is open
 
     Use +<span class="cite-jp">か</span> when **one unspecified answer** is meant, and +<span class="cite-jp">でも</span> when **any answer
     is acceptable or possible**.
@@ -26,8 +26,7 @@ Think of a question word as opening a list of possible answers.
 With common forms like these, add <span class="cite-jp">も</span> and make the predicate negative, and every
 possible answer is ruled out:
 
-<span class="cite-jp">何も食べない</span>
-"do not eat anything / eat nothing"
+<div class="eg-micro"><div class="eg-jp" lang="ja"><ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べない</div><div class="ex-en">do not eat anything, eat nothing</div></div>
 
 The sentence does not choose one particular thing and negate it. It says that
 **none of the possible things qualify**.
@@ -37,97 +36,106 @@ learner intuition is simpler:
 
 **question word + <span class="cite-jp">も</span> + negative → none of the possible answers**
 
+**Deciding which particle to add is the real choice** — <span class="cite-jp">か</span> for one
+unspecified answer, <span class="cite-jp">も</span> + negative for none, <span class="cite-jp">でも</span> for any answer at all. Pick
+the particle for what the possible answers should do, then build the
+predicate to match.
+
 Question word plus も with a negative predicate denies every case: 何も nothing at all, どこにも nowhere
 {: .h1-gloss }
 
 **Form:** `疑問詞 + も + negative predicate` · `疑問詞 + case particle + も + negative predicate`
 {: .form }
 
-- **The negative predicate rules out every possible answer** —
-  <span class="cite-jp">誰も来なかった</span> "nobody came" means that no person in the relevant group
-  satisfies <span class="cite-jp">来た</span> "came."
-- **<span class="cite-jp">も</span> does not mean "nobody" or "nothing" by itself here** — the negative
-  predicate completes that reading. This is why <span class="cite-jp">誰も来なかった</span> means "nobody
-  came": <span class="cite-jp">誰も</span> identifies the range being considered, and <span class="cite-jp">来なかった</span> rules
-  everyone in that range out.
-- **For this "none" reading, the predicate stays negative** —
-  <span class="cite-jp">何も食べる</span> does not mean "eat something." The choice between <span class="cite-jp">か</span>, <span class="cite-jp">も</span>〜<span class="cite-jp">ない</span>
-  and <span class="cite-jp">でも</span> changes how the possible answers are treated.
+- **The negative predicate rules out every possible answer** — <span class="cite-jp">誰も来なかった</span>
+  means nobody came: no person in the relevant group satisfies <span class="cite-jp">来た</span>, came.
+- **<span class="cite-jp">も</span> does not by itself mean nobody or nothing here** — the negative
+  predicate completes that reading. <span class="cite-jp">誰も</span> identifies the range being
+  considered; <span class="cite-jp">来なかった</span> rules everyone in that range out.
+- **For this none reading, the predicate stays negative** — <span class="cite-jp">何も食べる</span> does
+  not mean eat something. The choice between <span class="cite-jp">か</span>, <span class="cite-jp">も</span>〜<span class="cite-jp">ない</span> and <span class="cite-jp">でも</span> changes
+  how the possible answers are treated.
 
 A useful way to keep the three systems apart is:
 
-| shape                | what happens to the possible answers | example                                  |
-| -------------------- | ------------------------------------ | ---------------------------------------- |
-| `疑問詞 + か`            | one unspecified member               | <span class="cite-jp">何か食べたい</span> "I want to eat something"         |
-| `疑問詞 + も + negative` | no member                            | <span class="cite-jp">何も食べたくない</span> "I do not want to eat anything" |
-| `疑問詞 + でも`           | any member is acceptable or possible | <span class="cite-jp">何でも食べられる</span> "I can eat anything"            |
+| shape                | what happens to the possible answers | example |
+| --------------------- | ------------------------------------ | ------- |
+| `疑問詞 + か`            | one unspecified member               | <span class="cite-jp">何か食べたい</span> — I want to eat something |
+| `疑問詞 + も + negative` | no member                            | <span class="cite-jp">何も食べたくない</span> — I do not want to eat anything |
+| `疑問詞 + でも`           | any member is acceptable or possible | <span class="cite-jp">何でも食べられる</span> — I can eat anything |
 
 With <span class="cite-jp">何</span>, the contrast is especially easy to see:
 
-<span class="cite-jp">何か</span>
-→ something
+<div class="eg-contrast"><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>何<rt>なに</rt></ruby>か</div><div class="ex-en">something</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>何<rt>なに</rt></ruby>も〜ない</div><div class="ex-en">nothing, not anything</div></div><div class="eg-member"><div class="eg-jp" lang="ja"><ruby>何<rt>なに</rt></ruby>でも</div><div class="ex-en">anything, whatever</div></div></div>
 
-<span class="cite-jp">何も</span>〜<span class="cite-jp">ない</span>
-→ nothing / not anything
-
-<span class="cite-jp">何でも</span>
-→ anything / whatever
-
-- **A common mistake is to mix these patterns** —
-  <span class="cite-jp">何も食べたい</span> does not mean "I want to eat something." Use
-  <span class="cite-jp">何か食べたい</span>. If the desire itself is negative,
-  <span class="cite-jp">何も食べたくない</span> means "I do not want to eat anything."
+- **A common mistake is to mix these patterns** — <span class="cite-jp">何も食べたい</span> does not mean
+  I want to eat something; that needs <span class="cite-jp">何か食べたい</span>. If the desire itself is
+  negative, <span class="cite-jp">何も食べたくない</span> means I do not want to eat anything.
 
 <div class="ex"><div class="ex-jp" lang="ja"><ruby>朝<rt>あさ</rt></ruby>から<span class="pat"><ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べていない</span>。</div><div class="ex-en">&ldquo;I haven&#x27;t eaten anything since this morning.&rdquo;</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>朝<rt>あさ</rt></ruby>から</span><span class="g">since this morning</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>何<rt>なに</rt></ruby>も</span><span class="g">anything</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>食<rt>た</rt></ruby>べていない</span><span class="g">have not eaten</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">何 + も, negative predicate</span></div></div></details></div>
 
-### What happens to the ordinary particle?
+<div class="dlg"><div class="dlg-note">what licenses 何も食べてない — B&#x27;s answer negates the very item A&#x27;s か-question left open.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>何<rt>なに</rt></ruby>か<ruby>食<rt>た</rt></ruby>べた？</div><div class="ex-en">Did you eat something?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ううん、<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べてない。</div><div class="ex-en">No, I haven&#x27;t eaten anything.</div></div></div></div>
 
-- **<span class="cite-jp">が</span> and <span class="cite-jp">を</span> normally give way to <span class="cite-jp">も</span>** —
-  <span class="cite-jp">誰も来なかった</span> "nobody came" and
-  <span class="cite-jp">何も買わなかった</span> "I bought nothing" do not need an additional <span class="cite-jp">が</span> or <span class="cite-jp">を</span>.
-  In these patterns, <span class="cite-jp">も</span> takes the place where <span class="cite-jp">が</span> or <span class="cite-jp">を</span> would otherwise appear.
-- **Other case particles can remain before <span class="cite-jp">も</span>** —
-  <span class="cite-jp">誰にも会わなかった</span> "I did not meet anyone,"
-  <span class="cite-jp">誰とも話さなかった</span> "I did not speak with anyone," and
-  <span class="cite-jp">どこにも行かなかった</span> "I did not go anywhere" keep <span class="cite-jp">に</span> or <span class="cite-jp">と</span> because
-  those particles still express a relationship required by the verb.
+- **In quick replies, the phrase alone can stand for the whole sentence** —
+  <span class="cite-jp">何も。</span>／<span class="cite-jp">誰も。</span>／<span class="cite-jp">どこも。</span> answer a question directly, the negative
+  predicate understood from context.
+- **Politeness generally attaches to the predicate, not to <span class="cite-jp">も</span> itself** —
+  <span class="cite-jp">誰もいらっしゃいませんでした</span> is a formal, written-register way to say
+  <span class="cite-jp">誰も来なかった</span>, nobody came; the range-marking <span class="cite-jp">も</span> does not change.
+
+### Which particles <span class="cite-jp">も</span> replaces
+
+- **<span class="cite-jp">が</span> and <span class="cite-jp">を</span> normally give way to <span class="cite-jp">も</span>** — <span class="cite-jp">誰も来なかった</span>, nobody came, and
+  <span class="cite-jp">何も買わなかった</span>, I bought nothing, do not need an additional <span class="cite-jp">が</span> or <span class="cite-jp">を</span>. <span class="cite-jp">も</span>
+  takes the place where <span class="cite-jp">が</span> or <span class="cite-jp">を</span> would otherwise appear.
+- **Other case particles can remain before <span class="cite-jp">も</span>** — <span class="cite-jp">誰にも会わなかった</span>, I did
+  not meet anyone, <span class="cite-jp">誰とも話さなかった</span>, I did not speak with anyone, and
+  <span class="cite-jp">どこにも行かなかった</span>, I did not go anywhere, keep <span class="cite-jp">に</span> or <span class="cite-jp">と</span> because those
+  particles still express a relationship the verb requires.
 - **So do not apply "replace the particle with <span class="cite-jp">も</span>" as a blanket rule** —
   whether another particle remains depends on what that particle is doing in
   the sentence.
 
-### Can <span class="cite-jp">疑問詞</span>＋<span class="cite-jp">も</span> ever be affirmative?
+<div class="dlg"><div class="dlg-note">what licenses 誰も来られない — B answers A&#x27;s who-question by ruling out every member of the group A asked about.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>のパーティー、<ruby>誰<rt>だれ</rt></ruby>が<ruby>来<rt>く</rt></ruby>る？</div><div class="ex-en">Who&#x27;s coming to tomorrow&#x27;s party?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">それが、<ruby>誰<rt>だれ</rt></ruby>も<ruby>来<rt>こ</rt></ruby>られないんだって。</div><div class="ex-en">Actually, apparently no one can come.</div></div></div></div>
+
+### <span class="cite-jp">疑問詞</span>＋<span class="cite-jp">も</span> can be affirmative too
 
 Yes. The "none" pattern on this page is important, but it is not a rule that
 every question word followed by <span class="cite-jp">も</span> must appear with a negative predicate.
 
 ??? note "Affirmative <span class="cite-jp">疑問詞</span>＋<span class="cite-jp">も</span>"
-    Some question-word-plus-<span class="cite-jp">も</span> forms can instead give an **all / every** type of
-    reading with an affirmative predicate:
+    Some forms instead give an **all / every** reading with an affirmative
+    predicate:
 
-    <span class="cite-jp">どれもおいしい</span>
-    "all of them are delicious"
-
-    <span class="cite-jp">どこも混んでいる</span>
-    "everywhere is crowded"
+    ```eg
+    <span class="cite-jp">どれもおいしい</span> | all of them are delicious
+    <span class="cite-jp">どこも混んでいる</span> | everywhere is crowded
+    ```
 
     With people, a common affirmative form is:
-
-    <span class="cite-jp">誰もが知っている</span>
-    "everyone knows"
+    ```eg
+    <span class="cite-jp">誰もが知っている</span> | everyone knows
+    ```
 
     So the practical rule is deliberately narrower:
 
-    **When forms such as <span class="cite-jp">何も</span>, <span class="cite-jp">誰も</span>, <span class="cite-jp">どこも</span> and <span class="cite-jp">どれも</span> are used for the "not one /
-    none" reading, that reading is completed by a negative predicate.**
+    **When forms such as <span class="cite-jp">何も</span>, <span class="cite-jp">誰も</span>, <span class="cite-jp">どこも</span> and <span class="cite-jp">どれも</span> carry the not-one,
+    none reading, that reading is completed by a negative predicate.**
 
     Do not extend the formula mechanically to every question word plus <span class="cite-jp">も</span>.
     Some combinations have their own established behavior. For example,
-    <span class="cite-jp">いつも</span> normally means "always."
+    <span class="cite-jp">いつも</span> normally means always.
 
     The goal is to learn the productive pattern without turning it into a rule that
     predicts every expression containing <span class="cite-jp">疑問詞</span> + <span class="cite-jp">も</span>.
 
-- **See also: <span class="cite-jp">一度も</span>〜<span class="cite-jp">ない</span>** — this handles "not even once."
-- **See also: <span class="cite-jp">疑問詞</span>＋<span class="cite-jp">でも</span>** — this develops the separate "any member" pattern.
+Two related patterns extend this system further: <span class="cite-jp">一度も</span>〜<span class="cite-jp">ない</span> narrows the
+same negative scope to counting, and <span class="cite-jp">疑問詞</span>＋<span class="cite-jp">でも</span> develops the separate
+"any answer is fine" reading introduced above.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [一度も〜ない](<ichido-mo-nai.md> "一度も〜ない — Not even once") <span class="xref-reason">&mdash; the same negative scope narrowed to counting: not even once</span></div>
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [疑問詞＋でも (何でも)](<gimonshi-demo.md#nan-demo> "疑問詞＋でも — Anything or whatever") <span class="xref-reason">&mdash; the &quot;any answer is fine&quot; reading this page&#x27;s negative form contrasts with</span></div>
+
 
 <div class="prov">Authored by Codex 5.6 Sol - High &bull; 2026-08-23</div>
