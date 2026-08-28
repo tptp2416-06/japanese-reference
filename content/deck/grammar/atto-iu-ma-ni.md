@@ -23,23 +23,31 @@ general statements and future predictions are natural too.
   other times a substantial amount of clock time passed but felt surprisingly
   brief.
 - **It is not the same as "suddenly"** — 急に and 突然 focus on how
-  unexpectedly an event begins or occurs. 雨が急に降り出した "it suddenly
-  started raining" tells you about the onset of the rain;
-  雨はあっという間にやんだ "the rain stopped in no time" tells you how
-  quickly the period of rain was over.
+  unexpectedly an event begins, not on how quickly it is over.
+- **あっという間に measures the interval, not the onset** — 雨が急に降り出した
+  — it suddenly started raining — names the onset; 雨はあっという間にやんだ —
+  the rain stopped in no time — reports how quickly the rain was over.
+
+-> Contrast: [[kyuu-ni]] — describes an unexpected onset, not the length of an interval
+
 - **It is also different from いつの間にか** — あっという間に says the
   interval seemed very short. いつの間にか says that the change happened
-  without the speaker noticing exactly when:
-  いつの間にか寝ていた "before I knew it, I had fallen asleep."
+  without the speaker noticing exactly when: いつの間にか寝ていた — before I
+  knew it, I had fallen asleep.
 - **Compared with すぐ, あっという間に adds a sense of the time disappearing**
-  — すぐ終わった simply says "it ended quickly / soon."
-  あっという間に終わった presents that same short interval as strikingly
-  brief: "it was over in no time."
-- **The expression itself does not tell you whether the speaker is happy or
-  unhappy about the speed** — 休日はあっという間に終わった "the day off was
-  over in no time" can sound disappointed, while
-  切符はあっという間に売り切れた "the tickets sold out almost immediately"
-  may simply report how quickly it happened.
+  — すぐ終わった simply reports the timing, it ended quickly;
+  あっという間に終わった — it was over in no time — presents that same
+  interval as strikingly brief.
+
+-> Compare: [[sugu]] — reports timing as quick without measuring how the interval felt
+
+- **The expression doesn't say how the speaker feels about the speed** — happy
+  or unhappy is read from context, not from あっという間に itself.
+- **The same phrase reports good news and bad news alike** —
+  休日はあっという間に終わった — the day off was over in no time — can sound
+  disappointed; 切符はあっという間に売り切れた — the tickets sold out almost
+  immediately — simply reports the pace.
+
 ```ex
 話[はな]しているうちに、二時間[にじかん]があっという間[ま]に過[す]ぎた。
 en: While we were talking, two hours went by in no time.
@@ -47,8 +55,13 @@ note: The clock measured two hours; あっという間 reports that the stretch 
 bd: 話しているうちに、|while we were talking / 二時間が|two hours / あっという間に*|in no time / 過ぎた|went by
 pat: あっという間に + completed event
 ```
+```dialog
+note: what あっという間に adds — A knows the day off is over; B's frames how fast it felt.
+A: 休日[きゅうじつ]、楽[たの]しかった？ | Did you enjoy the day off?
+B: うん、でもあっという間[ま]に終[お]わっちゃった。 | Yeah, but it was over before I knew it.
+```
 
-### Does the verb have to be past?
+### The tense is not fixed
 
 No. **あっという間に describes the length of an interval as the speaker
 perceives or presents it; it does not determine tense.**
@@ -58,19 +71,19 @@ or change is complete, but there is nothing inherently past about the
 expression.
 
 - **A general tendency can be non-past** —
-  楽しい時間はあっという間に過ぎる "good times pass in no time."
+  楽しい時間はあっという間に過ぎる — good times pass in no time.
 - **A future prediction can also be non-past** —
-  来週もあっという間に終わる "next week will be over before we know it."
+  来週もあっという間に終わる — next week will be over before we know it.
 
 ??? note "あっという間 without に"
     あっという間 does not always need に. The underlying idea of a surprisingly
     short interval remains, but its grammatical job changes.
 
     With の, it modifies a noun:
-    あっという間の出来事 "an event that was over in moments."
+    あっという間の出来事 — an event that was over in moments.
 
     It can also be the predicate:
-    三日間はあっという間だった "the three days flew by."
+    三日間はあっという間だった — the three days flew by.
 
     Use あっという間に when the phrase frames an action or change as taking place
     within that surprisingly short interval. Without に, あっという間 can instead
