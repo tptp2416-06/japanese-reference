@@ -162,7 +162,7 @@ Everything before <span class="cite-jp">と</span> or <span class="cite-jp">っ�
 
 <span class="cite-jp">言われた</span> and its relatives show up constantly once the missing details are obvious from context:
 
-- <span class="cite-jp">財布、取られた！</span><span class="gl-en"> — My wallet got stolen</span>!
+- <span class="cite-jp">財布、取られた！</span><span class="gl-en"> — My wallet got stolen!</span>
 - <span class="cite-jp">また待たされたよ。</span><span class="gl-en"> — Kept waiting again</span>.
 - <span class="cite-jp">言われた通りにしただけ。</span><span class="gl-en"> — I just did what I was told</span>.
 

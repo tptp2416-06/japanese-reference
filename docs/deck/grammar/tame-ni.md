@@ -24,7 +24,7 @@ In order to achieve a goal; marks deliberate purpose
 - **Benefit reading with nouns** — <span class="cite-jp">家族のために働いてる</span><span class="gl-en"> — for my family's
   sake — </span>describes a benefit, not a plan. Context decides, and the readings
   sit close enough that this rarely causes trouble.
-- **Casual clip** — the <span class="cite-jp">に</span> often drops: <span class="cite-jp">何のため？</span><span class="gl-en"> — what for</span>?
+- **Casual clip** — the <span class="cite-jp">に</span> often drops: <span class="cite-jp">何のため？</span><span class="gl-en"> — what for?</span>
 
 <div class="dlg"><div class="dlg-note">what licenses the casual 何のため？ — B&#x27;s question presupposes A already has a goal in mind, and just wants it named.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>毎朝<rt>まいあさ</rt></ruby><ruby>走<rt>はし</rt></ruby>ってるんだ。</div><div class="ex-en">I&#x27;ve been running every morning.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">え、<ruby>何<rt>なに</rt></ruby>のため？</div><div class="ex-en">Oh, what for?</div></div></div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">マラソンに<ruby>出<rt>で</rt></ruby>るために。</div><div class="ex-en">In order to run a marathon.</div></div></div></div>
 

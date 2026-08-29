@@ -75,7 +75,7 @@ Not yet; an expected action or state has still not come about
   commonly presents arrival as expected or relevant. It does not promise that
   the person will eventually arrive.
 - **Questions keep the same viewpoint** — <span class="cite-jp">まだ終わっていない？</span><span class="gl-en"> — is it not
-  finished yet</span>? — asks whether the unreached state continues and may sound
+  finished yet? — </span>asks whether the unreached state continues and may sound
   impatient if the situation supplies that expectation.
 
 <div class="dlg"><div class="dlg-note">what licenses まだ in the reply — B&#x27;s answer keeps the viewpoint on the near side of the line A&#x27;s question raised.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>宿題<rt>しゅくだい</rt></ruby>、もう<ruby>終<rt>お</rt></ruby>わった？</div><div class="ex-en">Have you finished your homework yet?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ううん、まだ<ruby>終<rt>お</rt></ruby>わってない。</div><div class="ex-en">No, not yet.</div></div></div></div>
@@ -214,7 +214,7 @@ happened, and <span class="cite-jp">もう</span> presents it as reached by now 
 
 ### The answer's polarity flips the adverb
 
-Asked <span class="cite-jp">もう食べた？</span><span class="gl-en"> — have you eaten yet</span>? — a positive answer can be
+Asked <span class="cite-jp">もう食べた？</span><span class="gl-en"> — have you eaten yet? — </span>a positive answer can be
 <span class="cite-jp">うん、もう食べた</span><span class="gl-en"> — yes, I've already eaten</span>; a negative one is normally
 <span class="cite-jp">いや、まだ食べていない</span><span class="gl-en"> — no, I haven't eaten yet</span>.
 

@@ -129,7 +129,7 @@ So the reliable half of the test is what comes AFTER <span class="cite-jp">っ�
 !!! warning "Pitfall"
     A noun in front of <span class="cite-jp">って</span> does not make it a topic marker. If a verb of saying, hearing or thinking follows, the noun is being quoted.
 
-    <span class="cite-jp">明日って言ってた</span><span class="gl-en"> — he said tomorrow — </span>reports somebody's word, not a topic. The topic reading would need a comment about tomorrow, as in <span class="cite-jp">明日って忙しい？</span><span class="gl-en"> — are you busy tomorrow</span>?
+    <span class="cite-jp">明日って言ってた</span><span class="gl-en"> — he said tomorrow — </span>reports somebody's word, not a topic. The topic reading would need a comment about tomorrow, as in <span class="cite-jp">明日って忙しい？</span><span class="gl-en"> — are you busy tomorrow?</span>
 
     The same trap waits on any short answer quoted back: <span class="cite-jp">無理って言われた</span><span class="gl-en"> — I was told no</span>.
 
@@ -148,7 +148,7 @@ Four ways of putting a topic on the table, ordered from the most formal frame to
 
 ### In conversation
 
-- **A bare 〜<span class="cite-jp">って？</span> asks what a word is** — <span class="cite-jp">サブスクって？</span><span class="gl-en"> — subscription</span>? — is a complete turn, and the fuller version is 〜<span class="cite-jp">ってどういう意味？</span>.
+- **A bare 〜<span class="cite-jp">って？</span> asks what a word is** — <span class="cite-jp">サブスクって？</span><span class="gl-en"> — subscription? — </span>is a complete turn, and the fuller version is 〜<span class="cite-jp">ってどういう意味？</span>.
 - **A report can be extended with <span class="cite-jp">さ</span> or <span class="cite-jp">ね</span>** — <span class="cite-jp">来られないってさ</span><span class="gl-en"> — apparently he can't make it — </span>keeps the report and adds a conversational nudge toward the listener.
 - **<span class="cite-jp">って</span> attaches to a name to introduce someone** — <span class="cite-jp">田中って人</span><span class="gl-en"> — a guy called Tanaka — </span>is the casual counterpart of the naming <span class="cite-jp">という</span>.
 - **<span class="cite-jp">っていうか</span> revises what was just said, yours or theirs** — roughly "or rather", and one of the most frequent repair moves in casual speech.

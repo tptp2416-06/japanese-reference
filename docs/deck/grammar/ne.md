@@ -16,7 +16,7 @@ Say the same thing down the phone to somebody who has not seen the photo and <sp
 
 <span class="cite-jp">ね</span>'s second job looks unrelated and is the same move applied where the listener has no access at all.
 
-<span class="cite-jp">先に出るね</span><span class="gl-en"> — I'm heading out, okay</span>? — announces a plan nobody else can confirm, and asks the listener to be alright with it rather than to agree with it.
+<span class="cite-jp">先に出るね</span><span class="gl-en"> — I'm heading out, okay? — </span>announces a plan nobody else can confirm, and asks the listener to be alright with it rather than to agree with it.
 
 Before adding <span class="cite-jp">ね</span>, ask whether the listener can already tell. If they can, <span class="cite-jp">ね</span> invites them to say so; if they cannot, <span class="cite-jp">ね</span> asks them to accept what you are about to do.
 

@@ -254,7 +254,7 @@ Marking an action as finished and irreversible is a separate auxiliary with its 
 
 ### In conversation
 
-Particles fall away as often as the vowel does. <span class="cite-jp">ドア、開いてる？</span><span class="gl-en"> — is the door open</span>? — drops both <span class="cite-jp">が</span> and the full <span class="cite-jp">ている</span>. <span class="cite-jp">誰か来てるのかな</span><span class="gl-en"> — I wonder if someone's here — </span>stacks the casual contraction with a musing <span class="cite-jp">かな</span>.
+Particles fall away as often as the vowel does. <span class="cite-jp">ドア、開いてる？</span><span class="gl-en"> — is the door open? — </span>drops both <span class="cite-jp">が</span> and the full <span class="cite-jp">ている</span>. <span class="cite-jp">誰か来てるのかな</span><span class="gl-en"> — I wonder if someone's here — </span>stacks the casual contraction with a musing <span class="cite-jp">かな</span>.
 
 <div class="dlg"><div class="dlg-note">A&#x27;s casual question about a state licenses B&#x27;s contracted resultative answer.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">あれ、<ruby>台所<rt>だいどころ</rt></ruby>の<ruby>電気<rt>でんき</rt></ruby>、ついてる？</div><div class="ex-en">Hey, is the kitchen light on?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">うん、<ruby>誰<rt>だれ</rt></ruby>か<ruby>来<rt>き</rt></ruby>てるのかな。</div><div class="ex-en">Yeah — wonder if someone&#x27;s here.</div></div></div></div>
 

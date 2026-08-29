@@ -56,7 +56,7 @@ To decide to leave something undone, Japanese often places the volitional on ano
 
 ### Plain volitionals in conversation
 
-Plain volitionals often stand alone: <span class="cite-jp">帰ろう</span><span class="gl-en"> — let's go home / I'll head home</span>. Rising intonation can turn the same form toward the listener: <span class="cite-jp">帰ろう？</span><span class="gl-en"> — shall we go home</span>?
+Plain volitionals often stand alone: <span class="cite-jp">帰ろう</span><span class="gl-en"> — let's go home / I'll head home</span>. Rising intonation can turn the same form toward the listener: <span class="cite-jp">帰ろう？</span><span class="gl-en"> — shall we go home?</span>
 
 Fast speech especially compresses forms before <span class="cite-jp">か</span> or <span class="cite-jp">かな</span>. <span class="cite-jp">行こうか</span><span class="gl-en"> — shall we go — </span>becomes <span class="cite-jp">行こっか</span><span class="gl-en"> — shall we go</span>; <span class="cite-jp">食べようかな</span><span class="gl-en"> — maybe I'll eat — </span>becomes <span class="cite-jp">食べよっかな</span><span class="gl-en"> — maybe I'll eat</span>. These are spoken reductions, not new conjugations.
 

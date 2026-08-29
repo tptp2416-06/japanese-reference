@@ -207,9 +207,9 @@ Line the whole family up by how formal it sounds, and the difference the ear can
 
 ### In conversation
 
-<span class="cite-jp">しまった</span> alone stands as a whole reaction, no verb needed, because <span class="cite-jp">しまう</span> itself does the reacting: <span class="cite-jp">しまった！</span><span class="gl-en"> — Oh no</span>!
+<span class="cite-jp">しまった</span> alone stands as a whole reaction, no verb needed, because <span class="cite-jp">しまう</span> itself does the reacting: <span class="cite-jp">しまった！</span><span class="gl-en"> — Oh no!</span>
 
-And once the rest is obvious, a whole clause shrinks to just the ending: <span class="cite-jp">もう食べちゃった？</span><span class="gl-en"> — Already eaten</span>?
+And once the rest is obvious, a whole clause shrinks to just the ending: <span class="cite-jp">もう食べちゃった？</span><span class="gl-en"> — Already eaten?</span>
 
 The reply shrinks the same way: <span class="cite-jp">食べちゃった。</span><span class="gl-en"> — Yeah, already did</span>.
 

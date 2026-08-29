@@ -122,7 +122,7 @@ The broader rule is not “another person must say the noun first.” The topic 
 
 ### In conversation and writing
 
-Conversation readily leaves only the proposed case: <span class="cite-jp">明日なら</span><span class="gl-en"> — tomorrow would work</span>; <span class="cite-jp">電車なら？</span><span class="gl-en"> — what about the train</span>? Intonation and the previous turn supply whether the speaker is answering, proposing, or asking for evaluation.
+Conversation readily leaves only the proposed case: <span class="cite-jp">明日なら</span><span class="gl-en"> — tomorrow would work</span>; <span class="cite-jp">電車なら？</span><span class="gl-en"> — what about the train?</span> Intonation and the previous turn supply whether the speaker is answering, proposing, or asking for evaluation.
 
 Formal prose tends to state the premise more fully and may use <span class="cite-jp">ならば</span>. Ordinary <span class="cite-jp">なら</span> remains common in written recommendations and headings that address a known need: <span class="cite-jp">初めてなら、このコース</span><span class="gl-en"> — if it's your first time, choose this course</span>.
 

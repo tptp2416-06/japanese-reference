@@ -69,7 +69,7 @@ Often the preceding conversation supplies it. <span class="cite-jp">も</span> p
 
 <div class="dlg"><div class="dlg-note">B can use 私も because A has just put a person going to Kyoto into the conversational set.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>、<ruby>京都<rt>きょうと</rt></ruby>に<ruby>行<rt>い</rt></ruby>くよ。</div><div class="ex-en">I&#x27;m going to Kyoto tomorrow.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>私<rt>わたし</rt></ruby>も<ruby>行<rt>い</rt></ruby>く。</div><div class="ex-en">I&#x27;m going too.</div></div></div></div>
 
-The other members do not have to be stated. <span class="cite-jp">これも？</span><span class="gl-en"> — This one too</span>? — implies there is at least one other relevant item, even without naming it.
+The other members do not have to be stated. <span class="cite-jp">これも？</span><span class="gl-en"> — This one too? — </span>implies there is at least one other relevant item, even without naming it.
 
 That implied set is part of the effect of <span class="cite-jp">も</span><span class="gl-en"> — not a claim that the speaker has supplied a complete list</span>.
 
@@ -93,7 +93,7 @@ Once the missing predicate is obvious, <span class="cite-jp">も</span> can carr
 
 - <span class="cite-jp">私も。</span><span class="gl-en"> — Me too</span>.
 - <span class="cite-jp">私もそう。</span><span class="gl-en"> — Same for me, or I think so too, depending on what </span><span class="cite-jp">そう</span> points back to.
-- <span class="cite-jp">これも？</span><span class="gl-en"> — This one too</span>?
+- <span class="cite-jp">これも？</span><span class="gl-en"> — This one too?</span>
 - <span class="cite-jp">どっちも。</span><span class="gl-en"> — Both, in a casual reply when two choices are understood</span>.
 
 <span class="cite-jp">も</span> itself is largely register-neutral. Politeness and formality live in the predicate, not the particle.

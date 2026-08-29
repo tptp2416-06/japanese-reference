@@ -206,10 +206,10 @@ Asks for explanation with contextual interest; polite explanatory question
 
 ### <span class="cite-jp">んですか</span> against a plain <span class="cite-jp">ですか</span> question
 
-- **The contrast is audible** — <span class="cite-jp">どこに行きますか</span><span class="gl-en"> — where are you going</span>? —
+- **The contrast is audible** — <span class="cite-jp">どこに行きますか</span><span class="gl-en"> — where are you going?</span> —
   asks fairly directly.
 - **<span class="cite-jp">んですか</span> adds nothing to the words** — <span class="cite-jp">どこに行くんですか</span><span class="gl-en"> — where are you
-  going</span>? — asks the same question, word for word, but presents it as
+  going? — </span>asks the same question, word for word, but presents it as
   prompted by something the speaker noticed, like seeing you with a bag.
 
 <div class="ex"><div class="ex-jp" lang="ja"><span class="pat">どうした</span>んですか。</div><div class="ex-en">What&#x27;s wrong? <span class="lit">&mdash; lit. what has become [that I should ask about it]</span></div><div class="ex-note">んですか signals that the speaker has noticed something — a look, a pause, a sound — and is asking about it as a situation rather than firing a neutral question. Much of the concern in どうしたんですか comes from どうした itself, which already asks what&#x27;s happened to someone; んですか frames that question as prompted by what the speaker just noticed.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="j" lang="ja">どうした</span><span class="g">what happened</span></div><div class="bd-seg"><span class="j" lang="ja">んですか</span><span class="g">[I&#x27;m asking about the situation], politely</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">んです + か, polite explanatory question</span></div></div></details></div>
@@ -219,7 +219,7 @@ Asks for explanation with contextual interest; polite explanatory question
     the speaker's style — not inherently confrontational, but carrying more
     of that risk than a plain question.
 
-    <span class="cite-jp">何を食べるんだ？</span><span class="gl-en"> — what are you eating</span>? — pressed harder than
+    <span class="cite-jp">何を食べるんだ？</span><span class="gl-en"> — what are you eating? — </span>pressed harder than
     asked neutrally.
 
     <span class="cite-jp">んですか</span> is often the safer choice when politeness or the relationship

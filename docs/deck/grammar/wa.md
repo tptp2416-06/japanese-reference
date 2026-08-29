@@ -175,7 +175,7 @@ a negative verb, and a conversation that has already put the alternative on the
 table.
 
 With none of the four present, read it as a neutral topic. In a quick reply, <span class="cite-jp">は</span>
-alone on a fragment still carries the contrast: <span class="cite-jp">私は？</span><span class="gl-en"> — and me</span>? — asks what
+alone on a fragment still carries the contrast: <span class="cite-jp">私は？</span><span class="gl-en"> — and me? — </span>asks what
 applies to the speaker, everything else left understood.
 
 *Compare:* [は — topic, contrast, scope](<../contrasts/wa.md> "topic, contrast, scope")

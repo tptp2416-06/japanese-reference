@@ -36,7 +36,7 @@ Do something for someone else as a favor from the giver's viewpoint
 
 - **<span class="cite-jp">あげる</span> frames the action as a favor the speaker extends** — <span class="cite-jp">教えてあげる</span><span class="gl-en"> — I'll teach them — </span>presents the teaching as something given, not just done.
 - **It fits peers and juniors, and can sound patronizing higher up** — offering to help a boss or a teacher with <span class="cite-jp">てあげる</span> can come across as generosity from a position of ability, aimed down rather than across.
-- **<span class="cite-jp">お手伝いしましょうか</span><span class="gl-en"> — shall I help you</span>? — is the safer offer toward someone senior**, built without <span class="cite-jp">あげる</span> at all.
+- **<span class="cite-jp">お手伝いしましょうか</span><span class="gl-en"> — shall I help you? — </span>is the safer offer toward someone senior**, built without <span class="cite-jp">あげる</span> at all.
 - **Nothing about <span class="cite-jp">あげる</span> implies the favor was asked for** — <span class="cite-jp">弟にお菓子を買ってあげた</span><span class="gl-en"> — I bought my little brother some sweets — </span>can be entirely unprompted generosity.
 
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [ましょう](<ikoukei.md#mashou> "意向形 — the volitional: intention, invitation, and ましょう") <span class="xref-reason">&mdash; the volitional offer this page&#x27;s superior-register alternative is built on</span></div>
@@ -49,7 +49,7 @@ Do something for someone else as a favor from the giver's viewpoint
 
 ## てあげたら — suggesting the favor to someone else { #te-agetara }
 
-If or when you do something for someone; also a casual suggestion — <span class="cite-jp">手伝ってあげたら？</span><span class="gl-en"> — why not help them</span>?
+If or when you do something for someone; also a casual suggestion — <span class="cite-jp">手伝ってあげたら？</span><span class="gl-en"> — why not help them?</span>
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-upper</span> <span class="card-tag">auxiliary-construction</span> <span class="card-tag">give-receive-benefit</span>
@@ -57,8 +57,8 @@ If or when you do something for someone; also a casual suggestion — <span clas
 **Form:** `V-て + あげたら`
 {: .form }
 
-- **<span class="cite-jp">あげたら</span> doesn't offer a favor — it suggests that someone else offer one.** <span class="cite-jp">引っ越すの、手伝ってあげたら？</span><span class="gl-en"> — why don't you help them move</span>? — proposes that the listener become the giver, not the speaker.
-- **The rising, unfinished <span class="cite-jp">たら</span> carries the suggestion on its own** — no <span class="cite-jp">どう</span> or <span class="cite-jp">いい</span> is required, though either can follow to make the suggestion more explicit: <span class="cite-jp">手伝ってあげたらどう？</span><span class="gl-en"> — why don't you help them</span>?
+- **<span class="cite-jp">あげたら</span> doesn't offer a favor — it suggests that someone else offer one.** <span class="cite-jp">引っ越すの、手伝ってあげたら？</span><span class="gl-en"> — why don't you help them move? — </span>proposes that the listener become the giver, not the speaker.
+- **The rising, unfinished <span class="cite-jp">たら</span> carries the suggestion on its own** — no <span class="cite-jp">どう</span> or <span class="cite-jp">いい</span> is required, though either can follow to make the suggestion more explicit: <span class="cite-jp">手伝ってあげたらどう？</span><span class="gl-en"> — why don't you help them?</span>
 
 <div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja">連絡してあげたら？</div><div class="ex-en">Why don&#x27;t you get in touch with them?</div></div>
 
@@ -102,12 +102,12 @@ Will you do this for me? A casual request expecting goodwill
 
 The friend register of the request ladder this page's forms climb together — the bottom rung, not a lesser version of the polite ones above it.
 
-- **<span class="cite-jp">くれる？</span> asks a peer for a favor with no cushioning at all** — <span class="cite-jp">手伝ってくれる？</span><span class="gl-en"> — will you help me</span>? — relies entirely on the relationship, not on the grammar, to keep it polite.
+- **<span class="cite-jp">くれる？</span> asks a peer for a favor with no cushioning at all** — <span class="cite-jp">手伝ってくれる？</span><span class="gl-en"> — will you help me? — </span>relies entirely on the relationship, not on the grammar, to keep it polite.
 - **It's the form closest to ordinary spoken requests** — this is what gets said between friends and family constantly, while <span class="cite-jp">てくれますか</span> and the <span class="cite-jp">もらう</span>/<span class="cite-jp">いただく</span> forms below handle distance.
 
 <div class="dlg"><div class="dlg-note">A trusts the closeness of the relationship to carry a request with no polite cushioning at all.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">もうちょっと ゆっくり<ruby>話<rt>はな</rt></ruby>してくれる？</div><div class="ex-en">Could you talk a bit slower?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">あ、ごめん。</div><div class="ex-en">Oh, sorry.</div></div></div></div>
 
-- **<span class="cite-jp">くれる</span> can attach to a sustained <span class="cite-jp">ている</span> state instead of a single action, by way of <span class="cite-jp">ていて</span>** — <span class="cite-jp">待っていてくれる？</span><span class="gl-en"> — will you keep waiting for me</span>? — asks the listener to maintain a state across a stretch of time, not just perform one action once.
+- **<span class="cite-jp">くれる</span> can attach to a sustained <span class="cite-jp">ている</span> state instead of a single action, by way of <span class="cite-jp">ていて</span>** — <span class="cite-jp">待っていてくれる？</span><span class="gl-en"> — will you keep waiting for me? — </span>asks the listener to maintain a state across a stretch of time, not just perform one action once.
 - **The extra <span class="cite-jp">ていて</span> layer is what carries the duration** — <span class="cite-jp">待ってくれる？</span> asks for the act of waiting; <span class="cite-jp">待っていてくれる？</span> asks for that waiting to be sustained, often paired with a condition like <span class="cite-jp">でも</span> that makes the duration explicit.
 
 <div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [ている](<te-iru.md> "ている — progressive, resultant state, habit, and the てる contractions") <span class="xref-reason">&mdash; the sustained state くれる attaches to here</span></div>
@@ -211,7 +211,7 @@ Could you do it for me?; casual negative favor request.
 **Form:** `V-て + もらえない？`
 {: .form }
 
-- **<span class="cite-jp">もらえない？</span> is the receiving frame's version of the negative-potential softening** — <span class="cite-jp">手伝ってもらえない？</span><span class="gl-en"> — could I get you to help me</span>? — asks from the receiver's side, with a gentle decline already built in.
+- **<span class="cite-jp">もらえない？</span> is the receiving frame's version of the negative-potential softening** — <span class="cite-jp">手伝ってもらえない？</span><span class="gl-en"> — could I get you to help me? — </span>asks from the receiver's side, with a gentle decline already built in.
 - **A trailing reason is common, and it's normal for it to land after the request rather than before it** — <span class="cite-jp">一人じゃ無理だから</span>, added on, explains the ask instead of justifying it in advance.
 
 <div class="dlg"><div class="dlg-note">The reason for the request trails the ask itself, softening it further after the fact.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ねえ、これ<ruby>手伝<rt>てつだ</rt></ruby>ってもらえない？<ruby>一人<rt>ひとり</rt></ruby>じゃ<ruby>無理<rt>むり</rt></ruby>だから。</div><div class="ex-en">Hey, could you help me with this? I can&#x27;t do it alone.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">いいよ。</div><div class="ex-en">Sure.</div></div></div></div>
@@ -231,7 +231,7 @@ Could you do this for me? Polite request for a service
 **Form:** `V-て + もらえますか`
 {: .form }
 
-- **<span class="cite-jp">もらえますか</span> is the standard polite step up from <span class="cite-jp">もらえない？</span>** — <span class="cite-jp">撮ってもらえますか</span><span class="gl-en"> — could you take a photo for me</span>? — safe with strangers and acquaintances, without reaching for <span class="cite-jp">いただく</span>'s extra humility.
+- **<span class="cite-jp">もらえますか</span> is the standard polite step up from <span class="cite-jp">もらえない？</span>** — <span class="cite-jp">撮ってもらえますか</span><span class="gl-en"> — could you take a photo for me? — </span>safe with strangers and acquaintances, without reaching for <span class="cite-jp">いただく</span>'s extra humility.
 
 <div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>教<rt>おし</rt></ruby>えてもらえますか。</div><div class="ex-en">Could you teach me?</div></div>
 
@@ -270,7 +270,7 @@ Could you do this for me? A polite, deferential request
 **Form:** `V-て + いただけますか`
 {: .form }
 
-- **<span class="cite-jp">いただけますか</span> asks directly whether the favor is available, from the humble side** — <span class="cite-jp">撮っていただけますか</span><span class="gl-en"> — could you take a photo for me</span>? — sits above <span class="cite-jp">もらえますか</span> in deference without yet adding the negative-potential cushion below.
+- **<span class="cite-jp">いただけますか</span> asks directly whether the favor is available, from the humble side** — <span class="cite-jp">撮っていただけますか</span><span class="gl-en"> — could you take a photo for me? — </span>sits above <span class="cite-jp">もらえますか</span> in deference without yet adding the negative-potential cushion below.
 
 <div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>確認<rt>かくにん</rt></ruby>していただけますか。</div><div class="ex-en">Could I ask you to check this?</div></div>
 
@@ -350,8 +350,8 @@ None of these seven forms is a weaker version of another — each is what a spea
 
 Fragments carry the whole request once context supplies the rest:
 
-- <span class="cite-jp">手伝って？</span><span class="gl-en"> — Help</span>? [reads as a favor for the speaker, the sense <span class="cite-jp">くれる</span> would add]
-- <span class="cite-jp">お願いできますか？</span><span class="gl-en"> — Could I ask you</span>? [without naming the favor at all]
+- <span class="cite-jp">手伝って？</span><span class="gl-en"> — Help?</span> [reads as a favor for the speaker, the sense <span class="cite-jp">くれる</span> would add]
+- <span class="cite-jp">お願いできますか？</span><span class="gl-en"> — Could I ask you?</span> [without naming the favor at all]
 - <span class="cite-jp">いいよ。</span><span class="gl-en"> — Sure</span>. [accepting any of the forms above]
 
 <span class="cite-jp">くれない</span> alone, with no question mark and falling intonation, reads as the plain statement noting an absence, not a request — the fragment keeps whichever reading its intonation gives it in speech.
