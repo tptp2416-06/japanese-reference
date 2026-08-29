@@ -4,8 +4,8 @@
 
 !!! tip "At a glance"
 
-    <span class="cite-jp">ね</span> hands a statement to the listener for confirmation, so it belongs on things the listener can already judge for themselves.
-    On a plan only the speaker knows about, it asks the listener to accept the announcement rather than to agree with it.
+    <span class="cite-jp">ね</span>'s core job is handing a statement to the listener for confirmation, on things they can already judge for themselves.
+    On a plan only the speaker knows about, it does the same by asking the listener to accept the announcement rather than to agree with it.
     <span class="cite-jp">よね</span> combines the two: the belief is the speaker's, and the confirming is the listener's to do.
 
 Two people are looking at the same photograph and one of them says <span class="cite-jp">この写真、よく撮れてるね</span><span class="gl-en"> — this photo came out well, didn't it</span>.
@@ -20,7 +20,9 @@ Say the same thing down the phone to somebody who has not seen the photo and <sp
 
 Before adding <span class="cite-jp">ね</span>, ask whether the listener can already tell. If they can, <span class="cite-jp">ね</span> invites them to say so; if they cannot, <span class="cite-jp">ね</span> asks them to accept what you are about to do.
 
-One warning about what a page cannot show. Much of <span class="cite-jp">ね</span>'s work is carried by the contour: a rising <span class="cite-jp">ね</span> asks, a falling <span class="cite-jp">ね</span> shares. Both are written identically, so the sections below say which one they mean wherever the difference matters.
+Those two jobs are <span class="cite-jp">ね</span>'s core work, and most sentences with <span class="cite-jp">ね</span> are doing one or the other. <span class="cite-jp">ね</span> also drifts into looser use that is neither, exactly — keeping the listener oriented to what's happening rather than asking them to confirm or accept anything specific — and the in-conversation section below names a case. Confirm-and-accept is the strong default, not the whole of <span class="cite-jp">ね</span>.
+
+One warning about what a page cannot show. Much of <span class="cite-jp">ね</span>'s work is carried by the contour, and the mapping below is a tendency rather than a fixed rule: a rising <span class="cite-jp">ね</span> usually asks, a falling <span class="cite-jp">ね</span> usually shares. Both are written identically, so the sections below say which one they mean wherever the difference matters.
 
 ## ね (agreement) — inviting the listener to agree { #agreement }
 
@@ -37,9 +39,9 @@ Sentence-final particle seeking agreement.
 {: .form }
 
 - **<span class="cite-jp">ね</span> presents the statement as one the listener is in a position to confirm** — <span class="cite-jp">駅、混んでるね</span><span class="gl-en"> — the station's crowded, isn't it — </span>works because both of them are standing in it.
-- **A rising <span class="cite-jp">ね</span> asks and a falling <span class="cite-jp">ね</span> shares.** Rising 〜<span class="cite-jp">ね？</span> requests a confirmation the speaker is not certain of; falling <span class="cite-jp">ね</span> treats the agreement as already in place and registers a feeling both hold.
+- **A rising <span class="cite-jp">ね</span> usually asks and a falling <span class="cite-jp">ね</span> usually shares — a strong tendency, not a fixed switch.** Rising 〜<span class="cite-jp">ね？</span> typically requests a confirmation the speaker is not certain of; falling <span class="cite-jp">ね</span> typically treats the agreement as already in place. Even shared information can carry a rise, when the speaker is pressing rather than assuming.
 - **<span class="cite-jp">ね</span> carries no politeness of its own.** It follows <span class="cite-jp">です</span> and <span class="cite-jp">ます</span> as readily as a plain form: <span class="cite-jp">上手ですね</span><span class="gl-en"> — you're good at that, aren't you — </span>is polite because of <span class="cite-jp">です</span>, not because of <span class="cite-jp">ね</span>.
-- **Sentence-final <span class="cite-jp">ね</span> takes the whole sentence in its scope.** It comments on how the statement is being delivered; strip it off and the same claim is left, said to nobody in particular.
+- **Sentence-final <span class="cite-jp">ね</span> takes the whole sentence in its scope.** It comments on how the statement is being delivered, not on who it is said to — strip it off and the same claim can still be said directly to the listener; what disappears is the invitation to confirm it, not the addressee.
 - **Negation changes what is being agreed to, not what <span class="cite-jp">ね</span> does** — <span class="cite-jp">このパン、あんまり甘くないね</span><span class="gl-en"> — this bread isn't very sweet, is it — </span>is the same invitation over a negative predicate.
 
 <div class="ex"><div class="ex-jp" lang="ja">この<ruby>店<rt>みせ</rt></ruby>、<ruby>思<rt>おも</rt></ruby>ったより<ruby>広<rt>ひろ</rt></ruby>い<span class="pat">ね</span>。</div><div class="ex-en">This place is bigger than I expected, isn&#x27;t it. <span class="lit">&mdash; lit. this shop, more spacious than I thought, right</span></div><div class="ex-note">Both speakers are standing in the shop, so its size is something the listener can check by looking. That access is what ね trades on — the remark is offered for confirmation rather than delivered as news.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">この<ruby>店<rt>みせ</rt></ruby>、</span><span class="g">this place,</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>思<rt>おも</rt></ruby>ったより</span><span class="g">than I expected</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>広<rt>ひろ</rt></ruby>い</span><span class="g">is spacious</span></div><div class="bd-seg hit"><span class="j" lang="ja">ね</span><span class="g">isn&#x27;t it</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">statement + ね, offered to a listener who can see it too</span></div></div></details></div><div class="reg"><div><div class="rlbl">casual</div><span lang="ja">この店、思ったより広いね。</span></div><div><div class="rlbl">polite</div><span lang="ja">この店、思ったより広いですね。</span></div></div>
@@ -63,17 +65,18 @@ Treat that as a strong tendency rather than a rule, because speakers work agains
 ### In conversation
 
 - **<span class="cite-jp">ね</span> is not confined to the end of the sentence.** <span class="cite-jp">あのね、昨日、駅で…</span><span class="gl-en"> — so, yesterday, at the station… — </span>breaks a turn into pieces and checks after each one that the listener is still following.
-- **That mid-sentence <span class="cite-jp">ね</span> does not disappear in careful speech; it changes shape.** The same <span class="cite-jp">あのね</span> becomes <span class="cite-jp">あのですね</span> in formal explanation, where the plain form would be too familiar.
+- **That mid-sentence <span class="cite-jp">ね</span> does not disappear in careful speech; it changes shape.** <span class="cite-jp">あのね</span><span class="gl-en"> — um, listen — </span>becomes <span class="cite-jp">あのですね</span><span class="gl-en"> — well, if I may — </span>in formal explanation, where the plain form would be too familiar.
 - **Whole turns are made of it** — <span class="cite-jp">そうだね</span><span class="gl-en"> — yeah, true — </span>and <span class="cite-jp">だよね</span><span class="gl-en"> — right — </span>are complete replies.
 - **Lengthening changes the weight.** A drawn-out <span class="cite-jp">ねー</span> reads as warmer, or as more thoroughly agreed, than a clipped <span class="cite-jp">ね</span>.
-- **<span class="cite-jp">ですね</span> buys thinking time.** <span class="cite-jp">そうですね</span><span class="gl-en"> — well, let me see — </span>before an answer is often a pause rather than agreement with anything in particular.
+- **<span class="cite-jp">そうですね</span> before an answer is often just a pause, not agreement.** <span class="cite-jp">そうですね</span><span class="gl-en"> — well, let me see — </span>gives the speaker a moment to think, without agreeing with anything in particular.
+- **Not every <span class="cite-jp">ね</span> is asking for something back.** <span class="cite-jp">ここに置きますね</span><span class="gl-en"> — here, I'll set this down — </span>said while doing exactly that keeps the listener oriented to what's happening, rather than requesting their agreement or their acceptance of it.
 
 In writing, <span class="cite-jp">ね</span> appears where the writing is really speech: messages, dialogue, copy addressed to a reader. Notices and formal prose leave it out.
 
 <div id="trap-pitfall" class="trap-anchor"></div>
 
 !!! warning "Pitfall"
-    <span class="cite-jp">ね</span> is not a free-floating politeness marker. It always hands the sentence over to the listener — for confirmation where they can judge, for acceptance where they cannot — and it is about them either way.
+    <span class="cite-jp">ね</span> is not a free-floating politeness marker. In its two core jobs it hands the sentence over to the listener — for confirmation where they can judge, for acceptance where they cannot — and it is about them either way.
 
     Said as a self-introduction, <span class="cite-jp">田中ですね</span> hands the speaker's own name across, and with no subject pronounced the listener takes it as being about them: you're Tanaka, aren't you. <span class="cite-jp">田中です</span><span class="gl-en"> — I'm Tanaka — </span>is what introduces you.
 
@@ -128,7 +131,7 @@ Right? Softly seeks shared recognition or confirms mutual understanding
 - **<span class="cite-jp">よ</span> presents the belief as the speaker's, <span class="cite-jp">ね</span> hands it over to be confirmed.** The combination fits a recollection you are fairly sure of and would like ratified.
 - **It leaves room to be wrong.** A bare <span class="cite-jp">ね</span> assumes the listener is already with you; <span class="cite-jp">よね</span> asks whether they are, which is why it suits half-certain memory.
 - **It is very common on shared facts and arrangements** — <span class="cite-jp">ここ、前に来たことあるよね</span><span class="gl-en"> — we've been here before, haven't we</span>.
-- **After a noun it needs <span class="cite-jp">だ</span>** — <span class="cite-jp">明日、休みだよね</span><span class="gl-en"> — tomorrow's off, right</span>.
+- **After a noun it usually takes <span class="cite-jp">だ</span>** — <span class="cite-jp">明日、休みだよね</span><span class="gl-en"> — tomorrow's off, right</span>. As with plain <span class="cite-jp">ね</span>, marked feminine-coded speech can drop it: <span class="cite-jp">そうよね</span><span class="gl-en"> — that's right, isn't it — </span>beside the ordinary <span class="cite-jp">そうだよね</span><span class="gl-en"> — that's right, isn't it</span>.
 - **Rising is the default** when it is a genuine check. A falling <span class="cite-jp">よね</span> reads closer to thinking aloud.
 
 <div class="ex"><div class="ex-jp" lang="ja">あの<ruby>鍵<rt>かぎ</rt></ruby>、<ruby>返<rt>かえ</rt></ruby>した<span class="pat">よね</span>？</div><div class="ex-en">I gave that key back, didn&#x27;t I. <span class="lit">&mdash; lit. that key, I returned it, right</span></div><div class="ex-note">The speaker has their own memory of returning it and is not asking to be informed. よ presents that memory as theirs and ね hands it over to be checked, which is why よね fits a half-sure recollection where a bare ね would claim the listener already agreed.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">あの<ruby>鍵<rt>かぎ</rt></ruby>、</span><span class="g">that key,</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>返<rt>かえ</rt></ruby>した</span><span class="g">I gave back</span></div><div class="bd-seg hit"><span class="j" lang="ja">よね</span><span class="g">didn&#x27;t I</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">statement + よね, a belief put up for confirmation</span></div></div></details></div>
@@ -139,14 +142,14 @@ The first takes the listener to think so already. The second tells them. The thi
 
 ### Four ways to ask for confirmation
 
-The rows run from the form a textbook teaches first to the most colloquial. All four ask the listener to confirm something; what separates them is how much agreement each one assumes it already has.
+The rows run from the form a textbook teaches first to the most colloquial. The first three ask the listener to confirm something, and what separates them is how much agreement each one assumes it already has; the last, <span class="cite-jp">っけ</span>, can ask the same way, or can be muttered with nobody listening at all, digging for a memory rather than checking one.
 
 | how you ask | what you are doing | how it lands |
 |---|---|---|
 | 〜<span class="cite-jp">ね？</span> — isn't it? | offers a remark for the listener to confirm | neutral; takes for granted that they are already with you |
 | 〜<span class="cite-jp">よね？</span> — right? | puts your own belief up for confirmation | very common in conversation; leaves room to be corrected |
 | [でしょ？](<desho-q.md> "でしょ？ — right? — casual confirmation") — right? | presses a point you treat as obvious to both | casual; can sound like you are asking them to admit it |
-| [っけ (memory retrieval)](<kke.md#memory-retrieval> "っけ — What was it again? Retrieves a forgotten fact from memory") — what was it again? | concedes you have half-forgotten, and asks | casual; the only one that admits you do not know |
+| [っけ (memory retrieval)](<kke.md#memory-retrieval> "っけ — What was it again? Retrieves a forgotten fact from memory") — what was it again? | concedes you've half-forgotten — to a listener, or to yourself | casual; the only one that admits you do not know |
 
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [んだよね](<n-da.md#n-da-yo-ne> "んだ — the explanatory のだ and its compounds") <span class="xref-reason">&mdash; んだよね, the same pair stacked on んだ&#x27;s explanatory frame</span></div>
 
@@ -164,7 +167,7 @@ The rows run from the form a textbook teaches first to the most colloquial. All 
 ??? note "<span class="cite-jp">な</span>, <span class="cite-jp">なあ</span>, and the <span class="cite-jp">ね</span> that is addressed to nobody"
     Sentence-final <span class="cite-jp">な</span> can do a <span class="cite-jp">ね</span>-like job in casual speech and often reads as more masculine, or as more inward. Lengthened <span class="cite-jp">なあ</span> turns the remark inward altogether: it registers a feeling rather than asking anyone to share it.
 
-    Dropping <span class="cite-jp">だ</span> before <span class="cite-jp">ね</span> — <span class="cite-jp">いい天気ね</span><span class="gl-en"> — is the same markedly feminine move that</span> <span class="cite-jp">明日、休みよ</span> makes with <span class="cite-jp">よ</span>, and not simply a casual contraction.
+    Dropping <span class="cite-jp">だ</span> before <span class="cite-jp">ね</span> — <span class="cite-jp">いい天気ね</span><span class="gl-en"> — lovely weather, isn't it — </span>is the same markedly feminine move that <span class="cite-jp">明日、休みよ</span><span class="gl-en"> — tomorrow's a day off, you know — </span>makes with <span class="cite-jp">よ</span>, and not simply a casual contraction.
 
     A different <span class="cite-jp">な</span> entirely follows the dictionary form and forbids the action — <span class="cite-jp">見るな</span><span class="gl-en"> — don't look</span>. Same kana, unrelated job.
 
@@ -174,3 +177,5 @@ The rows run from the form a textbook teaches first to the most colloquial. All 
 
 
 <div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
+
+<div class="prov">Authored by Claude Opus 5 &bull; 2026-08-28; Reviewed by 5.6 Sol - High &bull; 2026-08-28</div>
