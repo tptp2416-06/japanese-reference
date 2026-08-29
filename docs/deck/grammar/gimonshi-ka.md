@@ -11,7 +11,7 @@ Embeds a content question inside a larger statement or question
 
 ## 疑問詞＋か (indefinite) { #indefinite }
 
-Question word plus か makes an indefinite: 何か something, どこか somewhere, 誰か someone, いつか someday
+Question word plus <span class="cite-jp">か</span> makes an indefinite: <span class="cite-jp">何か</span> something, <span class="cite-jp">どこか</span> somewhere, <span class="cite-jp">誰か</span> someone, <span class="cite-jp">いつか</span> someday
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">reference</span>

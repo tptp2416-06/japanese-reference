@@ -4,5 +4,5 @@
 
 <span class="card-tag lv">N5</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">existence</span>
 
-Have a fever; common health-state expression with が
+Have a fever; common health-state expression with <span class="cite-jp">が</span>
 {: .h1-gloss }

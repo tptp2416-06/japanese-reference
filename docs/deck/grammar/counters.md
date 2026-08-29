@@ -12,154 +12,154 @@ Japanese counts nouns with a classifier chosen by the kind of thing counted, and
 
 ## 〜つ (native counter) { #native-counter }
 
-Native all-purpose counter to ten — ひとつ・ふたつ・みっつ…とお; the fallback when no specific counter comes to mind.
+Native all-purpose counter to ten — <span class="cite-jp">ひとつ・ふたつ・みっつ</span>…<span class="cite-jp">とお</span>; the fallback when no specific counter comes to mind.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜個 (small objects) { #small-objects }
 
-Counts small discrete objects: こ — いっこ・ろっこ・じゅっこ geminate.
+Counts small discrete objects: <span class="cite-jp">こ</span> — <span class="cite-jp">いっこ・ろっこ・じゅっこ</span> geminate.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜人 (people) { #people }
 
-Counts people: にん — ひとり and ふたり are irregular, 四人 is よにん; otherwise regular from さんにん.
+Counts people: <span class="cite-jp">にん</span> — <span class="cite-jp">ひとり</span> and <span class="cite-jp">ふたり</span> are irregular, <span class="cite-jp">四人</span> is <span class="cite-jp">よにん</span>; otherwise regular from <span class="cite-jp">さんにん</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜本 (long objects) { #long-objects }
 
-Counts long thin objects (pens, bottles, umbrellas): ほん／ぽん／ぼん — いっぽん・さんぼん・ろっぽん.
+Counts long thin objects (pens, bottles, umbrellas): <span class="cite-jp">ほん</span>／<span class="cite-jp">ぽん</span>／<span class="cite-jp">ぼん</span> — <span class="cite-jp">いっぽん・さんぼん・ろっぽん</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜枚 (flat objects) { #flat-objects }
 
-Counts flat thin objects (paper, shirts, tickets): まい, fully regular.
+Counts flat thin objects (paper, shirts, tickets): <span class="cite-jp">まい</span>, fully regular.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜匹 (small animals) { #small-animals }
 
-Counts small animals: ひき／ぴき／びき — いっぴき・さんびき・ろっぴき.
+Counts small animals: <span class="cite-jp">ひき</span>／<span class="cite-jp">ぴき</span>／<span class="cite-jp">びき</span> — <span class="cite-jp">いっぴき・さんびき・ろっぴき</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜台 (machines) { #machines }
 
-Counts machines and vehicles: だい, regular.
+Counts machines and vehicles: <span class="cite-jp">だい</span>, regular.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜冊 (books) { #books }
 
-Counts bound volumes: さつ — いっさつ・はっさつ geminate.
+Counts bound volumes: <span class="cite-jp">さつ</span> — <span class="cite-jp">いっさつ・はっさつ</span> geminate.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜歳 (age) { #age }
 
-Years of age: さい — いっさい・はっさい geminate; はたち (20) irregular.
+Years of age: <span class="cite-jp">さい</span> — <span class="cite-jp">いっさい・はっさい</span> geminate; <span class="cite-jp">はたち</span> (20) irregular.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜時 (o'clock) { #oclock }
 
-Clock hours: じ — よじ (4) and くじ (9), never よんじ・きゅうじ.
+Clock hours: <span class="cite-jp">じ</span> — <span class="cite-jp">よじ</span> (4) and <span class="cite-jp">くじ</span> (9), never <span class="cite-jp">よんじ・きゅうじ</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜分 (minutes) { #minutes }
 
-Minutes: ふん／ぷん — いっぷん・さんぷん・よんぷん・じゅっぷん.
+Minutes: <span class="cite-jp">ふん</span>／<span class="cite-jp">ぷん</span> — <span class="cite-jp">いっぷん・さんぷん・よんぷん・じゅっぷん</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜回 (times) { #times }
 
-Counts occurrences: かい — いっかい・ろっかい geminate.
+Counts occurrences: <span class="cite-jp">かい</span> — <span class="cite-jp">いっかい・ろっかい</span> geminate.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜度 (degrees) { #degrees }
 
-Temperature and angle degrees, and formal occurrence counting (一度 いちど): ど — overlaps 〜回 for times.
+Temperature and angle degrees, and formal occurrence counting (<span class="cite-jp">一度</span> <span class="cite-jp">いちど</span>): <span class="cite-jp">ど</span><span class="gl-en"> — overlaps 〜</span><span class="cite-jp">回</span> for times.
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜日 (days) { #days }
 
-Days of the month and day-counts: ふつか…とおか double as both, ようか／よっか and はつか trap; 'one day' is いちにち — ついたち is only the 1st. The most irregular counter in the language.
+Days of the month and day-counts: <span class="cite-jp">ふつか</span>…<span class="cite-jp">とおか</span> double as both, <span class="cite-jp">ようか</span>／<span class="cite-jp">よっか</span> and <span class="cite-jp">はつか</span> trap; 'one day' is <span class="cite-jp">いちにち</span> — <span class="cite-jp">ついたち</span> is only the 1st. The most irregular counter in the language.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜円 (yen) { #yen }
 
-Yen amounts: えん — 四円 is よえん, not よんえん.
+Yen amounts: <span class="cite-jp">えん</span> — <span class="cite-jp">四円</span> is <span class="cite-jp">よえん</span>, not <span class="cite-jp">よんえん</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜杯 (cupfuls) { #cupfuls }
 
-Cups, glasses and bowlfuls: はい／ぱい／ばい — いっぱい・さんばい; いっぱい also lexicalised as "full".
+Cups, glasses and bowlfuls: <span class="cite-jp">はい</span>／<span class="cite-jp">ぱい</span>／<span class="cite-jp">ばい</span> — <span class="cite-jp">いっぱい・さんばい</span>; <span class="cite-jp">いっぱい</span> also lexicalised as "full".
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜階 (floors) { #floors }
 
-Building floors: かい — さんがい voices; homophonous with 〜回 except where the voicing separates them (さんがい vs さんかい).
+Building floors: <span class="cite-jp">かい</span> — <span class="cite-jp">さんがい</span> voices; homophonous with 〜<span class="cite-jp">回</span> except where the voicing separates them (<span class="cite-jp">さんがい</span> vs <span class="cite-jp">さんかい</span>).
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜時間 (hours) { #hours }
 
-Duration in hours: じかん — the span, where 〜時 is the clock point.
+Duration in hours: <span class="cite-jp">じかん</span><span class="gl-en"> — the span, where 〜</span><span class="cite-jp">時</span> is the clock point.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜週間 (weeks) { #weeks }
 
-Duration in weeks: しゅうかん — いっしゅうかん geminates.
+Duration in weeks: <span class="cite-jp">しゅうかん</span> — <span class="cite-jp">いっしゅうかん</span> geminates.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜か月 (months) { #months }
 
-Duration in months: かげつ — いっかげつ・ろっかげつ geminate; distinct from 〜月 (がつ) month names.
+Duration in months: <span class="cite-jp">かげつ</span> — <span class="cite-jp">いっかげつ・ろっかげつ</span> geminate; distinct from 〜<span class="cite-jp">月</span> (<span class="cite-jp">がつ</span>) month names.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜年 (years) { #years }
 
-Years and year-counts: ねん — よねん (4), never よんねん.
+Years and year-counts: <span class="cite-jp">ねん</span> — <span class="cite-jp">よねん</span> (4), never <span class="cite-jp">よんねん</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
 
 ## 〜羽 (birds) { #birds }
 
-Counts birds and rabbits: わ — さんば・ろっぱ, among the language's most irregular voicing sets.
+Counts birds and rabbits: <span class="cite-jp">わ</span> — <span class="cite-jp">さんば・ろっぱ</span>, among the language's most irregular voicing sets.
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>

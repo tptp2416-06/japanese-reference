@@ -188,7 +188,7 @@ contextual change; affirmation or negation determines what holds there.
 
 ## もう＋過去 — already, reached by now { #mou-kako }
 
-Already did; もう with a past predicate.
+Already did; <span class="cite-jp">もう</span> with a past predicate.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">adverb</span> <span class="card-tag">phase-recency</span>
@@ -211,7 +211,7 @@ happened, and <span class="cite-jp">もう</span> presents it as reached by now 
   — it has already finished — can sound surprised, but it can also be a plain
   status report.
 
-<div class="ex"><div class="ex-jp" lang="ja"><span class="pat">もう</span><ruby>宿題<rt>しゅくだい</rt></ruby>は<ruby>終<rt>お</rt></ruby>わった？</div><div class="ex-en">&ldquo;Have you finished your homework yet?&rdquo;</div><div class="ex-note">The question asks whether finishing has been reached. A positive answer can repeat もう; a negative answer normally switches to まだ.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="j" lang="ja">もう</span><span class="g">yet</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>宿題<rt>しゅくだい</rt></ruby>は</span><span class="g">the homework</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>終<rt>お</rt></ruby>わった</span><span class="g">finished</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">もう + V-た in a question</span></div></div></details></div>
+<div class="ex"><div class="ex-jp" lang="ja"><span class="pat">もう</span><ruby>宿題<rt>しゅくだい</rt></ruby>は<ruby>終<rt>お</rt></ruby>わった？</div><div class="ex-en">Have you finished your homework yet?</div><div class="ex-note">The question asks whether finishing has been reached. A positive answer can repeat もう; a negative answer normally switches to まだ.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg hit"><span class="j" lang="ja">もう</span><span class="g">yet</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>宿題<rt>しゅくだい</rt></ruby>は</span><span class="g">the homework</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>終<rt>お</rt></ruby>わった</span><span class="g">finished</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">もう + V-た in a question</span></div></div></details></div>
 
 ### The answer's polarity flips the adverb
 

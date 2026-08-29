@@ -6,5 +6,5 @@
 
 ## ずに (without doing) { #without-doing }
 
-Without doing X; a compact negative conjunctive equivalent of ないで, ordinary in speech (especially in set adverbials such as 忘れずに)
+Without doing X; a compact negative conjunctive equivalent of <span class="cite-jp">ないで</span>, ordinary in speech (especially in set adverbials such as <span class="cite-jp">忘れずに</span>)
 {: .pt-gloss }

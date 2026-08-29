@@ -6,7 +6,7 @@
 
 ## Vstem＋に (purpose) { #purpose }
 
-In order to do; Vstem＋に pairs with a motion verb such as 行く, 来る or 帰る, and marks the movement's purpose
+In order to do; Vstem＋<span class="cite-jp">に</span> pairs with a motion verb such as <span class="cite-jp">行く</span>, <span class="cite-jp">来る</span> or <span class="cite-jp">帰る</span>, and marks the movement's purpose
 {: .pt-gloss }
 
 *Compare:* [ために・ように・のに・Vstem＋に — the purpose family](<../contrasts/tame-ni-you-ni-noni-vstem-ni.md> "the purpose family")

@@ -6,5 +6,5 @@
 
 ## ております (humble auxiliary) { #humble-auxiliary }
 
-Courteous (丁重語) equivalent of ています; states an ongoing action or resulting state with deference to the listener.
+Courteous (<span class="cite-jp">丁重語</span>) equivalent of <span class="cite-jp">ています</span>; states an ongoing action or resulting state with deference to the listener.
 {: .pt-gloss }

@@ -6,5 +6,5 @@
 
 ## 疑問詞＋でも (何でも) { #nan-demo }
 
-Anything or whatever; question word plus でも.
+Anything or whatever; question word plus <span class="cite-jp">でも</span>.
 {: .pt-gloss }

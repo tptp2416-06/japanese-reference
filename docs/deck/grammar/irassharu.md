@@ -6,5 +6,5 @@
 
 ## いらっしゃる (honorific いる/来る) { #honorific-iru-kuru }
 
-Honorific equivalent of いる, 来る and 行く, and with で of だ/である; a respected person is present, comes, goes, or is in a stated condition.
+Honorific equivalent of <span class="cite-jp">いる</span>, <span class="cite-jp">来る</span> and <span class="cite-jp">行く</span>, and with <span class="cite-jp">で</span> of <span class="cite-jp">だ</span>/<span class="cite-jp">である</span>; a respected person is present, comes, goes, or is in a stated condition.
 {: .pt-gloss }

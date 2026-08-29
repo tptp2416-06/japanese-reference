@@ -57,7 +57,7 @@ Change-of-state verbs built on なる work the same way. もう暗くなって�
 
 A related construction, てある, makes deliberateness explicit rather than leaving it implicit.
 
-窓が開いている simply presents the window as open — nobody's intent is in the sentence at all. 窓が開けてある additionally claims someone opened it on purpose and left it that way.
+窓が開いている — the window is open — simply presents it that way, with nobody's intent in the sentence at all. 窓が開けてある — the window has been opened — additionally claims someone opened it on purpose and left it that way.
 
 This site has no page of てある to link to yet; JLPT and outside references cover it under N4 grammar, and Bunpro's てある entry is the fullest treatment currently available.
 

@@ -81,7 +81,7 @@ Unfortunately do something, conveying regret, annoyance, or an unwanted outcome
 - **Regret-flavored <span class="cite-jp">しまう</span> usually attaches to something unwanted** — a mistake, a loss, a turn of events nobody asked for — framed the same way completion is: done, and no taking it back.
 - **The speaker doesn't have to be at fault** — <span class="cite-jp">電車が遅れてしまった</span><span class="gl-en"> — the train ended up running late — </span>frames the lateness as an unwelcome, unavoidable done deal, with nobody in the sentence causing it.
 
-<div class="ex"><div class="ex-jp" lang="ja">大事な写真を<span class="pat">消してしまった</span>。</div><div class="ex-en">&ldquo;I deleted an important photo.&rdquo; <span class="lit">&mdash; lit. an important photo, went and erased</span></div><div class="ex-note">てしまう doesn&#x27;t just report the deleting — it frames it as complete and impossible to undo, and that framing is what makes this land as regret.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">大事な写真を</span><span class="g">the important photo</span></div><div class="bd-seg hit"><span class="j" lang="ja">消してしまった</span><span class="g">ended up erasing</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-てしまう, an ending that can&#x27;t be walked back</span></div></div></details></div>
+<div class="ex"><div class="ex-jp" lang="ja">大事な写真を<span class="pat">消してしまった</span>。</div><div class="ex-en">I deleted an important photo. <span class="lit">&mdash; lit. an important photo, went and erased</span></div><div class="ex-note">てしまう doesn&#x27;t just report the deleting — it frames it as complete and impossible to undo, and that framing is what makes this land as regret.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">大事な写真を</span><span class="g">the important photo</span></div><div class="bd-seg hit"><span class="j" lang="ja">消してしまった</span><span class="g">ended up erasing</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">V-てしまう, an ending that can&#x27;t be walked back</span></div></div></details></div>
 
 ### Not built-in regret or apology
 
@@ -99,7 +99,7 @@ A different construction reaches a similar unwanted feeling by another route: th
 
 ## ちゃう (contraction) — how てしまう actually gets said { #chau }
 
-End up doing or do completely; contraction of てしまう.
+End up doing or do completely; contraction of <span class="cite-jp">てしまう</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span>
@@ -135,7 +135,7 @@ The choice that matters is not which flavor to reach for. It's whether to mark t
 
 ## ちゃった — where completion and regret actually show up { #chatta }
 
-Ended up doing; past contraction of てしまった.
+Ended up doing; past contraction of <span class="cite-jp">てしまった</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span>

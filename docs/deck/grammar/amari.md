@@ -12,7 +12,7 @@ Not very or not much, used with a negative.
 
 ## あんまり〜ない { #anmari-nai }
 
-Not very; casual counterpart of あまり〜ない, used with a negative predicate
+Not very; casual counterpart of <span class="cite-jp">あまり</span>〜<span class="cite-jp">ない</span>, used with a negative predicate
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">adverb</span> <span class="card-tag">quantity-degree</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>

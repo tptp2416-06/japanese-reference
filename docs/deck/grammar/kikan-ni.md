@@ -4,5 +4,5 @@
 
 <span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">quantity-degree</span>
 
-Per period: a time span plus に states frequency or rate within each period (週に一回, 月に二回)
+Per period: a time span plus <span class="cite-jp">に</span> states frequency or rate within each period (<span class="cite-jp">週に一回</span>, <span class="cite-jp">月に二回</span>)
 {: .h1-gloss }

@@ -6,7 +6,7 @@
 
 ## には (time) { #time }
 
-At or for X, with は adding contrast or emphasis.
+At or for X, with <span class="cite-jp">は</span> adding contrast or emphasis.
 {: .pt-gloss }
 
 **From:** compound of [時間＋に](<jikan-ni.md> "Marks the time at which an event occurs. Clock times, days and dates take に; relative words like 今日 and 毎朝 do not.")

@@ -4,5 +4,5 @@
 
 <span class="card-tag lv">N4-upper</span> <span class="card-tag">copular-construction</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: courteous</span>
 
-Highly formal copula equivalent to です, common in service language
+Highly formal copula equivalent to <span class="cite-jp">です</span>, common in service language
 {: .h1-gloss }

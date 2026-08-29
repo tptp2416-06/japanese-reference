@@ -73,10 +73,10 @@ B: え、そうなんだ！ | Oh, really?
     On a plain fact with nothing riding on it, it can sound like the speaker
     is explaining themselves unprompted.
 
-    今日[きょう]は月曜日[げつようび]だ。 — it's Monday today — states a fact
+    今日は月曜日だ。 — it's Monday today — states a fact
     plainly.
 
-    だから授業[じゅぎょう]があるんだ — that's why there's class — works
+    だから授業があるんだ — that's why there's class — works
     because だから has already stated the causal connection; んだ then
     frames the result as explanatory background, not the other way around.
 
@@ -201,7 +201,7 @@ pat: んです + か, polite explanatory question
     the speaker's style — not inherently confrontational, but carrying more
     of that risk than a plain question.
 
-    何[なに]を食[た]べるんだ？ — what are you eating? — pressed harder than
+    何を食べるんだ？ — what are you eating? — pressed harder than
     asked neutrally.
 
     んですか is often the safer choice when politeness or the relationship

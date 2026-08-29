@@ -4,7 +4,7 @@
 
 <span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">time-point</span>
 
-Marks the time at which an event occurs. Clock times, days and dates take に; relative words like 今日 and 毎朝 do not.
+Marks the time at which an event occurs. Clock times, days and dates take <span class="cite-jp">に</span>; relative words like <span class="cite-jp">今日</span> and <span class="cite-jp">毎朝</span> do not.
 {: .h1-gloss }
 
 **Compounds:** [には (time)](<ni-wa.md#time> "At or for X, with は adding contrast or emphasis.")

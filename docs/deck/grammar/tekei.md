@@ -4,7 +4,7 @@
 
 ## て形 (cause) { #cause }
 
-Links a cause or reason to its result with the て-form.
+Links a cause or reason to its result with the <span class="cite-jp">て</span>-form.
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">cause-reason</span>
@@ -15,7 +15,7 @@ Links a cause or reason to its result with the て-form.
 
 ## て形 (linking) { #linking }
 
-Links clauses or predicates with the て-form.
+Links clauses or predicates with the <span class="cite-jp">て</span>-form.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">listing-addition</span>
@@ -27,7 +27,7 @@ Links clauses or predicates with the て-form.
 
 ## て形 (request) { #request }
 
-Makes a casual request with the bare て-form.
+Makes a casual request with the bare <span class="cite-jp">て</span>-form.
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">request</span> <span class="card-tag">style: colloquial</span>
@@ -50,7 +50,7 @@ Do one action and then another, linking events in sequence
 
 ## て形 (means/manner) { #means-manner }
 
-The て-form marking means or manner: 歩いて by walking, 間違えて by mistake
+The <span class="cite-jp">て</span>-form marking means or manner: <span class="cite-jp">歩いて</span> by walking, <span class="cite-jp">間違えて</span> by mistake
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">verb-inflection-te-form</span> <span class="card-tag">manner-means</span>

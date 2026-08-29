@@ -6,5 +6,5 @@
 
 ## ていたら (progressive cond.) { #progressive-cond }
 
-If, when, or while someone is doing X, a result follows; progressive host on たら, covering both the conditional and the past-discovery readings
+If, when, or while someone is doing X, a result follows; progressive host on <span class="cite-jp">たら</span>, covering both the conditional and the past-discovery readings
 {: .pt-gloss }

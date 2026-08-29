@@ -4,5 +4,5 @@
 
 <span class="card-tag lv">N3</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">polite-marked</span> <span class="card-tag">keigo: courteous</span>
 
-Courteous (丁重語) self-introduction: my name is X.
+Courteous (<span class="cite-jp">丁重語</span>) self-introduction: my name is X.
 {: .h1-gloss }

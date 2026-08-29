@@ -7,5 +7,5 @@
 **See also:** [ないでください](<nai-de-kudasai.md> "ないでください — Please do not do") — the blunt end of the request ladder — Vるな is this form's negative
 {: .seealso }
 
-Plain imperative commands; forceful direct orders requiring careful social use (走れ, 諦めろ)
+Plain imperative commands; forceful direct orders requiring careful social use (<span class="cite-jp">走れ</span>, <span class="cite-jp">諦めろ</span>)
 {: .h1-gloss }

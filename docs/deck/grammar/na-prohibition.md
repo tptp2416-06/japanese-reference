@@ -4,5 +4,5 @@
 
 <span class="card-tag lv">N4-upper</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">prohibition</span> <span class="card-tag">plain-marked</span>
 
-Sentence-final な after the dictionary form forbids the action outright (諦めるな)
+Sentence-final <span class="cite-jp">な</span> after the dictionary form forbids the action outright (<span class="cite-jp">諦めるな</span>)
 {: .h1-gloss }

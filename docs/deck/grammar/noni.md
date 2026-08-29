@@ -11,7 +11,7 @@ Even though; the outcome defies the stated situation, often with surprise or fru
 
 ## のに (purpose 'for doing') { #purpose-for-doing }
 
-For doing something; nominalizes an action as a purpose or use. The tell is the matrix predicate — use/need/cost words (便利・使う・かかる・必要) follow purpose のに.
+For doing something; nominalizes an action as a purpose or use. The tell is the matrix predicate — use/need/cost words (<span class="cite-jp">便利・使う・かかる・必要</span>) follow purpose <span class="cite-jp">のに</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-upper</span> <span class="card-tag">particle-construction</span> <span class="card-tag">purpose</span>

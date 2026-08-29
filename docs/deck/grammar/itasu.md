@@ -4,5 +4,5 @@
 
 <span class="card-tag lv">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: courteous</span>
 
-Courteous (丁重語) equivalent of する; lowers the speaker's own action to show deference to the listener.
+Courteous (<span class="cite-jp">丁重語</span>) equivalent of <span class="cite-jp">する</span>; lowers the speaker's own action to show deference to the listener.
 {: .h1-gloss }

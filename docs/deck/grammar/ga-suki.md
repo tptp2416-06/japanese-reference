@@ -4,5 +4,5 @@
 
 <span class="card-tag lv">N5</span> <span class="card-tag">particle-construction</span> <span class="card-tag">stance-evaluation</span> <span class="card-tag">baseline</span>
 
-Like or prefer something, with the liked item marked by が.
+Like or prefer something, with the liked item marked by <span class="cite-jp">が</span>.
 {: .h1-gloss }

@@ -37,7 +37,7 @@ Requests built on these — てくれる？ up to ていただけないでしょ
 **Form:** `V-て + あげたら`
 
 - **あげたら doesn't offer a favor — it suggests that someone else offer one.** 引っ越すの、手伝ってあげたら？ — why don't you help them move? — proposes that the listener become the giver, not the speaker.
-- **The rising, unfinished たら carries the suggestion on its own** — no どう or いい is required, though either can follow to make the suggestion more explicit: 手伝ってあげたらどう？
+- **The rising, unfinished たら carries the suggestion on its own** — no どう or いい is required, though either can follow to make the suggestion more explicit: 手伝ってあげたらどう？ — why don't you help them?
 
 ```eg
 連絡してあげたら？ | Why don't you get in touch with them?

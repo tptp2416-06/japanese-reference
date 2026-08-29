@@ -4,5 +4,5 @@
 
 <span class="card-tag lv">N3</span> <span class="card-tag">counter-quantifier-construction</span> <span class="card-tag">frequency</span>
 
-At intervals separated by the stated amount — 一日おきに is every OTHER day, 5分おきに every five minutes.
+At intervals separated by the stated amount — <span class="cite-jp">一日おきに</span> is every OTHER day, 5<span class="cite-jp">分おきに</span> every five minutes.
 {: .h1-gloss }

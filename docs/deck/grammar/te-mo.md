@@ -11,7 +11,7 @@ Even if something happens or holds, the result remains unchanged
 
 ## 疑問詞＋ても (concessive) { #question-word-temo }
 
-No matter how much or what: question word plus ても; the outcome stays unchanged (いくら〜ても, どんなに〜ても)
+No matter how much or what: question word plus <span class="cite-jp">ても</span>; the outcome stays unchanged (<span class="cite-jp">いくら</span>〜<span class="cite-jp">ても</span>, <span class="cite-jp">どんなに</span>〜<span class="cite-jp">ても</span>)
 {: .pt-gloss }
 
 <span class="card-tag lv">N3</span> <span class="card-tag">conditional-construction</span> <span class="card-tag">concession</span>

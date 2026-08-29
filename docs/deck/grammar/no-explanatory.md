@@ -4,7 +4,7 @@
 
 ## の (explanatory) { #explanatory }
 
-Supplies background or asks for an explanation with の.
+Supplies background or asks for an explanation with <span class="cite-jp">の</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">explanation</span> <span class="card-tag">style: colloquial</span>

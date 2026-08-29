@@ -6,5 +6,5 @@
 
 ## い形容詞＋く (adverbial) { #adverbial }
 
-The く form turns an i-adjective into an adverb: 早く early or quickly, 短く shortly
+The <span class="cite-jp">く</span> form turns an i-adjective into an adverb: <span class="cite-jp">早く</span> early or quickly, <span class="cite-jp">短く</span> shortly
 {: .pt-gloss }

@@ -41,7 +41,7 @@ unspecified answer, <span class="cite-jp">も</span> + negative for none, <span 
 the particle for what the possible answers should do, then build the
 predicate to match.
 
-Question word plus も with a negative predicate denies every case: 何も nothing at all, どこにも nowhere
+Question word plus <span class="cite-jp">も</span> with a negative predicate denies every case: <span class="cite-jp">何も</span> nothing at all, <span class="cite-jp">どこにも</span> nowhere
 {: .h1-gloss }
 
 **Form:** `疑問詞 + も + negative predicate` · `疑問詞 + case particle + も + negative predicate`
@@ -72,7 +72,7 @@ With <span class="cite-jp">何</span>, the contrast is especially easy to see:
   I want to eat something; that needs <span class="cite-jp">何か食べたい</span>. If the desire itself is
   negative, <span class="cite-jp">何も食べたくない</span> means I do not want to eat anything.
 
-<div class="ex"><div class="ex-jp" lang="ja"><ruby>朝<rt>あさ</rt></ruby>から<span class="pat"><ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べていない</span>。</div><div class="ex-en">&ldquo;I haven&#x27;t eaten anything since this morning.&rdquo;</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>朝<rt>あさ</rt></ruby>から</span><span class="g">since this morning</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>何<rt>なに</rt></ruby>も</span><span class="g">anything</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>食<rt>た</rt></ruby>べていない</span><span class="g">have not eaten</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">何 + も, negative predicate</span></div></div></details></div>
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>朝<rt>あさ</rt></ruby>から<span class="pat"><ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べていない</span>。</div><div class="ex-en">I haven&#x27;t eaten anything since this morning.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>朝<rt>あさ</rt></ruby>から</span><span class="g">since this morning</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>何<rt>なに</rt></ruby>も</span><span class="g">anything</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>食<rt>た</rt></ruby>べていない</span><span class="g">have not eaten</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">何 + も, negative predicate</span></div></div></details></div>
 
 <div class="dlg"><div class="dlg-note">what licenses 何も食べてない — B&#x27;s answer negates the very item A&#x27;s か-question left open.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>何<rt>なに</rt></ruby>か<ruby>食<rt>た</rt></ruby>べた？</div><div class="ex-en">Did you eat something?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">ううん、<ruby>何<rt>なに</rt></ruby>も<ruby>食<rt>た</rt></ruby>べてない。</div><div class="ex-en">No, I haven&#x27;t eaten anything.</div></div></div></div>
 

@@ -4,7 +4,7 @@
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">fixed-expression</span> <span class="card-tag">addressee-stance</span>
 
-Thanks for doing...; て-form action followed by ありがとう.
+Thanks for doing...; <span class="cite-jp">て</span>-form action followed by <span class="cite-jp">ありがとう</span>.
 {: .h1-gloss }
 
 **Inflections:** [て＋ありがとうございました](<te-arigatou-gozaimashita.md> "Thanks for having done X; formal past gratitude for a completed action")

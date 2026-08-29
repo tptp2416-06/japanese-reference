@@ -14,7 +14,7 @@ Give something to another person, viewed from the giver's side
 
 ## いただく (main verb) { #itadaku }
 
-Receive something from a respected person; humble counterpart of もらう
+Receive something from a respected person; humble counterpart of <span class="cite-jp">もらう</span>
 {: .pt-gloss }
 
 <span class="card-tag lv">N3</span> <span class="card-tag">lexical-item</span> <span class="card-tag">keigo: humble</span>

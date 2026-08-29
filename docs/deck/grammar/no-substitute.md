@@ -6,7 +6,7 @@
 
 ## の (substitute) { #substitute }
 
-Uses の in place of an understood noun or item.
+Uses <span class="cite-jp">の</span> in place of an understood noun or item.
 {: .pt-gloss }
 
 **From:** sense of [の (possession, noun omitted)](<no-modifier.md#possession-noun-omitted> "One belonging to someone; replaces an understood possessed noun")

@@ -4,7 +4,7 @@
 
 ## では (location) { #location }
 
-Within or at a place or institutional scope; で plus topic-contrastive は marks the place as the domain in which the statement holds
+Within or at a place or institutional scope; <span class="cite-jp">で</span> plus topic-contrastive <span class="cite-jp">は</span> marks the place as the domain in which the statement holds
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>

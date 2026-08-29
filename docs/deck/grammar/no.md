@@ -4,7 +4,7 @@
 
 ## の (nominalizer) { #nominalizer }
 
-Turns a clause into an activity or thing with の.
+Turns a clause into an activity or thing with <span class="cite-jp">の</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">nominalization</span>
@@ -18,7 +18,7 @@ Turns a clause into an activity or thing with の.
 
 ## のが { #no-ga }
 
-Nominalizes a clause before subject or focus particle が
+Nominalizes a clause before subject or focus particle <span class="cite-jp">が</span>
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">nominalization</span>

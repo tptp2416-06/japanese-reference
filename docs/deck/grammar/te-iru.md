@@ -35,7 +35,7 @@ Describes an action happening right now or around the reference time
 - **With a verb that names a process, <span class="cite-jp">ている</span> presents that process as happening right now** — <span class="cite-jp">食べている</span><span class="gl-en"> — is eating — </span><span class="cite-jp">走っている</span><span class="gl-en"> — is running — </span>puts the listener inside the action while it's still underway.
 - **The action has a beginning and an end somewhere off-screen** — <span class="cite-jp">ている</span> only claims that the moment described falls somewhere between them.
 
-<div class="ex"><div class="ex-jp" lang="ja"><ruby>今<rt>いま</rt></ruby><ruby>部屋<rt>へや</rt></ruby>を<span class="pat"><ruby>掃除<rt>そうじ</rt></ruby>していますから、</span><ruby>後<rt>あと</rt></ruby>でかけ<ruby>直<rt>なお</rt></ruby>しますね。</div><div class="ex-en">&ldquo;I&#x27;m cleaning my room right now, so I&#x27;ll call you back later.&rdquo;</div><div class="ex-note">掃除しています names what&#x27;s happening at this exact moment, and that&#x27;s the whole justification the sentence needs for calling back later.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>今<rt>いま</rt></ruby><ruby>部屋<rt>へや</rt></ruby>を</span><span class="g">right now</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>掃除<rt>そうじ</rt></ruby>していますから、</span><span class="g">since I&#x27;m cleaning</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>後<rt>あと</rt></ruby>でかけ<ruby>直<rt>なお</rt></ruby>しますね</span><span class="g">I&#x27;ll call back later</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">durative V-ている, action in progress</span></div></div></details></div>
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>今<rt>いま</rt></ruby><ruby>部屋<rt>へや</rt></ruby>を<span class="pat"><ruby>掃除<rt>そうじ</rt></ruby>していますから、</span><ruby>後<rt>あと</rt></ruby>でかけ<ruby>直<rt>なお</rt></ruby>しますね。</div><div class="ex-en">I&#x27;m cleaning my room right now, so I&#x27;ll call you back later.</div><div class="ex-note">掃除しています names what&#x27;s happening at this exact moment, and that&#x27;s the whole justification the sentence needs for calling back later.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>今<rt>いま</rt></ruby><ruby>部屋<rt>へや</rt></ruby>を</span><span class="g">right now</span></div><div class="bd-seg hit"><span class="j" lang="ja"><ruby>掃除<rt>そうじ</rt></ruby>していますから、</span><span class="g">since I&#x27;m cleaning</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>後<rt>あと</rt></ruby>でかけ<ruby>直<rt>なお</rt></ruby>しますね</span><span class="g">I&#x27;ll call back later</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">durative V-ている, action in progress</span></div></div></details></div>
 
 
 *Compare:* [ている — progressive, habit, result, status](<../contrasts/te-iru.md> "progressive, habit, result, status")
@@ -76,7 +76,7 @@ Change-of-state verbs built on <span class="cite-jp">なる</span> work the same
 
 A related construction, <span class="cite-jp">てある</span>, makes deliberateness explicit rather than leaving it implicit.
 
-<span class="cite-jp">窓が開いている</span> simply presents the window as open — nobody's intent is in the sentence at all. <span class="cite-jp">窓が開けてある</span> additionally claims someone opened it on purpose and left it that way.
+<span class="cite-jp">窓が開いている</span><span class="gl-en"> — the window is open — </span>simply presents it that way, with nobody's intent in the sentence at all. <span class="cite-jp">窓が開けてある</span><span class="gl-en"> — the window has been opened — </span>additionally claims someone opened it on purpose and left it that way.
 
 This site has no page of <span class="cite-jp">てある</span> to link to yet; JLPT and outside references cover it under N4 grammar, and Bunpro's <span class="cite-jp">てある</span> entry is the fullest treatment currently available.
 
@@ -159,7 +159,7 @@ Polite ongoing, habitual, or resultant state; exact sense depends on the verb
 
 ## てる (contraction) — how it actually gets said { #teru }
 
-Casual contraction of ている for an ongoing or resultant state.
+Casual contraction of <span class="cite-jp">ている</span> for an ongoing or resultant state.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
@@ -180,7 +180,7 @@ Casual contraction of ている for an ongoing or resultant state.
 
 ## てて (ていて contraction) — chaining a state into what follows { #tete }
 
-Keep doing or stay in a state; contracted ていて.
+Keep doing or stay in a state; contracted <span class="cite-jp">ていて</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">aspect-event-phase</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>

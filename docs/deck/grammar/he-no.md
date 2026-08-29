@@ -4,5 +4,5 @@
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">particle-construction</span> <span class="card-tag">spatial-relation-movement</span>
 
-For or toward X; の-marked noun modifies a following noun
+For or toward X; <span class="cite-jp">の</span>-marked noun modifies a following noun
 {: .h1-gloss }

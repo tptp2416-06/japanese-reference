@@ -72,11 +72,11 @@ The same adversity reading reaches even verbs that never had an object to lose.
 
 **Form:** `agent に + V passive` (no object)
 
-- **Some intransitive verbs never had an object to keep, and られる still attaches** — 隣の部屋の人に夜中に騒がれた adds the person who had to put up with the noise; 騒ぐ itself never took an object.
+- **Some intransitive verbs never had an object to keep, and られる still attaches** — 隣の部屋の人に夜中に騒がれた — the people next door were noisy in the middle of the night — adds the person who had to put up with the noise; 騒ぐ itself never took an object.
 - **This is where an event with no room for a person suddenly gets one** — the base sentence has no slot for who was affected; られる is what creates it.
 
 !!! note "What's in scope"
-    雨が降った has no room for a person at all — it's just weather happening. られる adds one: 雨に降られた makes space for someone the rain affected, without changing what 降る itself means.
+    雨が降った — it rained — has no room for a person at all — it's just weather happening. られる adds one: 雨に降られた makes space for someone the rain affected, without changing what 降る itself means.
 
 ### No object to begin with
 
@@ -143,7 +143,7 @@ With られる's jobs now in view, here's the other half of the pair.
 - **The causee gets に when the verb already has an object** — 先生が生徒に本を読ませた — the teacher had the student read the book — keeps を on 本 and moves the causee to に.
 - **The causee gets を when the verb has no object of its own** — 子供を歩かせた — I made the child walk — since 歩く never had an object to begin with.
 - **The same ending can mean "make" or "let"** — nothing in させる itself decides which. The rest of the sentence does.
-- **Negating させる usually withholds permission, not force** — 子供にゲームをさせない reads as "I won't let the child play games," not as refusing to force it.
+- **Negating させる usually withholds permission, not force** — 子供にゲームをさせない — I won't let the child play games — not as refusing to force it.
 
 ```dialog
 note: The same させた could mean force or permission; a birthday makes it read as permission here.

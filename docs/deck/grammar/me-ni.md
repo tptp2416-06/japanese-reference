@@ -4,5 +4,5 @@
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">affix-construction</span> <span class="card-tag">quantity-degree</span>
 
-Deliberately a bit more than usual: adjective stem plus め(に) errs toward the quality (多めに, 早めに)
+Deliberately a bit more than usual: adjective stem plus <span class="cite-jp">め</span>(<span class="cite-jp">に</span>) errs toward the quality (<span class="cite-jp">多めに</span>, <span class="cite-jp">早めに</span>)
 {: .h1-gloss }

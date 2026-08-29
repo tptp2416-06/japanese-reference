@@ -4,5 +4,5 @@
 
 <span class="card-tag lv">N5</span> <span class="card-tag">lexical-item</span> <span class="card-tag">interrogation</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>
 
-Which one?; casual form of どちら.
+Which one?; casual form of <span class="cite-jp">どちら</span>.
 {: .h1-gloss }

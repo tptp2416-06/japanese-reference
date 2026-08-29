@@ -12,7 +12,7 @@ Must not do something; states prohibition or unacceptability
 
 ## ちゃいけない (contraction) { #cha-ikenai }
 
-Must not do; casual contraction of てはいけない.
+Must not do; casual contraction of <span class="cite-jp">てはいけない</span>.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">contraction</span> <span class="card-tag">prohibition</span> <span class="card-tag">style: colloquial</span> <span class="card-tag">baseline</span>

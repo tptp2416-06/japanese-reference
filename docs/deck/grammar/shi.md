@@ -17,7 +17,7 @@ Lists one or more reasons, suggesting additional reasons may also exist
 
 ## し (trailing) { #trailing }
 
-Sentence-final し trails off after giving a reason.
+Sentence-final <span class="cite-jp">し</span> trails off after giving a reason.
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>
@@ -28,7 +28,7 @@ Sentence-final し trails off after giving a reason.
 
 ## し〜し { #shi-shi }
 
-Lists multiple reasons with し repeated.
+Lists multiple reasons with <span class="cite-jp">し</span> repeated.
 {: .pt-gloss }
 
 <span class="card-tag lv">N4-lower</span> <span class="card-tag">clause-linking-construction</span> <span class="card-tag">cause-reason</span>

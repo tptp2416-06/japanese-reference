@@ -6,5 +6,5 @@
 
 ## 位置語＋に (上・下) { #ue-shita }
 
-Marks a position such as above or below with に.
+Marks a position such as above or below with <span class="cite-jp">に</span>.
 {: .pt-gloss }
