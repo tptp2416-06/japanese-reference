@@ -6,7 +6,7 @@
 
     <span class="cite-jp">まで</span> marks the endpoint or outer limit of a range or extent — normally
     understood as included, as in <span class="cite-jp">駅まで歩く</span>. The same particle also marks the
-    far end of a range that surprises you (<span class="cite-jp">子供まで知っている</span> — even the kids).
+    far end of a range that surprises you (<span class="cite-jp">子供まで知っている</span><span class="gl-en"> — even the kids)</span>.
 
 <span class="cite-jp">まで</span> marks the endpoint or outer limit of a range or extent. In ordinary
 range expressions, that endpoint is normally understood as part of the

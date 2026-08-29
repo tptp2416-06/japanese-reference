@@ -131,8 +131,7 @@ change. In particular, <span class="cite-jp">もう覚えていない</span> —
 ### The whole combination decides the translation
 
 <span class="cite-jp">ている</span> does not fix the translation on its own. The affirmative <span class="cite-jp">まだ</span>＋<span class="cite-jp">ている</span>
-often reads as still, because an action or state continues: <span class="cite-jp">まだ読んでいる</span> —
-is still reading. Negating the same form changes the result: <span class="cite-jp">まだ読んでいない</span>
+often reads as still, because an action or state continues: <span class="cite-jp">まだ読んでいる</span><span class="gl-en"> — is still reading</span>. Negating the same form changes the result: <span class="cite-jp">まだ読んでいない</span>
 — hasn't read it yet.
 
 The translation comes from the whole combination. It is not a special meaning

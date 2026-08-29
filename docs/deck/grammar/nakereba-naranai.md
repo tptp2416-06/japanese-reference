@@ -5,7 +5,7 @@
 !!! tip "At a glance"
 
     Obligation is commonly built from **if I do not do this, that will not do**:
-    <span class="cite-jp">行かなければならない</span> — have to go. Conversation often shortens the pattern to
+    <span class="cite-jp">行かなければならない</span><span class="gl-en"> — have to go</span>. Conversation often shortens the pattern to
     <span class="cite-jp">行かないと</span>, <span class="cite-jp">行かなきゃ</span> or <span class="cite-jp">行かなくちゃ</span>, leaving that will not do to context.
 
     <span class="cite-jp">なくてもいい</span> reverses the result: it means you do not have to, not you must

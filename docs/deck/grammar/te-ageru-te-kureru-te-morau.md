@@ -5,8 +5,8 @@
 !!! tip "At a glance"
 
     <span class="cite-jp">てあげる</span>, <span class="cite-jp">てくれる</span> and <span class="cite-jp">てもらう</span> mark who an action was done FOR — the auxiliary names the beneficiary, not just the doer.
-    <span class="cite-jp">てくれる</span> — someone did it for me. <span class="cite-jp">てもらう</span> — I received the favor of someone doing it. <span class="cite-jp">てあげる</span> — I did it for someone else.
-    Requests built on these — <span class="cite-jp">てくれる？</span> up to <span class="cite-jp">ていただけないでしょうか</span> — are one system at climbing levels of deference, not fourteen unrelated forms.
+    <span class="cite-jp">てくれる</span><span class="gl-en"> — someone did it for me</span>. <span class="cite-jp">てもらう</span><span class="gl-en"> — I received the favor of someone doing it</span>. <span class="cite-jp">てあげる</span><span class="gl-en"> — I did it for someone else</span>.
+    Requests built on these — <span class="cite-jp">てくれる？</span> up to <span class="cite-jp">ていただけないでしょうか</span><span class="gl-en"> — are one system at climbing levels of deference, not fourteen unrelated forms</span>.
 
 <span class="cite-jp">あげる</span>, <span class="cite-jp">くれる</span> and <span class="cite-jp">もらう</span> start out as ordinary verbs of giving and receiving: <span class="cite-jp">花をあげる</span><span class="gl-en"> — give flowers — </span><span class="cite-jp">もらう</span><span class="gl-en"> — receive something — </span><span class="cite-jp">くれる</span><span class="gl-en"> — someone gives something to me</span>. Each one already fixes a direction: <span class="cite-jp">あげる</span> and <span class="cite-jp">もらう</span> can point in either direction depending on who the subject is, but <span class="cite-jp">くれる</span> only ever points toward the speaker.
 
@@ -340,10 +340,7 @@ None of these seven forms is a weaker version of another — each is what a spea
 
     <span class="cite-jp">てもらう</span> reports a favor the speaker asked for or benefited from. <span class="cite-jp">られる</span> can report something that happened TO the speaker, often unwelcome, with no request or benefit involved.
 
-    ```eg
-    favor: <span class="cite-jp">髪</span>[<span class="cite-jp">かみ</span>]<span class="cite-jp">を切</span>[<span class="cite-jp">き</span>]<span class="cite-jp">ってもらった。</span>* | I had my hair cut [and arranged it, and it helped me].
-    adversity: <span class="cite-jp">電車</span>[<span class="cite-jp">でんしゃ</span>]<span class="cite-jp">で足</span>[<span class="cite-jp">あし</span>]<span class="cite-jp">を踏</span>[<span class="cite-jp">ふ</span>]<span class="cite-jp">まれた。</span>* | Someone stepped on my foot on the train.
-    ```
+    <div class="eg-contrast"><div class="eg-member"><div class="eg-label">favor</div><div class="eg-jp" lang="ja"><span class="pat"><ruby>髪<rt>かみ</rt></ruby>を<ruby>切<rt>き</rt></ruby>ってもらった。</span></div><div class="ex-en">I had my hair cut [and arranged it, and it helped me].</div></div><div class="eg-member"><div class="eg-label">adversity</div><div class="eg-jp" lang="ja"><span class="pat"><ruby>電車<rt>でんしゃ</rt></ruby>で<ruby>足<rt>あし</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>まれた。</span></div><div class="ex-en">Someone stepped on my foot on the train.</div></div></div>
 
     Both can mark the other party with <span class="cite-jp">に</span>, which is exactly what invites the confusion — but one names a favor, and the other doesn't.
 

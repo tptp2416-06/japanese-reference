@@ -10,9 +10,9 @@
     `疑問詞 + も + negative predicate` gives a nothing / nobody / nowhere / none
     type of meaning:
 
-    <span class="cite-jp">何も食べない</span> — eat nothing, do not eat anything
-    <span class="cite-jp">誰も来ない</span> — nobody comes
-    <span class="cite-jp">どこも開いていない</span> — nowhere is open
+    <span class="cite-jp">何も食べない</span><span class="gl-en"> — eat nothing, do not eat anything
+    </span><span class="cite-jp">誰も来ない</span><span class="gl-en"> — nobody comes
+    </span><span class="cite-jp">どこも開いていない</span><span class="gl-en"> — nowhere is open</span>
 
     Use +<span class="cite-jp">か</span> when **one unspecified answer** is meant, and +<span class="cite-jp">でも</span> when **any answer
     is acceptable or possible**.
@@ -107,15 +107,11 @@ every question word followed by <span class="cite-jp">も</span> must appear wit
     Some forms instead give an **all / every** reading with an affirmative
     predicate:
 
-    ```eg
-    <span class="cite-jp">どれもおいしい</span> | all of them are delicious
-    <span class="cite-jp">どこも混んでいる</span> | everywhere is crowded
-    ```
+    <div class="eg-contrast"><div class="eg-member"><div class="eg-jp" lang="ja">どれもおいしい</div><div class="ex-en">all of them are delicious</div></div><div class="eg-member"><div class="eg-jp" lang="ja">どこも混んでいる</div><div class="ex-en">everywhere is crowded</div></div></div>
 
     With people, a common affirmative form is:
-    ```eg
-    <span class="cite-jp">誰もが知っている</span> | everyone knows
-    ```
+
+    <div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja">誰もが知っている</div><div class="ex-en">everyone knows</div></div>
 
     So the practical rule is deliberately narrower:
 

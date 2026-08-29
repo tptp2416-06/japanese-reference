@@ -4,8 +4,8 @@
 
 !!! tip "At a glance"
 
-    Two ways to say someone can do something: inflect the verb — <span class="cite-jp">読める</span> — or
-    nominalise the action and say that it is possible — <span class="cite-jp">読むことができる</span>. The
+    Two ways to say someone can do something: inflect the verb — <span class="cite-jp">読める</span><span class="gl-en"> — or
+    nominalise the action and say that it is possible — </span><span class="cite-jp">読むことができる</span>. The
     inflected potential is the everyday choice; <span class="cite-jp">ことができる</span> is the explicit one, at
     home in notices, rules and writing.
 

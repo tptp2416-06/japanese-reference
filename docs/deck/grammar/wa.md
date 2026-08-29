@@ -105,8 +105,7 @@ them would sound marked.
 ### <span class="cite-jp">は</span> does not survive inside a relative clause
 
 An ordinary sentence topic normally does not survive as <span class="cite-jp">は</span> inside a
-noun-modifying (relative) clause. The subject there is usually marked with <span class="cite-jp">が</span> —
-and sometimes with <span class="cite-jp">の</span>.
+noun-modifying (relative) clause. The subject there is usually marked with <span class="cite-jp">が</span><span class="gl-en"> — and sometimes with </span><span class="cite-jp">の</span>.
 
 <span class="cite-jp">ハルが作ったケーキ</span> and <span class="cite-jp">ハルの作ったケーキ</span> are both the cake Haru made; <span class="cite-jp">ハルは</span>
 in that slot is not how the clause is built.

@@ -37,8 +37,7 @@ In what feels like no time; emphasizes surprisingly quick completion
 - **It is not the same as "suddenly"** — <span class="cite-jp">急に</span> and <span class="cite-jp">突然</span> focus on how
   unexpectedly an event begins, not on how quickly it is over.
 - **<span class="cite-jp">あっという間に</span> measures the interval, not the onset** — <span class="cite-jp">雨が急に降り出した</span>
-  — it suddenly started raining — names the onset; <span class="cite-jp">雨はあっという間にやんだ</span> —
-  the rain stopped in no time — reports how quickly the rain was over.
+  — it suddenly started raining — names the onset; <span class="cite-jp">雨はあっという間にやんだ</span><span class="gl-en"> — the rain stopped in no time — </span>reports how quickly the rain was over.
 
 <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [急に](<kyuu-ni.md> "急に — Suddenly") <span class="xref-reason">&mdash; describes an unexpected onset, not the length of an interval</span></div>
 
