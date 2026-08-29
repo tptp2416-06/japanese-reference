@@ -15,7 +15,7 @@ Before reaching for one, decide two things:
 
 てあげる, てくれる and てもらう mark who an action was done FOR — the auxiliary names the beneficiary, not just the doer.
 てくれる — someone did it for me. てもらう — I received the favor of someone doing it. てあげる — I did it for someone else.
-Requests built on these — てくれる？ up to ていただけないでしょうか — are one system at climbing levels of deference, not fourteen unrelated forms.
+Requests built on these, from てくれる？ up to ていただけないでしょうか, are one system at climbing levels of deference, not fourteen unrelated forms.
 
 @@ te-ageru — doing something for someone else
 
@@ -98,7 +98,7 @@ sustained state: 待[ま]っていてくれる？* | Will you keep waiting for m
 
 **Form:** `V-て + くれない？`
 
-- **Asking くれる in the negative softens the request within casual register** — 手伝ってくれない？ offers a gentler way to decline than plain 手伝ってくれる？; もらえない？ and いただけないでしょうか lean on the same softening idea at higher registers, there through the negative of a potential form (もらえる, いただける) rather than plain くれる.
+- **Asking くれる in the negative softens the request within casual register** — 手伝ってくれない？ offers a gentler way to decline than plain 手伝ってくれる？; もらえない？ and いただけないでしょうか — could you possibly do that for me — lean on the same softening idea at higher registers, there through the negative of a potential form (もらえる, いただける) rather than plain くれる.
 - **Still entirely casual** — the softening comes from asking in the negative, not from any added politeness marker.
 
 ```eg
@@ -111,7 +111,7 @@ casual softened: 手伝[てつだ]ってくれない？* | Won't you help me?
 **Form:** `V-て + くださる`
 
 - **くださる is くれる raised to describe a respected person's own action** — 先生が案内してくださった — the teacher kindly showed me around — elevates the giver, not the favor itself.
-- **It's mainly used to talk ABOUT someone's kindness, not to ask for it directly** — the request built on this same politeness level is ていただけないでしょうか, further down this page, built from いただく rather than くださる.
+- **It's mainly used to talk ABOUT someone's kindness, not to ask for it directly** — the request built on this same politeness level is ていただけないでしょうか — could you possibly do that for me — further down this page, built from いただく rather than くださる.
 
 ```eg
 道[みち]に迷[まよ]っている時[とき]、知[し]らない人[ひと]が案内[あんない]してくださった。 | While I was lost, a stranger was kind enough to show me the way.

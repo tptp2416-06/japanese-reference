@@ -6,7 +6,7 @@
 
     <span class="cite-jp">てあげる</span>, <span class="cite-jp">てくれる</span> and <span class="cite-jp">てもらう</span> mark who an action was done FOR — the auxiliary names the beneficiary, not just the doer.
     <span class="cite-jp">てくれる</span><span class="gl-en"> — someone did it for me</span>. <span class="cite-jp">てもらう</span><span class="gl-en"> — I received the favor of someone doing it</span>. <span class="cite-jp">てあげる</span><span class="gl-en"> — I did it for someone else</span>.
-    Requests built on these — <span class="cite-jp">てくれる？</span> up to <span class="cite-jp">ていただけないでしょうか</span><span class="gl-en"> — are one system at climbing levels of deference, not fourteen unrelated forms</span>.
+    Requests built on these, from <span class="cite-jp">てくれる？</span> up to <span class="cite-jp">ていただけないでしょうか</span>, are one system at climbing levels of deference, not fourteen unrelated forms.
 
 <span class="cite-jp">あげる</span>, <span class="cite-jp">くれる</span> and <span class="cite-jp">もらう</span> start out as ordinary verbs of giving and receiving: <span class="cite-jp">花をあげる</span><span class="gl-en"> — give flowers — </span><span class="cite-jp">もらう</span><span class="gl-en"> — receive something — </span><span class="cite-jp">くれる</span><span class="gl-en"> — someone gives something to me</span>. Each one already fixes a direction: <span class="cite-jp">あげる</span> and <span class="cite-jp">もらう</span> can point in either direction depending on who the subject is, but <span class="cite-jp">くれる</span> only ever points toward the speaker.
 
@@ -149,7 +149,7 @@ Won't you do this for me? Casual negative-question request
 **Form:** `V-て + くれない？`
 {: .form }
 
-- **Asking <span class="cite-jp">くれる</span> in the negative softens the request within casual register** — <span class="cite-jp">手伝ってくれない？</span> offers a gentler way to decline than plain <span class="cite-jp">手伝ってくれる？</span>; <span class="cite-jp">もらえない？</span> and <span class="cite-jp">いただけないでしょうか</span> lean on the same softening idea at higher registers, there through the negative of a potential form (<span class="cite-jp">もらえる</span>, <span class="cite-jp">いただける</span>) rather than plain <span class="cite-jp">くれる</span>.
+- **Asking <span class="cite-jp">くれる</span> in the negative softens the request within casual register** — <span class="cite-jp">手伝ってくれない？</span> offers a gentler way to decline than plain <span class="cite-jp">手伝ってくれる？</span>; <span class="cite-jp">もらえない？</span> and <span class="cite-jp">いただけないでしょうか</span><span class="gl-en"> — could you possibly do that for me — </span>lean on the same softening idea at higher registers, there through the negative of a potential form (<span class="cite-jp">もらえる</span>, <span class="cite-jp">いただける</span>) rather than plain <span class="cite-jp">くれる</span>.
 - **Still entirely casual** — the softening comes from asking in the negative, not from any added politeness marker.
 
 <div class="eg-contrast"><div class="eg-member"><div class="eg-label">casual direct</div><div class="eg-jp" lang="ja"><span class="pat"><ruby>手伝<rt>てつだ</rt></ruby>ってくれる？</span></div><div class="ex-en">Will you help me?</div></div><div class="eg-member"><div class="eg-label">casual softened</div><div class="eg-jp" lang="ja"><span class="pat"><ruby>手伝<rt>てつだ</rt></ruby>ってくれない？</span></div><div class="ex-en">Won&#x27;t you help me?</div></div></div>
@@ -166,7 +166,7 @@ A respected person kindly does something for the speaker or in-group
 {: .form }
 
 - **<span class="cite-jp">くださる</span> is <span class="cite-jp">くれる</span> raised to describe a respected person's own action** — <span class="cite-jp">先生が案内してくださった</span><span class="gl-en"> — the teacher kindly showed me around — </span>elevates the giver, not the favor itself.
-- **It's mainly used to talk ABOUT someone's kindness, not to ask for it directly** — the request built on this same politeness level is <span class="cite-jp">ていただけないでしょうか</span>, further down this page, built from <span class="cite-jp">いただく</span> rather than <span class="cite-jp">くださる</span>.
+- **It's mainly used to talk ABOUT someone's kindness, not to ask for it directly** — the request built on this same politeness level is <span class="cite-jp">ていただけないでしょうか</span><span class="gl-en"> — could you possibly do that for me — </span>further down this page, built from <span class="cite-jp">いただく</span> rather than <span class="cite-jp">くださる</span>.
 
 <div class="eg-micro"><div class="eg-eye">Ex</div><div class="eg-jp" lang="ja"><ruby>道<rt>みち</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>っている<ruby>時<rt>とき</rt></ruby>、<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>が<ruby>案内<rt>あんない</rt></ruby>してくださった。</div><div class="ex-en">While I was lost, a stranger was kind enough to show me the way.</div></div>
 
