@@ -1,4 +1,4 @@
-Two people are waiting for a bus, and one of them looks up from a phone: 事故で遅れてるって — there's been an accident, it's running late.
+Two people are waiting for a bus, and one of them looks up from a phone: 事故で遅れてるって — apparently it's running late because of an accident.
 
 No name, no verb of saying, nothing set off in quotation marks. The sentence still reports where the information came from, and where it came from is not here.
 
@@ -10,21 +10,21 @@ One way into the pair is that both uses pull something into the conversation: th
 
 Take that as a way in rather than a test. It will not tell you which of the two you are holding, and the topic-marker section carries a test that will.
 
-Before reaching for って, decide what you are pulling in. Somebody's words usually arrive as a whole clause; the thing you want to discuss arrives as a noun — with one exception the topic-marker section pins down.
+Before reaching for って, decide what you are pulling in. Somebody's words usually arrive as a whole clause; the thing you want to discuss arrives as a noun — though real exceptions run both ways, which the topic-marker section pins down.
 
 って is a marker of spoken, informal-leaning Japanese. Careful and written Japanese do both jobs with と and は, usually with the frame spelled out rather than left to the particle.
 
 @@ tldr
 
-って marks material the speaker is passing on rather than asserting, and it also puts a noun up as the topic under discussion.
-After a complete clause it is quoting, often with no saying verb at all; after a noun with a comment following, it is marking a topic.
+って marks material as quoted — said or thought before, not asserted fresh here — and it also puts a noun up as the topic under discussion.
+What decides which is the relation to what follows: material that REPORTS って's host is a quote, often with no saying verb at all; material that COMMENTS ON って's host is a topic — not simply what sits on either side.
 だって is that same reporting use standing after a noun.
 
-@@ quote — passing on words that are not yours
+@@ quote — marking material as said, not delivered fresh
 
 **Form:** `plain clause + って` · `plain clause + って + 言う／聞く／思う` · `N + って + 言う`
 
-- **って marks off material the speaker is not asserting personally** — 来週から始まるって — it starts next week, I hear — presents the claim as received rather than as something the speaker is vouching for.
+- **って marks off material as quoted, rather than stated fresh.** On someone else's words — 来週から始まるって — it starts next week, I hear — that usually reads as the speaker not vouching for it personally. On the speaker's OWN words repeated — 行かないって！ — I said I'm not going! — って does the opposite: it reasserts what the speaker already committed to, often with some heat.
 - **The verb of saying is very often left out.** English needs a subject and a reporting verb; って can end the sentence on its own and leave both to context.
 - **Marking a source is not doubting it.** って puts distance between the speaker and where the claim came from, not between the speaker and its truth, which is why news and gossip both reach for it.
 - **The quoted material keeps its own shape** — 忙しいって言ってた — she said she was busy — keeps 忙しい as it would have been said, and lets the outer verb do the reporting.
@@ -44,9 +44,9 @@ reg: casual|駅前のパン屋、来月なくなるって。 / polite|駅前の�
 
 ### Where the reporting verb goes missing
 
-A sentence that stops on って carries no reporting verb, no named source, and names nobody as having said it — and it is completely ordinary in speech. All it commits to is that the speaker is passing something along.
+A sentence that stops on って carries no reporting verb, no named source, and names nobody as having said it — and it is completely ordinary in speech. Usually that passes on someone else's words; on the speaker's own, the way 行かないって！ does above, it repeats them instead of distancing from them. Either way, all it commits to is that the words are being said again, not stated fresh.
 
-That leaves a choice to make, because Japanese has several ways to pass something along and they differ in register rather than in meaning. The table runs from the most formal frame to the most casual one.
+That leaves a choice to make, and it is not only a matter of register: Japanese has several ways to pass something along, and each adds something different — a named source, a shift in evidential stance, a frame of background. The table below runs from the most formal to the most casual, and its middle column is where those differences live.
 
 | how you pass it on | what it adds | how it lands |
 |---|---|---|
@@ -90,11 +90,13 @@ There is no negative form of って to learn. To deny the report rather than the
 
 **Form:** `N + って + comment` · `N + って、` with a pause before the comment
 
-- **って sets the noun between the two speakers** — 彼って面白いよね — he's a funny one, isn't he — holds him up as something both of them are looking at, and asks for a shared verdict.
-- **は presents the topic as settled and the speaker as the one with something to say about it.** The listener is the audience for the comment rather than a co-witness to it.
+- **って sets the noun up as something newly brought into the conversation** — 彼って面白いよね — he's a funny one, isn't he — and it is usually よね, or a question, that does the actual work of asking for a shared verdict.
+- **は presents the topic as already on the table**, whether or not the speaker goes on to invite a shared verdict about it — 彼は面白いよね — he's a funny one, isn't he — asks for one too. What separates them is not audience versus co-witness; it is whether the topic is being raised fresh or picked back up.
 - **って tends to introduce a topic rather than pick one up.** It is a natural way to raise something new; a topic already established in the conversation is usually carried by は, or left unsaid.
-- **The comment says what the topic is like, not what happened to it once.** 山田さんって京都出身なんだよ — Yamada is from Kyoto — states a standing property and is ordinary; 山田さんって昨日転んだよ is not, because one event is not something the topic IS.
+- **って tends to prefer a comment about what the topic is like, over a one-off event that happened to it.** 山田さんって京都出身なんだよ — Yamada is from Kyoto — states a standing property and is ordinary; 山田さんって昨日転んだよ — Yamada fell down yesterday — reads oddly as a flat assertion, because one event is not something the topic IS.
 - **って prefers company.** A よね, an んだ or a question usually follows, because って sets a topic up for something to be done with it rather than simply asserted — and asking for a shared verdict is the commonest thing to do with it.
+
+That property-not-event preference is not absolute. A question softens it (山田さんって昨日転んだの？ — did Yamada fall down yesterday?), a generic reading softens it (山田さんってよく転ぶんだよね — Yamada's always falling over), and so does framing the event itself as hearsay rather than asserting it (山田さんって昨日転んだんだって — I hear Yamada fell down yesterday).
 
 -> Compare: [[ne#yo-ne]] — よね, the shared verdict って so often sets up
 
@@ -111,27 +113,28 @@ Both ask for the same verdict, and よね is doing the asking in both. What っ�
 ここのコーヒーって、ちょっと濃[こ]いよね。
 en: The coffee here is a bit strong, isn't it.
 lit: as for the coffee here, it's a little strong, right
-note: って puts the coffee between the two of them to be judged together, and
-  よね asks for the verdict. は would state the same thing as the speaker's own
-  assessment, with the listener as its audience.
+note: って raises the coffee as a topic newly put up for discussion, and よね
+  asks for the verdict — that's よね's job either way. って's own contribution
+  is treating the topic as freshly introduced rather than already on the
+  table, which は would take it to be.
 bd: ここのコーヒー|the coffee here / って、*|as for / ちょっと|a bit / 濃い|is strong / よね|right?
 pat: N + って, a topic offered for shared assessment
 ```
 
 ### Telling the two uses apart
 
-Look at what sits on each side of the particle. The test holds most of the time, and the exception is worth learning with it.
+Neither side of って decides it alone. What decides it is the relation between って's host and what follows: is that host being reported as something said or thought, or is it being talked ABOUT?
 
-- **After a complete clause, って is quoting** — 遅れるって — he says he'll be late.
-- **After a noun, with a comment about that noun following, って is marking a topic** — このドラマって長いよね — this drama is long, isn't it.
-- **After a noun, with a verb of saying or hearing following, って is quoting that noun** — 明日って言ってた — he said tomorrow — names no topic at all.
+- **Quoting**: what follows treats って's host as the content of a saying or a thought — 遅れるって — he says he'll be late.
+- **Topic-marking**: what follows comments ON って's host as a thing under discussion — このドラマって長いよね — this drama is long, isn't it — and this holds even when the host is a full clause, the shape a quote might otherwise take: 毎日電車で通うって、大変だね — commuting by train every day, that's rough — comments on the situation itself rather than reporting anyone's words about it.
+- **A saying verb right after って does not settle it either.** 明日って言ってた — he said tomorrow — quotes, because 言ってた reports って's host. 田中さんって、よくそういうこと言うよね — that's just like Tanaka, always saying that — does not: 田中さん is the topic, and 言う sits inside the COMMENT about him, not in a report of what って handed over.
 
-So the reliable half of the test is what comes AFTER って, not only what comes before it. A noun in front of it settles nothing on its own.
+So read past both sides of って to what job the surrounding material is doing — reporting the host, or talking about it — rather than trusting clause-versus-noun or a saying verb's mere presence.
 
 !!! warning "Pitfall"
-    A noun in front of って does not make it a topic marker. If a verb of saying, hearing or thinking follows, the noun is being quoted.
+    A saying verb right after って does not automatically mean って is quoting. If って's host is the topic and the saying verb sits inside a comment about that topic's habits, って is still marking a topic.
 
-    明日って言ってた — he said tomorrow — reports somebody's word, not a topic. The topic reading would need a comment about tomorrow, as in 明日って忙しい？ — are you busy tomorrow?
+    明日って言ってた — he said tomorrow — reports somebody's word, because 言ってた's content IS って's host. The topic reading would need a comment about tomorrow instead, as in 明日って忙しい？ — are you busy tomorrow?
 
     The same trap waits on any short answer quoted back: 無理って言われた — I was told no.
 
@@ -154,7 +157,7 @@ B: 話[はな]しやすいよ。 | Easy to talk to.
 
 ### In conversation
 
-- **A bare 〜って？ asks what a word is** — サブスクって？ — subscription? — is a complete turn, and the fuller version is 〜ってどういう意味？.
+- **A bare 〜って？ can ask what something means, echo back what was just said, or ask for more about a topic.** サブスクって？ — subscription? — can be a complete turn asking for the meaning, and the fuller version of that reading is 〜ってどういう意味？.
 - **A report can be extended with さ or ね** — 来られないってさ — apparently he can't make it — keeps the report and adds a conversational nudge toward the listener.
 - **って attaches to a name to introduce someone** — 田中って人 — a guy called Tanaka — is the casual counterpart of the naming という.
 - **っていうか revises what was just said, yours or theirs** — roughly "or rather", and one of the most frequent repair moves in casual speech.
@@ -171,14 +174,14 @@ In writing, って turns up wherever the writing itself is casual — messages, 
 
 @@ datte — a report standing after a noun
 
+**Form:** `N / な-adj + だって` · `plain clause + んだって`
+
 Three different things are spelled だって. This section is about one of them: the だって that passes on what somebody else said.
 
 The other two are separate constructions and are not treated here.
 
 - The sentence-opening だって that answers back with a reason — だって、時間がなかったんだもん — but I didn't have time.
 - The だって that means "even" — 子供だって分かる — even a child can tell.
-
-**Form:** `N / な-adj + だって` · `plain clause + んだって`
 
 - **だって is the reporting って standing after a noun.** A noun predicate brings its copula with it, so the marker arrives as だって: 中止だって — it's cancelled, I hear.
 - **It reports the noun predicate whole.** 原因は事故だって passes on somebody's statement that the cause was an accident, without the speaker signing up to it.
