@@ -62,7 +62,7 @@ Treat that as a strong tendency rather than a rule, because speakers work agains
 
 ### In conversation
 
-- **<span class="cite-jp">ね</span> is not confined to the end of the sentence.** <span class="cite-jp">あのね、昨日、駅で</span>… — so, yesterday, at the station… — breaks a turn into pieces and checks after each one that the listener is still following.
+- **<span class="cite-jp">ね</span> is not confined to the end of the sentence.** <span class="cite-jp">あのね、昨日、駅で…</span><span class="gl-en"> — so, yesterday, at the station… — </span>breaks a turn into pieces and checks after each one that the listener is still following.
 - **That mid-sentence <span class="cite-jp">ね</span> does not disappear in careful speech; it changes shape.** The same <span class="cite-jp">あのね</span> becomes <span class="cite-jp">あのですね</span> in formal explanation, where the plain form would be too familiar.
 - **Whole turns are made of it** — <span class="cite-jp">そうだね</span><span class="gl-en"> — yeah, true — </span>and <span class="cite-jp">だよね</span><span class="gl-en"> — right — </span>are complete replies.
 - **Lengthening changes the weight.** A drawn-out <span class="cite-jp">ねー</span> reads as warmer, or as more thoroughly agreed, than a clipped <span class="cite-jp">ね</span>.
@@ -164,7 +164,7 @@ The rows run from the form a textbook teaches first to the most colloquial. All 
 ??? note "<span class="cite-jp">な</span>, <span class="cite-jp">なあ</span>, and the <span class="cite-jp">ね</span> that is addressed to nobody"
     Sentence-final <span class="cite-jp">な</span> can do a <span class="cite-jp">ね</span>-like job in casual speech and often reads as more masculine, or as more inward. Lengthened <span class="cite-jp">なあ</span> turns the remark inward altogether: it registers a feeling rather than asking anyone to share it.
 
-    Dropping <span class="cite-jp">だ</span> before <span class="cite-jp">ね</span> — <span class="cite-jp">いい天気ね</span><span class="gl-en"> — is the same markedly feminine move that </span><span class="cite-jp">明日、休みよ</span> makes with <span class="cite-jp">よ</span>, and not simply a casual contraction.
+    Dropping <span class="cite-jp">だ</span> before <span class="cite-jp">ね</span> — <span class="cite-jp">いい天気ね</span><span class="gl-en"> — is the same markedly feminine move that</span> <span class="cite-jp">明日、休みよ</span> makes with <span class="cite-jp">よ</span>, and not simply a casual contraction.
 
     A different <span class="cite-jp">な</span> entirely follows the dictionary form and forbids the action — <span class="cite-jp">見るな</span><span class="gl-en"> — don't look</span>. Same kana, unrelated job.
 

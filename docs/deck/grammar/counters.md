@@ -12,7 +12,7 @@ Japanese counts nouns with a classifier chosen by the kind of thing counted, and
 
 ## 〜つ (native counter) { #native-counter }
 
-Native all-purpose counter to ten — <span class="cite-jp">ひとつ・ふたつ・みっつ</span>…<span class="cite-jp">とお</span>; the fallback when no specific counter comes to mind.
+Native all-purpose counter to ten — <span class="cite-jp">ひとつ・ふたつ・みっつ…とお</span>; the fallback when no specific counter comes to mind.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>
@@ -103,7 +103,7 @@ Temperature and angle degrees, and formal occurrence counting (<span class="cite
 
 ## 〜日 (days) { #days }
 
-Days of the month and day-counts: <span class="cite-jp">ふつか</span>…<span class="cite-jp">とおか</span> double as both, <span class="cite-jp">ようか</span>／<span class="cite-jp">よっか</span> and <span class="cite-jp">はつか</span> trap; 'one day' is <span class="cite-jp">いちにち</span> — <span class="cite-jp">ついたち</span> is only the 1st. The most irregular counter in the language.
+Days of the month and day-counts: <span class="cite-jp">ふつか…とおか</span> double as both, <span class="cite-jp">ようか</span>／<span class="cite-jp">よっか</span> and <span class="cite-jp">はつか</span> trap; 'one day' is <span class="cite-jp">いちにち</span> — <span class="cite-jp">ついたち</span> is only the 1st. The most irregular counter in the language.
 {: .pt-gloss }
 
 <span class="card-tag lv">N5</span> <span class="card-tag">counter</span> <span class="card-tag">quantity</span>

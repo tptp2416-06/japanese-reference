@@ -86,7 +86,7 @@ them would sound marked.
     frame the speaker chooses for organising the message.
 
     The same noun may serve both — <span class="cite-jp">私は学生です</span><span class="gl-en"> — or the sentence may carry a
-    topic and a separate </span><span class="cite-jp">が</span>-marked subject: <span class="cite-jp">この店はコーヒーがおいしい</span><span class="gl-en"> — this shop's coffee is delicious</span>.
+    topic and a separate</span> <span class="cite-jp">が</span>-marked subject: <span class="cite-jp">この店はコーヒーがおいしい</span><span class="gl-en"> — this shop's coffee is delicious</span>.
 
     In the formal vocabulary, <span class="cite-jp">が</span> is a case particle while <span class="cite-jp">は</span> sits above the case
     system. That is what lets <span class="cite-jp">は</span> attach after other particles in the scope
@@ -145,8 +145,8 @@ As for this item specifically, contrasts it with another possibility
 - **The minimal pair is the clearest demonstration** — <span class="cite-jp">お酒を飲まない</span><span class="gl-en"> — I don't
   drink alcohol — </span>is neutral object marking, against <span class="cite-jp">お酒は飲まない</span><span class="gl-en"> — alcohol,
   I don't drink — </span>which selects alcohol against the alternatives.
-- **The unsaid half can do the work** — <span class="cite-jp">犬は好き。猫はちょっと</span>…… — I like
-  dogs, cats though — sets the two against each other with <span class="cite-jp">は</span> and lets the
+- **The unsaid half can do the work** — <span class="cite-jp">犬は好き。猫はちょっと……</span><span class="gl-en"> — I like
+  dogs, cats though — </span>sets the two against each other with <span class="cite-jp">は</span> and lets the
   sentence stop before the negative arrives.
 
 <div class="ex"><div class="ex-jp" lang="ja">お<ruby>酒<rt>さけ</rt></ruby><span class="pat">は</span><ruby>飲<rt>の</rt></ruby>まない。</div><div class="ex-en">Alcohol, I don&#x27;t drink. <span class="lit">&mdash; lit. as for alcohol, at least, don&#x27;t drink</span></div><div class="ex-note">An object would ordinarily take を. Swapping in は is what selects alcohol against whatever else the speaker might drink, and nothing in the conversation has to have raised it first.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">お<ruby>酒<rt>さけ</rt></ruby></span><span class="g">alcohol</span></div><div class="bd-seg hit"><span class="j" lang="ja">は</span><span class="g">as for, at least</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>飲<rt>の</rt></ruby>まない</span><span class="g">don&#x27;t drink</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">contrastive は displacing を</span></div></div></details></div>

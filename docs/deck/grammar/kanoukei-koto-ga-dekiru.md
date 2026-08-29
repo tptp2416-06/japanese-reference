@@ -85,7 +85,7 @@ through nothing at all, because the situation has already made it obvious.
 
 ### <span class="cite-jp">ら抜き言葉</span>: the dropped <span class="cite-jp">ら</span>
 
-- **<span class="cite-jp">ら抜き言葉</span><span class="gl-en"> — the </span><span class="cite-jp">ら</span> drops out** — <span class="cite-jp">食べられる</span> → <span class="cite-jp">食べれる</span>, <span class="cite-jp">見られる</span> → <span class="cite-jp">見れる</span>,
+- **<span class="cite-jp">ら抜き言葉</span><span class="gl-en"> — the</span> <span class="cite-jp">ら</span> drops out** — <span class="cite-jp">食べられる</span> → <span class="cite-jp">食べれる</span>, <span class="cite-jp">見られる</span> → <span class="cite-jp">見れる</span>,
   <span class="cite-jp">来られる</span> → <span class="cite-jp">来れる</span>.
 - **Common in casual speech, with real variation** — how common depends on the
   speaker, the region, the verb and the setting.

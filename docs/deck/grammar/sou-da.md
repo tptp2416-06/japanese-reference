@@ -41,7 +41,7 @@ Looks or seems likely based on direct visual evidence. Attaches to the verb stem
 
 !!! warning "Pitfall"
     Not for things you've confirmed. Once you've tasted it, it's <span class="cite-jp">美味しい</span>,
-    not <span class="cite-jp">美味しそう</span><span class="gl-en"> — keeping </span><span class="cite-jp">そう</span> where you have direct knowledge reads as
+    not <span class="cite-jp">美味しそう</span><span class="gl-en"> — keeping</span> <span class="cite-jp">そう</span> where you have direct knowledge reads as
     oddly noncommittal.
 
 <div class="dlg"><div class="dlg-note">what licenses 高そうに見える — B&#x27;s own eyes are the evidence, before any bill confirms it.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">この<ruby>新<rt>あたら</rt></ruby>しいレストラン、<ruby>高<rt>たか</rt></ruby>そうに<ruby>見<rt>み</rt></ruby>えるね。</div><div class="ex-en">This new restaurant looks expensive.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">だよね。でも<ruby>意外<rt>いがい</rt></ruby>と<ruby>安<rt>やす</rt></ruby>いらしいよ。</div><div class="ex-en">Right? But apparently it&#x27;s surprisingly cheap.</div></div></div></div>

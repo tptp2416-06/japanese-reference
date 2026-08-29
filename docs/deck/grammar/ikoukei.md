@@ -236,7 +236,7 @@ The past form places the intention in an earlier mental state. The speaker may s
 
 ### Earlier intentions in conversation and writing
 
-Casual speech often says <span class="cite-jp">帰ろうと思ってた</span><span class="gl-en"> — I was thinking of going home, while polite speech uses </span><span class="cite-jp">帰ろうと思っていました</span><span class="gl-en"> — I had been thinking of going home</span>. Written narratives favor the full form and often follow it with <span class="cite-jp">けれど</span> or <span class="cite-jp">が</span> to explain what changed.
+Casual speech often says <span class="cite-jp">帰ろうと思ってた</span><span class="gl-en"> — I was thinking of going home, while polite speech uses</span> <span class="cite-jp">帰ろうと思っていました</span><span class="gl-en"> — I had been thinking of going home</span>. Written narratives favor the full form and often follow it with <span class="cite-jp">けれど</span> or <span class="cite-jp">が</span> to explain what changed.
 
 Negation works at the same two levels as in the present: <span class="cite-jp">行こうと思っていなかった</span><span class="gl-en"> — I had not been thinking of going — </span>denies an earlier intention, while <span class="cite-jp">行かないと思っていた</span><span class="gl-en"> — I thought I wouldn't go — </span>reports an earlier prediction.
 

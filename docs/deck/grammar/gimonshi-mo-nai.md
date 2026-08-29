@@ -10,9 +10,9 @@
     `疑問詞 + も + negative predicate` gives a nothing / nobody / nowhere / none
     type of meaning:
 
-    <span class="cite-jp">何も食べない</span><span class="gl-en"> — eat nothing, do not eat anything
-    </span><span class="cite-jp">誰も来ない</span><span class="gl-en"> — nobody comes
-    </span><span class="cite-jp">どこも開いていない</span><span class="gl-en"> — nowhere is open</span>
+    <span class="cite-jp">何も食べない</span><span class="gl-en"> — eat nothing, do not eat anything</span>
+    <span class="cite-jp">誰も来ない</span><span class="gl-en"> — nobody comes</span>
+    <span class="cite-jp">どこも開いていない</span><span class="gl-en"> — nowhere is open</span>
 
     Use +<span class="cite-jp">か</span> when **one unspecified answer** is meant, and +<span class="cite-jp">でも</span> when **any answer
     is acceptable or possible**.

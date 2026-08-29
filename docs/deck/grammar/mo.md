@@ -92,7 +92,7 @@ That implied set is part of the effect of <span class="cite-jp">も</span><span 
 Once the missing predicate is obvious, <span class="cite-jp">も</span> can carry a whole reply:
 
 - <span class="cite-jp">私も。</span><span class="gl-en"> — Me too</span>.
-- <span class="cite-jp">私もそう。</span><span class="gl-en"> — Same for me, or I think so too, depending on what </span><span class="cite-jp">そう</span> points back to.
+- <span class="cite-jp">私もそう。</span><span class="gl-en"> — Same for me, or I think so too, depending on what</span> <span class="cite-jp">そう</span> points back to.
 - <span class="cite-jp">これも？</span><span class="gl-en"> — This one too?</span>
 - <span class="cite-jp">どっちも。</span><span class="gl-en"> — Both, in a casual reply when two choices are understood</span>.
 

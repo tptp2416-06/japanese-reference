@@ -6,14 +6,14 @@
 
     <span class="cite-jp">まで</span> marks the endpoint or outer limit of a range or extent — normally
     understood as included, as in <span class="cite-jp">駅まで歩く</span>. The same particle also marks the
-    far end of a range that surprises you (<span class="cite-jp">子供まで知っている</span><span class="gl-en"> — even the kids)</span>.
+    far end of a range that surprises you (<span class="cite-jp">子供まで知っている</span><span class="gl-en"> — even the kids</span>).
 
 <span class="cite-jp">まで</span> marks the endpoint or outer limit of a range or extent. In ordinary
 range expressions, that endpoint is normally understood as part of the
 range: <span class="cite-jp">駅まで歩く</span><span class="gl-en"> — walk to the station — </span>5<span class="cite-jp">時まで働く</span>.
 
 The same particle also marks the far end of a range that surprises you
-(<span class="cite-jp">子供まで知っている</span><span class="gl-en"> — even the kids)</span>.
+(<span class="cite-jp">子供まで知っている</span><span class="gl-en"> — even the kids</span>).
 
 The deadline cousin <span class="cite-jp">までに</span> is a separate point.
 
@@ -42,7 +42,7 @@ As far as or up to an extent.
   out — </span>uses the same pattern: the endpoint can be temporal, resultant or
   scalar depending on the sentence, not only a place.
 - **Stacked particles narrow it** — <span class="cite-jp">までは</span> sets the stretch against what comes
-  after it (<span class="cite-jp">ここまでは分かる</span><span class="gl-en"> — I follow it this far)</span>. The base reading doesn't
+  after it (<span class="cite-jp">ここまでは分かる</span><span class="gl-en"> — I follow it this far</span>). The base reading doesn't
   change; the added particle does its usual work.
 - **A durative <span class="cite-jp">まで</span> is not a deadline** — the interval up to the endpoint is
   filled, not merely reached by. That is the whole difference from <span class="cite-jp">までに</span>.

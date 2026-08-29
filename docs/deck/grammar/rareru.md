@@ -265,7 +265,7 @@ Only godan verbs take the shortcut, and even they have one exception.
 
 Ichidan verbs have no shorter form at all — there's no <span class="cite-jp">食べされる</span> next to <span class="cite-jp">食べさせられる</span>.
 
-<span class="cite-jp">する</span> doesn't contract either. Shortening <span class="cite-jp">心配させられる</span> would, in principle, land on <span class="cite-jp">心配された</span><span class="gl-en"> — already the ordinary passive of </span><span class="cite-jp">する</span>, meaning was worried about.
+<span class="cite-jp">する</span> doesn't contract either. Shortening <span class="cite-jp">心配させられる</span> would, in principle, land on <span class="cite-jp">心配された</span><span class="gl-en"> — already the ordinary passive of</span> <span class="cite-jp">する</span>, meaning was worried about.
 
 Avoiding that overlap is a reasonable explanation for why verbs built on <span class="cite-jp">する</span> keep the full causative-passive.
 
