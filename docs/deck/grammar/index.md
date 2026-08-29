@@ -18,8 +18,8 @@ easiest of its members').
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="sou-da/">そうだ — looks like, seems, and about to</a></li>
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="tame-ni/">ために — In order to achieve a goal</a></li>
 <li><span class="recent-date">2026-08-28</span><span class="card-tag">UPDATED</span><a href="tara/">たら — the tara-conditional: condition, discovery, time, and suggestion</a></li>
+<li><span class="recent-date">2026-08-28</span><span class="card-tag lv">NEW</span><a href="tte/">って — the casual quote, topic marker, and だって</a></li>
 <li><span class="recent-date">2026-08-28</span><span class="card-tag lv">NEW</span><a href="te-ageru-te-kureru-te-morau/">てあげる・てくれる・てもらう — doing something for someone</a></li>
-<li><span class="recent-date">2026-08-28</span><span class="card-tag lv">NEW</span><a href="te-iru/">ている — progressive, resultant state, habit, and the てる contractions</a></li>
 </ul>
 </div>
 
