@@ -173,7 +173,7 @@ reg: casual|来年、日本で働こうと思ってる。 / polite|来年、日�
 
 ### The thought is ongoing
 
-The ている belongs to 思う: it presents the intention as a thought currently maintained, not the intended action as already in progress. 来年働こうと思っている does not say the work has begun.
+The ている belongs to 思う: it presents the intention as a thought currently maintained, not the intended action as already in progress. 来年働こうと思っている — I'm thinking I'll work next year — does not say the work has begun.
 
 With the first person, it reports the speaker's own intention directly. With someone else, context needs a basis for knowing their intention: 本人は参加しようと思っているそうだ — apparently, they intend to participate.
 

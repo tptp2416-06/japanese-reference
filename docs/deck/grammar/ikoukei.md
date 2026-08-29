@@ -187,7 +187,7 @@ This construction presents the volitional choice as a thought the speaker curren
 
 ### The thought is ongoing
 
-The <span class="cite-jp">ている</span> belongs to <span class="cite-jp">思う</span>: it presents the intention as a thought currently maintained, not the intended action as already in progress. <span class="cite-jp">来年働こうと思っている</span> does not say the work has begun.
+The <span class="cite-jp">ている</span> belongs to <span class="cite-jp">思う</span>: it presents the intention as a thought currently maintained, not the intended action as already in progress. <span class="cite-jp">来年働こうと思っている</span><span class="gl-en"> — I'm thinking I'll work next year — </span>does not say the work has begun.
 
 With the first person, it reports the speaker's own intention directly. With someone else, context needs a basis for knowing their intention: <span class="cite-jp">本人は参加しようと思っているそうだ</span><span class="gl-en"> — apparently, they intend to participate</span>.
 
