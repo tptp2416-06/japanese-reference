@@ -80,8 +80,9 @@ With <span class="cite-jp">何</span>, the contrast is especially easy to see:
   <span class="cite-jp">何も。</span>／<span class="cite-jp">誰も。</span>／<span class="cite-jp">どこも。</span> answer a question directly, the negative
   predicate understood from context.
 - **Politeness generally attaches to the predicate, not to <span class="cite-jp">も</span> itself** —
-  <span class="cite-jp">誰もいらっしゃいませんでした</span> is a formal, written-register way to say
-  <span class="cite-jp">誰も来なかった</span><span class="gl-en"> — nobody came</span>; the range-marking <span class="cite-jp">も</span> does not change.
+  <span class="cite-jp">誰もいらっしゃいませんでした</span><span class="gl-en"> — nobody came — </span>is a formal, written-register
+  way to say <span class="cite-jp">誰も来なかった</span><span class="gl-en"> — nobody came</span>; the range-marking <span class="cite-jp">も</span> does not
+  change.
 
 ### Which particles <span class="cite-jp">も</span> replaces
 

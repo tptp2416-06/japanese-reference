@@ -85,8 +85,9 @@ B: ううん、何[なに]も食[た]べてない。 | No, I haven't eaten anyth
   何も。／誰も。／どこも。 answer a question directly, the negative
   predicate understood from context.
 - **Politeness generally attaches to the predicate, not to も itself** —
-  誰もいらっしゃいませんでした is a formal, written-register way to say
-  誰も来なかった — nobody came; the range-marking も does not change.
+  誰もいらっしゃいませんでした — nobody came — is a formal, written-register
+  way to say 誰も来なかった — nobody came; the range-marking も does not
+  change.
 
 ### Which particles も replaces
 
