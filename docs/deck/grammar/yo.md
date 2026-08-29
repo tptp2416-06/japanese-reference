@@ -6,21 +6,21 @@
 
 !!! tip "At a glance"
 
-    <span class="cite-jp">よ</span> marks a statement as something the speaker is supplying and the listener does not yet have.
-    Everything else it is said to do — emphasis, insistence, pressure — comes of using it where the listener already knew.
+    <span class="cite-jp">よ</span>'s core job is marking a statement as something the speaker is supplying and the listener does not yet have.
+    The same push shows up outside plain statements too — urging a decision, pressing a request — and everything about <span class="cite-jp">よ</span> reading as pushy comes of using it where the listener already had what's being offered.
     It carries no politeness of its own and follows <span class="cite-jp">です</span> and <span class="cite-jp">ます</span> unchanged.
 
 Somebody's wallet slips out of their bag on the platform in front of you, and you say <span class="cite-jp">財布、落ちましたよ</span><span class="gl-en"> — you've dropped your wallet</span>.
 
 Without <span class="cite-jp">よ</span> the sentence still reports that the wallet fell. With it, the sentence is addressed: this is for you, and you did not have it.
 
-That is <span class="cite-jp">よ</span>'s whole job. It marks the content as the speaker's to supply and the listener's to receive.
+On an ordinary statement like this one, that is <span class="cite-jp">よ</span>'s central job: it marks the content as the speaker's to supply and the listener's to receive. On a proposal or a request, <span class="cite-jp">よ</span> does a related but different job — pressing for the speaker's preferred outcome rather than handing over a fact — which the urging section below covers on its own terms.
 
-Everything else <span class="cite-jp">よ</span> gets described as doing — emphasising, insisting, sounding pushy — follows from what happens when that assumption is wrong. Handing somebody something they already had reads as a correction.
+Everything else <span class="cite-jp">よ</span> gets described as doing on a plain statement — emphasising, insisting, sounding pushy — follows from what happens when that assumption is wrong. Handing somebody something they already had reads as a correction.
 
 Before adding <span class="cite-jp">よ</span>, ask whether the listener already has this. If they do not, <span class="cite-jp">よ</span> is the ordinary way to pass it over. If they do, expect it to land as a reminder rather than as news.
 
-One thing a page cannot show: <span class="cite-jp">よ</span>'s contour carries a great deal. A falling <span class="cite-jp">よ</span> sets the fact down; a rising <span class="cite-jp">よ</span> appeals. The sections below say which one they mean.
+One thing a page cannot show: <span class="cite-jp">よ</span>'s contour carries a great deal, though it is one ingredient among several. A falling <span class="cite-jp">よ</span> usually sets the fact down; a rising <span class="cite-jp">よ</span> usually appeals. The sections below say which one they mean.
 
 Sentence-final particle that supplies information or emphasis.
 {: .h1-gloss }
@@ -38,9 +38,9 @@ Sentence-final particle that supplies information or emphasis.
 
 ### What <span class="cite-jp">よ</span> adds to a plain statement
 
-<div class="eg-contrast"><div class="eg-member"><div class="eg-label">addressed</div><div class="eg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>、<ruby>休<rt>やす</rt></ruby>みだよ</div><div class="ex-en">Tomorrow&#x27;s a day off, just so you know.</div></div><div class="eg-member"><div class="eg-label">unaddressed</div><div class="eg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>、<ruby>休<rt>やす</rt></ruby>みだ</div><div class="ex-en">Tomorrow is a day off.</div></div></div>
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">flagged as new</div><div class="eg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>、<ruby>休<rt>やす</rt></ruby>みだよ</div><div class="ex-en">Tomorrow&#x27;s a day off, just so you know.</div></div><div class="eg-member"><div class="eg-label">left unmarked</div><div class="eg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>、<ruby>休<rt>やす</rt></ruby>みだ</div><div class="ex-en">Tomorrow is a day off.</div></div></div>
 
-The fact is identical in both. The second states it; the first gives it to somebody, and it only makes sense if there is somebody there who did not already have it.
+The fact is identical in both, and the second can still be said directly to somebody — answering a question, for instance. What the first does is go further and mark the fact as something that listener specifically did not already have.
 
 That is why <span class="cite-jp">よ</span> is everywhere in conversation and almost absent from writing that is not addressed to a reader. A timetable does not tell you anything. A person does.
 
@@ -48,15 +48,17 @@ That is why <span class="cite-jp">よ</span> is everywhere in conversation and a
 
 ### Rising and falling
 
-A falling <span class="cite-jp">よ</span> is the informing one. It sets the fact down in front of the listener and stops.
+A falling <span class="cite-jp">よ</span> is usually the informing one. It sets the fact down in front of the listener and stops.
 
-A rising <span class="cite-jp">よ</span> appeals. It reaches for the listener's attention, or for their agreement to act, and it is this contour that carries urging, coaxing and complaint.
+A rising <span class="cite-jp">よ</span> usually appeals. It reaches for the listener's attention, or for their agreement to act, and this contour is a strong part of what carries urging, coaxing and complaint — together with the sentence type, the relationship, and what has already been said, as the next section shows.
 
-The written sentence is the same either way, which is why <span class="cite-jp">よ</span> gets described both as neutral and as pushy. Both descriptions are of contours rather than of the particle.
+The written sentence is the same either way, which is why <span class="cite-jp">よ</span> gets described both as neutral and as pushy. Both descriptions are mostly about contour, but not about contour alone.
 
 <span class="cite-jp">そろそろ行くよ</span><span class="gl-en"> — we're leaving soon — </span>said flat is a notification. The same words on a rising contour, after the listener has stalled twice, are a complaint.
 
 ### Urging with <span class="cite-jp">よ</span>
+
+Not every <span class="cite-jp">よ</span> hands over a fact. On a volitional or a request there is nothing new to inform the listener of — instead <span class="cite-jp">よ</span> hands over the speaker's push, and the same test as above still applies: press where the listener has not already agreed, and it reads as urging rather than as a correction.
 
 - **On a volitional it turns a proposal into encouragement** — <span class="cite-jp">そろそろ決めようよ</span><span class="gl-en"> — come on, let's decide — </span>presses for the action rather than asking about it.
 - **On a request it adds pressure** — <span class="cite-jp">早く来てよ</span><span class="gl-en"> — hurry up and get here — </span>is as much a complaint as a request.
@@ -72,7 +74,7 @@ Ending a Japanese sentence is a choice, and <span class="cite-jp">よ</span> is 
 
 | how you close | what it commits you to | how it lands |
 |---|---|---|
-| nothing — a plain statement | states the fact, addressed to nobody in particular | neutral; the default in writing and in narration |
+| nothing — a plain statement | states the fact, without marking who it's for | neutral; the default in writing and in narration |
 | 〜<span class="cite-jp">よ</span> — I'm telling you | presents the fact as yours to supply | very common in speech; pushes when the listener already knew |
 | [ね (agreement)](<ne.md#agreement> "ね — agreement and soft assertion") — isn't it | presents the fact as the listener's to confirm | very common in speech; assumes they have access too |
 | [よね](<ne.md#yo-ne> "ね — agreement and soft assertion") — right? | presents your belief and asks for confirmation | very common in speech; leaves room to be corrected |
@@ -83,7 +85,7 @@ Ending a Japanese sentence is a choice, and <span class="cite-jp">よ</span> is 
 ### In conversation
 
 - **Short turns are built on it** — <span class="cite-jp">いいよ</span><span class="gl-en"> — sure — </span><span class="cite-jp">違うよ</span><span class="gl-en"> — that's not it — </span><span class="cite-jp">ないよ</span><span class="gl-en"> — there isn't any</span>.
-- **<span class="cite-jp">だよ</span> is the casual copula form.** Dropping <span class="cite-jp">だ</span> altogether — <span class="cite-jp">明日、休みよ</span><span class="gl-en"> — tomorrow's a day off — </span>reads as markedly feminine rather than simply casual.
+- **<span class="cite-jp">だよ</span> is the casual copula <span class="cite-jp">だ</span> plus <span class="cite-jp">よ</span>, not one form.** Dropping <span class="cite-jp">だ</span> and keeping only <span class="cite-jp">よ</span> — <span class="cite-jp">明日、休みよ</span><span class="gl-en"> — tomorrow's a day off — </span>reads as markedly feminine rather than simply casual.
 - **The order with <span class="cite-jp">ね</span> is fixed in standard speech.** <span class="cite-jp">よね</span> is the combination; the reverse <span class="cite-jp">ねよ</span> is not used, which is one reason the pair is learned as a unit.
 - **Notices and announcements drop it.** Written information states the fact; addressing the reader with <span class="cite-jp">よ</span> belongs to advertising copy, not to signage.
 - **<span class="cite-jp">ぞ</span> and <span class="cite-jp">ぜ</span> occupy the same slot** with a much narrower, markedly masculine range, and neither is a straight substitute.
@@ -109,3 +111,5 @@ Ending a Japanese sentence is a choice, and <span class="cite-jp">よ</span> is 
     The reverse holds too. An English sentence that adds nothing to the hearer — agreeing, repeating, thinking aloud — usually wants no <span class="cite-jp">よ</span> at all.
 
 <div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
+
+<div class="prov">Authored by Claude Opus 5 &bull; 2026-08-28; Reviewed by 5.6 Sol - High &bull; 2026-08-28</div>

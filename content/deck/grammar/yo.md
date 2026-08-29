@@ -2,18 +2,18 @@ Somebody's wallet slips out of their bag on the platform in front of you, and yo
 
 Without よ the sentence still reports that the wallet fell. With it, the sentence is addressed: this is for you, and you did not have it.
 
-That is よ's whole job. It marks the content as the speaker's to supply and the listener's to receive.
+On an ordinary statement like this one, that is よ's central job: it marks the content as the speaker's to supply and the listener's to receive. On a proposal or a request, よ does a related but different job — pressing for the speaker's preferred outcome rather than handing over a fact — which the urging section below covers on its own terms.
 
-Everything else よ gets described as doing — emphasising, insisting, sounding pushy — follows from what happens when that assumption is wrong. Handing somebody something they already had reads as a correction.
+Everything else よ gets described as doing on a plain statement — emphasising, insisting, sounding pushy — follows from what happens when that assumption is wrong. Handing somebody something they already had reads as a correction.
 
 Before adding よ, ask whether the listener already has this. If they do not, よ is the ordinary way to pass it over. If they do, expect it to land as a reminder rather than as news.
 
-One thing a page cannot show: よ's contour carries a great deal. A falling よ sets the fact down; a rising よ appeals. The sections below say which one they mean.
+One thing a page cannot show: よ's contour carries a great deal, though it is one ingredient among several. A falling よ usually sets the fact down; a rising よ usually appeals. The sections below say which one they mean.
 
 @@ tldr
 
-よ marks a statement as something the speaker is supplying and the listener does not yet have.
-Everything else it is said to do — emphasis, insistence, pressure — comes of using it where the listener already knew.
+よ's core job is marking a statement as something the speaker is supplying and the listener does not yet have.
+The same push shows up outside plain statements too — urging a decision, pressing a request — and everything about よ reading as pushy comes of using it where the listener already had what's being offered.
 It carries no politeness of its own and follows です and ます unchanged.
 
 @@ main
@@ -41,11 +41,11 @@ reg: casual|その席、予約入ってるよ。 / polite|その席、予約入�
 ### What よ adds to a plain statement
 
 ```eg
-addressed: 明日[あした]、休[やす]みだよ | Tomorrow's a day off, just so you know.
-unaddressed: 明日[あした]、休[やす]みだ | Tomorrow is a day off.
+flagged as new: 明日[あした]、休[やす]みだよ | Tomorrow's a day off, just so you know.
+left unmarked: 明日[あした]、休[やす]みだ | Tomorrow is a day off.
 ```
 
-The fact is identical in both. The second states it; the first gives it to somebody, and it only makes sense if there is somebody there who did not already have it.
+The fact is identical in both, and the second can still be said directly to somebody — answering a question, for instance. What the first does is go further and mark the fact as something that listener specifically did not already have.
 
 That is why よ is everywhere in conversation and almost absent from writing that is not addressed to a reader. A timetable does not tell you anything. A person does.
 
@@ -57,15 +57,17 @@ B: 空[す]いてるよ。今[いま]なら大丈夫[だいじょうぶ]。 | Th
 
 ### Rising and falling
 
-A falling よ is the informing one. It sets the fact down in front of the listener and stops.
+A falling よ is usually the informing one. It sets the fact down in front of the listener and stops.
 
-A rising よ appeals. It reaches for the listener's attention, or for their agreement to act, and it is this contour that carries urging, coaxing and complaint.
+A rising よ usually appeals. It reaches for the listener's attention, or for their agreement to act, and this contour is a strong part of what carries urging, coaxing and complaint — together with the sentence type, the relationship, and what has already been said, as the next section shows.
 
-The written sentence is the same either way, which is why よ gets described both as neutral and as pushy. Both descriptions are of contours rather than of the particle.
+The written sentence is the same either way, which is why よ gets described both as neutral and as pushy. Both descriptions are mostly about contour, but not about contour alone.
 
 そろそろ行くよ — we're leaving soon — said flat is a notification. The same words on a rising contour, after the listener has stalled twice, are a complaint.
 
 ### Urging with よ
+
+Not every よ hands over a fact. On a volitional or a request there is nothing new to inform the listener of — instead よ hands over the speaker's push, and the same test as above still applies: press where the listener has not already agreed, and it reads as urging rather than as a correction.
 
 - **On a volitional it turns a proposal into encouragement** — そろそろ決めようよ — come on, let's decide — presses for the action rather than asking about it.
 - **On a request it adds pressure** — 早く来てよ — hurry up and get here — is as much a complaint as a request.
@@ -85,7 +87,7 @@ Ending a Japanese sentence is a choice, and よ is one of five ordinary answers.
 
 | how you close | what it commits you to | how it lands |
 |---|---|---|
-| nothing — a plain statement | states the fact, addressed to nobody in particular | neutral; the default in writing and in narration |
+| nothing — a plain statement | states the fact, without marking who it's for | neutral; the default in writing and in narration |
 | 〜よ — I'm telling you | presents the fact as yours to supply | very common in speech; pushes when the listener already knew |
 | [[ne#agreement]] — isn't it | presents the fact as the listener's to confirm | very common in speech; assumes they have access too |
 | [[ne#yo-ne]] — right? | presents your belief and asks for confirmation | very common in speech; leaves room to be corrected |
@@ -96,7 +98,7 @@ Ending a Japanese sentence is a choice, and よ is one of five ordinary answers.
 ### In conversation
 
 - **Short turns are built on it** — いいよ — sure — 違うよ — that's not it — ないよ — there isn't any.
-- **だよ is the casual copula form.** Dropping だ altogether — 明日、休みよ — tomorrow's a day off — reads as markedly feminine rather than simply casual.
+- **だよ is the casual copula だ plus よ, not one form.** Dropping だ and keeping only よ — 明日、休みよ — tomorrow's a day off — reads as markedly feminine rather than simply casual.
 - **The order with ね is fixed in standard speech.** よね is the combination; the reverse ねよ is not used, which is one reason the pair is learned as a unit.
 - **Notices and announcements drop it.** Written information states the fact; addressing the reader with よ belongs to advertising copy, not to signage.
 - **ぞ and ぜ occupy the same slot** with a much narrower, markedly masculine range, and neither is a straight substitute.
