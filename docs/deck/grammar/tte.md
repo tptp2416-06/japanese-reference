@@ -2,7 +2,29 @@
      Prose belongs in content/deck/grammar/tte.md -->
 # って — the casual quote, topic marker, and だって
 
-## だって { #datte }
+!!! tip "At a glance"
+
+    <span class="cite-jp">って</span> marks material the speaker is passing on rather than asserting, and it also puts a noun up as the topic under discussion.
+    After a complete clause it is quoting, often with no saying verb at all; after a noun with a comment following, it is marking a topic.
+    <span class="cite-jp">だって</span> is that same reporting use standing after a noun.
+
+Two people are waiting for a bus, and one of them looks up from a phone: <span class="cite-jp">事故で遅れてるって</span><span class="gl-en"> — there's been an accident, it's running late</span>.
+
+No name, no verb of saying, nothing set off in quotation marks. The sentence still reports where the information came from, and where it came from is not here.
+
+The same particle turns up doing something that looks unrelated: <span class="cite-jp">このアプリって、使いにくいよね</span><span class="gl-en"> — this app is hard to use, isn't it</span>.
+
+Nobody is being quoted there. <span class="cite-jp">って</span> has taken the app and set it in front of both speakers as the thing they are now going to talk about.
+
+One way into the pair is that both uses pull something into the conversation: the quote pulls in what was said, the topic pulls in what is being talked about.
+
+Take that as a way in rather than a test. It will not tell you which of the two you are holding, and the topic-marker section carries a test that will.
+
+Before reaching for <span class="cite-jp">って</span>, decide what you are pulling in. Somebody's words usually arrive as a whole clause; the thing you want to discuss arrives as a noun — with one exception the topic-marker section pins down.
+
+<span class="cite-jp">って</span> is a marker of spoken, informal-leaning Japanese. Careful and written Japanese do both jobs with <span class="cite-jp">と</span> and <span class="cite-jp">は</span>, usually with the frame spelled out rather than left to the particle.
+
+## だって — a report standing after a noun { #datte }
 
 I hear that; casual report of information learned from someone else
 {: .pt-gloss }
@@ -12,7 +34,31 @@ I hear that; casual report of information learned from someone else
 **From:** compound of [って (quote)](<tte.md#quote> "Casually quotes speech, thought, or information reported by others")
 {: .fam }
 
-## って (quote) { #quote }
+Three different things are spelled <span class="cite-jp">だって</span>. This section is about one of them: the <span class="cite-jp">だって</span> that passes on what somebody else said.
+
+The other two are separate constructions and are not treated here.
+
+- The sentence-opening <span class="cite-jp">だって</span> that answers back with a reason — <span class="cite-jp">だって、時間がなかったんだもん</span><span class="gl-en"> — but I didn't have time</span>.
+- The <span class="cite-jp">だって</span> that means "even" — <span class="cite-jp">子供だって分かる</span><span class="gl-en"> — even a child can tell</span>.
+
+**Form:** `N / な-adj + だって` · `plain clause + んだって`
+{: .form }
+
+- **<span class="cite-jp">だって</span> is the reporting <span class="cite-jp">って</span> standing after a noun.** A noun predicate brings its copula with it, so the marker arrives as <span class="cite-jp">だって</span>: <span class="cite-jp">中止だって</span><span class="gl-en"> — it's cancelled, I hear</span>.
+- **It reports the noun predicate whole.** <span class="cite-jp">原因は事故だって</span> passes on somebody's statement that the cause was an accident, without the speaker signing up to it.
+- **There is no <span class="cite-jp">だってです</span>.** The polite counterpart puts <span class="cite-jp">です</span> inside instead — <span class="cite-jp">中止ですって</span><span class="gl-en"> — it's cancelled, I hear — </span>which is spoken, and reads as somewhat feminine.
+- **A neutral polite report spells the frame out** — <span class="cite-jp">事故だったそうです</span><span class="gl-en"> — apparently it was an accident — </span>or <span class="cite-jp">事故だったと聞きました</span><span class="gl-en"> — I heard it was an accident</span>.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">after a clause</div><div class="eg-jp" lang="ja"><ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れてるって</div><div class="ex-en">The trains are running late, I hear.</div></div><div class="eg-member"><div class="eg-label">after a noun</div><div class="eg-jp" lang="ja"><ruby>原因<rt>げんいん</rt></ruby>は<ruby>事故<rt>じこ</rt></ruby>だって</div><div class="ex-en">The cause was an accident, I hear.</div></div></div>
+
+The difference is not in what the two sentences do — both pass on a report — but in what they attach to. A verb or an <span class="cite-jp">い</span>-adjective takes <span class="cite-jp">って</span> directly; a noun or a <span class="cite-jp">な</span>-adjective usually brings its copula with it.
+
+Casual speech drops <span class="cite-jp">だ</span> here as readily as anywhere else, so <span class="cite-jp">明日、休みって</span><span class="gl-en"> — tomorrow's off, I hear — </span>is ordinary too.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [んだって](<n-da.md#n-datte> "んだ — the explanatory のだ and its compounds") <span class="xref-reason">&mdash; んだって, which frames the same report as background to the current situation</span></div>
+
+
+## って (quote) — passing on words that are not yours { #quote }
 
 Casually quotes speech, thought, or information reported by others
 {: .pt-gloss }
@@ -22,9 +68,134 @@ Casually quotes speech, thought, or information reported by others
 **Compounds:** [だって](<tte.md#datte> "I hear that; casual report of information learned from someone else")
 {: .fam }
 
-## って (topic marker) { #topic-marker }
+**Form:** `plain clause + って` · `plain clause + って + 言う／聞く／思う` · `N + って + 言う`
+{: .form }
+
+- **<span class="cite-jp">って</span> marks off material the speaker is not asserting personally** — <span class="cite-jp">来週から始まるって</span><span class="gl-en"> — it starts next week, I hear — </span>presents the claim as received rather than as something the speaker is vouching for.
+- **The verb of saying is very often left out.** English needs a subject and a reporting verb; <span class="cite-jp">って</span> can end the sentence on its own and leave both to context.
+- **Marking a source is not doubting it.** <span class="cite-jp">って</span> puts distance between the speaker and where the claim came from, not between the speaker and its truth, which is why news and gossip both reach for it.
+- **The quoted material keeps its own shape** — <span class="cite-jp">忙しいって言ってた</span><span class="gl-en"> — she said she was busy — </span>keeps <span class="cite-jp">忙しい</span> as it would have been said, and lets the outer verb do the reporting.
+- **<span class="cite-jp">って</span> is the casual mark, not the only one.** In polite speech the frame is usually pronounced — 〜<span class="cite-jp">って聞きました</span><span class="gl-en"> — I heard that — </span>with the more neutral 〜<span class="cite-jp">と言っていました</span><span class="gl-en"> — they were saying that — </span>carrying the same report in careful speech.
+
+<div class="ex"><div class="ex-jp" lang="ja"><ruby>駅前<rt>えきまえ</rt></ruby>のパン<ruby>屋<rt>や</rt></ruby>、<ruby>来月<rt>らいげつ</rt></ruby>なくなる<span class="pat">って</span>。</div><div class="ex-en">The bakery by the station is going next month, apparently. <span class="lit">&mdash; lit. the bakery in front of the station, next month it disappears, so I hear</span></div><div class="ex-note">No verb of saying follows って and none is needed. The sentence ends on the marker, and what the marker says is that this came from somewhere other than the speaker&#x27;s own observation.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja"><ruby>駅前<rt>えきまえ</rt></ruby>のパン<ruby>屋<rt>や</rt></ruby>、</span><span class="g">the bakery by the station,</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>来月<rt>らいげつ</rt></ruby></span><span class="g">next month</span></div><div class="bd-seg"><span class="j" lang="ja">なくなる</span><span class="g">is going</span></div><div class="bd-seg hit"><span class="j" lang="ja">って</span><span class="g">[I hear]</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">clause + って, sentence-final report</span></div></div></details></div><div class="reg"><div><div class="rlbl">casual</div><span lang="ja">駅前のパン屋、来月なくなるって。</span></div><div><div class="rlbl">polite</div><span lang="ja">駅前のパン屋、来月なくなるって聞きました。</span></div></div>
+
+### Where the reporting verb goes missing
+
+A sentence that stops on <span class="cite-jp">って</span> carries no reporting verb, no named source, and names nobody as having said it — and it is completely ordinary in speech. All it commits to is that the speaker is passing something along.
+
+That leaves a choice to make, because Japanese has several ways to pass something along and they differ in register rather than in meaning. The table runs from the most formal frame to the most casual one.
+
+| how you pass it on | what it adds | how it lands |
+|---|---|---|
+| [によると](<ni-yoru-to.md> "によると — According to X") — according to X | names the source the report came from | written and formal: news copy, notices, reports |
+| [そうだ (hearsay)](<sou-da-hearsay.md> "そうだ (hearsay) — I hear that, they say that") — reportedly | relays a report as received, adding nothing | neutral; at home in speech and in writing alike |
+| [らしい (hearsay)](<rashii.md#hearsay> "らしい — hearsay, and 'typical of'") — apparently | relays what the speaker has gathered, source left vague | neutral, and a little less committed than <span class="cite-jp">そうだ</span> |
+| [んだって](<n-da.md#n-datte> "んだ — the explanatory のだ and its compounds") — I hear that | relays it as background to the situation at hand | casual conversation, very common |
+| <span class="cite-jp">って</span> — I hear | relays it with the frame left off altogether | casual speech; the form this page is about |
+
+### The quoted clause keeps its plain form
+
+The material before <span class="cite-jp">って</span> is quoted roughly as it was said or thought, so it normally stays in plain form even when the sentence around it is polite. <span class="cite-jp">高いって言ってました</span><span class="gl-en"> — she said it was expensive — </span>has a polite outer verb over a plain inner clause.
+
+A speaker quoting somebody's exact polite words can keep them — <span class="cite-jp">すぐ伺いますって言ってました</span><span class="gl-en"> — she said she'd be right over</span>. That is a direct quotation of the wording; the plain form is what you will meet far more often.
+
+<div class="dlg"><div class="dlg-note">what licenses って — B is handing over a message from someone who is not in the room, so the report is marked as coming from elsewhere.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>今日<rt>きょう</rt></ruby>、ミナ<ruby>来<rt>く</rt></ruby>る？</div><div class="ex-en">Is Mina coming today?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>三十分<rt>さんじゅっぷん</rt></ruby>くらい<ruby>遅<rt>おく</rt></ruby>れるって。</div><div class="ex-en">She says she&#x27;ll be about half an hour late.</div></div></div></div>
+
+Nothing in B's answer names Mina as the speaker. <span class="cite-jp">って</span> alone is enough, because the question has already put her in view.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Continue with:</span> [って言ってた (reported)](<tte-itteta.md#reported> "って言ってた — Said that") <span class="xref-reason">&mdash; the fuller reported-speech frame, once a saying verb is actually pronounced</span></div>
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [と思う](<to-omou.md> "と思う — Think that something is true") <span class="xref-reason">&mdash; the same quote marker before a verb of thinking rather than of speech</span></div>
+
+### Negation sits inside the quote, not on <span class="cite-jp">って</span>
+
+Negating a report negates what was reported. <span class="cite-jp">来ないって</span><span class="gl-en"> — he says he isn't coming — </span>passes on a negative claim; <span class="cite-jp">って</span> itself is untouched, and the sentence is no less a report than <span class="cite-jp">来るって</span> is.
+
+There is no negative form of <span class="cite-jp">って</span> to learn. To deny the report rather than the claim, the denial goes on the outer verb: <span class="cite-jp">そんなこと言ってないよ</span><span class="gl-en"> — he never said that</span>.
+
+<div id="trap-english-trap" class="trap-anchor"></div>
+
+!!! warning "English Trap"
+    English marks a report with a reporting verb and a subject: somebody said something. <span class="cite-jp">って</span> supplies neither, so a learner reaches for <span class="cite-jp">彼が言った</span> where Japanese leaves the speaker entirely to context.
+
+    The reverse mistake costs more. A sentence ending in <span class="cite-jp">って</span> does not promise that any person spoke: it can pass on a notice, a schedule, a rumour or a general "they say".
+
+    <span class="cite-jp">明日は休みだって</span><span class="gl-en"> — apparently tomorrow's a holiday — </span>is at home when the news came from a poster and nobody said anything at all.
+
+## って (topic marker) — putting a noun up for discussion { #topic-marker }
 
 As for X; casual topic marker highlighting a quoted or nominal phrase
 {: .pt-gloss }
 
 <span class="card-tag lv">N3</span> <span class="card-tag">particle-construction</span> <span class="card-tag">topic-focus</span> <span class="card-tag">style: colloquial</span>
+
+**Form:** `N + って + comment` · `N + って、` with a pause before the comment
+{: .form }
+
+- **<span class="cite-jp">って</span> sets the noun between the two speakers** — <span class="cite-jp">彼って面白いよね</span><span class="gl-en"> — he's a funny one, isn't he — </span>holds him up as something both of them are looking at, and asks for a shared verdict.
+- **<span class="cite-jp">は</span> presents the topic as settled and the speaker as the one with something to say about it.** The listener is the audience for the comment rather than a co-witness to it.
+- **<span class="cite-jp">って</span> tends to introduce a topic rather than pick one up.** It is a natural way to raise something new; a topic already established in the conversation is usually carried by <span class="cite-jp">は</span>, or left unsaid.
+- **The comment says what the topic is like, not what happened to it once.** <span class="cite-jp">山田さんって京都出身なんだよ</span><span class="gl-en"> — Yamada is from Kyoto — </span>states a standing property and is ordinary; <span class="cite-jp">山田さんって昨日転んだよ</span> is not, because one event is not something the topic IS.
+- **<span class="cite-jp">って</span> prefers company.** A <span class="cite-jp">よね</span>, an <span class="cite-jp">んだ</span> or a question usually follows, because <span class="cite-jp">って</span> sets a topic up for something to be done with it rather than simply asserted — and asking for a shared verdict is the commonest thing to do with it.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [よね](<ne.md#yo-ne> "ね — agreement and soft assertion") <span class="xref-reason">&mdash; よね, the shared verdict って so often sets up</span></div>
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">already established</div><div class="eg-jp" lang="ja"><ruby>彼<rt>かれ</rt></ruby>は<ruby>真面目<rt>まじめ</rt></ruby>だよね</div><div class="ex-en">He&#x27;s a serious person, isn&#x27;t he.</div></div><div class="eg-member"><div class="eg-label">newly raised</div><div class="eg-jp" lang="ja"><ruby>彼<rt>かれ</rt></ruby>って<ruby>真面目<rt>まじめ</rt></ruby>だよね</div><div class="ex-en">He&#x27;s a serious one, isn&#x27;t he.</div></div></div>
+
+Both ask for the same verdict, and <span class="cite-jp">よね</span> is doing the asking in both. What <span class="cite-jp">って</span> changes is the standing of the topic: <span class="cite-jp">は</span> takes him as already on the table and comments on him, while <span class="cite-jp">って</span> puts him up as the thing now being weighed.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [は (topic)](<wa.md#topic> "は — topic, contrast, and scope") <span class="xref-reason">&mdash; は&#x27;s own topic-marking, which って borrows the slot from without borrowing the neutrality</span></div>
+
+<div class="ex"><div class="ex-jp" lang="ja">ここのコーヒー<span class="pat">って、</span>ちょっと<ruby>濃<rt>こ</rt></ruby>いよね。</div><div class="ex-en">The coffee here is a bit strong, isn&#x27;t it. <span class="lit">&mdash; lit. as for the coffee here, it&#x27;s a little strong, right</span></div><div class="ex-note">って puts the coffee between the two of them to be judged together, and よね asks for the verdict. は would state the same thing as the speaker&#x27;s own assessment, with the listener as its audience.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">ここのコーヒー</span><span class="g">the coffee here</span></div><div class="bd-seg hit"><span class="j" lang="ja">って、</span><span class="g">as for</span></div><div class="bd-seg"><span class="j" lang="ja">ちょっと</span><span class="g">a bit</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>濃<rt>こ</rt></ruby>い</span><span class="g">is strong</span></div><div class="bd-seg"><span class="j" lang="ja">よね</span><span class="g">right?</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">N + って, a topic offered for shared assessment</span></div></div></details></div>
+
+### Telling the two uses apart
+
+Look at what sits on each side of the particle. The test holds most of the time, and the exception is worth learning with it.
+
+- **After a complete clause, <span class="cite-jp">って</span> is quoting** — <span class="cite-jp">遅れるって</span><span class="gl-en"> — he says he'll be late</span>.
+- **After a noun, with a comment about that noun following, <span class="cite-jp">って</span> is marking a topic** — <span class="cite-jp">このドラマって長いよね</span><span class="gl-en"> — this drama is long, isn't it</span>.
+- **After a noun, with a verb of saying or hearing following, <span class="cite-jp">って</span> is quoting that noun** — <span class="cite-jp">明日って言ってた</span><span class="gl-en"> — he said tomorrow — </span>names no topic at all.
+
+So the reliable half of the test is what comes AFTER <span class="cite-jp">って</span>, not only what comes before it. A noun in front of it settles nothing on its own.
+
+<div id="trap-pitfall" class="trap-anchor"></div>
+
+!!! warning "Pitfall"
+    A noun in front of <span class="cite-jp">って</span> does not make it a topic marker. If a verb of saying, hearing or thinking follows, the noun is being quoted.
+
+    <span class="cite-jp">明日って言ってた</span><span class="gl-en"> — he said tomorrow — </span>reports somebody's word, not a topic. The topic reading would need a comment about tomorrow, as in <span class="cite-jp">明日って忙しい？</span><span class="gl-en"> — are you busy tomorrow</span>?
+
+    The same trap waits on any short answer quoted back: <span class="cite-jp">無理って言われた</span><span class="gl-en"> — I was told no</span>.
+
+### Where <span class="cite-jp">は</span> fits and where <span class="cite-jp">って</span> does
+
+Four ways of putting a topic on the table, ordered from the most formal frame to the most casual. The order is about the room each one belongs in, not about which is better Japanese.
+
+| how you put the topic up | what it does to the topic | how it lands |
+|---|---|---|
+| [について](<ni-tsuite.md> "について — Regarding X") — regarding X | marks it out as a subject for treatment | formal and written; carries no interpersonal signal at all |
+| [は (topic)](<wa.md#topic> "は — topic, contrast, and scope") — as for X | sets it as the frame and moves on to the comment | neutral; works in every register |
+| [んだけど](<n-da.md#n-da-kedo> "んだ — the explanatory のだ and its compounds") — about X, … | raises it and leaves a question or request coming | conversational; softens whatever follows |
+| <span class="cite-jp">って</span> — as for X | holds it up for the two of you to weigh | casual speech; invites the listener's reaction |
+
+<div class="dlg"><div class="dlg-note">what licenses って — A puts a person up for B to assess rather than asking for a description, and B answers with a verdict.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>新<rt>あたら</rt></ruby>しい<ruby>先生<rt>せんせい</rt></ruby>って、どう？</div><div class="ex-en">What do you make of the new teacher?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>話<rt>はな</rt></ruby>しやすいよ。</div><div class="ex-en">Easy to talk to.</div></div></div></div>
+
+### In conversation
+
+- **A bare 〜<span class="cite-jp">って？</span> asks what a word is** — <span class="cite-jp">サブスクって？</span><span class="gl-en"> — subscription</span>? — is a complete turn, and the fuller version is 〜<span class="cite-jp">ってどういう意味？</span>.
+- **A report can be extended with <span class="cite-jp">さ</span> or <span class="cite-jp">ね</span>** — <span class="cite-jp">来られないってさ</span><span class="gl-en"> — apparently he can't make it — </span>keeps the report and adds a conversational nudge toward the listener.
+- **<span class="cite-jp">って</span> attaches to a name to introduce someone** — <span class="cite-jp">田中って人</span><span class="gl-en"> — a guy called Tanaka — </span>is the casual counterpart of the naming <span class="cite-jp">という</span>.
+- **<span class="cite-jp">っていうか</span> revises what was just said, yours or theirs** — roughly "or rather", and one of the most frequent repair moves in casual speech.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [という (naming)](<to-iu.md#naming> "という — Called or named") <span class="xref-reason">&mdash; という, the full form behind the naming use</span></div>
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [どういう意味](<dou-iu-imi.md> "どういう意味 — what does it mean?") <span class="xref-reason">&mdash; どういう意味, the fuller question a bare 〜って？ stands in for</span></div>
+
+In writing, <span class="cite-jp">って</span> turns up wherever the writing itself is casual — messages, posts, dialogue in fiction — and stays out of notices and formal prose, where <span class="cite-jp">と</span>, <span class="cite-jp">そうだ</span> and <span class="cite-jp">について</span> do the same jobs.
+
+??? note "Where <span class="cite-jp">って</span> comes from"
+    <span class="cite-jp">って</span> is commonly analysed as what <span class="cite-jp">と</span>, <span class="cite-jp">という</span> and <span class="cite-jp">とは</span> reduce to in speech, which is one account of why a single particle covers a quote marker and a topic marker that otherwise look unrelated.
+
+    Treat that as history rather than as a procedure. The two uses have to be told apart by what surrounds them, not by which longer form you can reconstruct behind them.
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
