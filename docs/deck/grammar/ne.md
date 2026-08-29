@@ -2,7 +2,27 @@
      Prose belongs in content/deck/grammar/ne.md -->
 # ね — agreement and soft assertion
 
-## ね (agreement) { #agreement }
+!!! tip "At a glance"
+
+    <span class="cite-jp">ね</span> hands a statement to the listener for confirmation, so it belongs on things the listener can already judge for themselves.
+    On a plan only the speaker knows about, it asks the listener to accept the announcement rather than to agree with it.
+    <span class="cite-jp">よね</span> combines the two: the belief is the speaker's, and the confirming is the listener's to do.
+
+Two people are looking at the same photograph and one of them says <span class="cite-jp">この写真、よく撮れてるね</span><span class="gl-en"> — this photo came out well, didn't it</span>.
+
+The other person is looking at the same photo and can judge it perfectly well themselves. That is the condition <span class="cite-jp">ね</span> is built for: the remark is handed over to be confirmed rather than delivered as news.
+
+Say the same thing down the phone to somebody who has not seen the photo and <span class="cite-jp">ね</span> is the wrong particle. What that situation wants is <span class="cite-jp">よ</span>, which presents the judgement as the speaker's to supply.
+
+<span class="cite-jp">ね</span>'s second job looks unrelated and is the same move applied where the listener has no access at all.
+
+<span class="cite-jp">先に出るね</span><span class="gl-en"> — I'm heading out, okay</span>? — announces a plan nobody else can confirm, and asks the listener to be alright with it rather than to agree with it.
+
+Before adding <span class="cite-jp">ね</span>, ask whether the listener can already tell. If they can, <span class="cite-jp">ね</span> invites them to say so; if they cannot, <span class="cite-jp">ね</span> asks them to accept what you are about to do.
+
+One warning about what a page cannot show. Much of <span class="cite-jp">ね</span>'s work is carried by the contour: a rising <span class="cite-jp">ね</span> asks, a falling <span class="cite-jp">ね</span> shares. Both are written identically, so the sections below say which one they mean wherever the difference matters.
+
+## ね (agreement) — inviting the listener to agree { #agreement }
 
 Sentence-final particle seeking agreement.
 {: .pt-gloss }
@@ -13,7 +33,53 @@ Sentence-final particle seeking agreement.
 **Senses:** [ね (soft assertion)](<ne.md#soft-assertion> "Softens an announcement of the speaker's own intention or action.")
 {: .fam }
 
-## ね (soft assertion) { #soft-assertion }
+**Form:** `plain sentence + ね` · `N / な-adj + だね` · `です・ます + ね`
+{: .form }
+
+- **<span class="cite-jp">ね</span> presents the statement as one the listener is in a position to confirm** — <span class="cite-jp">駅、混んでるね</span><span class="gl-en"> — the station's crowded, isn't it — </span>works because both of them are standing in it.
+- **A rising <span class="cite-jp">ね</span> asks and a falling <span class="cite-jp">ね</span> shares.** Rising 〜<span class="cite-jp">ね？</span> requests a confirmation the speaker is not certain of; falling <span class="cite-jp">ね</span> treats the agreement as already in place and registers a feeling both hold.
+- **<span class="cite-jp">ね</span> carries no politeness of its own.** It follows <span class="cite-jp">です</span> and <span class="cite-jp">ます</span> as readily as a plain form: <span class="cite-jp">上手ですね</span><span class="gl-en"> — you're good at that, aren't you — </span>is polite because of <span class="cite-jp">です</span>, not because of <span class="cite-jp">ね</span>.
+- **Sentence-final <span class="cite-jp">ね</span> takes the whole sentence in its scope.** It comments on how the statement is being delivered; strip it off and the same claim is left, said to nobody in particular.
+- **Negation changes what is being agreed to, not what <span class="cite-jp">ね</span> does** — <span class="cite-jp">このパン、あんまり甘くないね</span><span class="gl-en"> — this bread isn't very sweet, is it — </span>is the same invitation over a negative predicate.
+
+<div class="ex"><div class="ex-jp" lang="ja">この<ruby>店<rt>みせ</rt></ruby>、<ruby>思<rt>おも</rt></ruby>ったより<ruby>広<rt>ひろ</rt></ruby>い<span class="pat">ね</span>。</div><div class="ex-en">This place is bigger than I expected, isn&#x27;t it. <span class="lit">&mdash; lit. this shop, more spacious than I thought, right</span></div><div class="ex-note">Both speakers are standing in the shop, so its size is something the listener can check by looking. That access is what ね trades on — the remark is offered for confirmation rather than delivered as news.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">この<ruby>店<rt>みせ</rt></ruby>、</span><span class="g">this place,</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>思<rt>おも</rt></ruby>ったより</span><span class="g">than I expected</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>広<rt>ひろ</rt></ruby>い</span><span class="g">is spacious</span></div><div class="bd-seg hit"><span class="j" lang="ja">ね</span><span class="g">isn&#x27;t it</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">statement + ね, offered to a listener who can see it too</span></div></div></details></div><div class="reg"><div><div class="rlbl">casual</div><span lang="ja">この店、思ったより広いね。</span></div><div><div class="rlbl">polite</div><span lang="ja">この店、思ったより広いですね。</span></div></div>
+
+<div class="dlg"><div class="dlg-note">what licenses ね — the quiet is available to both of them, so A offers the remark for B to confirm rather than reporting it.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">この<ruby>道<rt>みち</rt></ruby>、<ruby>静<rt>しず</rt></ruby>かだね。</div><div class="ex-en">This street&#x27;s quiet, isn&#x27;t it.</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">うん、<ruby>昼間<rt>ひるま</rt></ruby>はいつもこんな<ruby>感<rt>かん</rt></ruby>じ。</div><div class="ex-en">Yeah, it&#x27;s always like this in the daytime.</div></div></div></div>
+
+### The split between <span class="cite-jp">ね</span> and <span class="cite-jp">よ</span>
+
+The choice between <span class="cite-jp">ね</span> and <span class="cite-jp">よ</span> is not about politeness, and not about emphasis. It is about who the sentence treats as already holding the information.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">shared</div><div class="eg-jp" lang="ja">このケーキ、<ruby>甘<rt>あま</rt></ruby>いね</div><div class="ex-en">This cake&#x27;s sweet, isn&#x27;t it.</div></div><div class="eg-member"><div class="eg-label">news</div><div class="eg-jp" lang="ja">このケーキ、<ruby>甘<rt>あま</rt></ruby>いよ</div><div class="ex-en">This cake&#x27;s sweet, just so you know.</div></div></div>
+
+Both sentences say the cake is sweet. The first takes the listener to have tasted it too and asks them to agree; the second takes them not to have, and hands them the fact.
+
+Get the assumption wrong and the sentence still parses, but it makes a claim about the listener. <span class="cite-jp">ね</span> on something they could not know asks them to confirm what they do not have; <span class="cite-jp">よ</span> on something they plainly do know can land as a correction.
+
+Treat that as a strong tendency rather than a rule, because speakers work against it deliberately. <span class="cite-jp">ね</span> on genuinely new information is the soft assertion in the next section, and <span class="cite-jp">よ</span> on shared information is what makes a reminder sound pointed.
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [よ](<yo.md> "よ — Sentence-final particle that supplies information or emphasis") <span class="xref-reason">&mdash; よ&#x27;s own page, this same boundary seen from the other side</span></div>
+
+### In conversation
+
+- **<span class="cite-jp">ね</span> is not confined to the end of the sentence.** <span class="cite-jp">あのね、昨日、駅で</span>… — so, yesterday, at the station… — breaks a turn into pieces and checks after each one that the listener is still following.
+- **That mid-sentence <span class="cite-jp">ね</span> does not disappear in careful speech; it changes shape.** The same <span class="cite-jp">あのね</span> becomes <span class="cite-jp">あのですね</span> in formal explanation, where the plain form would be too familiar.
+- **Whole turns are made of it** — <span class="cite-jp">そうだね</span><span class="gl-en"> — yeah, true — </span>and <span class="cite-jp">だよね</span><span class="gl-en"> — right — </span>are complete replies.
+- **Lengthening changes the weight.** A drawn-out <span class="cite-jp">ねー</span> reads as warmer, or as more thoroughly agreed, than a clipped <span class="cite-jp">ね</span>.
+- **<span class="cite-jp">ですね</span> buys thinking time.** <span class="cite-jp">そうですね</span><span class="gl-en"> — well, let me see — </span>before an answer is often a pause rather than agreement with anything in particular.
+
+In writing, <span class="cite-jp">ね</span> appears where the writing is really speech: messages, dialogue, copy addressed to a reader. Notices and formal prose leave it out.
+
+<div id="trap-pitfall" class="trap-anchor"></div>
+
+!!! warning "Pitfall"
+    <span class="cite-jp">ね</span> is not a free-floating politeness marker. It always hands the sentence over to the listener — for confirmation where they can judge, for acceptance where they cannot — and it is about them either way.
+
+    Said as a self-introduction, <span class="cite-jp">田中ですね</span> hands the speaker's own name across, and with no subject pronounced the listener takes it as being about them: you're Tanaka, aren't you. <span class="cite-jp">田中です</span><span class="gl-en"> — I'm Tanaka — </span>is what introduces you.
+
+    The instinct behind the mistake is sound, and the form that carries it is the soft assertion below, which attaches to what the speaker is about to do rather than to who they are.
+
+## ね (soft assertion) — softening your own announcement { #soft-assertion }
 
 Softens an announcement of the speaker's own intention or action.
 {: .pt-gloss }
@@ -23,7 +89,30 @@ Softens an announcement of the speaker's own intention or action.
 **From:** sense of [ね (agreement)](<ne.md#agreement> "Sentence-final particle seeking agreement.")
 {: .fam }
 
-## よね { #yo-ne }
+**Form:** `a sentence about the speaker's own action + ね`, plain or polite
+{: .form }
+
+- **The listener cannot confirm your plans, so <span class="cite-jp">ね</span> is not asking them to.** <span class="cite-jp">先に出るね</span> asks them to receive the plan and be alright with it.
+- **This is the ordinary way to announce a small unilateral act** — <span class="cite-jp">鍵、机の上に置いとくね</span><span class="gl-en"> — I'll leave the key on the desk</span>.
+- **The particle is doing the whole difference.** <span class="cite-jp">先に出る</span><span class="gl-en"> — I'm heading out — </span>states the plan, <span class="cite-jp">先に出るよ</span> notifies the listener of it, and <span class="cite-jp">先に出るね</span> checks that they are fine with it.
+- **It attaches to requests as easily as to plans** — <span class="cite-jp">忘れないでね</span><span class="gl-en"> — don't forget, will you — </span>asks for the same acceptance about an action that is the listener's.
+- **Polite speech takes it unchanged.** <span class="cite-jp">お先に失礼しますね</span><span class="gl-en"> — I'll be off, if that's alright — </span>is ordinary in an office, and the politeness comes from <span class="cite-jp">します</span>.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">checking it is alright</div><div class="eg-jp" lang="ja"><ruby>先<rt>さき</rt></ruby>に<ruby>出<rt>で</rt></ruby>るね</div><div class="ex-en">I&#x27;m heading out, okay?</div></div><div class="eg-member"><div class="eg-label">simply notifying</div><div class="eg-jp" lang="ja"><ruby>先<rt>さき</rt></ruby>に<ruby>出<rt>で</rt></ruby>るよ</div><div class="ex-en">I&#x27;m heading out.</div></div></div>
+
+Neither is impolite. <span class="cite-jp">ね</span> leaves the listener something to respond to; <span class="cite-jp">よ</span> asks for nothing back.
+
+<div class="dlg"><div class="dlg-note">what licenses ね — B&#x27;s own plan is not something A can confirm, so ね asks A to take it on board rather than to agree with it.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>荷物<rt>にもつ</rt></ruby>、まだある？</div><div class="ex-en">Is there anything left to carry?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">あと<ruby>一<rt>ひと</rt></ruby>つ。<ruby>先<rt>さき</rt></ruby>に<ruby>運<rt>はこ</rt></ruby>んどくね。</div><div class="ex-en">One more. I&#x27;ll take it ahead.</div></div></div></div>
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [てね](<te-ne.md> "てね — Do this") <span class="xref-reason">&mdash; てね, the request frame this ね sits on when the action is the listener&#x27;s</span></div>
+
+### Where the two senses meet
+
+Both senses hand the sentence to the listener. What changes is what the listener is being asked for: agreement, when they can judge for themselves, and acceptance, when they cannot.
+
+That is also why the boundary between them is soft. <span class="cite-jp">明日、少し遅れるね</span><span class="gl-en"> — I'll be a bit late tomorrow — </span>asks the listener to accept a plan; said to someone who had already guessed, the same sentence slides toward agreement.
+
+## よね — checking something you think you both know { #yo-ne }
 
 Right? Softly seeks shared recognition or confirms mutual understanding
 {: .pt-gloss }
@@ -32,3 +121,56 @@ Right? Softly seeks shared recognition or confirms mutual understanding
 
 **From:** compound of [ね (agreement)](<ne.md#agreement> "Sentence-final particle seeking agreement.")
 {: .fam }
+
+**Form:** `plain sentence + よね` · `N / な-adj + だよね` · `です・ます + よね`
+{: .form }
+
+- **<span class="cite-jp">よ</span> presents the belief as the speaker's, <span class="cite-jp">ね</span> hands it over to be confirmed.** The combination fits a recollection you are fairly sure of and would like ratified.
+- **It leaves room to be wrong.** A bare <span class="cite-jp">ね</span> assumes the listener is already with you; <span class="cite-jp">よね</span> asks whether they are, which is why it suits half-certain memory.
+- **It is very common on shared facts and arrangements** — <span class="cite-jp">ここ、前に来たことあるよね</span><span class="gl-en"> — we've been here before, haven't we</span>.
+- **After a noun it needs <span class="cite-jp">だ</span>** — <span class="cite-jp">明日、休みだよね</span><span class="gl-en"> — tomorrow's off, right</span>.
+- **Rising is the default** when it is a genuine check. A falling <span class="cite-jp">よね</span> reads closer to thinking aloud.
+
+<div class="ex"><div class="ex-jp" lang="ja">あの<ruby>鍵<rt>かぎ</rt></ruby>、<ruby>返<rt>かえ</rt></ruby>した<span class="pat">よね</span>？</div><div class="ex-en">I gave that key back, didn&#x27;t I. <span class="lit">&mdash; lit. that key, I returned it, right</span></div><div class="ex-note">The speaker has their own memory of returning it and is not asking to be informed. よ presents that memory as theirs and ね hands it over to be checked, which is why よね fits a half-sure recollection where a bare ね would claim the listener already agreed.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">あの<ruby>鍵<rt>かぎ</rt></ruby>、</span><span class="g">that key,</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>返<rt>かえ</rt></ruby>した</span><span class="g">I gave back</span></div><div class="bd-seg hit"><span class="j" lang="ja">よね</span><span class="g">didn&#x27;t I</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">statement + よね, a belief put up for confirmation</span></div></div></details></div>
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">seeking agreement</div><div class="eg-jp" lang="ja">この<ruby>道<rt>みち</rt></ruby>で<ruby>合<rt>あ</rt></ruby>ってるね</div><div class="ex-en">We&#x27;re on the right road, aren&#x27;t we.</div></div><div class="eg-member"><div class="eg-label">supplying it</div><div class="eg-jp" lang="ja">この<ruby>道<rt>みち</rt></ruby>で<ruby>合<rt>あ</rt></ruby>ってるよ</div><div class="ex-en">We&#x27;re on the right road, trust me.</div></div><div class="eg-member"><div class="eg-label">checking a belief</div><div class="eg-jp" lang="ja">この<ruby>道<rt>みち</rt></ruby>で<ruby>合<rt>あ</rt></ruby>ってるよね</div><div class="ex-en">We&#x27;re on the right road, right?</div></div></div>
+
+The first takes the listener to think so already. The second tells them. The third says the speaker thinks so and would like it checked, which is the one for navigating when you are only fairly sure.
+
+### Four ways to ask for confirmation
+
+The rows run from the form a textbook teaches first to the most colloquial. All four ask the listener to confirm something; what separates them is how much agreement each one assumes it already has.
+
+| how you ask | what you are doing | how it lands |
+|---|---|---|
+| 〜<span class="cite-jp">ね？</span> — isn't it? | offers a remark for the listener to confirm | neutral; takes for granted that they are already with you |
+| 〜<span class="cite-jp">よね？</span> — right? | puts your own belief up for confirmation | very common in conversation; leaves room to be corrected |
+| [でしょ？](<desho-q.md> "でしょ？ — right? — casual confirmation") — right? | presses a point you treat as obvious to both | casual; can sound like you are asking them to admit it |
+| [っけ (memory retrieval)](<kke.md#memory-retrieval> "っけ — What was it again? Retrieves a forgotten fact from memory") — what was it again? | concedes you have half-forgotten, and asks | casual; the only one that admits you do not know |
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [んだよね](<n-da.md#n-da-yo-ne> "んだ — the explanatory のだ and its compounds") <span class="xref-reason">&mdash; んだよね, the same pair stacked on んだ&#x27;s explanatory frame</span></div>
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [じゃん](<jan.md> "じゃん — You know") <span class="xref-reason">&mdash; じゃん, a blunter way of putting something up as obvious</span></div>
+
+<div id="trap-english-trap" class="trap-anchor"></div>
+
+!!! warning "English Trap"
+    English tag questions — isn't it, right, don't you think — are the nearest equivalent, and they are far rarer than <span class="cite-jp">ね</span>.
+
+    A speaker who ends most sentences with one sounds unsure or pushy in English. In Japanese it is ordinary conversational maintenance.
+
+    So do not read insecurity into a run of <span class="cite-jp">ね</span>, and do not translate every one. English often carries the same work in the intonation and adds no word at all.
+
+??? note "<span class="cite-jp">な</span>, <span class="cite-jp">なあ</span>, and the <span class="cite-jp">ね</span> that is addressed to nobody"
+    Sentence-final <span class="cite-jp">な</span> can do a <span class="cite-jp">ね</span>-like job in casual speech and often reads as more masculine, or as more inward. Lengthened <span class="cite-jp">なあ</span> turns the remark inward altogether: it registers a feeling rather than asking anyone to share it.
+
+    Dropping <span class="cite-jp">だ</span> before <span class="cite-jp">ね</span> — <span class="cite-jp">いい天気ね</span><span class="gl-en"> — is the same markedly feminine move that </span><span class="cite-jp">明日、休みよ</span> makes with <span class="cite-jp">よ</span>, and not simply a casual contraction.
+
+    A different <span class="cite-jp">な</span> entirely follows the dictionary form and forbids the action — <span class="cite-jp">見るな</span><span class="gl-en"> — don't look</span>. Same kana, unrelated job.
+
+    <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [なあ](<naa.md> "なあ — Sentence-final reflection or emotion") <span class="xref-reason">&mdash; the self-directed reflection なあ marks</span></div>
+
+    <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [な (prohibition)](<na-prohibition.md> "な (prohibition) — Sentence-final な after the dictionary form forbids the action outright (諦めるな)") <span class="xref-reason">&mdash; the prohibitive な, which shares nothing with these but its spelling</span></div>
+
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
