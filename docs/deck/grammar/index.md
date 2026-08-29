@@ -351,7 +351,7 @@ When to use which — one page per confusable set.
 <div class="card-grid-item"><h3><a href="to-iu/">という — Called or named</a></h3><p>Called or named; identifies the name or label of something</p></div>
 <div class="card-grid-item"><h3><a href="to-iu-imi/">という意味 — Means that</a></h3><p>Means that; explains the interpretation or definition of a quoted expression</p></div>
 <div class="card-grid-item"><h3><a href="tokoro/">ところ — just did, in the middle of, about to</a></h3><p>Have just finished doing; focuses on the immediate post-action point</p></div>
-<div class="card-grid-item"><h3><a href="tte/">って — the casual quote, topic marker, and だって</a></h3><p>I hear that; casual report of information learned from someone else</p></div>
+<div class="card-grid-item"><h3><a href="tte/">って — the casual quote, topic marker, and だって</a></h3><p>Casually quotes speech, thought, or information reported by others</p></div>
 <div class="card-grid-item"><h3><a href="v-kata/">V方 — How to perform an action</a></h3><p>How to perform an action; turns a verb into a method noun</p></div>
 <div class="card-grid-item"><h3><a href="wasureru/">忘れる — Fail to complete a compound action through forgetting</a></h3><p>Fail to complete a compound action through forgetting</p></div>
 <div class="card-grid-item"><h3><a href="yatsu/">やつ — Casual noun substitute for a thing</a></h3><p>Casual noun substitute for a thing, person, or previously mentioned item</p></div>

@@ -14,7 +14,7 @@
 your own eyes tell you (appearance), what looks about to happen (imminence),
 or what someone else told you (hearsay, a separate pattern below).
 
-<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [そうだ-hearsay](<sou-da-hearsay.md> "そうだ (hearsay) — I hear that, they say that") <span class="xref-reason">&mdash; the same そうだ spelling, reporting what someone said rather than what the evidence shows</span></div>
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [そうだ (hearsay)](<sou-da-hearsay.md> "そうだ (hearsay) — I hear that, they say that") <span class="xref-reason">&mdash; the same そうだ spelling, reporting what someone said rather than what the evidence shows</span></div>
 
 
 ## そうだ (appearance) — how something seems, on sight { #appearance }

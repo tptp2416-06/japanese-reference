@@ -24,40 +24,6 @@ Before reaching for <span class="cite-jp">って</span>, decide what you are pul
 
 <span class="cite-jp">って</span> is a marker of spoken, informal-leaning Japanese. Careful and written Japanese do both jobs with <span class="cite-jp">と</span> and <span class="cite-jp">は</span>, usually with the frame spelled out rather than left to the particle.
 
-## だって — a report standing after a noun { #datte }
-
-I hear that; casual report of information learned from someone else
-{: .pt-gloss }
-
-<span class="card-tag lv">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">evidentiality-hearsay</span> <span class="card-tag">style: colloquial</span>
-
-**From:** compound of [って (quote)](<tte.md#quote> "Casually quotes speech, thought, or information reported by others")
-{: .fam }
-
-Three different things are spelled <span class="cite-jp">だって</span>. This section is about one of them: the <span class="cite-jp">だって</span> that passes on what somebody else said.
-
-The other two are separate constructions and are not treated here.
-
-- The sentence-opening <span class="cite-jp">だって</span> that answers back with a reason — <span class="cite-jp">だって、時間がなかったんだもん</span><span class="gl-en"> — but I didn't have time</span>.
-- The <span class="cite-jp">だって</span> that means "even" — <span class="cite-jp">子供だって分かる</span><span class="gl-en"> — even a child can tell</span>.
-
-**Form:** `N / な-adj + だって` · `plain clause + んだって`
-{: .form }
-
-- **<span class="cite-jp">だって</span> is the reporting <span class="cite-jp">って</span> standing after a noun.** A noun predicate brings its copula with it, so the marker arrives as <span class="cite-jp">だって</span>: <span class="cite-jp">中止だって</span><span class="gl-en"> — it's cancelled, I hear</span>.
-- **It reports the noun predicate whole.** <span class="cite-jp">原因は事故だって</span> passes on somebody's statement that the cause was an accident, without the speaker signing up to it.
-- **There is no <span class="cite-jp">だってです</span>.** The polite counterpart puts <span class="cite-jp">です</span> inside instead — <span class="cite-jp">中止ですって</span><span class="gl-en"> — it's cancelled, I hear — </span>which is spoken, and reads as somewhat feminine.
-- **A neutral polite report spells the frame out** — <span class="cite-jp">事故だったそうです</span><span class="gl-en"> — apparently it was an accident — </span>or <span class="cite-jp">事故だったと聞きました</span><span class="gl-en"> — I heard it was an accident</span>.
-
-<div class="eg-contrast"><div class="eg-member"><div class="eg-label">after a clause</div><div class="eg-jp" lang="ja"><ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れてるって</div><div class="ex-en">The trains are running late, I hear.</div></div><div class="eg-member"><div class="eg-label">after a noun</div><div class="eg-jp" lang="ja"><ruby>原因<rt>げんいん</rt></ruby>は<ruby>事故<rt>じこ</rt></ruby>だって</div><div class="ex-en">The cause was an accident, I hear.</div></div></div>
-
-The difference is not in what the two sentences do — both pass on a report — but in what they attach to. A verb or an <span class="cite-jp">い</span>-adjective takes <span class="cite-jp">って</span> directly; a noun or a <span class="cite-jp">な</span>-adjective usually brings its copula with it.
-
-Casual speech drops <span class="cite-jp">だ</span> here as readily as anywhere else, so <span class="cite-jp">明日、休みって</span><span class="gl-en"> — tomorrow's off, I hear — </span>is ordinary too.
-
-<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [んだって](<n-da.md#n-datte> "んだ — the explanatory のだ and its compounds") <span class="xref-reason">&mdash; んだって, which frames the same report as background to the current situation</span></div>
-
-
 ## って (quote) — passing on words that are not yours { #quote }
 
 Casually quotes speech, thought, or information reported by others
@@ -197,5 +163,39 @@ In writing, <span class="cite-jp">って</span> turns up wherever the writing it
     <span class="cite-jp">って</span> is commonly analysed as what <span class="cite-jp">と</span>, <span class="cite-jp">という</span> and <span class="cite-jp">とは</span> reduce to in speech, which is one account of why a single particle covers a quote marker and a topic marker that otherwise look unrelated.
 
     Treat that as history rather than as a procedure. The two uses have to be told apart by what surrounds them, not by which longer form you can reconstruct behind them.
+
+## だって — a report standing after a noun { #datte }
+
+I hear that; casual report of information learned from someone else
+{: .pt-gloss }
+
+<span class="card-tag lv">N4-upper</span> <span class="card-tag">quotation-construction</span> <span class="card-tag">evidentiality-hearsay</span> <span class="card-tag">style: colloquial</span>
+
+**From:** compound of [って (quote)](<tte.md#quote> "Casually quotes speech, thought, or information reported by others")
+{: .fam }
+
+Three different things are spelled <span class="cite-jp">だって</span>. This section is about one of them: the <span class="cite-jp">だって</span> that passes on what somebody else said.
+
+The other two are separate constructions and are not treated here.
+
+- The sentence-opening <span class="cite-jp">だって</span> that answers back with a reason — <span class="cite-jp">だって、時間がなかったんだもん</span><span class="gl-en"> — but I didn't have time</span>.
+- The <span class="cite-jp">だって</span> that means "even" — <span class="cite-jp">子供だって分かる</span><span class="gl-en"> — even a child can tell</span>.
+
+**Form:** `N / な-adj + だって` · `plain clause + んだって`
+{: .form }
+
+- **<span class="cite-jp">だって</span> is the reporting <span class="cite-jp">って</span> standing after a noun.** A noun predicate brings its copula with it, so the marker arrives as <span class="cite-jp">だって</span>: <span class="cite-jp">中止だって</span><span class="gl-en"> — it's cancelled, I hear</span>.
+- **It reports the noun predicate whole.** <span class="cite-jp">原因は事故だって</span> passes on somebody's statement that the cause was an accident, without the speaker signing up to it.
+- **There is no <span class="cite-jp">だってです</span>.** The polite counterpart puts <span class="cite-jp">です</span> inside instead — <span class="cite-jp">中止ですって</span><span class="gl-en"> — it's cancelled, I hear — </span>which is spoken, and reads as somewhat feminine.
+- **A neutral polite report spells the frame out** — <span class="cite-jp">事故だったそうです</span><span class="gl-en"> — apparently it was an accident — </span>or <span class="cite-jp">事故だったと聞きました</span><span class="gl-en"> — I heard it was an accident</span>.
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">after a clause</div><div class="eg-jp" lang="ja"><ruby>電車<rt>でんしゃ</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れてるって</div><div class="ex-en">The trains are running late, I hear.</div></div><div class="eg-member"><div class="eg-label">after a noun</div><div class="eg-jp" lang="ja"><ruby>原因<rt>げんいん</rt></ruby>は<ruby>事故<rt>じこ</rt></ruby>だって</div><div class="ex-en">The cause was an accident, I hear.</div></div></div>
+
+The difference is not in what the two sentences do — both pass on a report — but in what they attach to. A verb or an <span class="cite-jp">い</span>-adjective takes <span class="cite-jp">って</span> directly; a noun or a <span class="cite-jp">な</span>-adjective usually brings its copula with it.
+
+Casual speech drops <span class="cite-jp">だ</span> here as readily as anywhere else, so <span class="cite-jp">明日、休みって</span><span class="gl-en"> — tomorrow's off, I hear — </span>is ordinary too.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [んだって](<n-da.md#n-datte> "んだ — the explanatory のだ and its compounds") <span class="xref-reason">&mdash; んだって, which frames the same report as background to the current situation</span></div>
+
 
 <div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-english-trap">English Trap</a></li><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>
