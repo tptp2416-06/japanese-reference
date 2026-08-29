@@ -15,7 +15,7 @@ below, and it catches English speakers reliably.
 
 @@ tldr
 
-Two ways to say someone can do something: inflect the verb — 読める — or
+Two ways to say someone can do something: inflect the verb — 読める, or
 nominalise the action and say that it is possible — 読むことができる. The
 inflected potential is the everyday choice; ことができる is the explicit one, at
 home in notices, rules and writing.
@@ -165,9 +165,9 @@ It sits closer to "I'm able to perform the action of speaking Japanese" than to
 "Japanese falls within what I can do". が is the safer default and the answer a
 test expects, but treating を as an error will mislead you about what you hear.
 
-- **ことができる keeps を** — 日本語を話すことができる. Nothing has been
-  re-marked here: the inner clause is an ordinary transitive one, and こと,
-  not 日本語, is what できる reports on.
+- **ことができる keeps を** — 日本語を話すことができる — it is possible to
+  speak Japanese. Nothing has been re-marked here: the inner clause is an
+  ordinary transitive one, and こと, not 日本語, is what できる reports on.
 
 !!! note "Why a potential verb is often called state-like"
     Potential verbs are often analysed as state-like, because they describe an
@@ -223,8 +223,9 @@ pat: V-dict + こと + が + できる
 
 ### Choosing ことができる over the plain potential
 
-Not often in ordinary conversation. 日本語が話せる is shorter and more natural
-than 日本語を話すことができる, and in a simple casual exchange the long form can
+Not often in ordinary conversation. 日本語が話せる — I can speak Japanese — is
+shorter and more natural than 日本語を話すことができる — I am able to speak
+Japanese, stated in full — and in a simple casual exchange the long form can
 sound unnecessarily formal — at times as though you were quoting a regulation.
 
 It earns its length where the sentence's job is to state that something is
@@ -232,7 +233,8 @@ possible as a matter of rules, procedure or available options: signs, terms,
 announcements, instructions.
 
 - **With many する-verbs, N＋できる is shorter and usually more natural** —
-  運転できる, for example. 運転することができる is also grammatical, though, and
+  運転できる — I can drive — for example. 運転することができる — it is
+  possible for me to drive, stated in full — is also grammatical, though, and
   is common where the full action is stated explicitly, especially in formal
   writing.
 - **It sidesteps られる's ambiguity** — 見ることができる is unambiguously about

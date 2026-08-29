@@ -4,8 +4,8 @@
 
 !!! tip "At a glance"
 
-    Two ways to say someone can do something: inflect the verb — <span class="cite-jp">読める</span><span class="gl-en"> — or
-    nominalise the action and say that it is possible — </span><span class="cite-jp">読むことができる</span>. The
+    Two ways to say someone can do something: inflect the verb — <span class="cite-jp">読める</span>, or
+    nominalise the action and say that it is possible — <span class="cite-jp">読むことができる</span>. The
     inflected potential is the everyday choice; <span class="cite-jp">ことができる</span> is the explicit one, at
     home in notices, rules and writing.
 
@@ -172,9 +172,9 @@ It sits closer to "I'm able to perform the action of speaking Japanese" than to
 "Japanese falls within what I can do". <span class="cite-jp">が</span> is the safer default and the answer a
 test expects, but treating <span class="cite-jp">を</span> as an error will mislead you about what you hear.
 
-- **<span class="cite-jp">ことができる</span> keeps <span class="cite-jp">を</span>** — <span class="cite-jp">日本語を話すことができる</span>. Nothing has been
-  re-marked here: the inner clause is an ordinary transitive one, and <span class="cite-jp">こと</span>,
-  not <span class="cite-jp">日本語</span>, is what <span class="cite-jp">できる</span> reports on.
+- **<span class="cite-jp">ことができる</span> keeps <span class="cite-jp">を</span>** — <span class="cite-jp">日本語を話すことができる</span><span class="gl-en"> — it is possible to
+  speak Japanese</span>. Nothing has been re-marked here: the inner clause is an
+  ordinary transitive one, and <span class="cite-jp">こと</span>, not <span class="cite-jp">日本語</span>, is what <span class="cite-jp">できる</span> reports on.
 
 !!! note "Why a potential verb is often called state-like"
     Potential verbs are often analysed as state-like, because they describe an
@@ -229,8 +229,9 @@ Can do; explicit, nominalized expression of ability or possibility
 
 ### Choosing <span class="cite-jp">ことができる</span> over the plain potential
 
-Not often in ordinary conversation. <span class="cite-jp">日本語が話せる</span> is shorter and more natural
-than <span class="cite-jp">日本語を話すことができる</span>, and in a simple casual exchange the long form can
+Not often in ordinary conversation. <span class="cite-jp">日本語が話せる</span><span class="gl-en"> — I can speak Japanese — </span>is
+shorter and more natural than <span class="cite-jp">日本語を話すことができる</span><span class="gl-en"> — I am able to speak
+Japanese, stated in full — </span>and in a simple casual exchange the long form can
 sound unnecessarily formal — at times as though you were quoting a regulation.
 
 It earns its length where the sentence's job is to state that something is
@@ -238,7 +239,8 @@ possible as a matter of rules, procedure or available options: signs, terms,
 announcements, instructions.
 
 - **With many <span class="cite-jp">する</span>-verbs, N＋<span class="cite-jp">できる</span> is shorter and usually more natural** —
-  <span class="cite-jp">運転できる</span>, for example. <span class="cite-jp">運転することができる</span> is also grammatical, though, and
+  <span class="cite-jp">運転できる</span><span class="gl-en"> — I can drive — </span>for example. <span class="cite-jp">運転することができる</span><span class="gl-en"> — it is
+  possible for me to drive, stated in full — </span>is also grammatical, though, and
   is common where the full action is stated explicitly, especially in formal
   writing.
 - **It sidesteps <span class="cite-jp">られる</span>'s ambiguity** — <span class="cite-jp">見ることができる</span> is unambiguously about
