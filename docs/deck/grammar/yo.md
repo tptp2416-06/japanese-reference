@@ -4,5 +4,108 @@
 
 <span class="card-tag lv">N5</span> <span class="card-tag">sentence-final-particle</span> <span class="card-tag">addressee-stance</span> <span class="card-tag">baseline</span>
 
+!!! tip "At a glance"
+
+    <span class="cite-jp">よ</span> marks a statement as something the speaker is supplying and the listener does not yet have.
+    Everything else it is said to do — emphasis, insistence, pressure — comes of using it where the listener already knew.
+    It carries no politeness of its own and follows <span class="cite-jp">です</span> and <span class="cite-jp">ます</span> unchanged.
+
+Somebody's wallet slips out of their bag on the platform in front of you, and you say <span class="cite-jp">財布、落ちましたよ</span><span class="gl-en"> — you've dropped your wallet</span>.
+
+Without <span class="cite-jp">よ</span> the sentence still reports that the wallet fell. With it, the sentence is addressed: this is for you, and you did not have it.
+
+That is <span class="cite-jp">よ</span>'s whole job. It marks the content as the speaker's to supply and the listener's to receive.
+
+Everything else <span class="cite-jp">よ</span> gets described as doing — emphasising, insisting, sounding pushy — follows from what happens when that assumption is wrong. Handing somebody something they already had reads as a correction.
+
+Before adding <span class="cite-jp">よ</span>, ask whether the listener already has this. If they do not, <span class="cite-jp">よ</span> is the ordinary way to pass it over. If they do, expect it to land as a reminder rather than as news.
+
+One thing a page cannot show: <span class="cite-jp">よ</span>'s contour carries a great deal. A falling <span class="cite-jp">よ</span> sets the fact down; a rising <span class="cite-jp">よ</span> appeals. The sections below say which one they mean.
+
 Sentence-final particle that supplies information or emphasis.
 {: .h1-gloss }
+
+**Form:** `plain sentence + よ` · `N / な-adj + だよ` · `です・ます + よ`
+{: .form }
+
+- **<span class="cite-jp">よ</span> addresses the statement to somebody** — <span class="cite-jp">そこ、まだ濡れてるよ</span><span class="gl-en"> — that's still wet — </span>says it to the person who is about to sit down.
+- **It says the content is new to the listener,** not that it is important, urgent or loud. An ordinary fact takes <span class="cite-jp">よ</span> as readily as a warning does.
+- **It carries no politeness of its own.** <span class="cite-jp">危ないですよ</span><span class="gl-en"> — that's dangerous — </span>is polite because of <span class="cite-jp">です</span>; <span class="cite-jp">よ</span> neither raises nor lowers the register it lands in.
+- **Negation does not change its job** — <span class="cite-jp">今日は行かないよ</span><span class="gl-en"> — I'm not going today — </span>hands over a negative fact exactly as <span class="cite-jp">よ</span> hands over a positive one.
+- **Sentence-final <span class="cite-jp">よ</span> takes the whole sentence in its scope.** It says nothing about which part of the sentence is new; it addresses the whole statement to the listener.
+
+<div class="ex"><div class="ex-jp" lang="ja">その<ruby>席<rt>せき</rt></ruby>、<ruby>予約<rt>よやく</rt></ruby><ruby>入<rt>はい</rt></ruby>ってます<span class="pat">よ</span>。</div><div class="ex-en">That seat&#x27;s booked. <span class="lit">&mdash; lit. as for that seat, a reservation has gone in</span></div><div class="ex-note">Nothing about the seat shows it, so the listener has no way of knowing. よ is what makes this a thing said to this person at the moment it is useful to them, rather than a description of the seat.</div><details class="ex-bd"><summary>分解 BREAKDOWN</summary><div class="breakdown"><div class="bd-row"><div class="bd-seg"><span class="j" lang="ja">その<ruby>席<rt>せき</rt></ruby>、</span><span class="g">that seat,</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>予約<rt>よやく</rt></ruby></span><span class="g">a booking</span></div><div class="bd-seg"><span class="j" lang="ja"><ruby>入<rt>はい</rt></ruby>ってます</span><span class="g">has gone in</span></div><div class="bd-seg hit"><span class="j" lang="ja">よ</span><span class="g">[I&#x27;m telling you]</span></div></div><div class="bd-key"><span class="sw"></span>THE PATTERN &mdash; <span lang="ja">statement + よ, information the listener could not have had</span></div></div></details></div><div class="reg"><div><div class="rlbl">casual</div><span lang="ja">その席、予約入ってるよ。</span></div><div><div class="rlbl">polite</div><span lang="ja">その席、予約入ってますよ。</span></div></div>
+
+### What <span class="cite-jp">よ</span> adds to a plain statement
+
+<div class="eg-contrast"><div class="eg-member"><div class="eg-label">addressed</div><div class="eg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>、<ruby>休<rt>やす</rt></ruby>みだよ</div><div class="ex-en">Tomorrow&#x27;s a day off, just so you know.</div></div><div class="eg-member"><div class="eg-label">unaddressed</div><div class="eg-jp" lang="ja"><ruby>明日<rt>あした</rt></ruby>、<ruby>休<rt>やす</rt></ruby>みだ</div><div class="ex-en">Tomorrow is a day off.</div></div></div>
+
+The fact is identical in both. The second states it; the first gives it to somebody, and it only makes sense if there is somebody there who did not already have it.
+
+That is why <span class="cite-jp">よ</span> is everywhere in conversation and almost absent from writing that is not addressed to a reader. A timetable does not tell you anything. A person does.
+
+<div class="dlg"><div class="dlg-note">what licenses よ — A is asking about something only B can see, so B&#x27;s answer is B&#x27;s to supply.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">レジ、<ruby>並<rt>なら</rt></ruby>んでる？</div><div class="ex-en">Is there a queue at the till?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja"><ruby>空<rt>す</rt></ruby>いてるよ。<ruby>今<rt>いま</rt></ruby>なら<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>。</div><div class="ex-en">There&#x27;s no queue. Now would be fine.</div></div></div></div>
+
+### Rising and falling
+
+A falling <span class="cite-jp">よ</span> is the informing one. It sets the fact down in front of the listener and stops.
+
+A rising <span class="cite-jp">よ</span> appeals. It reaches for the listener's attention, or for their agreement to act, and it is this contour that carries urging, coaxing and complaint.
+
+The written sentence is the same either way, which is why <span class="cite-jp">よ</span> gets described both as neutral and as pushy. Both descriptions are of contours rather than of the particle.
+
+<span class="cite-jp">そろそろ行くよ</span><span class="gl-en"> — we're leaving soon — </span>said flat is a notification. The same words on a rising contour, after the listener has stalled twice, are a complaint.
+
+### Urging with <span class="cite-jp">よ</span>
+
+- **On a volitional it turns a proposal into encouragement** — <span class="cite-jp">そろそろ決めようよ</span><span class="gl-en"> — come on, let's decide — </span>presses for the action rather than asking about it.
+- **On a request it adds pressure** — <span class="cite-jp">早く来てよ</span><span class="gl-en"> — hurry up and get here — </span>is as much a complaint as a request.
+- **The pressure is not in the particle by itself.** <span class="cite-jp">よ</span> presents the action as the direction the speaker wants things to take; whether that reads as warm or as pushy is settled by the relationship and by what has already been said.
+
+<div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [意向形＋よ](<ikoukei.md#ikoukei-yo> "意向形 — the volitional: intention, invitation, and ましょう") <span class="xref-reason">&mdash; 意向形＋よ, the volitional carrying this same よ</span></div>
+
+<div class="dlg"><div class="dlg-note">what licenses よ — A&#x27;s assumption is wrong, so the true state of things is B&#x27;s to supply. Putting a false assumption right is よ&#x27;s ordinary informing job, not its edgy one.</div><div class="dlg-turn a"><div class="dlg-who">A</div><div class="dlg-said"><div class="dlg-jp" lang="ja">もう<ruby>終<rt>お</rt></ruby>わったよね？</div><div class="ex-en">It&#x27;s finished already, right?</div></div></div><div class="dlg-turn b"><div class="dlg-who">B</div><div class="dlg-said"><div class="dlg-jp" lang="ja">まだ<ruby>途中<rt>とちゅう</rt></ruby>だよ。</div><div class="ex-en">It&#x27;s only half done.</div></div></div></div>
+
+### Choosing how to close the sentence
+
+Ending a Japanese sentence is a choice, and <span class="cite-jp">よ</span> is one of five ordinary answers. The rows run from the plainest close to the most conversational.
+
+| how you close | what it commits you to | how it lands |
+|---|---|---|
+| nothing — a plain statement | states the fact, addressed to nobody in particular | neutral; the default in writing and in narration |
+| 〜<span class="cite-jp">よ</span> — I'm telling you | presents the fact as yours to supply | very common in speech; pushes when the listener already knew |
+| [ね (agreement)](<ne.md#agreement> "ね — agreement and soft assertion") — isn't it | presents the fact as the listener's to confirm | very common in speech; assumes they have access too |
+| [よね](<ne.md#yo-ne> "ね — agreement and soft assertion") — right? | presents your belief and asks for confirmation | very common in speech; leaves room to be corrected |
+| [んだ (explanatory)](<n-da.md#explanatory> "んだ — the explanatory のだ and its compounds") — the thing is | presents the fact as connected to the situation | conversational; explains rather than reports |
+
+<div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [ね (agreement)](<ne.md#agreement> "ね — agreement and soft assertion") <span class="xref-reason">&mdash; where the ね／よ split is drawn in full, from ね&#x27;s side</span></div>
+
+### In conversation
+
+- **Short turns are built on it** — <span class="cite-jp">いいよ</span><span class="gl-en"> — sure — </span><span class="cite-jp">違うよ</span><span class="gl-en"> — that's not it — </span><span class="cite-jp">ないよ</span><span class="gl-en"> — there isn't any</span>.
+- **<span class="cite-jp">だよ</span> is the casual copula form.** Dropping <span class="cite-jp">だ</span> altogether — <span class="cite-jp">明日、休みよ</span><span class="gl-en"> — tomorrow's a day off — </span>reads as markedly feminine rather than simply casual.
+- **The order with <span class="cite-jp">ね</span> is fixed in standard speech.** <span class="cite-jp">よね</span> is the combination; the reverse <span class="cite-jp">ねよ</span> is not used, which is one reason the pair is learned as a unit.
+- **Notices and announcements drop it.** Written information states the fact; addressing the reader with <span class="cite-jp">よ</span> belongs to advertising copy, not to signage.
+- **<span class="cite-jp">ぞ</span> and <span class="cite-jp">ぜ</span> occupy the same slot** with a much narrower, markedly masculine range, and neither is a straight substitute.
+
+<div id="trap-pitfall" class="trap-anchor"></div>
+
+!!! warning "Pitfall"
+    <span class="cite-jp">よ</span> says the listener did not have this. Attached to something they plainly did have — repeating what you already told them, or agreeing with what they just said — it says so anyway, and that is what reads as a correction.
+
+    Answering a question catches learners for a different reason. The question has already said the asker does not know, so <span class="cite-jp">よ</span> marks the same gap a second time.
+
+    That second marking can be heard as a comment on the asking. <span class="cite-jp">三時からですよ</span><span class="gl-en"> — it starts at three — </span>is fine among friends and risky said upward.
+
+    There is no politer <span class="cite-jp">よ</span> to reach for instead. The repair is to drop it: <span class="cite-jp">三時からです</span> answers the question and marks nothing.
+
+<div id="trap-english-trap" class="trap-anchor"></div>
+
+!!! warning "English Trap"
+    English has no particle for this, so the nearest things to hand are the exclamation mark and a tag like "you know". Neither one is <span class="cite-jp">よ</span>.
+
+    An exclamation mark says how loudly or excitedly something is said. <span class="cite-jp">よ</span> says who has the information. <span class="cite-jp">電車、来たよ</span><span class="gl-en"> — the train's in — </span>can be delivered perfectly calmly, and "It's here!" can be shouted by somebody who is telling nobody anything.
+
+    The reverse holds too. An English sentence that adds nothing to the hearer — agreeing, repeating, thinking aloud — usually wants no <span class="cite-jp">よ</span> at all.
+
+<div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li><li><a href="#trap-english-trap">English Trap</a></li></ul></div>
