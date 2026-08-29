@@ -178,7 +178,6 @@ You know...; explanatory statement seeking shared agreement.
 - **<span class="cite-jp">よ</span> presents toward the listener, <span class="cite-jp">ね</span> invites shared recognition** —
   stacked onto <span class="cite-jp">んだ</span>, the combination often presents the speaker's
   explanation or situation while inviting the listener to recognize it too.
-  (Rough shorthand: <span class="cite-jp">よ</span> pushes, <span class="cite-jp">ね</span> pulls.)
 - **One common effect is thinking out loud** — <span class="cite-jp">最近ちょっと忙しいんだよね</span><span class="gl-en"> — I've been a bit busy lately, you know — </span>leaves room for the listener to
   receive it gently. <span class="cite-jp">んだよね</span> also fits self-reflection and remembering
   aloud — a nod is common, not the rule.

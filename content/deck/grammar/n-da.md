@@ -158,7 +158,6 @@ pat: んだ + って, reported information framed as background
 - **よ presents toward the listener, ね invites shared recognition** —
   stacked onto んだ, the combination often presents the speaker's
   explanation or situation while inviting the listener to recognize it too.
-  (Rough shorthand: よ pushes, ね pulls.)
 - **One common effect is thinking out loud** — 最近ちょっと忙しいんだよね —
   I've been a bit busy lately, you know — leaves room for the listener to
   receive it gently. んだよね also fits self-reflection and remembering
