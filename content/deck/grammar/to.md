@@ -82,7 +82,7 @@ Use this pattern for relationships the speaker treats as repeatable: natural cha
 道順[みちじゅん]: 次[つぎ]の角[かど]を曲[ま]がると、駅[えき]が見[み]える | When you turn at the next corner, you can see the station.
 ```
 
-The speaker may be generalizing from personal experience rather than stating an exceptionless fact. この音楽を聞くと、よく眠れる describes a dependable tendency for this speaker; it does not claim that the music guarantees sleep every time.
+The speaker may be generalizing from personal experience rather than stating an exceptionless fact. この音楽を聞くと、よく眠れる — I sleep well when I listen to this music — describes a dependable tendency for this speaker; it does not claim that the music guarantees sleep every time.
 
 Instructions and public information often favor と because they describe what a control or route does: カードを入れると、ドアが開きます — when you insert the card, the door opens. The polite ending changes how the explanation addresses the reader, not the conditional relationship.
 
