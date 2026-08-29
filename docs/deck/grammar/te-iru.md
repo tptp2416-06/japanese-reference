@@ -6,7 +6,7 @@
 
     <span class="cite-jp">ている</span> covers several jobs: an action in progress, a state a change left behind, a habit, and a standing fact.
     Ask first whether the verb names a durative process (<span class="cite-jp">食べる</span>, <span class="cite-jp">走る</span> → in progress) or a punctual change (<span class="cite-jp">開く</span>, <span class="cite-jp">死ぬ</span> → resultant state). The verb is the main clue to the reading, not <span class="cite-jp">ている</span> itself.
-    Contractions — <span class="cite-jp">てる</span>, <span class="cite-jp">てて</span>, <span class="cite-jp">てた</span><span class="gl-en"> — are how </span><span class="cite-jp">ている</span>, <span class="cite-jp">ていて</span> and <span class="cite-jp">ていた</span> actually get said in conversation.
+    Contractions — <span class="cite-jp">てる</span>, <span class="cite-jp">てて</span>, <span class="cite-jp">てた</span> are how <span class="cite-jp">ている</span>, <span class="cite-jp">ていて</span> and <span class="cite-jp">ていた</span> actually get said in conversation.
 
 One form, <span class="cite-jp">ている</span>, covers several jobs that English splits across different grammar: an action happening right now, a state a change left behind, a habit, and a standing fact about someone's life.
 

@@ -10,7 +10,7 @@ Ask first whether the verb names a process with duration, or a change that happe
 
 ている covers several jobs: an action in progress, a state a change left behind, a habit, and a standing fact.
 Ask first whether the verb names a durative process (食べる, 走る → in progress) or a punctual change (開く, 死ぬ → resultant state). The verb is the main clue to the reading, not ている itself.
-Contractions — てる, てて, てた — are how ている, ていて and ていた actually get said in conversation.
+Contractions — てる, てて, てた are how ている, ていて and ていた actually get said in conversation.
 
 @@ progressive — an action happening right now
 
