@@ -82,7 +82,8 @@ them would sound marked.
     frame the speaker chooses for organising the message.
 
     The same noun may serve both — 私は学生です — or the sentence may carry a
-    topic and a separate が-marked subject: この店はコーヒーがおいしい.
+    topic and a separate が-marked subject: この店はコーヒーがおいしい —
+    this shop's coffee is delicious.
 
     In the formal vocabulary, が is a case particle while は sits above the case
     system. That is what lets は attach after other particles in the scope
@@ -99,7 +100,7 @@ them would sound marked.
 ### は does not survive inside a relative clause
 
 An ordinary sentence topic normally does not survive as は inside a
-noun-modifying (relative) clause. The subject there is usually marked with が —
+noun-modifying (relative) clause. The subject there is usually marked with が,
 and sometimes with の.
 
 ハルが作ったケーキ and ハルの作ったケーキ are both the cake Haru made; ハルは

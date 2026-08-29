@@ -86,7 +86,7 @@ them would sound marked.
     frame the speaker chooses for organising the message.
 
     The same noun may serve both — <span class="cite-jp">私は学生です</span><span class="gl-en"> — or the sentence may carry a
-    topic and a separate </span><span class="cite-jp">が</span>-marked subject: <span class="cite-jp">この店はコーヒーがおいしい</span>.
+    topic and a separate </span><span class="cite-jp">が</span>-marked subject: <span class="cite-jp">この店はコーヒーがおいしい</span><span class="gl-en"> — this shop's coffee is delicious</span>.
 
     In the formal vocabulary, <span class="cite-jp">が</span> is a case particle while <span class="cite-jp">は</span> sits above the case
     system. That is what lets <span class="cite-jp">は</span> attach after other particles in the scope
@@ -105,7 +105,8 @@ them would sound marked.
 ### <span class="cite-jp">は</span> does not survive inside a relative clause
 
 An ordinary sentence topic normally does not survive as <span class="cite-jp">は</span> inside a
-noun-modifying (relative) clause. The subject there is usually marked with <span class="cite-jp">が</span><span class="gl-en"> — and sometimes with </span><span class="cite-jp">の</span>.
+noun-modifying (relative) clause. The subject there is usually marked with <span class="cite-jp">が</span>,
+and sometimes with <span class="cite-jp">の</span>.
 
 <span class="cite-jp">ハルが作ったケーキ</span> and <span class="cite-jp">ハルの作ったケーキ</span> are both the cake Haru made; <span class="cite-jp">ハルは</span>
 in that slot is not how the clause is built.
