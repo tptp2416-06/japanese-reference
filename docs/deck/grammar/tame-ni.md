@@ -37,8 +37,9 @@ In order to achieve a goal; marks deliberate purpose
 
 ??? note "<span class="cite-jp">ために</span> vs <span class="cite-jp">ように</span>, the fuller picture"
     The line is control. <span class="cite-jp">合格するために勉強する</span><span class="gl-en"> — studying is your deliberate
-    means — </span>contrasts with <span class="cite-jp">聞こえるように大きい声で話す</span>, where being audible
-    is an outcome you aim speech at, not an act you perform.
+    means — </span>contrasts with <span class="cite-jp">聞こえるように大きい声で話す</span><span class="gl-en"> — speaking loudly
+    enough to be heard — </span>where being audible is an outcome you aim speech at,
+    not an act you perform.
 
     Verbs of ability and negatives lean <span class="cite-jp">ように</span> almost without exception;
     volitional action verbs lean <span class="cite-jp">ために</span>. Both translate "so that / in order

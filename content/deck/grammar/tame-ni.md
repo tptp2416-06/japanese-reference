@@ -29,8 +29,9 @@ A: マラソンに出[で]るために。 | In order to run a marathon.
 
 ??? note "ために vs ように, the fuller picture"
     The line is control. 合格するために勉強する — studying is your deliberate
-    means — contrasts with 聞こえるように大きい声で話す, where being audible
-    is an outcome you aim speech at, not an act you perform.
+    means — contrasts with 聞こえるように大きい声で話す — speaking loudly
+    enough to be heard — where being audible is an outcome you aim speech at,
+    not an act you perform.
 
     Verbs of ability and negatives lean ように almost without exception;
     volitional action verbs lean ために. Both translate "so that / in order
