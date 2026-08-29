@@ -196,8 +196,7 @@ test expects, but treating <span class="cite-jp">を</span> as an error will mis
     <span class="cite-jp">を</span> becomes easy once the verb is embedded in a longer sentence, where the
     speaker has a particular act in mind.
 
-    <span class="cite-jp">この本を一日で読めると思う</span> — I think I can read this book in a day —
-    and <span class="cite-jp">明日ならその仕事を終えられる</span><span class="gl-en"> — if it's tomorrow, I can finish that job</span>.
+    <span class="cite-jp">この本を一日で読めると思う</span><span class="gl-en"> — I think I can read this book in a day — </span>and <span class="cite-jp">明日ならその仕事を終えられる</span><span class="gl-en"> — if it's tomorrow, I can finish that job</span>.
 
     Both of those are about carrying something out under particular conditions
     rather than about a standing ability. The overlap is substantial, and

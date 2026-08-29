@@ -48,8 +48,7 @@ the paired frame is what explicitly measures the whole span end to end.
 <div class="xref" markdown="span"><span class="xref-arrow">↑</span> <span class="xref-rel">Prerequisite:</span> [まで (extent)](<made.md#extent> "まで — up to, as far as, and even") <span class="xref-reason">&mdash; まで alone, marking only the endpoint it reaches</span></div>
 
 Do not replace this durative <span class="cite-jp">まで</span> with deadline <span class="cite-jp">までに</span>. 5<span class="cite-jp">時まで働く</span><span class="gl-en"> — work until
-five — </span>continues through the interval; 5<span class="cite-jp">時までに終える</span> — finish by five —
-requires the result no later than that point and says nothing about filling the
+five — </span>continues through the interval; 5<span class="cite-jp">時までに終える</span><span class="gl-en"> — finish by five — </span>requires the result no later than that point and says nothing about filling the
 interval.
 
 <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [までに](<made-ni.md> "までに — by a deadline") <span class="xref-reason">&mdash; a deadline that must be reached by, not a stretch filled up to</span></div>

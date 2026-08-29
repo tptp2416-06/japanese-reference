@@ -205,8 +205,7 @@ Asks for explanation with contextual interest; polite explanatory question
 
 ### <span class="cite-jp">んですか</span> against a plain <span class="cite-jp">ですか</span> question
 
-- **The contrast is audible** — <span class="cite-jp">どこに行きますか</span><span class="gl-en"> — where are you going?</span> —
-  asks fairly directly.
+- **The contrast is audible** — <span class="cite-jp">どこに行きますか</span><span class="gl-en"> — where are you going? — </span>asks fairly directly.
 - **<span class="cite-jp">んですか</span> adds nothing to the words** — <span class="cite-jp">どこに行くんですか</span><span class="gl-en"> — where are you
   going? — </span>asks the same question, word for word, but presents it as
   prompted by something the speaker noticed, like seeing you with a bag.

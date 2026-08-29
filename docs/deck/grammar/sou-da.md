@@ -80,8 +80,7 @@ Does not look likely to happen; negative judgment from present evidence
 **Form:** `V-stem + そうにない`
 {: .form }
 
-- **The verb-side negative** — <span class="cite-jp">終わりそうにない</span> — no sign it's going to end —
-  is stronger than a plain negative guess: there is visible evidence
+- **The verb-side negative** — <span class="cite-jp">終わりそうにない</span><span class="gl-en"> — no sign it's going to end — </span>is stronger than a plain negative guess: there is visible evidence
   against.
 - Not the mirror of <span class="cite-jp">なさそう</span>, which negates appearance, not likelihood.
 
@@ -132,8 +131,7 @@ Does not look or seem X; negative appearance judgment
 **Form:** `A-stem + なさそう` · `N + が + なさそう`
 {: .form }
 
-- **The adjective-side negative** — <span class="cite-jp">美味しくなさそう</span> — doesn't look tasty —
-  and <span class="cite-jp">問題なさそう</span><span class="gl-en"> — looks like no problem</span>.
+- **The adjective-side negative** — <span class="cite-jp">美味しくなさそう</span><span class="gl-en"> — doesn't look tasty — </span>and <span class="cite-jp">問題なさそう</span><span class="gl-en"> — looks like no problem</span>.
 - Compare <span class="cite-jp">そうにない</span> above for denying that an event looks likely.
 
 <div class="traps"><p class="traps-label">Common traps</p><ul class="traps-list"><li><a href="#trap-pitfall">Pitfall</a></li></ul></div>

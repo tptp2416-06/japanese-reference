@@ -29,8 +29,7 @@ Still or not yet; state continues relative to expectations
 **Form:** `まだ + affirmative predicate`
 {: .form }
 
-- **The earlier situation continues** — <span class="cite-jp">まだ寝ている</span> — is still sleeping —
-  while <span class="cite-jp">まだ雨だ</span> shows the same pattern: an expected change hasn't displaced
+- **The earlier situation continues** — <span class="cite-jp">まだ寝ている</span><span class="gl-en"> — is still sleeping — </span>while <span class="cite-jp">まだ雨だ</span> shows the same pattern: an expected change hasn't displaced
   the current state.
 - **The endpoint can feel close** — <span class="cite-jp">まだ大丈夫</span><span class="gl-en"> — it is still okay — </span>guarantees
   the current state, not its future. In the right setting, that can reassure
@@ -71,8 +70,7 @@ Not yet; an expected action or state has still not come about
 - **The negative belongs to the predicate** — <span class="cite-jp">まだ</span> does not itself mean "not";
   it holds the viewpoint before the change, and the negative says that the new
   event or state is absent there.
-- **Yet often leaves the change open** — <span class="cite-jp">まだ来ていない</span> — hasn't arrived yet —
-  commonly presents arrival as expected or relevant. It does not promise that
+- **Yet often leaves the change open** — <span class="cite-jp">まだ来ていない</span><span class="gl-en"> — hasn't arrived yet — </span>commonly presents arrival as expected or relevant. It does not promise that
   the person will eventually arrive.
 - **Questions keep the same viewpoint** — <span class="cite-jp">まだ終わっていない？</span><span class="gl-en"> — is it not
   finished yet? — </span>asks whether the unreached state continues and may sound
@@ -125,8 +123,7 @@ with <span class="cite-jp">ていない</span>, it says that the relevant event 
 | <span class="cite-jp">まだ</span>＋<span class="cite-jp">ていない</span> | <span class="cite-jp">まだ働いていない</span> — hasn't started working yet |
 
 All four can be ordinary Japanese when the context supplies the corresponding
-change. In particular, <span class="cite-jp">もう覚えていない</span> — I don't remember it anymore —
-<span class="cite-jp">もう住んでいない</span>, and <span class="cite-jp">もう働いていない</span> are all natural uses of <span class="cite-jp">もう</span> with <span class="cite-jp">ていない</span>.
+change. In particular, <span class="cite-jp">もう覚えていない</span><span class="gl-en"> — I don't remember it anymore — </span><span class="cite-jp">もう住んでいない</span>, and <span class="cite-jp">もう働いていない</span> are all natural uses of <span class="cite-jp">もう</span> with <span class="cite-jp">ていない</span>.
 
 ### The whole combination decides the translation
 
@@ -142,8 +139,7 @@ hidden inside <span class="cite-jp">ている</span>.
     object inside the sentence. Japanese grammar supplies an adverb, a predicate
     and its polarity; speakers infer the relevant change from the situation.
 
-    A separate use of <span class="cite-jp">もう</span> adds another unit, as in <span class="cite-jp">もう一度</span> — one more time —
-    and <span class="cite-jp">もう一杯</span>. That enumerative pattern follows a different track and is
+    A separate use of <span class="cite-jp">もう</span> adds another unit, as in <span class="cite-jp">もう一度</span><span class="gl-en"> — one more time — </span>and <span class="cite-jp">もう一杯</span>. That enumerative pattern follows a different track and is
     outside this page.
 
     <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [もう＋counter (one more)](<mou-counter.md#one-more> "もう＋counter — One more unit of something") <span class="xref-reason">&mdash; もう counting an extra unit instead of marking a threshold crossed</span></div>

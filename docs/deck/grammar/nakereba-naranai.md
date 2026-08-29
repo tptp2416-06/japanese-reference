@@ -194,8 +194,7 @@ Need not do; grants permission to omit an action
 ### Granting permission, not just describing it
 
 - **This is different from prohibition** — <span class="cite-jp">来なくてもいい</span><span class="gl-en"> — you do not have
-  to come — </span>leaves both choices open; <span class="cite-jp">来てはいけない</span> — you must not come —
-  rules coming out.
+  to come — </span>leaves both choices open; <span class="cite-jp">来てはいけない</span><span class="gl-en"> — you must not come — </span>rules coming out.
 
 <div class="xref" markdown="span"><span class="xref-arrow">↔</span> <span class="xref-rel">Contrast:</span> [てはいけない](<te-wa-ikenai.md> "てはいけない — must not, with the ちゃだめ contractions") <span class="xref-reason">&mdash; a prohibition, not an absence of obligation</span></div>
 
@@ -260,8 +259,7 @@ Must do; full plain-form expression of strong necessity
   <span class="cite-jp">明日は早く起きなければならない</span><span class="gl-en"> — I have to get up early tomorrow — </span>is
   natural spoken Japanese when the speaker chooses a fuller form.
 - **The same form is common on signs, notices and printed rules** —
-  <span class="cite-jp">会員は年会費を支払わなければならない</span> — members must pay the annual fee —
-  reads naturally on a printed notice, not only in careful speech.
+  <span class="cite-jp">会員は年会費を支払わなければならない</span><span class="gl-en"> — members must pay the annual fee — </span>reads naturally on a printed notice, not only in careful speech.
 - **The form tells you that something is necessary, not why** — the source may
   be a law, a deadline, practical circumstances, a promise or a personal
   commitment. Context supplies that information.
