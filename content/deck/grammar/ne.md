@@ -150,9 +150,9 @@ The rows run from the form a textbook teaches first to the most colloquial. The 
 
 | how you ask | what you are doing | how it lands |
 |---|---|---|
-| 〜ね？ — isn't it? | offers a remark for the listener to confirm | neutral; takes for granted that they are already with you |
+| 〜ね？ — isn't it? | offers a remark for the listener to confirm | neutral; expects their agreement, while still asking rather than assuming |
 | 〜よね？ — right? | puts your own belief up for confirmation | very common in conversation; leaves room to be corrected |
-| [[desho-q]] — right? | presses a point you treat as obvious to both | casual; can sound like you are asking them to admit it |
+| [[desho-q]] — right? | invites the listener to confirm what you both expect to be true | でしょう？ is neutral to polite and a genuine check; でしょ？ is casual and can sound like pressing them to admit it |
 | [[kke#memory-retrieval]] — what was it again? | concedes you've half-forgotten — to a listener, or to yourself | casual; the only one that admits you do not know |
 
 -> Compare: [[n-da#n-da-yo-ne]] — んだよね, the same pair stacked on んだ's explanatory frame

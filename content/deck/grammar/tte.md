@@ -174,7 +174,7 @@ In writing, って turns up wherever the writing itself is casual — messages, 
 
 @@ datte — a report standing after a noun
 
-**Form:** `N / な-adj + だって` · `plain clause + んだって`
+**Form:** `N / な-adj + だって`
 
 Three different things are spelled だって. This section is about one of them: the だって that passes on what somebody else said.
 

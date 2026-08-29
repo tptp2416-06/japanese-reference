@@ -176,7 +176,7 @@ I hear that; casual report of information learned from someone else
 **From:** compound of [って (quote)](<tte.md#quote> "Casually quotes speech, thought, or information reported by others")
 {: .fam }
 
-**Form:** `N / な-adj + だって` · `plain clause + んだって`
+**Form:** `N / な-adj + だって`
 {: .form }
 
 Three different things are spelled <span class="cite-jp">だって</span>. This section is about one of them: the <span class="cite-jp">だって</span> that passes on what somebody else said.

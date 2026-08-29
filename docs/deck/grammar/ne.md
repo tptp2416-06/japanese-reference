@@ -146,9 +146,9 @@ The rows run from the form a textbook teaches first to the most colloquial. The 
 
 | how you ask | what you are doing | how it lands |
 |---|---|---|
-| 〜<span class="cite-jp">ね？</span> — isn't it? | offers a remark for the listener to confirm | neutral; takes for granted that they are already with you |
+| 〜<span class="cite-jp">ね？</span> — isn't it? | offers a remark for the listener to confirm | neutral; expects their agreement, while still asking rather than assuming |
 | 〜<span class="cite-jp">よね？</span> — right? | puts your own belief up for confirmation | very common in conversation; leaves room to be corrected |
-| [でしょ？](<desho-q.md> "でしょ？ — right? — casual confirmation") — right? | presses a point you treat as obvious to both | casual; can sound like you are asking them to admit it |
+| [でしょ？](<desho-q.md> "でしょ？ — right? — casual confirmation") — right? | invites the listener to confirm what you both expect to be true | <span class="cite-jp">でしょう？</span> is neutral to polite and a genuine check; <span class="cite-jp">でしょ？</span> is casual and can sound like pressing them to admit it |
 | [っけ (memory retrieval)](<kke.md#memory-retrieval> "っけ — What was it again? Retrieves a forgotten fact from memory") — what was it again? | concedes you've half-forgotten — to a listener, or to yourself | casual; the only one that admits you do not know |
 
 <div class="xref" markdown="span"><span class="xref-arrow">→</span> <span class="xref-rel">Compare:</span> [んだよね](<n-da.md#n-da-yo-ne> "んだ — the explanatory のだ and its compounds") <span class="xref-reason">&mdash; んだよね, the same pair stacked on んだ&#x27;s explanatory frame</span></div>
